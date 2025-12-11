@@ -1,6 +1,6 @@
 :HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/css/de70bee13400563f.css","style"]
-:HL["/_next/static/css/40c0a046ff3a209c.css","style"]
+:HL["/_next/static/css/0908f2c2deaa0154.css","style"]
 :HL["/_next/static/css/0d14e0ddb64cfb68.css","style"]
-0:{"buildId":"Wc-V8RcQBJiGcEgCeMvsn","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"design-guide-pro","paramType":null,"paramKey":"design-guide-pro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"k9NUKX98GlH4I_3lLqu4c","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"design-guide-pro","paramType":null,"paramKey":"design-guide-pro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
