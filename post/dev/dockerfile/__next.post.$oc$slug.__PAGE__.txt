@@ -1,0 +1,60 @@
+1:"$Sreact.fragment"
+4:I[484,[],"OutletBoundary"]
+5:"$Sreact.suspense"
+2:T582,<pre><code class="language-dockerfile"># syntax=docker/dockerfile:1
+FROM ubuntu:26.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+ARG TZ=Asia/Seoul
+ARG LOCALE=ko_KR.UTF-8
+
+RUN set -eux; \
+  apt-get update; \
+  apt-get install -y --no-install-recommends \
+    ca-certificates curl wget git vim \
+    tzdata locales \
+    build-essential pkg-config \
+    net-tools iputils-ping \
+    sudo \
+    openssh-server \
+    # Web stack (install only)
+    nginx apache2 \
+    php php-cli php-fpm php-common \
+    # DB (install only)
+    postgresql postgresql-contrib \
+    # (optional) python/node
+    python3 python3-pip python-is-python3 \
+    nodejs npm \
+  ; \
+  ln -snf /usr/share/zoneinfo/${TZ} /etc/localtime; \
+  echo &quot;${TZ}&quot; &gt; /etc/timezone; \
+  sed -i &quot;s/^# *\(ko_KR\.UTF-8 UTF-8\)/\1/&quot; /etc/locale.gen; \
+  locale-gen; \
+  apt-get clean; \
+  rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+
+ENV LANG=ko_KR.UTF-8 \
+    LC_ALL=ko_KR.UTF-8
+
+# SSH 최소 준비(설정 “과다” 없이, 접속만 되게)
+RUN set -eux; \
+  mkdir -p /run/sshd
+
+# dev 유저(SSH 로그인용)
+ARG USER=dev
+ARG UID=1000
+ARG GID=1000
+ARG DEV_PASSWORD=dev
+RUN set -eux; \
+  groupadd -g ${GID} ${USER}; \
+  useradd -m -u ${UID} -g ${GID} -s /bin/bash ${USER}; \
+  usermod -aG sudo ${USER}; \
+  echo &quot;${USER}:${DEV_PASSWORD}&quot; | chpasswd
+
+EXPOSE 22
+CMD [&quot;/usr/sbin/sshd&quot;, &quot;-D&quot;]
+</code></pre>
+0:{"buildId":"dzfNyP81vM7_tBc30-w-m","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"w-full","children":[["$","header",null,{"className":"relative overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":[["$","div",null,{"className":"pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-[var(--secondary)] opacity-35 blur-3xl"}],["$","div",null,{"className":"pointer-events-none absolute -bottom-28 -left-28 h-72 w-72 rounded-full bg-[var(--primary)] opacity-15 blur-3xl"}],["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"dev › dockerfile"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"GPU Server 도커 이미지 빌드를 위한 도커파일 작성"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"GPU 서버에 설치될 도커의 이미지를 빌드하기 위해 Docker 파일을 준비했습니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2025. 12. 15."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","docker",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","docker"]}],["$","span","GPU",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","GPU"]}],["$","span","Image",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","Image"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":["$","div",null,{"className":" prose max-w-none prose-headings:scroll-mt-24 prose-headings:text-[var(--foreground)] prose-p:text-[var(--foreground)] prose-strong:text-[var(--foreground)] prose-a:text-[var(--accent)] prose-a:no-underline hover:prose-a:underline prose-code:text-[var(--foreground)] prose-pre:bg-[var(--background)] prose-pre:border prose-pre:border-[var(--border)] prose-hr:border-[var(--border)] prose-blockquote:border-[var(--border)] prose-blockquote:text-[var(--text-muted)] ","dangerouslySetInnerHTML":{"__html":"$2"}}]}]]}],null,"$L3"]}],"loading":null,"isPartial":false}
+3:["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]
+6:null
