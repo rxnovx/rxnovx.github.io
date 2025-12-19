@@ -1,8 +1,9 @@
 1:"$Sreact.fragment"
-5:I[484,[],"OutletBoundary"]
-6:"$Sreact.suspense"
-:HL["/_next/static/css/2c42f4f4012c2f04.css","style"]
-2:T1526,<h2 id="들어가며" tabindex="-1">들어가며 <a class="header-anchor" href="#들어가며" aria-hidden="true">#</a></h2>
+2:I[8274,["207","static/chunks/app/post/%5B%5B...slug%5D%5D/page-0ac3dbf6044ef3de.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/a984e1a6bf896316.css","style"]
+3:T19e2,<h2 id="들어가며" tabindex="-1">들어가며 <a class="header-anchor" href="#들어가며" aria-hidden="true">#</a></h2>
 <p>Termux에서 **code-server(VSCode)**를 쓰다 보면,<br>
 생각보다 사소한 문제에서 많이 막히게 됩니다.</p>
 <p>설치는 되는데 접속이 안 되거나,<br>
@@ -23,14 +24,14 @@
 <code>tur-repo</code> 기반 설치가 가장 안정적입니다.</strong></p>
 <hr>
 <h2 id="1-tur-repo-설치" tabindex="-1">1. tur-repo 설치 <a class="header-anchor" href="#1-tur-repo-설치" aria-hidden="true">#</a></h2>
-<pre class="hljs codeblock"><code class="language-bash">pkg install tur-repo
-</code></pre>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>pkg <span class="hljs-keyword">install</span> tur-repo
+</code></pre></div></code></pre>
 <p>Termux에서 사용할 수 있는<br>
 <strong>사용자 전용 패키지 저장소</strong>를 추가하는 과정입니다.</p>
 <hr>
 <h2 id="2-code-server-설치" tabindex="-1">2. code-server 설치 <a class="header-anchor" href="#2-code-server-설치" aria-hidden="true">#</a></h2>
-<pre class="hljs codeblock"><code class="language-bash">pkg install code-server
-</code></pre>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">pkg</span> install <span class="hljs-meta">code</span>-server
+</code></pre></div></code></pre>
 <p>이 명령으로 설치되는 code-server는<br>
 <strong>tur-repo에 포함된 버전</strong>입니다.</p>
 <p>다른 경로로 설치하면<br>
@@ -38,8 +39,8 @@
 확장 설치 중 오류가 나는 경우가 많습니다.</p>
 <hr>
 <h2 id="3-code-server-실행-비밀번호-없이" tabindex="-1">3. code-server 실행 (비밀번호 없이) <a class="header-anchor" href="#3-code-server-실행-비밀번호-없이" aria-hidden="true">#</a></h2>
-<pre class="hljs codeblock"><code class="language-bash">code-server --auth none --host 0.0.0.0
-</code></pre>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-selector-tag">code</span>-server <span class="hljs-attr">--auth</span> <span class="hljs-attribute">none</span> <span class="hljs-attr">--host</span> <span class="hljs-number">0.0</span>.<span class="hljs-number">0.0</span>
+</code></pre></div></code></pre>
 <h3 id="왜-비밀번호를-사용하지-않는가" tabindex="-1">왜 비밀번호를 사용하지 않는가 <a class="header-anchor" href="#왜-비밀번호를-사용하지-않는가" aria-hidden="true">#</a></h3>
 <p>비밀번호를 설정하면<br>
 인증 정보가 <code>/data</code> 영역에 저장됩니다.</p>
@@ -59,8 +60,8 @@ VSCode 화면에 접속할 수 있습니다.</p>
 <p>접속이 되지 않는 경우,<br>
 가장 먼저 확인해야 할 것은 포트 충돌입니다.</p>
 <h3 id="포트-변경-방법" tabindex="-1">포트 변경 방법 <a class="header-anchor" href="#포트-변경-방법" aria-hidden="true">#</a></h3>
-<pre class="hljs codeblock"><code class="language-bash">code-server --auth none --host 0.0.0.0 --port 8081
-</code></pre>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-selector-tag">code</span>-server <span class="hljs-attr">--auth</span> <span class="hljs-attribute">none</span> <span class="hljs-attr">--host</span> <span class="hljs-number">0.0</span>.<span class="hljs-number">0.0</span> <span class="hljs-attr">--port</span> <span class="hljs-number">8081</span>
+</code></pre></div></code></pre>
 <p><code>8081</code> 대신<br>
 다른 숫자(예: 9000, 10000 등)를 사용해도 됩니다.</p>
 <p>다시 실행하면<br>
@@ -80,7 +81,7 @@ VSCode 화면에 접속할 수 있습니다.</p>
 <p>설치 과정에서 막혔다면,<br>
 위 순서를 기준으로 하나씩 다시 확인해보세요.</p>
 <p>대부분은 이 범위 안에서 해결됩니다.</p>
-0:{"buildId":"uifayCEDdWRvwXCsOy72C","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"w-full","children":[["$","header",null,{"className":"relative overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":[["$","div",null,{"className":"pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-[var(--secondary)] opacity-35 blur-3xl"}],["$","div",null,{"className":"pointer-events-none absolute -bottom-28 -left-28 h-72 w-72 rounded-full bg-[var(--primary)] opacity-15 blur-3xl"}],["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"termux › how-to-use-termux"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"Termux에서 code-server(VSCode) 제대로 설치하는 방법 (권한 문제 해결)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"Termux에서 code-server 설치 시 발생하는 접근 권한 문제를 tur-repo 기반으로 해결하고, 비밀번호 없이 안정적으로 접속하는 방법을 정리합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2025. 12. 18."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","termux"]}],["$","span","code-server",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","code-server"]}],["$","span","vscode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vscode"]}],["$","span","android",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","android"]}],["$","span","dev-environment",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","dev-environment"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":["$","div",null,{"className":" prose max-w-none ","dangerouslySetInnerHTML":{"__html":"$2"}}]}]]}],["$L3"],"$L4"]}],"loading":null,"isPartial":false}
-3:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2c42f4f4012c2f04.css","precedence":"next"}]
-4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
-7:null
+0:{"buildId":"jFQD2FCCl4h4MTgxHtoyx","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"w-full","children":[["$","header",null,{"className":"relative overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":[["$","div",null,{"className":"pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-[var(--secondary)] opacity-35 blur-3xl"}],["$","div",null,{"className":"pointer-events-none absolute -bottom-28 -left-28 h-72 w-72 rounded-full bg-[var(--primary)] opacity-15 blur-3xl"}],["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"termux › how-to-use-termux"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"Termux에서 code-server(VSCode) 제대로 설치하는 방법 (권한 문제 해결)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"Termux에서 code-server 설치 시 발생하는 접근 권한 문제를 tur-repo 기반으로 해결하고, 비밀번호 없이 안정적으로 접속하는 방법을 정리합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2025. 12. 18."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","termux"]}],["$","span","code-server",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","code-server"]}],["$","span","vscode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vscode"]}],["$","span","android",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","android"]}],["$","span","dev-environment",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","dev-environment"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a984e1a6bf896316.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
