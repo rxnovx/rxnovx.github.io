@@ -1,0 +1,170 @@
+1:"$Sreact.fragment"
+2:I[8274,["207","static/chunks/app/post/%5B%5B...slug%5D%5D/page-7b1c423578e6a42b.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/a984e1a6bf896316.css","style"]
+3:T334d,<h1>안드로이드 태블릿으로 Next.js 구성 및 github 배포하기 #3</h1>
+<nav class="md-toc"><ul><li><a href="#nextjs-프로젝트-구성-완료">Next.js 프로젝트 구성 완료 </a></li><li><a href="#nextjs-폴더-구성">Next.js 폴더 구성 </a></li><li><a href="#1-포스트가-저장될-폴더-src_post">1. 포스트가 저장될 폴더 (src/_post) </a></li><li><a href="#2-카테고리폴더별-포스트-분류-_postcategory1">2. 카테고리(폴더)별 포스트 분류 (_post/category1) </a></li><li><a href="#3-포스트-2025-12-30-how-to-startmd">3. 포스트 (2025-12-30-how-to-start.md) </a></li><li><a href="#4-특정-카테고리에-포함된-포스트-일람-categoriescategorypagetsx">4. 특정 카테고리에 포함된 포스트 일람 (categories/[category]/page.tsx) </a></li><li><a href="#5-카테고리-일람-categoriespagetsx">5. 카테고리 일람 (categories/page.tsx) </a></li><li><a href="#6-포스트-상세보기-postslugpagetsx">6. 포스트 상세보기 (post/[[...slug]]/page.tsx) </a></li><li><a href="#7-모든-글-일람-postspagetsx">7. 모든 글 일람 (posts/page.tsx) </a></li><li><a href="#8-특정-태그를-가진-포스트-일람-tagstagpagetsx">8. 특정 태그를 가진 포스트 일람 (tags/[tag]/page.tsx) </a></li><li><a href="#9-태그-일람-tagspagetsx">9. 태그 일람 (tags/page.tsx) </a></li><li><a href="#10-글쓰기-에디터-writepagetsx">10. 글쓰기 에디터 (write/page.tsx) </a></li></ul></nav><p>1: 0<br>
+ㅁ : 0</p>
+<h2 id="nextjs-프로젝트-구성-완료" tabindex="-1">Next.js 프로젝트 구성 완료 <a class="header-anchor" href="#nextjs-프로젝트-구성-완료" aria-hidden="true">#</a></h2>
+<p>이전 시간에 Termux에 Node.js를 설치하고 Next.js 프로젝트 구성을 완료하였습니다.<br>
+이번에는 어떤 방식으로 프로젝트를 구성할 것인지에 대해 알아가보고자 합니다.</p>
+<h2 id="nextjs-폴더-구성" tabindex="-1">Next.js 폴더 구성 <a class="header-anchor" href="#nextjs-폴더-구성" aria-hidden="true">#</a></h2>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>myapp
+┗ src
+  ┗ _<span class="hljs-function"><span class="hljs-title">post</span>         -&gt;</span> <span class="hljs-number">1</span>. 포스트가 저장될 폴더
+    ┗ <span class="hljs-function"><span class="hljs-title">category1</span>   -&gt;</span> <span class="hljs-number">2</span>. 카테고리(폴더)별 포스트 분류
+      ┗<span class="hljs-number">2025</span>-<span class="hljs-number">12</span>-<span class="hljs-number">30</span>-<span class="hljs-function"><span class="hljs-title">how</span>-to-start.md -&gt;</span> <span class="hljs-number">3</span>. 포스트
+    ┗ category2
+    ┗ ...
+  ┗ categories    
+    ┗ [category]
+      ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx  -&gt;</span> <span class="hljs-number">4</span>. 특정 카테고리에 포함된 포스트 일람
+    ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx    -&gt;</span> <span class="hljs-number">5</span>. 카테고리 일람
+  ┗ post
+    ┗ [[...slug]]
+      ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx  -&gt;</span> <span class="hljs-number">6</span>. 포스트 상세보기
+  ┗ posts
+    ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx    -&gt;</span> <span class="hljs-number">7</span>. 모든 글 일람
+  ┗ tags
+    ┗ [tag]
+      ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx  -&gt;</span> <span class="hljs-number">8</span>. 특정 태그를 가진 포스트 일람
+    ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx    -&gt;</span> <span class="hljs-number">9</span>. 태그 일람
+  ┗ write
+    ┗ <span class="hljs-function"><span class="hljs-title">page</span>.tsx    -&gt;</span> <span class="hljs-number">10</span>. 글쓰기 에디터
+</code></pre></div></code></pre>
+<p>아래는 제시해주신 <strong>Next.js 폴더 구조</strong>를 기준으로, <strong>각 항목의 역할과 사용 목적</strong>을 하나씩 정리한 내용입니다.<br>
+안드로이드 태블릿 + Termux 환경에서 <strong>정적 블로그 또는 CMS 형태의 Next.js 프로젝트</strong>를 운영한다는 전제에 맞춰 설명합니다.</p>
+<hr>
+<h2 id="1-포스트가-저장될-폴더-src_post" tabindex="-1"><strong>1. 포스트가 저장될 폴더 (<code>src/_post</code>)</strong> <a class="header-anchor" href="#1-포스트가-저장될-폴더-src_post" aria-hidden="true">#</a></h2>
+<p>이 폴더는 <strong>실제 콘텐츠가 저장되는 원본 데이터 영역</strong>입니다.<br>
+Next.js 라우팅과는 직접적으로 연결되지 않으며, Markdown(<code>.md</code>) <strong>콘텐츠 저장소</strong> 역할을 합니다.</p>
+<ul>
+<li>정적 블로그의 글 원본 보관</li>
+<li>GitHub에 커밋되는 실제 글 데이터</li>
+<li>빌드 시 파일 시스템을 읽어 페이지를 생성하는 용도</li>
+</ul>
+<p>👉 일반적으로 <code>fs</code> 모듈과 markdown 라이브러리를 통해 이 폴더를 읽어옵니다.</p>
+<hr>
+<h2 id="2-카테고리폴더별-포스트-분류-_postcategory1" tabindex="-1"><strong>2. 카테고리(폴더)별 포스트 분류 (<code>_post/category1</code>)</strong> <a class="header-anchor" href="#2-카테고리폴더별-포스트-분류-_postcategory1" aria-hidden="true">#</a></h2>
+<p>카테고리는 <strong>폴더 단위로 글을 분류</strong>하기 위한 구조입니다.</p>
+<ul>
+<li>하나의 폴더 = 하나의 카테고리</li>
+<li>URL 구조와 매핑하기 쉬움<br>
+예) <code>/categories/category1</code></li>
+</ul>
+<p>장점:</p>
+<ul>
+<li>카테고리 관리가 직관적</li>
+<li>글 이동 및 정리가 쉬움</li>
+<li>GitHub에서도 변경 이력이 명확</li>
+</ul>
+<hr>
+<h2 id="3-포스트-2025-12-30-how-to-startmd" tabindex="-1"><strong>3. 포스트 (<code>2025-12-30-how-to-start.md</code>)</strong> <a class="header-anchor" href="#3-포스트-2025-12-30-how-to-startmd" aria-hidden="true">#</a></h2>
+<p>실제 <strong>게시글 하나에 해당하는 Markdown 파일</strong>입니다.</p>
+<p>일반적인 구성 예시:</p>
+<pre><code class="language-md"><div class="code-block"><div class="code-header"><span class="code-title">md</span><button class="copy-button">Copy</button></div><pre class="language-md"><code><span class="hljs-meta">---</span>
+<span class="hljs-attr">title:</span> <span class="hljs-string">&quot;How to Start&quot;</span>
+<span class="hljs-attr">date:</span> <span class="hljs-string">&quot;2025-12-30&quot;</span>
+<span class="hljs-attr">tags:</span> [<span class="hljs-string">&quot;nextjs&quot;</span>, <span class="hljs-string">&quot;android&quot;</span>]
+<span class="hljs-attr">category:</span> <span class="hljs-string">&quot;category1&quot;</span>
+<span class="hljs-meta">---
+</span>
+<span class="hljs-string">본문</span> <span class="hljs-string">내용...</span>
+</code></pre></div></code></pre>
+<ul>
+<li>파일명에 날짜를 포함하여 정렬 및 관리 용이</li>
+<li>Front Matter를 활용해 메타데이터 관리</li>
+<li>정적 페이지 생성(SSG)에 최적화</li>
+</ul>
+<hr>
+<h2 id="4-특정-카테고리에-포함된-포스트-일람-categoriescategorypagetsx" tabindex="-1"><strong>4. 특정 카테고리에 포함된 포스트 일람 (<code>categories/[category]/page.tsx</code>)</strong> <a class="header-anchor" href="#4-특정-카테고리에-포함된-포스트-일람-categoriescategorypagetsx" aria-hidden="true">#</a></h2>
+<p><strong>동적 라우팅 페이지</strong>로, 특정 카테고리에 속한 글 목록을 보여줍니다.</p>
+<p>예시 URL:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code><span class="hljs-regexp">/categories/</span>category1
+</code></pre></div></code></pre>
+<p>역할:</p>
+<ul>
+<li><code>_post/category1</code> 폴더의 글 목록을 읽어 출력</li>
+<li>카테고리별 글 리스트 페이지 생성</li>
+<li>SEO-friendly한 구조 제공</li>
+</ul>
+<hr>
+<h2 id="5-카테고리-일람-categoriespagetsx" tabindex="-1"><strong>5. 카테고리 일람 (<code>categories/page.tsx</code>)</strong> <a class="header-anchor" href="#5-카테고리-일람-categoriespagetsx" aria-hidden="true">#</a></h2>
+<p>전체 카테고리를 한눈에 보여주는 <strong>카테고리 인덱스 페이지</strong>입니다.</p>
+<p>예시 URL:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>/categories
+</code></pre></div></code></pre>
+<p>기능:</p>
+<ul>
+<li><code>_post</code> 하위 폴더 목록을 스캔</li>
+<li>각 카테고리별 글 개수 표시 가능</li>
+<li>블로그 전체 구조 파악에 도움</li>
+</ul>
+<hr>
+<h2 id="6-포스트-상세보기-postslugpagetsx" tabindex="-1"><strong>6. 포스트 상세보기 (<code>post/[[...slug]]/page.tsx</code>)</strong> <a class="header-anchor" href="#6-포스트-상세보기-postslugpagetsx" aria-hidden="true">#</a></h2>
+<p>개별 포스트를 보여주는 <strong>핵심 페이지</strong>입니다.</p>
+<p>예시 URL:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>/<span class="hljs-built_in">post</span>/<span class="hljs-number">2025</span><span class="hljs-number">-12</span><span class="hljs-number">-30</span>-how-<span class="hljs-built_in">to</span>-<span class="hljs-built_in">start</span>
+</code></pre></div></code></pre>
+<p>특징:</p>
+<ul>
+<li><code>[[...slug]]</code> → 다단계 경로 지원</li>
+<li>Markdown 파일을 HTML로 변환</li>
+<li>SSG 또는 ISR 적용 가능</li>
+</ul>
+<p>주요 역할:</p>
+<ul>
+<li>본문 렌더링</li>
+<li>메타 태그 설정</li>
+<li>이전/다음 글 네비게이션</li>
+</ul>
+<hr>
+<h2 id="7-모든-글-일람-postspagetsx" tabindex="-1"><strong>7. 모든 글 일람 (<code>posts/page.tsx</code>)</strong> <a class="header-anchor" href="#7-모든-글-일람-postspagetsx" aria-hidden="true">#</a></h2>
+<p>블로그에 존재하는 <strong>모든 포스트를 시간순으로 출력</strong>하는 페이지입니다.</p>
+<p>예시 URL:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>/posts
+</code></pre></div></code></pre>
+<p>활용:</p>
+<ul>
+<li>최신 글 목록 페이지</li>
+<li>홈 페이지 대체 가능</li>
+<li>페이지네이션 구현에 적합</li>
+</ul>
+<hr>
+<h2 id="8-특정-태그를-가진-포스트-일람-tagstagpagetsx" tabindex="-1"><strong>8. 특정 태그를 가진 포스트 일람 (<code>tags/[tag]/page.tsx</code>)</strong> <a class="header-anchor" href="#8-특정-태그를-가진-포스트-일람-tagstagpagetsx" aria-hidden="true">#</a></h2>
+<p>태그 기반으로 글을 필터링하는 <strong>동적 페이지</strong>입니다.</p>
+<p>예시 URL:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code><span class="hljs-regexp">/tags/</span>nextjs
+</code></pre></div></code></pre>
+<p>기능:</p>
+<ul>
+<li>Front Matter의 <code>tags</code> 필드 활용</li>
+<li>하나의 글이 여러 태그에 속할 수 있음</li>
+<li>카테고리보다 세분화된 분류 제공</li>
+</ul>
+<hr>
+<h2 id="9-태그-일람-tagspagetsx" tabindex="-1"><strong>9. 태그 일람 (<code>tags/page.tsx</code>)</strong> <a class="header-anchor" href="#9-태그-일람-tagspagetsx" aria-hidden="true">#</a></h2>
+<p>블로그에서 사용 중인 <strong>모든 태그 목록을 출력</strong>하는 페이지입니다.</p>
+<p>예시 URL:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>/tags
+</code></pre></div></code></pre>
+<p>역할:</p>
+<ul>
+<li>전체 태그 목록 표시</li>
+<li>태그별 글 개수 표시 가능</li>
+<li>콘텐츠 탐색성 향상</li>
+</ul>
+<hr>
+<h2 id="10-글쓰기-에디터-writepagetsx" tabindex="-1"><strong>10. 글쓰기 에디터 (<code>write/page.tsx</code>)</strong> <a class="header-anchor" href="#10-글쓰기-에디터-writepagetsx" aria-hidden="true">#</a></h2>
+<p>브라우저에서 글을 작성하기 위한 <strong>웹 기반 에디터 페이지</strong>입니다.<br>
+해당 페이지는 개발환경에서만 빌드되도록 설정하고, 배포환경(또는 export)에서는 빌드되지 않게 만들어 둘 예정입니다.</p>
+<ul>
+<li>Markdown 에디터</li>
+<li>로컬 파일 저장</li>
+</ul>
+<hr>
+0:{"buildId":"tF_3tyJhiEXQ3U2xKqRjm","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"w-full","children":[["$","header",null,{"className":"relative overflow-hidden rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":[["$","div",null,{"className":"pointer-events-none absolute -top-24 -right-24 h-64 w-64 rounded-full bg-[var(--secondary)] opacity-35 blur-3xl"}],["$","div",null,{"className":"pointer-events-none absolute -bottom-28 -left-28 h-72 w-72 rounded-full bg-[var(--primary)] opacity-15 blur-3xl"}],["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"termux › android-nextjs-deploy-3"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"안드로이드 태블릿으로 Next.js 구성 및 github 배포하기 #3"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"안드로이드 태블릿에 설치한 Termux에 구성한 Next.js 프로젝트로 마크다운 컨텐츠 관리 웹 어플리케이션을 작성합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2025. 12. 30."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","termux"]}],["$","span","code-server",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","code-server"]}],["$","span","vscode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vscode"]}],["$","span","android",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","android"]}],["$","span","dev-environment",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","dev-environment"]}],["$","span","nextjs",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","nextjs"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6 rounded-2xl border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a984e1a6bf896316.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
