@@ -1,3 +1,0 @@
-:HL["/_next/static/css/b0bff6a9a673e0dd.css","style"]
-:HL["/_next/static/css/989baac411ff6195.css","style"]
-0:{"buildId":"-BdVlG4sdPh140hOVlZJ7","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"post","paramType":null,"paramKey":"post","hasRuntimePrefetch":false,"slots":{"children":{"name":"slug","paramType":"oc","paramKey":"termux/android-nextjs-deploy-3","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
