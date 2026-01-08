@@ -1,3 +1,3 @@
 :HL["/_next/static/css/a54604bb31cdba43.css","style"]
 :HL["/_next/static/css/0d14e0ddb64cfb68.css","style"]
-0:{"buildId":"LgRUiyl3K61UkM7u9nlyb","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"design-guide-pro","paramType":null,"paramKey":"design-guide-pro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"ViR_bdlFOfxeMb962ac35","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"design-guide-pro","paramType":null,"paramKey":"design-guide-pro","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
