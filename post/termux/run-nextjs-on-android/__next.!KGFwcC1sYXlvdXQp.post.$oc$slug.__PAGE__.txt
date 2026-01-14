@@ -1,0 +1,100 @@
+1:"$Sreact.fragment"
+2:I[5746,["713","static/chunks/app/(app-layout)/post/%5B%5B...slug%5D%5D/page-10217429c407a342.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/3f06d49345bdfb16.css","style"]
+3:T2a99,<h1 id="안드로이드-태블릿에서-nextjs-프로젝트-실행하기" tabindex="-1">안드로이드 태블릿에서 Next.js 프로젝트 실행하기 <a class="header-anchor" href="#안드로이드-태블릿에서-nextjs-프로젝트-실행하기" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#안드로이드-태블릿에서-nextjs-프로젝트-실행하기">안드로이드 태블릿에서 Next.js 프로젝트 실행하기 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-code-server-실행-및-터미널-열기">1. code-server 실행 및 터미널 열기 </a></li><li><a href="#2-nodejs-설치하기">2. Node.js 설치하기 </a></li><li><a href="#3-nextjs-프로젝트-생성">3. Next.js 프로젝트 생성 </a></li><li><a href="#4-nextjs-개발-서버-실행-문제-해결-포함">4. Next.js 개발 서버 실행 (문제 해결 포함) </a><ul><li><a href="#오류-원인">오류 원인 </a></li><li><a href="#해결-방법-webpack-사용하도록-설정-변경">해결 방법: Webpack 사용하도록 설정 변경 </a></li></ul></li><li><a href="#5-실행-확인">5. 실행 확인 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>이 문서는 <strong>안드로이드 태블릿에서 Termux + code-server(VS Code)</strong> 환경을 구성한 상태를 전제로, 해당 환경에서 <strong>Next.js 프로젝트를 생성하고 개발 서버를 실행하는 방법</strong>을 설명합니다.</p>
+<p>PC가 아닌 태블릿 환경에서도 실제 웹 개발이 가능하다는 점을 확인하는 것이 목적입니다.</p>
+<hr>
+<h2 id="1-code-server-실행-및-터미널-열기" tabindex="-1">1. code-server 실행 및 터미널 열기 <a class="header-anchor" href="#1-code-server-실행-및-터미널-열기" aria-hidden="true">#</a></h2>
+<p>먼저 code-server를 실행합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-selector-tag">code</span>-server <span class="hljs-attr">--auth</span> <span class="hljs-attribute">none</span> <span class="hljs-attr">--host</span> <span class="hljs-number">0.0</span>.<span class="hljs-number">0.0</span> <span class="hljs-attr">--port</span> <span class="hljs-number">8080</span>
+</code></pre></div></code></pre>
+<p>code-server가 실행되면 VS Code Web 화면이 열립니다.</p>
+<p>터미널은 아래 단축키로 열 수 있습니다.</p>
+<blockquote>
+<p><strong>터미널 단축키</strong></p>
+<ul>
+<li>`Ctrl + `` (백틱)</li>
+</ul>
+</blockquote>
+<p>단축키를 입력하면 아래와 같이 화면 하단에 터미널이 표시됩니다.</p>
+<p><img src="/images/_posts/termux/run-nextjs-on-android/1766725513373-Screenshot_20251226_140457_ChromeDev.jpg" alt="Screenshot20251226140457Chrome Dev.jpg"></p>
+<hr>
+<h2 id="2-nodejs-설치하기" tabindex="-1">2. Node.js 설치하기 <a class="header-anchor" href="#2-nodejs-설치하기" aria-hidden="true">#</a></h2>
+<p>Next.js 실행을 위해 Node.js를 설치합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>pkg <span class="hljs-keyword">install</span> nodejs-lts
+</code></pre></div></code></pre>
+<p>LTS(Long Term Support) 버전을 설치하는 것이 가장 안정적입니다.</p>
+<p>설치가 완료되면 아래와 같이 Node.js가 정상적으로 설치된 것을 확인할 수 있습니다.</p>
+<blockquote>
+<p>예시) 작성 시점 기준 설치 버전: <strong>Node.js 24.11.1</strong></p>
+</blockquote>
+<p><img src="/images/_posts/termux/run-nextjs-on-android/1766725772046-Screenshot_20251226_140918_ChromeDev.jpg" alt="Screenshot20251226140918Chrome Dev.jpg"></p>
+<hr>
+<h2 id="3-nextjs-프로젝트-생성" tabindex="-1">3. Next.js 프로젝트 생성 <a class="header-anchor" href="#3-nextjs-프로젝트-생성" aria-hidden="true">#</a></h2>
+<p>웹 브라우저에서 <strong>Next.js 공식 사이트</strong>에 접속하면, 메인 화면에 프로젝트 생성 명령어가 안내되어 있습니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-string">npx</span> <span class="hljs-built_in">create-next-app@latest</span>
+</code></pre></div></code></pre>
+<p>명령어를 실행하면 프로젝트 설정에 대한 질문이 순서대로 나타납니다.</p>
+<p>이번 예제에서는 <strong>커스터마이징 설정</strong>을 선택하였으며, 선택한 항목은 아래와 같습니다.</p>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">text</span><button class="copy-button">Copy</button></div><pre class="language-text"><code>프로젝트 이름은 무엇인가요? → my-app
+<span class="hljs-type">Next</span>.js 권장 설정을 사용할까요? → 아니오
+<span class="hljs-type">TypeScript</span>를 사용할까요? → 예
+<span class="hljs-type">React</span> <span class="hljs-type">Compiler</span>(실험적 기능)를 사용할까요? → 아니오
+<span class="hljs-type">Tailwind</span> <span class="hljs-type">CSS</span>를 사용할까요? → 예
+소스 코드를 src/ 디렉토리 안에 둘까요? → 예
+<span class="hljs-type">App</span> <span class="hljs-type">Router</span>를 사용할까요? → 예
+<span class="hljs-keyword">import</span> 경로 별칭을 커스터마이즈할까요? (기본: @/) → 아니오
+</code></pre></div></code></pre>
+<p>설정이 완료되면 Next.js 프로젝트가 자동으로 생성됩니다.</p>
+<p><img src="/images/_posts/termux/run-nextjs-on-android/1766727856744-Screenshot_20251226_144341_ChromeBeta.jpg" alt="Screenshot20251226144341Chrome Beta.jpg"></p>
+<p><img src="/images/_posts/termux/run-nextjs-on-android/1766729020364-Screenshot_20251226_150240_ChromeDev.jpg" alt="Screenshot20251226150240Chrome Dev.jpg"></p>
+<hr>
+<h2 id="4-nextjs-개발-서버-실행-문제-해결-포함" tabindex="-1">4. Next.js 개발 서버 실행 (문제 해결 포함) <a class="header-anchor" href="#4-nextjs-개발-서버-실행-문제-해결-포함" aria-hidden="true">#</a></h2>
+<p>생성된 프로젝트 디렉토리로 이동한 뒤 개발 서버를 실행합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-keyword">cd</span> ~/workspace/my-<span class="hljs-keyword">app</span>
+npm <span class="hljs-keyword">run</span> dev
+</code></pre></div></code></pre>
+<p>일반적인 PC 환경이라면 개발 서버가 바로 실행되지만, <strong>안드로이드 태블릿 환경에서는 아래와 같은 오류가 발생할 수 있습니다</strong>.</p>
+<p><img src="/images/_posts/termux/run-nextjs-on-android/1766729302449-Screenshot_20251226_150752_ChromeDev.jpg" alt="Screenshot20251226150752Chrome Dev.jpg"></p>
+<h3 id="오류-원인" tabindex="-1">오류 원인 <a class="header-anchor" href="#오류-원인" aria-hidden="true">#</a></h3>
+<p>Next.js 최신 버전은 기본적으로 <strong>Turbopack</strong>을 사용합니다.</p>
+<p>그러나 Turbopack은 현재 <strong>안드로이드(ARM) 기반 Termux 환경을 완전히 지원하지 않기 때문에</strong> 개발 서버 실행 시 오류가 발생합니다.</p>
+<hr>
+<h3 id="해결-방법-webpack-사용하도록-설정-변경" tabindex="-1">해결 방법: Webpack 사용하도록 설정 변경 <a class="header-anchor" href="#해결-방법-webpack-사용하도록-설정-변경" aria-hidden="true">#</a></h3>
+<p><code>package.json</code> 파일을 열어 <code>scripts</code> 항목을 아래와 같이 수정합니다.</p>
+<pre><code class="language-json"><div class="code-block"><div class="code-header"><span class="code-title">json</span><button class="copy-button">Copy</button></div><pre class="language-json"><code><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;scripts&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;dev&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next dev --webpack&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;build&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next build --webpack&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;start&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next start --webpack&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;lint&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;eslint&quot;</span>
+  <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>
+</code></pre></div></code></pre>
+<p><code>--webpack</code> 옵션을 명시적으로 지정하면, Turbopack 대신 <strong>Webpack을 사용하여 빌드 및 실행</strong>하게 됩니다.</p>
+<p>수정 후 다시 개발 서버를 실행합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>npm <span class="hljs-built_in">run</span> dev
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-실행-확인" tabindex="-1">5. 실행 확인 <a class="header-anchor" href="#5-실행-확인" aria-hidden="true">#</a></h2>
+<p>개발 서버가 정상적으로 실행되면 터미널에 서버 주소가 출력됩니다.</p>
+<p>웹 브라우저에서 해당 주소로 접속했을 때, 아래와 같은 기본 Next.js 화면이 표시되면 성공입니다.</p>
+<p><img src="/images/_posts/termux/run-nextjs-on-android/1766730234157-Screenshot_20251226_152332_ChromeDev.jpg" alt="Screenshot20251226152332Chrome Dev.jpg"></p>
+<hr>
+<h2 id="마무리" tabindex="-1">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>이제 안드로이드 태블릿 환경에서도 <strong>Next.js 개발 서버를 실행할 수 있는 환경</strong>이 완성되었습니다.</p>
+<p>다음 단계에서는:</p>
+<ul>
+<li>GitHub 저장소 연동</li>
+<li>코드 푸시</li>
+<li>배포 환경 구성</li>
+</ul>
+<p>과정을 이어서 다뤄볼 예정입니다.</p>
+0:{"buildId":"Zmgt1ie_5XQWHxzljiKWO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"termux › run-nextjs-on-android"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"안드로이드 태블릿에서 Next.js 프로젝트 실행하기"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"안드로이드 태블릿으로 Next.js 프로젝트를 구성해봅니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2025. 12. 31."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","termux"]}],["$","span","code-server",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","code-server"]}],["$","span","vscode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vscode"]}],["$","span","android",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","android"]}],["$","span","dev-environment",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","dev-environment"]}],["$","span","next.js",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","next.js"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3f06d49345bdfb16.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
