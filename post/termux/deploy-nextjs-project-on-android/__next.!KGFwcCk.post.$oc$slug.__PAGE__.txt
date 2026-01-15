@@ -1,0 +1,183 @@
+1:"$Sreact.fragment"
+2:I[5746,["992","static/chunks/app/(app)/post/%5B%5B...slug%5D%5D/page-abbbe377c761ecf7.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/3f06d49345bdfb16.css","style"]
+3:T3b47,<h1 id="안드로이드-태블릿에서-github-page에-nextjs-프로젝트-배포하기" tabindex="-1">안드로이드 태블릿에서 github page에 Next.js 프로젝트 배포하기 <a class="header-anchor" href="#안드로이드-태블릿에서-github-page에-nextjs-프로젝트-배포하기" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#안드로이드-태블릿에서-github-page에-nextjs-프로젝트-배포하기">안드로이드 태블릿에서 github page에 Next.js 프로젝트 배포하기 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#github-저장소-생성">github 저장소 생성 </a><ul><li><a href="#githubio-란">github.io 란? </a></li><li><a href="#계정명githubio를-만들어보자">[계정명].github.io를 만들어보자 </a><ul><li><a href="#1-github에서-새-저장소-만들기">1) GitHub에서 새 저장소 만들기 </a></li><li><a href="#2-nextjs-프로젝트를-export-모드로-설정-하고-git-remote-추가">2) Next.js 프로젝트를 export 모드로 설정 하고 git remote 추가 </a><ul></ul></li><li><a href="#3-git으로-커밋하고-푸시하기">3) Git으로 커밋하고 푸시하기 </a></li><li><a href="#4-gh-pages를-사용해서-배포하기">4) gh-pages를 사용해서 배포하기 </a><ul></ul></li></ul></li></ul></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>이 문서는 안드로이드 태블릿에서 만든 Next.js 프로젝트를 Github에 배포하는 방법에 대해 설명하는 문서입니다.<br>
+태블릿에 Node.js가 설치되어있고 Next.js 프로젝트를 구성하여 프로젝트를 실행해본 상태에서 진행합니다.<br>
+Github 계정은 <a href="https://github.com" target="_blank" rel="noopener noreferrer" class="md-ext-link">깃허브 공식 홈페이지</a>에서 만드실 수 있습니다.</p>
+<h2 id="github-저장소-생성" tabindex="-1">github 저장소 생성 <a class="header-anchor" href="#github-저장소-생성" aria-hidden="true">#</a></h2>
+<h3 id="githubio-란" tabindex="-1">github.io 란? <a class="header-anchor" href="#githubio-란" aria-hidden="true">#</a></h3>
+<p>GitHub Pages는 **GitHub 저장소의 파일(HTML/CSS/JS 등)**을 그대로 웹사이트로 배포해주는 기능입니다.<br>
+그중에서도 <code>github.io</code>는 GitHub Pages로 만들어지는 기본 도메인이고, 보통 아래 두 종류가 있어요.</p>
+<ul>
+<li><strong>User/Organization 사이트</strong>: <code>https://[계정명].github.io/</code><br>
+→ 저장소 이름이 <strong>반드시</strong> <code>[계정명].github.io</code> 여야 함</li>
+<li><strong>Project 사이트</strong>: <code>https://[계정명].github.io/[repo]/</code><br>
+→ 일반 저장소에서도 가능</li>
+</ul>
+<p>즉, 블로그나 포트폴리오를 “루트 도메인”으로 깔끔하게 쓰려면 <strong>User 사이트 방식</strong>이 가장 깔끔합니다.</p>
+<hr>
+<h3 id="계정명githubio를-만들어보자" tabindex="-1">[계정명].github.io를 만들어보자 <a class="header-anchor" href="#계정명githubio를-만들어보자" aria-hidden="true">#</a></h3>
+<p>아래 순서대로 하면 됩니다.</p>
+<h4 id="1-github에서-새-저장소-만들기" tabindex="-1">1) GitHub에서 새 저장소 만들기 <a class="header-anchor" href="#1-github에서-새-저장소-만들기" aria-hidden="true">#</a></h4>
+<ol>
+<li>
+<p>GitHub 로그인</p>
+</li>
+<li>
+<p>우측 상단 <strong>+</strong> 버튼 → <strong>New repository</strong> 클릭</p>
+</li>
+<li>
+<p>Repository name에 아래처럼 입력</p>
+<ul>
+<li><strong><code>[계정명].github.io</code></strong> (계정명과 정확히 일치해야 함)</li>
+</ul>
+</li>
+<li>
+<p>공개 설정은 보통 <strong>Public</strong> 추천</p>
+</li>
+<li>
+<p>(선택) <strong>Add a README file</strong> 체크해제</p>
+</li>
+<li>
+<p><strong>Create repository</strong> 클릭</p>
+</li>
+</ol>
+<p><img src="/images/_posts/termux/deploy-nextjs-project-on-android/1767239979721-image.webp" alt="image.png"><br>
+<img src="/images/_posts/termux/deploy-nextjs-project-on-android/1767240107810-image.webp" alt="image.png"></p>
+<hr>
+<h4 id="2-nextjs-프로젝트를-export-모드로-설정-하고-git-remote-추가" tabindex="-1">2) Next.js 프로젝트를 export 모드로 설정 하고 git remote 추가 <a class="header-anchor" href="#2-nextjs-프로젝트를-export-모드로-설정-하고-git-remote-추가" aria-hidden="true">#</a></h4>
+<p>여기서는 **Next.js 프로젝트를 정적 사이트(export 모드)**로 설정한 뒤, GitHub Pages에서 제공하는<br>
+<code>rxalloc.github.io</code> 저장소와 연결하는 과정을 진행합니다.</p>
+<hr>
+<h5 id="2-1-nextjs를-export-모드로-설정하기" tabindex="-1">2-1) Next.js를 export 모드로 설정하기 <a class="header-anchor" href="#2-1-nextjs를-export-모드로-설정하기" aria-hidden="true">#</a></h5>
+<p>GitHub Pages는 서버가 없는 <strong>정적 호스팅</strong>이기 때문에 Next.js를 반드시 export 모드로 설정해야 합니다.</p>
+<p>프로젝트 루트에 있는 <code>next.config.js</code> 또는 <code>next.config.mjs</code> 파일을 아래처럼 수정합니다.</p>
+<pre><code class="language-js"><div class="code-block"><div class="code-header"><span class="code-title">js</span><button class="copy-button">Copy</button></div><pre class="language-js"><code><span class="hljs-comment">/** <span class="hljs-doctag">@type</span> {import(&#x27;next&#x27;).NextConfig} */</span>
+<span class="hljs-type">const</span> <span class="hljs-variable">nextConfig</span> <span class="hljs-operator">=</span> {
+  output: <span class="hljs-string">&quot;export&quot;</span>, <span class="hljs-comment">// ✅ 정적 사이트로 빌드</span>
+  images: {
+    unoptimized: <span class="hljs-literal">true</span>, <span class="hljs-comment">// ✅ next/image 서버 최적화 비활성화 (필수)</span>
+  },
+};
+
+<span class="hljs-keyword">module</span>.<span class="hljs-keyword">exports</span> = nextConfig;
+</code></pre></div></code></pre>
+<div class="callout callout-warning">
+<h3 class="callout-title">경고</h3><p><code>next/image</code>를 사용 중이라면 <code>images.unoptimized: true</code>가 없으면 빌드 또는 배포 단계에서 문제가 발생할 수 있습니다.</p>
+</div>
+<hr>
+<h5 id="2-2-정적-빌드-결과-확인" tabindex="-1">2-2) 정적 빌드 결과 확인 <a class="header-anchor" href="#2-2-정적-빌드-결과-확인" aria-hidden="true">#</a></h5>
+<p>설정이 끝났다면 프로젝트를 빌드합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>npm <span class="hljs-built_in">run</span> build
+</code></pre></div></code></pre>
+<p>빌드가 성공하면 프로젝트 루트에 <code>out/</code> 폴더가 생성됩니다.<br>
+이 폴더 안의 파일들이 <strong>GitHub Pages에 그대로 배포될 정적 결과물</strong>입니다.</p>
+<hr>
+<h5 id="2-3-git-저장소-초기화" tabindex="-1">2-3) Git 저장소 초기화 <a class="header-anchor" href="#2-3-git-저장소-초기화" aria-hidden="true">#</a></h5>
+<p>아래 명령으로 초기화합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>git <span class="hljs-keyword">init</span>
+git <span class="hljs-keyword">add</span> .
+git commit -m <span class="hljs-string">&quot;init&quot;</span>
+</code></pre></div></code></pre>
+<hr>
+<h5 id="2-4-rxallocgithubio-저장소를-remote로-추가" tabindex="-1">2-4) rxalloc.github.io 저장소를 remote로 추가 <a class="header-anchor" href="#2-4-rxallocgithubio-저장소를-remote로-추가" aria-hidden="true">#</a></h5>
+<p>GitHub에서 미리 생성해 둔 <code>rxalloc.github.io</code> 저장소와 연결합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">git</span> branch -M main
+<span class="hljs-symbol">git</span> remote <span class="hljs-keyword">add</span> origin https:<span class="hljs-comment">//github.com/rxalloc/rxalloc.github.io.git</span>
+<span class="hljs-symbol">git</span> <span class="hljs-keyword">push</span> -u origin main
+</code></pre></div></code></pre>
+<p>정상적으로 푸시되면 GitHub 저장소에 코드가 업로드됩니다.</p>
+<hr>
+<h4 id="3-git으로-커밋하고-푸시하기" tabindex="-1">3) Git으로 커밋하고 푸시하기 <a class="header-anchor" href="#3-git으로-커밋하고-푸시하기" aria-hidden="true">#</a></h4>
+<p>터미널에서 Next.js 폴더로 이동 후:</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>git init
+git add .
+git commit -m &quot;init&quot;
+git branch -M main
+git remote add origin <span class="hljs-link">https://github.com/</span>[<span class="hljs-string">계정명</span>]/[계정명].github.io.git
+git push -u origin main
+</code></pre></div></code></pre>
+<p>정상적으로 프로젝트가 github에 올라갔다면 아래와 같이 해당 레포지토리 페이지에서 소스코드를 확인하실 수 있습니다.</p>
+<hr>
+<h4 id="4-gh-pages를-사용해서-배포하기" tabindex="-1">4) gh-pages를 사용해서 배포하기 <a class="header-anchor" href="#4-gh-pages를-사용해서-배포하기" aria-hidden="true">#</a></h4>
+<p><code>gh-pages</code>는 <strong>빌드 결과물(<code>out/</code>)만 별도 브랜치(<code>gh-pages</code>)로 배포</strong>해주는 도구입니다.<br>
+소스 코드와 배포 결과를 분리할 수 있어 <strong>유지보수에 가장 깔끔한 방식</strong>입니다.</p>
+<hr>
+<h5 id="4-1-gh-pages-설치" tabindex="-1">4-1) gh-pages 설치 <a class="header-anchor" href="#4-1-gh-pages-설치" aria-hidden="true">#</a></h5>
+<p>프로젝트 루트에서 아래 명령을 실행합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>npm install --<span class="hljs-built_in">save</span>-<span class="hljs-built_in">dev</span> gh-pages
+</code></pre></div></code></pre>
+<hr>
+<h5 id="4-2-packagejson-스크립트-추가" tabindex="-1">4-2) package.json 스크립트 추가 <a class="header-anchor" href="#4-2-packagejson-스크립트-추가" aria-hidden="true">#</a></h5>
+<p><code>package.json</code>에 아래 스크립트를 추가합니다.</p>
+<pre><code class="language-json"><div class="code-block"><div class="code-header"><span class="code-title">json</span><button class="copy-button">Copy</button></div><pre class="language-json"><code><span class="hljs-punctuation">{</span>
+  <span class="hljs-attr">&quot;scripts&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-punctuation">{</span>
+    <span class="hljs-attr">&quot;build&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;next build&quot;</span><span class="hljs-punctuation">,</span>
+    <span class="hljs-attr">&quot;deploy&quot;</span><span class="hljs-punctuation">:</span> <span class="hljs-string">&quot;gh-pages -d out&quot;</span>
+  <span class="hljs-punctuation">}</span>
+<span class="hljs-punctuation">}</span>
+</code></pre></div></code></pre>
+<div class="callout callout-note">
+<p>노트<br>
+<code>-d out</code> : Next.js export 결과물 디렉터리</p>
+</div>
+<hr>
+<h5 id="4-4-빌드--배포-실행" tabindex="-1">4-4) 빌드 &amp; 배포 실행 <a class="header-anchor" href="#4-4-빌드--배포-실행" aria-hidden="true">#</a></h5>
+<p>아래 명령 한 줄로 <strong>빌드 + gh-pages 브랜치 배포</strong>가 완료됩니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>npm <span class="hljs-built_in">run</span> build
+npm <span class="hljs-built_in">run</span> deploy
+</code></pre></div></code></pre>
+<p>정상 동작 시:</p>
+<ul>
+<li><code>gh-pages</code> 브랜치가 자동 생성됨</li>
+<li><code>out/</code> 폴더의 내용만 <code>gh-pages</code> 브랜치에 커밋됨</li>
+</ul>
+<p><img src="/images/_posts/termux/deploy-nextjs-project-on-android/1767356830636-image.webp" alt="image.png"></p>
+<hr>
+<h5 id="4-5-github-pages-브랜치-설정" tabindex="-1">4-5) GitHub Pages 브랜치 설정 <a class="header-anchor" href="#4-5-github-pages-브랜치-설정" aria-hidden="true">#</a></h5>
+<ol>
+<li>
+<p>GitHub 저장소 → <strong>Settings</strong></p>
+</li>
+<li>
+<p>좌측 메뉴 → <strong>Pages</strong></p>
+</li>
+<li>
+<p><strong>Build and deployment</strong></p>
+<ul>
+<li>Source: <strong>Deploy from a branch</strong></li>
+<li>Branch: <strong>gh-pages</strong> / <strong>(root)</strong></li>
+</ul>
+</li>
+<li>
+<p>저장</p>
+</li>
+</ol>
+<p><img src="/images/_posts/termux/deploy-nextjs-project-on-android/1767357520519-image.webp" alt="image.png"></p>
+<hr>
+<h5 id="4-6-접속-확인" tabindex="-1">4-6) 접속 확인 <a class="header-anchor" href="#4-6-접속-확인" aria-hidden="true">#</a></h5>
+<p>배포가 완료되면 아래 주소로 접속합니다.</p>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">text</span><button class="copy-button">Copy</button></div><pre class="language-text"><code><span class="hljs-link">https://</span>[<span class="hljs-string">계정명</span>].github.io
+</code></pre></div></code></pre>
+<p>정상이라면 <code>out/index.html</code> 기준의 사이트가 표시됩니다.</p>
+<p><a href="https://rxalloc.github.io" target="_blank" rel="noopener noreferrer" class="md-ext-link">RxAlloc Blog</a></p>
+<hr>
+<h5 id="4-7-css파일이-제대로-불러오지-않는다면" tabindex="-1">4-7) CSS파일이 제대로 불러오지 않는다면 <a class="header-anchor" href="#4-7-css파일이-제대로-불러오지-않는다면" aria-hidden="true">#</a></h5>
+<p>.nojekyll 파일을 추가해주어야합니다.<br>
+아래의 이미지를 참고하여 .nokekyll 파일을 추가해주시면 됩니다.</p>
+<p><img src="/images/_posts/termux/deploy-nextjs-project-on-android/1767358013941-image.webp" alt="image.png"></p>
+<hr>
+<h5 id="참고" tabindex="-1">참고 <a class="header-anchor" href="#참고" aria-hidden="true">#</a></h5>
+<ul>
+<li>이후 배포는 <strong><code>npm run deploy</code> 한 줄</strong>이면 끝</li>
+<li>소스 브랜치(<code>main</code>)와 배포 브랜치(<code>gh-pages</code>)가 분리되어 히스토리가 깔끔함</li>
+<li>GitHub Actions 없이도 안정적으로 사용 가능</li>
+</ul>
+0:{"buildId":"vA8H8HGwj5QhTB3zngTZD","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"termux › deploy-nextjs-project-on-android"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"안드로이드 태블릿에서 github page에 Next.js 프로젝트 배포하기"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"안드로이드 태블릿으로 Next.js 프로젝트를 github에 배포해봅니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 01."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","termux"]}],["$","span","code-server",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","code-server"]}],["$","span","vscode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vscode"]}],["$","span","android",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","android"]}],["$","span","dev-environment",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","dev-environment"]}],["$","span","next.js",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","next.js"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3f06d49345bdfb16.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
