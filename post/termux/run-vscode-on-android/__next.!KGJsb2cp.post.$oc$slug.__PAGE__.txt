@@ -1,0 +1,96 @@
+1:"$Sreact.fragment"
+2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-d56aeff51c3257c7.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/3f06d49345bdfb16.css","style"]
+3:T1ec6,<h1 id="안드로이드-태블릿으로-vs-code-visual-studio-code-실행하기" tabindex="-1">안드로이드 태블릿으로 VS-CODE (Visual Studio Code) 실행하기 <a class="header-anchor" href="#안드로이드-태블릿으로-vs-code-visual-studio-code-실행하기" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#안드로이드-태블릿으로-vs-code-visual-studio-code-실행하기">안드로이드 태블릿으로 VS-CODE (Visual Studio Code) 실행하기 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-태블릿-준비">1. 태블릿 준비 </a></li><li><a href="#2-termux-설치">2. Termux 설치 </a></li><li><a href="#3-termux-저장소repository-업데이트">3. Termux 저장소(repository) 업데이트 </a><ul><li><a href="#tur-repo가-필요한-이유">tur-repo가 필요한 이유 </a></li></ul></li><li><a href="#4-code-server-설치">4. code-server 설치 </a></li><li><a href="#5-code-server-실행">5. code-server 실행 </a><ul><li><a href="#옵션-설명">옵션 설명 </a></li></ul></li><li><a href="#6-실행-확인">6. 실행 확인 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>이 문서는 안드로이드 태블릿에서 <strong>Termux + code-server(VS Code)</strong> 환경을 구성하고, 해당 환경에서 <strong>Next.js 기반 웹 서비스를 개발</strong>하기 위한 준비 과정 중 <strong>code-server 설치 및 실행</strong>에 대해 설명합니다.</p>
+<p>PC가 아닌 태블릿 환경에서도 충분히 개발이 가능하다는 점을 직접 구성 과정을 통해 보여주는 것이 목적입니다.</p>
+<hr>
+<h2 id="1-태블릿-준비" tabindex="-1">1. 태블릿 준비 <a class="header-anchor" href="#1-태블릿-준비" aria-hidden="true">#</a></h2>
+<p>안드로이드 태블릿이라면 기종에 관계없이 모두 사용 가능합니다.<br>
+다만, 성능이 많이 낮은 기기에서는 Next.js 빌드나 의존성 설치 과정에서 시간이 다소 오래 걸릴 수 있습니다.</p>
+<blockquote>
+<p><strong>권장 최소 사양</strong></p>
+<ul>
+<li>Galaxy Tab S7+ 또는 동급 이상의 성능</li>
+</ul>
+</blockquote>
+<p>실제 개발 및 테스트에는 큰 제약이 없으며, 빌드 시간이 늘어나는 정도의 차이만 발생합니다.</p>
+<hr>
+<h2 id="2-termux-설치" tabindex="-1">2. Termux 설치 <a class="header-anchor" href="#2-termux-설치" aria-hidden="true">#</a></h2>
+<p>과거에는 <strong>Google Play Store에서 설치한 Termux</strong>에서 패키지 관리자(<code>apt</code>) 오류가 발생하는 문제가 있었습니다.<br>
+하지만 현재는 해당 문제가 해결되어, <strong>Play Store 버전 Termux도 정상적으로 사용 가능</strong>합니다.</p>
+<p>가장 간편한 방법으로 <strong>Google Play Store에서 Termux를 설치</strong>하면 됩니다.</p>
+<hr>
+<h2 id="3-termux-저장소repository-업데이트" tabindex="-1">3. Termux 저장소(repository) 업데이트 <a class="header-anchor" href="#3-termux-저장소repository-업데이트" aria-hidden="true">#</a></h2>
+<p>Termux 설치 후 가장 먼저 저장소를 최신 상태로 업데이트합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># 저장소 업데이트</span>
+pkg update
+
+<span class="hljs-comment"># Termux 확장 저장소(tur-repo) 추가</span>
+pkg <span class="hljs-keyword">install</span> tur-repo
+</code></pre></div></code></pre>
+<h3 id="tur-repo가-필요한-이유" tabindex="-1">tur-repo가 필요한 이유 <a class="header-anchor" href="#tur-repo가-필요한-이유" aria-hidden="true">#</a></h3>
+<p><code>code-server</code>는 용량과 빌드 부담 등의 이유로 <strong>Termux 공식 기본 저장소에는 포함되어 있지 않습니다</strong>.</p>
+<p>따라서 <code>tur-repo</code>라는 <strong>확장 저장소</strong>를 추가해야 <code>code-server</code> 패키지를 설치할 수 있습니다.</p>
+<hr>
+<h2 id="4-code-server-설치" tabindex="-1">4. code-server 설치 <a class="header-anchor" href="#4-code-server-설치" aria-hidden="true">#</a></h2>
+<p>확장 저장소 추가가 완료되었다면, 아래 명령어로 <code>code-server</code>를 설치합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">pkg</span> install <span class="hljs-meta">code</span>-server
+</code></pre></div></code></pre>
+<p>설치 과정에서 별도의 추가 설정은 필요하지 않습니다.</p>
+<hr>
+<h2 id="5-code-server-실행" tabindex="-1">5. code-server 실행 <a class="header-anchor" href="#5-code-server-실행" aria-hidden="true">#</a></h2>
+<p>설치가 완료되면 아래 명령어로 <code>code-server</code>를 실행합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-selector-tag">code</span>-server <span class="hljs-attr">--auth</span> <span class="hljs-attribute">none</span> <span class="hljs-attr">--host</span> <span class="hljs-number">0.0</span>.<span class="hljs-number">0.0</span> <span class="hljs-attr">--port</span> <span class="hljs-number">8080</span>
+</code></pre></div></code></pre>
+<h3 id="옵션-설명" tabindex="-1">옵션 설명 <a class="header-anchor" href="#옵션-설명" aria-hidden="true">#</a></h3>
+<ul>
+<li>
+<p><code>--auth none</code></p>
+<ul>
+<li>인증을 비활성화합니다.</li>
+<li>태블릿 단독 사용 환경에서는 편의상 비활성화를 권장합니다.</li>
+</ul>
+</li>
+<li>
+<p><code>--host 0.0.0.0</code></p>
+<ul>
+<li>모든 네트워크 인터페이스에서 접속을 허용합니다.</li>
+<li>로컬 접속만 허용하려면 <code>127.0.0.1</code>로 지정할 수 있습니다.</li>
+</ul>
+</li>
+<li>
+<p><code>--port 8080</code></p>
+<ul>
+<li>접속 포트를 지정합니다.</li>
+<li>필요에 따라 다른 포트 번호로 변경해도 무방합니다.</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>인증이 필요한 경우 <code>--auth password</code> 옵션을 사용할 수 있습니다.</p>
+</blockquote>
+<hr>
+<h2 id="6-실행-확인" tabindex="-1">6. 실행 확인 <a class="header-anchor" href="#6-실행-확인" aria-hidden="true">#</a></h2>
+<p>웹 브라우저를 열고 아래 주소로 접속합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code><span class="hljs-symbol">http:</span><span class="hljs-comment">//127.0.0.1:8080/</span>
+</code></pre></div></code></pre>
+<p>아래와 같이 <strong>VS Code Web 화면(code-server)</strong> 이 표시되면 정상적으로 실행된 것입니다.</p>
+<p><img src="/images/_posts/termux/android-nextjs-deploy/1766716693967-Screenshot_20251226_113600_ChromeDev.jpg" alt="Screenshot20251226113600Chrome Dev.jpg"></p>
+<hr>
+<h2 id="마무리" tabindex="-1">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>이제 안드로이드 태블릿 환경에서 <strong>VS Code 기반 개발 환경</strong>이 준비되었습니다.</p>
+<p>다음 글에서는 이 환경 위에서:</p>
+<ul>
+<li>Node.js 설치</li>
+<li>Next.js 프로젝트 생성</li>
+<li>GitHub 연동 및 배포</li>
+</ul>
+<p>과정을 단계별로 진행해보겠습니다.</p>
+0:{"buildId":"2Pc5UdkUYG-A1FTqg63zW","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"termux › run-vscode-on-android"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"안드로이드 태블릿으로 VS-CODE (Visual Studio Code) 실행하기"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"안드로이드 태블릿으로 VsCode를 실행하는 방법에 대해 알아봅니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2025. 12. 31."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","termux"]}],["$","span","code-server",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","code-server"]}],["$","span","vscode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vscode"]}],["$","span","android",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","android"]}],["$","span","dev-environment",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","dev-environment"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3f06d49345bdfb16.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
