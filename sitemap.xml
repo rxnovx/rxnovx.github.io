@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://rxnovx.github.io/about</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/notes</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/termux</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/vscode</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io</loc><lastmod>2026-01-17T16:05:33.434Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io</loc><lastmod>2026-01-15T07:40:48.591Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/notes/how-to-use-markdown</loc><lastmod>2026-01-07T05:59:08.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/notes/window-symbols</loc><lastmod>2025-12-29T04:47:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/termux/deploy-nextjs-project-on-android</loc><lastmod>2026-01-01T04:08:10.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/termux/run-nextjs-on-android</loc><lastmod>2025-12-31T01:07:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/termux/run-vscode-on-android</loc><lastmod>2025-12-31T00:55:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/vscode/vscode-ssh-remote-offline-network</loc><lastmod>2026-01-15T06:15:05.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/posts</loc><lastmod>2026-01-17T16:05:33.434Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/posts</loc><lastmod>2026-01-15T07:40:48.591Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/android</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/code-server</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/dev-environment</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -30,8 +31,7 @@
 <url><loc>https://rxnovx.github.io/tags/vscode</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/windows</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/design-guide-pro</loc><lastmod>2026-01-17T16:05:33.434Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/seojun</loc><lastmod>2026-01-17T16:05:33.434Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/design-guide-pro</loc><lastmod>2026-01-15T07:40:48.591Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/seojun</loc><lastmod>2026-01-15T07:40:48.591Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post</loc></url>
-<url><loc>https://rxnovx.github.io/about</loc></url>
 </urlset>

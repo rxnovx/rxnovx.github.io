@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-d56aeff51c3257c7.js"],"default"]
+2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-faf6ec0b768b00cc.js"],"default"]
 6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/_next/static/css/3f06d49345bdfb16.css","style"]
-3:T47e1,<h1 id="폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" tabindex="-1">폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드) <a class="header-anchor" href="#폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" aria-hidden="true">#</a></h1>
-<h2 id="들어가기" tabindex="-1">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+3:T4a8f,<h1 id="폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" tabindex="-1" data-src-line="0">폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드) <a class="header-anchor" href="#폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" aria-hidden="true">#</a></h1>
+<h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>안녕하세요.<br>
 오늘은 <strong>폐쇄망 환경에서 VS Code Remote-SSH를 사용하는 방법</strong>에 대해 알아보겠습니다.</p>
 <p>보안 정책상 개발 PC에서 외부 인터넷 접근이 제한되거나, 서버에 직접 접속해 터미널 기반으로만 작업해야 하는 환경이 존재합니다.<br>
@@ -19,22 +19,22 @@
 <h3 class="callout-title">바쁨!</h3><p>바쁘신 분들은 <a href="#4-%EC%82%AC%EC%A0%84-%EC%A4%80%EB%B9%84-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8">4번 사전 준비 체크리스트</a>부터 확인하셔도 됩니다.</p>
 </div>
 <hr>
-<h2 id="1-글의-범위와-전제" tabindex="-1">1. 글의 범위와 전제 <a class="header-anchor" href="#1-글의-범위와-전제" aria-hidden="true">#</a></h2>
-<h3 id="11-대상-독자" tabindex="-1">1.1 대상 독자 <a class="header-anchor" href="#11-대상-독자" aria-hidden="true">#</a></h3>
+<h2 id="1-글의-범위와-전제" tabindex="-1" data-src-line="26">1. 글의 범위와 전제 <a class="header-anchor" href="#1-글의-범위와-전제" aria-hidden="true">#</a></h2>
+<h3 id="11-대상-독자" tabindex="-1" data-src-line="28">1.1 대상 독자 <a class="header-anchor" href="#11-대상-독자" aria-hidden="true">#</a></h3>
 <p>이 글은 다음과 같은 분들을 대상으로 작성되었습니다.</p>
 <ul>
 <li>VS Code에서 Remote-SSH를 사용해 본 경험이 있는 개발자</li>
 <li>폐쇄망(에어갭) 서버에 개발 환경을 구성해야 하는 경우</li>
 <li>인터넷이 차단된 서버에서 VS Code 기반 개발을 유지해야 하는 경우</li>
 </ul>
-<h3 id="12-이-글에서-해결하는-문제" tabindex="-1">1.2 이 글에서 해결하는 문제 <a class="header-anchor" href="#12-이-글에서-해결하는-문제" aria-hidden="true">#</a></h3>
+<h3 id="12-이-글에서-해결하는-문제" tabindex="-1" data-src-line="36">1.2 이 글에서 해결하는 문제 <a class="header-anchor" href="#12-이-글에서-해결하는-문제" aria-hidden="true">#</a></h3>
 <p>이 글에서 다루는 핵심 문제는 다음과 같습니다.</p>
 <ul>
 <li>Remote-SSH 접속 시 서버에서 vscode-server 다운로드 단계에서 실패하는 문제</li>
 <li>기존 <code>~/.vscode-server/bin/&lt;commit&gt;</code> 방식이 동작하지 않는 문제</li>
 <li>오프라인 환경에서 vscode-server를 수동으로 설치해야 하는 상황</li>
 </ul>
-<h3 id="13-폐쇄망-환경의-제약-조건" tabindex="-1">1.3 폐쇄망 환경의 제약 조건 <a class="header-anchor" href="#13-폐쇄망-환경의-제약-조건" aria-hidden="true">#</a></h3>
+<h3 id="13-폐쇄망-환경의-제약-조건" tabindex="-1" data-src-line="44">1.3 폐쇄망 환경의 제약 조건 <a class="header-anchor" href="#13-폐쇄망-환경의-제약-조건" aria-hidden="true">#</a></h3>
 <p>일반적으로 폐쇄망 환경에서는 다음과 같은 제약이 존재합니다.</p>
 <ul>
 <li>서버에서 외부 인터넷 접근 불가</li>
@@ -43,8 +43,8 @@
 </ul>
 <p>이로 인해 VS Code Remote-SSH의 기본 동작 흐름이 정상적으로 완료되지 않습니다.</p>
 <hr>
-<h2 id="2-remote-ssh가-실패하는-이유" tabindex="-1">2. Remote-SSH가 실패하는 이유 <a class="header-anchor" href="#2-remote-ssh가-실패하는-이유" aria-hidden="true">#</a></h2>
-<h3 id="21-remote-ssh의-내부-동작-개요" tabindex="-1">2.1 Remote-SSH의 내부 동작 개요 <a class="header-anchor" href="#21-remote-ssh의-내부-동작-개요" aria-hidden="true">#</a></h3>
+<h2 id="2-remote-ssh가-실패하는-이유" tabindex="-1" data-src-line="56">2. Remote-SSH가 실패하는 이유 <a class="header-anchor" href="#2-remote-ssh가-실패하는-이유" aria-hidden="true">#</a></h2>
+<h3 id="21-remote-ssh의-내부-동작-개요" tabindex="-1" data-src-line="58">2.1 Remote-SSH의 내부 동작 개요 <a class="header-anchor" href="#21-remote-ssh의-내부-동작-개요" aria-hidden="true">#</a></h3>
 <p>VS Code Remote-SSH는 단순히 SSH로 접속만 하는 확장이 아닙니다.</p>
 <p>연결 과정에서 VS Code는 원격 서버에 다음 작업을 수행합니다.</p>
 <ul>
@@ -53,7 +53,7 @@
 <li>원격 서버에서 VS Code와 통신할 백엔드 프로세스 실행</li>
 </ul>
 <p>이 과정 중 <strong>다운로드 단계가 실패</strong>하면 Remote-SSH 연결 자체가 중단됩니다.</p>
-<h3 id="22-폐쇄망에서-발생하는-대표적인-오류" tabindex="-1">2.2 폐쇄망에서 발생하는 대표적인 오류 <a class="header-anchor" href="#22-폐쇄망에서-발생하는-대표적인-오류" aria-hidden="true">#</a></h3>
+<h3 id="22-폐쇄망에서-발생하는-대표적인-오류" tabindex="-1" data-src-line="70">2.2 폐쇄망에서 발생하는 대표적인 오류 <a class="header-anchor" href="#22-폐쇄망에서-발생하는-대표적인-오류" aria-hidden="true">#</a></h3>
 <p>폐쇄망 환경에서는 다음과 같은 오류를 자주 마주치게 됩니다.</p>
 <ul>
 <li><code>Failed to download VS Code Server</code></li>
@@ -61,34 +61,34 @@
 <li>무한 재시도 루프</li>
 </ul>
 <p>이는 모두 서버에서 외부 네트워크로 접근할 수 없기 때문에 발생하는 문제입니다.</p>
-<h3 id="23-기존-스택오버플로우-방식이-실패하는-이유" tabindex="-1">2.3 기존 스택오버플로우 방식이 실패하는 이유 <a class="header-anchor" href="#23-기존-스택오버플로우-방식이-실패하는-이유" aria-hidden="true">#</a></h3>
+<h3 id="23-기존-스택오버플로우-방식이-실패하는-이유" tabindex="-1" data-src-line="80">2.3 기존 스택오버플로우 방식이 실패하는 이유 <a class="header-anchor" href="#23-기존-스택오버플로우-방식이-실패하는-이유" aria-hidden="true">#</a></h3>
 <p>과거에는 <code>~/.vscode-server/bin/&lt;commit&gt;</code> 경로에 미리 다운로드한 파일을 복사하는 방식으로 문제를 해결할 수 있었습니다.</p>
 <p>하지만 최근 버전의 VS Code Remote-SSH에서는 <strong>서버 설치 경로 및 실행 방식이 변경</strong>되었고, 이로 인해 기존 방식이 더 이상 통하지 않는 경우가 많아졌습니다.</p>
 <hr>
-<h2 id="3-최근-vs-code--remote-ssh의-변경점" tabindex="-1">3. 최근 VS Code / Remote-SSH의 변경점 <a class="header-anchor" href="#3-최근-vs-code--remote-ssh의-변경점" aria-hidden="true">#</a></h2>
-<h3 id="31-기존-방식-vscode-serverbincommit" tabindex="-1">3.1 기존 방식: <code>~/.vscode-server/bin/&lt;commit&gt;</code> <a class="header-anchor" href="#31-기존-방식-vscode-serverbincommit" aria-hidden="true">#</a></h3>
+<h2 id="3-최근-vs-code--remote-ssh의-변경점" tabindex="-1" data-src-line="88">3. 최근 VS Code / Remote-SSH의 변경점 <a class="header-anchor" href="#3-최근-vs-code--remote-ssh의-변경점" aria-hidden="true">#</a></h2>
+<h3 id="31-기존-방식-vscode-serverbincommit" tabindex="-1" data-src-line="90">3.1 기존 방식: <code>~/.vscode-server/bin/&lt;commit&gt;</code> <a class="header-anchor" href="#31-기존-방식-vscode-serverbincommit" aria-hidden="true">#</a></h3>
 <p>과거 Remote-SSH는 커밋 ID 기준으로 다음 경로에 서버 파일을 설치했습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>~<span class="hljs-regexp">/.vscode-server/</span>bin<span class="hljs-regexp">/&lt;commit&gt;/</span>
 </code></pre></div></code></pre>
 <p>이 경로에 파일이 존재하면 다운로드 과정을 건너뛰었습니다.</p>
-<h3 id="32-최신-방식-cliserversstable-commit" tabindex="-1">3.2 최신 방식: <code>cli/servers/Stable-&lt;commit&gt;</code> <a class="header-anchor" href="#32-최신-방식-cliserversstable-commit" aria-hidden="true">#</a></h3>
+<h3 id="32-최신-방식-cliserversstable-commit" tabindex="-1" data-src-line="100">3.2 최신 방식: <code>cli/servers/Stable-&lt;commit&gt;</code> <a class="header-anchor" href="#32-최신-방식-cliserversstable-commit" aria-hidden="true">#</a></h3>
 <p>최근 버전에서는 다음과 같은 새로운 경로가 사용됩니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>~/.vscode-<span class="hljs-keyword">server</span>/code-&lt;<span class="hljs-keyword">commit</span>&gt;
 ~/.vscode-<span class="hljs-keyword">server</span>/cli/servers/<span class="hljs-keyword">Stable</span>-&lt;<span class="hljs-keyword">commit</span>&gt;/<span class="hljs-keyword">server</span>/
 </code></pre></div></code></pre>
 <p>이 변화로 인해 기존 경로에 파일을 복사해도 Remote-SSH가 이를 인식하지 못하는 상황이 발생합니다.</p>
-<h3 id="33-내-환경에서-사용-중인-방식-확인하기" tabindex="-1">3.3 내 환경에서 사용 중인 방식 확인하기 <a class="header-anchor" href="#33-내-환경에서-사용-중인-방식-확인하기" aria-hidden="true">#</a></h3>
+<h3 id="33-내-환경에서-사용-중인-방식-확인하기" tabindex="-1" data-src-line="111">3.3 내 환경에서 사용 중인 방식 확인하기 <a class="header-anchor" href="#33-내-환경에서-사용-중인-방식-확인하기" aria-hidden="true">#</a></h3>
 <p>현재 사용 중인 방식은 VS Code의 <strong>Remote-SSH Output 로그</strong>를 통해 확인할 수 있습니다.</p>
 <p>로그에 다음과 같은 문자열이 포함되어 있다면 최신 방식입니다.</p>
 <ul>
 <li><code>cli/servers/Stable-&lt;commit&gt;/server/bin/code-server</code></li>
 </ul>
 <hr>
-<h2 id="4-사전-준비-체크리스트" tabindex="-1">4. 사전 준비 체크리스트 <a class="header-anchor" href="#4-사전-준비-체크리스트" aria-hidden="true">#</a></h2>
-<h3 id="41-서버-os-및-아키텍처-확인" tabindex="-1">4.1 서버 OS 및 아키텍처 확인 <a class="header-anchor" href="#41-서버-os-및-아키텍처-확인" aria-hidden="true">#</a></h3>
+<h2 id="4-사전-준비-체크리스트" tabindex="-1" data-src-line="121">4. 사전 준비 체크리스트 <a class="header-anchor" href="#4-사전-준비-체크리스트" aria-hidden="true">#</a></h2>
+<h3 id="41-서버-os-및-아키텍처-확인" tabindex="-1" data-src-line="123">4.1 서버 OS 및 아키텍처 확인 <a class="header-anchor" href="#41-서버-os-및-아키텍처-확인" aria-hidden="true">#</a></h3>
 <p>서버의 운영체제와 CPU 아키텍처(x64, arm64 등)를 정확히 확인해야 합니다.</p>
 <p>잘못된 아키텍처의 바이너리를 사용할 경우 실행 단계에서 실패합니다.</p>
-<h3 id="42-vs-code-버전-및-commit-id-확인" tabindex="-1">4.2 VS Code 버전 및 Commit ID 확인 <a class="header-anchor" href="#42-vs-code-버전-및-commit-id-확인" aria-hidden="true">#</a></h3>
+<h3 id="42-vs-code-버전-및-commit-id-확인" tabindex="-1" data-src-line="129">4.2 VS Code 버전 및 Commit ID 확인 <a class="header-anchor" href="#42-vs-code-버전-및-commit-id-확인" aria-hidden="true">#</a></h3>
 <p>VS Code는 커밋 ID 기준으로 버전을 관리합니다.</p>
 <p>로컬 PC에서 사용 중인 VS Code의 <strong>Commit ID</strong>를 반드시 확인해 두어야 합니다.</p>
 <p>방법은 아래와 같습니다.</p>
@@ -97,15 +97,15 @@
 {COMMIT} # 커밋
 x64 # 아키텍처
 </code></pre></div></code></pre>
-<h3 id="43-서버-필수-조건" tabindex="-1">4.3 서버 필수 조건 <a class="header-anchor" href="#43-서버-필수-조건" aria-hidden="true">#</a></h3>
+<h3 id="43-서버-필수-조건" tabindex="-1" data-src-line="145">4.3 서버 필수 조건 <a class="header-anchor" href="#43-서버-필수-조건" aria-hidden="true">#</a></h3>
 <ul>
 <li>SSH 접속 가능</li>
 <li>사용자 홈 디렉토리 쓰기 권한</li>
 <li>충분한 디스크 공간</li>
 </ul>
 <hr>
-<h2 id="5-오프라인-설치-파일-준비" tabindex="-1">5. 오프라인 설치 파일 준비 <a class="header-anchor" href="#5-오프라인-설치-파일-준비" aria-hidden="true">#</a></h2>
-<h3 id="51-인터넷-가능한-pc에서-파일-준비" tabindex="-1">5.1 인터넷 가능한 PC에서 파일 준비 <a class="header-anchor" href="#51-인터넷-가능한-pc에서-파일-준비" aria-hidden="true">#</a></h3>
+<h2 id="5-오프라인-설치-파일-준비" tabindex="-1" data-src-line="153">5. 오프라인 설치 파일 준비 <a class="header-anchor" href="#5-오프라인-설치-파일-준비" aria-hidden="true">#</a></h2>
+<h3 id="51-인터넷-가능한-pc에서-파일-준비" tabindex="-1" data-src-line="155">5.1 인터넷 가능한 PC에서 파일 준비 <a class="header-anchor" href="#51-인터넷-가능한-pc에서-파일-준비" aria-hidden="true">#</a></h3>
 <p>인터넷이 가능한 PC에서 서버용 vscode-server 압축 파일을 미리 다운로드합니다.</p>
 <p>사전에 확인한 COMMIT 값을 아래 주소에 대입하여 파일을 다운로드 합니다.</p>
 <p><a href="https://vscode.download.prss.microsoft.com/dbazure/download/stable/$%7BCOMMIT%7D/vscode-server-linux-x64.tar.gz" target="_blank" rel="noopener noreferrer" class="md-ext-link">https://vscode.download.prss.microsoft.com/dbazure/download/stable/${COMMIT}/vscode-server-linux-x64.tar.gz</a><br>
@@ -113,11 +113,11 @@ x64 # 아키텍처
 <p>아래 각각 파일명을 가진 압축파일이 다운로드 됩니다.<br>
 vscode-server-linux-x64.tar.gz<br>
 vscode-cli_alpine_x64_cli.tar.gz</p>
-<h3 id="52-폐쇄망-서버로-파일-반입" tabindex="-1">5.2 폐쇄망 서버로 파일 반입 <a class="header-anchor" href="#52-폐쇄망-서버로-파일-반입" aria-hidden="true">#</a></h3>
+<h3 id="52-폐쇄망-서버로-파일-반입" tabindex="-1" data-src-line="169">5.2 폐쇄망 서버로 파일 반입 <a class="header-anchor" href="#52-폐쇄망-서버로-파일-반입" aria-hidden="true">#</a></h3>
 <p>USB, 내부 파일 서버, 보안 승인된 전송 수단을 이용해 서버로 파일을 전달합니다.</p>
 <hr>
-<h2 id="6-폐쇄망-서버에-vs-code-server-수동-설치" tabindex="-1">6. 폐쇄망 서버에 VS Code Server 수동 설치 <a class="header-anchor" href="#6-폐쇄망-서버에-vs-code-server-수동-설치" aria-hidden="true">#</a></h2>
-<h3 id="61-최신-경로-기준-설치-방법" tabindex="-1">6.1 최신 경로 기준 설치 방법 <a class="header-anchor" href="#61-최신-경로-기준-설치-방법" aria-hidden="true">#</a></h3>
+<h2 id="6-폐쇄망-서버에-vs-code-server-수동-설치" tabindex="-1" data-src-line="175">6. 폐쇄망 서버에 VS Code Server 수동 설치 <a class="header-anchor" href="#6-폐쇄망-서버에-vs-code-server-수동-설치" aria-hidden="true">#</a></h2>
+<h3 id="61-최신-경로-기준-설치-방법" tabindex="-1" data-src-line="177">6.1 최신 경로 기준 설치 방법 <a class="header-anchor" href="#61-최신-경로-기준-설치-방법" aria-hidden="true">#</a></h3>
 <p>다운로드 한 두 파일을 특정 폴더에 지정해서 넣어두고 아래의 스크립트를 실행합니다.</p>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>COMMIT=COMMIT_ID <span class="hljs-comment"># 여기에 자신의 VS Code Commit ID를 입력</span>
 
@@ -149,7 +149,7 @@ tar -xzf ./vscode-server-linux-x64.tar.gz \
 <span class="hljs-built_in">chmod</span> -R 700 ~/.vscode-server
 
 </code></pre></div></code></pre>
-<h3 id="62-스크립트-설명" tabindex="-1">6.2 스크립트 설명 <a class="header-anchor" href="#62-스크립트-설명" aria-hidden="true">#</a></h3>
+<h3 id="62-스크립트-설명" tabindex="-1" data-src-line="212">6.2 스크립트 설명 <a class="header-anchor" href="#62-스크립트-설명" aria-hidden="true">#</a></h3>
 <ul>
 <li>1단계: vscode-cli 압축을 해제하여 code 실행 파일을 준비합니다.</li>
 <li>2단계: code 바이너리를 Commit ID 기준 이름으로 복사합니다.</li>
@@ -159,32 +159,32 @@ tar -xzf ./vscode-server-linux-x64.tar.gz \
 </ul>
 <p>이 단계까지 완료되면, Remote-SSH가 서버에 추가 다운로드를 시도하지 않고 기존 파일을 사용하게 됩니다.</p>
 <hr>
-<h2 id="7-remote-ssh-연결-확인" tabindex="-1">7. Remote-SSH 연결 확인 <a class="header-anchor" href="#7-remote-ssh-연결-확인" aria-hidden="true">#</a></h2>
-<h3 id="71-vs-code에서-재접속" tabindex="-1">7.1 VS Code에서 재접속 <a class="header-anchor" href="#71-vs-code에서-재접속" aria-hidden="true">#</a></h3>
+<h2 id="7-remote-ssh-연결-확인" tabindex="-1" data-src-line="225">7. Remote-SSH 연결 확인 <a class="header-anchor" href="#7-remote-ssh-연결-확인" aria-hidden="true">#</a></h2>
+<h3 id="71-vs-code에서-재접속" tabindex="-1" data-src-line="227">7.1 VS Code에서 재접속 <a class="header-anchor" href="#71-vs-code에서-재접속" aria-hidden="true">#</a></h3>
 <p>설치가 완료되면 VS Code에서 Remote-SSH로 다시 접속을 시도합니다.</p>
-<h3 id="72-정상-동작-여부-확인" tabindex="-1">7.2 정상 동작 여부 확인 <a class="header-anchor" href="#72-정상-동작-여부-확인" aria-hidden="true">#</a></h3>
+<h3 id="72-정상-동작-여부-확인" tabindex="-1" data-src-line="231">7.2 정상 동작 여부 확인 <a class="header-anchor" href="#72-정상-동작-여부-확인" aria-hidden="true">#</a></h3>
 <p>정상적으로 연결되었다면 연결 완료 후 아무 에러 없이 VS Code 창이 뜨는 걸 확인할 수 있습니다.</p>
 <hr>
-<h2 id="8-자주-발생하는-문제와-해결-방법" tabindex="-1">8. 자주 발생하는 문제와 해결 방법 <a class="header-anchor" href="#8-자주-발생하는-문제와-해결-방법" aria-hidden="true">#</a></h2>
-<h3 id="81-commit-id-불일치" tabindex="-1">8.1 Commit ID 불일치 <a class="header-anchor" href="#81-commit-id-불일치" aria-hidden="true">#</a></h3>
+<h2 id="8-자주-발생하는-문제와-해결-방법" tabindex="-1" data-src-line="237">8. 자주 발생하는 문제와 해결 방법 <a class="header-anchor" href="#8-자주-발생하는-문제와-해결-방법" aria-hidden="true">#</a></h2>
+<h3 id="81-commit-id-불일치" tabindex="-1" data-src-line="239">8.1 Commit ID 불일치 <a class="header-anchor" href="#81-commit-id-불일치" aria-hidden="true">#</a></h3>
 <p>VS Code가 업데이트되면 Commit ID가 변경되며, 기존 서버 파일이 재사용되지 않습니다.</p>
 <p>VS Code 업데이트를 진행하게 되면 위의 과정을 반복해주시면 됩니다.</p>
-<h3 id="82-아키텍처-불일치" tabindex="-1">8.2 아키텍처 불일치 <a class="header-anchor" href="#82-아키텍처-불일치" aria-hidden="true">#</a></h3>
+<h3 id="82-아키텍처-불일치" tabindex="-1" data-src-line="245">8.2 아키텍처 불일치 <a class="header-anchor" href="#82-아키텍처-불일치" aria-hidden="true">#</a></h3>
 <p>서버 아키텍처와 다른 바이너리를 사용하는 경우 실행이 불가능합니다.</p>
-<h3 id="83-퍼미션-및-홈-디렉토리-문제" tabindex="-1">8.3 퍼미션 및 홈 디렉토리 문제 <a class="header-anchor" href="#83-퍼미션-및-홈-디렉토리-문제" aria-hidden="true">#</a></h3>
+<h3 id="83-퍼미션-및-홈-디렉토리-문제" tabindex="-1" data-src-line="249">8.3 퍼미션 및 홈 디렉토리 문제 <a class="header-anchor" href="#83-퍼미션-및-홈-디렉토리-문제" aria-hidden="true">#</a></h3>
 <p>NFS 홈 디렉토리 또는 제한된 권한 환경에서는 추가 설정이 필요할 수 있습니다.</p>
 <hr>
-<h2 id="9-운영-팁" tabindex="-1">9. 운영 팁 <a class="header-anchor" href="#9-운영-팁" aria-hidden="true">#</a></h2>
-<h3 id="91-vs-code-업데이트-전략" tabindex="-1">9.1 VS Code 업데이트 전략 <a class="header-anchor" href="#91-vs-code-업데이트-전략" aria-hidden="true">#</a></h3>
+<h2 id="9-운영-팁" tabindex="-1" data-src-line="255">9. 운영 팁 <a class="header-anchor" href="#9-운영-팁" aria-hidden="true">#</a></h2>
+<h3 id="91-vs-code-업데이트-전략" tabindex="-1" data-src-line="257">9.1 VS Code 업데이트 전략 <a class="header-anchor" href="#91-vs-code-업데이트-전략" aria-hidden="true">#</a></h3>
 <p>폐쇄망 환경에서는 VS Code 버전을 고정해 사용하는 것이 관리 측면에서 유리합니다.</p>
-<h3 id="92-팀-단위-배포-전략" tabindex="-1">9.2 팀 단위 배포 전략 <a class="header-anchor" href="#92-팀-단위-배포-전략" aria-hidden="true">#</a></h3>
+<h3 id="92-팀-단위-배포-전략" tabindex="-1" data-src-line="261">9.2 팀 단위 배포 전략 <a class="header-anchor" href="#92-팀-단위-배포-전략" aria-hidden="true">#</a></h3>
 <p>미리 서버 바이너리를 패키징해 내부 배포용으로 관리하면 반복 작업을 줄일 수 있습니다.</p>
 <hr>
-<h2 id="10-마무리" tabindex="-1">10. 마무리 <a class="header-anchor" href="#10-마무리" aria-hidden="true">#</a></h2>
+<h2 id="10-마무리" tabindex="-1" data-src-line="267">10. 마무리 <a class="header-anchor" href="#10-마무리" aria-hidden="true">#</a></h2>
 <p>본 글에서는 폐쇄망 환경에서 VS Code Remote-SSH를 오프라인으로 구성하는 방법을 살펴보았습니다.</p>
 <p>환경 제약으로 인해 번거로울 수 있지만, 한 번 구성해 두면 로컬과 동일한 개발 경험을 유지할 수 있습니다.</p>
 <p>폐쇄망 환경에서 개발 생산성을 유지해야 하는 분들께 이 글이 도움이 되기를 바랍니다.</p>
-0:{"buildId":"g9QQ5ddAVMmcYDolcFAT7","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"vscode › vscode-ssh-remote-offline-network"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"폐쇄망에서 vscode ssh remote 하는 방법에 대해 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 15."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","vs-code",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vs-code"]}],["$","span","remote",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","remote"]}],["$","span","offline-network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","offline-network"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+0:{"buildId":"GWFbEy6_5zbF0dzdB9brc","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"vscode › vscode-ssh-remote-offline-network"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"폐쇄망에서 vscode ssh remote 하는 방법에 대해 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 15."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","vs-code",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vs-code"]}],["$","span","remote",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","remote"]}],["$","span","offline-network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","offline-network"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3f06d49345bdfb16.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null
