@@ -1,0 +1,173 @@
+1:"$Sreact.fragment"
+2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-ae45985938c0825e.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/f9ba877569af6fa6.css","style"]
+3:T335b,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#리눅스-작업-스케줄링-도구-개요">리눅스 작업 스케줄링 도구 개요 </a></li><li><a href="#cron-이란">CRON 이란 </a><ul><li><a href="#cron-사용-제한-정책">cron 사용 제한 정책 </a></li></ul></li><li><a href="#crontab-이란">Crontab 이란 </a><ul><li><a href="#crontab-명령어">crontab 명령어 </a></li></ul></li><li><a href="#크론탭-문법-이해하기">크론탭 문법 이해하기 </a><ul><li><a href="#자주-사용하는-예제">자주 사용하는 예제 </a></li><li><a href="#특수-표현">특수 표현 </a></li></ul></li><li><a href="#cron-사용-시-주의할-점">cron 사용 시 주의할 점 </a></li><li><a href="#at-명령어">at 명령어 </a></li><li><a href="#anacron-이란">Anacron 이란 </a><ul><li><a href="#anacron의-특징">anacron의 특징 </a></li></ul></li><li><a href="#마치며">마치며 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+<p>리눅스를 사용하다 보면 <strong>정해진 시간에 반복 작업을 실행해야 하는 상황</strong>을 자주 만나게 됩니다.<br>
+백업 스크립트, 로그 정리, 임시 파일 삭제, 주기적인 상태 점검 등이 대표적입니다.</p>
+<p>이런 작업을 매번 사람이 직접 실행하는 것은 비효율적입니다.<br>
+리눅스에서는 이를 위해 <strong>작업 스케줄링 서비스</strong>를 제공합니다.</p>
+<p>이번 글에서는 리눅스에서 가장 많이 사용되는 스케줄링 도구인 <strong>cron</strong>, 그리고 보조적으로 사용되는 <strong>at</strong>, <strong>anacron</strong>의 역할과 사용 흐름을 정리합니다.<br>
+실무에서 자주 사용하는 cron을 중심으로 설명합니다.</p>
+<hr>
+<h2 id="리눅스-작업-스케줄링-도구-개요" tabindex="-1" data-src-line="15">리눅스 작업 스케줄링 도구 개요 <a class="header-anchor" href="#리눅스-작업-스케줄링-도구-개요" aria-hidden="true">#</a></h2>
+<p>리눅스에서 사용하는 대표적인 스케줄링 서비스는 다음과 같습니다.</p>
+<ul>
+<li><strong>cron</strong> : 주기적으로 반복 실행되는 작업</li>
+<li><strong>at</strong> : 한 번만 실행되는 예약 작업</li>
+<li><strong>anacron</strong> : 시스템이 꺼져 있어도 실행 보장이 필요한 작업</li>
+</ul>
+<p>이 중에서 <strong>cron이 가장 많이 사용</strong>됩니다.<br>
+서버 환경에서는 사실상 표준이라고 봐도 무방합니다.</p>
+<hr>
+<h2 id="cron-이란" tabindex="-1" data-src-line="28">CRON 이란 <a class="header-anchor" href="#cron-이란" aria-hidden="true">#</a></h2>
+<p>cron은 <strong>정해진 시간 규칙에 따라 명령이나 스크립트를 실행</strong>하는 데몬 서비스입니다.<br>
+백그라운드에서 항상 동작하며, 설정된 작업이 있으면 해당 시점에 실행합니다.</p>
+<h3 id="cron-사용-제한-정책" tabindex="-1" data-src-line="33">cron 사용 제한 정책 <a class="header-anchor" href="#cron-사용-제한-정책" aria-hidden="true">#</a></h3>
+<p>cron은 아무 사용자나 사용할 수 없습니다.<br>
+시스템 관리자가 허용한 사용자만 cron을 사용할 수 있도록 제한할 수 있습니다.</p>
+<p>이때 사용되는 파일이 다음 두 가지입니다.</p>
+<ul>
+<li><code>/etc/cron.allow</code></li>
+<li><code>/etc/cron.deny</code></li>
+</ul>
+<p>동작 규칙은 다음과 같습니다.</p>
+<ul>
+<li>
+<p><code>cron.allow</code> 파일이 <strong>존재하면</strong></p>
+<ul>
+<li>root 사용자와 <code>cron.allow</code>에 등록된 사용자만 cron 사용 가능</li>
+<li><code>cron.deny</code> 파일은 무시됨</li>
+</ul>
+</li>
+<li>
+<p><code>cron.allow</code> 파일이 <strong>존재하지 않고</strong> <code>cron.deny</code>만 있으면</p>
+<ul>
+<li><code>cron.deny</code>에 등록된 사용자는 cron 사용 불가</li>
+<li>나머지 사용자는 사용 가능</li>
+</ul>
+</li>
+</ul>
+<p>보안이 중요한 시스템에서는 보통 <code>cron.allow</code> 파일을 사용하여<br>
+허용된 사용자만 명확하게 관리합니다.</p>
+<hr>
+<h2 id="crontab-이란" tabindex="-1" data-src-line="59">Crontab 이란 <a class="header-anchor" href="#crontab-이란" aria-hidden="true">#</a></h2>
+<p>cron 작업은 <strong>crontab(cron table)</strong> 이라는 설정 파일에 등록됩니다.<br>
+각 사용자는 자신의 crontab을 가질 수 있으며,<br>
+cron 데몬은 이를 읽어 작업을 수행합니다.</p>
+<h3 id="crontab-명령어" tabindex="-1" data-src-line="65">crontab 명령어 <a class="header-anchor" href="#crontab-명령어" aria-hidden="true">#</a></h3>
+<p>crontab을 관리하기 위한 기본 명령어는 다음과 같습니다.</p>
+<ul>
+<li>현재 등록된 cron 작업 확인</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">crontab -l</span>
+</code></pre></div></code></pre>
+<ul>
+<li>cron 작업 편집</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">crontab -e</span>
+</code></pre></div></code></pre>
+<ul>
+<li>cron 작업 전체 삭제</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>crontab -<span class="hljs-attribute">r</span>
+</code></pre></div></code></pre>
+<ul>
+<li>파일로 작성한 cron 설정 등록</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">crontab filename</span>
+</code></pre></div></code></pre>
+<p>실무에서는 보통 <code>crontab -e</code>를 가장 많이 사용합니다.</p>
+<hr>
+<h2 id="크론탭-문법-이해하기" tabindex="-1" data-src-line="97">크론탭 문법 이해하기 <a class="header-anchor" href="#크론탭-문법-이해하기" aria-hidden="true">#</a></h2>
+<p>crontab의 핵심은 <strong>시간 필드 문법</strong>입니다.<br>
+형식은 다음과 같습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>분 시 일 월 요일 명령어
+</code></pre></div></code></pre>
+<p>이를 풀어서 보면 다음과 같습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>*  *  *  *  *  command
+┬  ┬  ┬  ┬  ┬
+│  │  │  │  └─ 요일 (<span class="hljs-number">0</span>-<span class="hljs-number">7</span> = 일요일, <span class="hljs-number">1</span> = 월요일)
+│  │  │  └──── 월 (<span class="hljs-number">1</span>-<span class="hljs-number">12</span>)
+│  │  └─────── 일 (<span class="hljs-number">1</span>-<span class="hljs-number">31</span>)
+│  └────────── 시 (<span class="hljs-number">0</span>-<span class="hljs-number">23</span>)
+└───────────── 분 (<span class="hljs-number">0</span>-<span class="hljs-number">59</span>)
+</code></pre></div></code></pre>
+<h3 id="자주-사용하는-예제" tabindex="-1" data-src-line="118">자주 사용하는 예제 <a class="header-anchor" href="#자주-사용하는-예제" aria-hidden="true">#</a></h3>
+<ul>
+<li>매일 새벽 3시 30분에 실행</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">30 </span><span class="hljs-number">3</span> * * * /<span class="hljs-keyword">usr</span>/local/bin/backup.sh
+</code></pre></div></code></pre>
+<ul>
+<li>5분마다 실행</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>*<span class="hljs-regexp">/5 * * * * /u</span>sr<span class="hljs-regexp">/local/</span>bin/job.sh
+</code></pre></div></code></pre>
+<ul>
+<li>매주 월요일 오전 9시에 실행</li>
+</ul>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">0 </span><span class="hljs-number">9</span> * * <span class="hljs-number">1</span> /<span class="hljs-keyword">usr</span>/local/bin/weekly.sh
+</code></pre></div></code></pre>
+<h3 id="특수-표현" tabindex="-1" data-src-line="138">특수 표현 <a class="header-anchor" href="#특수-표현" aria-hidden="true">#</a></h3>
+<ul>
+<li><code>*</code> : 모든 값</li>
+<li><code>*/5</code> : 5 단위(step)마다</li>
+<li><code>1-5</code> : 1부터 5까지(range)</li>
+</ul>
+<p>이 조합만 익혀도 대부분의 cron 작업을 작성할 수 있습니다.</p>
+<hr>
+<h2 id="cron-사용-시-주의할-점" tabindex="-1" data-src-line="148">cron 사용 시 주의할 점 <a class="header-anchor" href="#cron-사용-시-주의할-점" aria-hidden="true">#</a></h2>
+<p>cron 환경은 <strong>일반 쉘과 다르다</strong>는 점을 반드시 인지해야 합니다.</p>
+<ul>
+<li>PATH 환경 변수가 제한적임</li>
+<li>상대 경로 사용 시 오류 발생 가능</li>
+<li>실행 파일은 절대 경로로 지정하는 것이 안전함</li>
+</ul>
+<p>따라서 cron에서는 다음과 같은 습관이 중요합니다.</p>
+<ul>
+<li>명령어와 스크립트는 <strong>절대 경로 사용</strong></li>
+<li>필요한 환경 변수는 스크립트 내부에서 직접 설정</li>
+<li>로그 출력을 통해 실행 여부 확인</li>
+</ul>
+<hr>
+<h2 id="at-명령어" tabindex="-1" data-src-line="164">at 명령어 <a class="header-anchor" href="#at-명령어" aria-hidden="true">#</a></h2>
+<p><code>at</code>은 <strong>한 번만 실행되는 예약 작업</strong>을 등록할 때 사용합니다.</p>
+<p>예를 들어, 특정 시각에 한 번만 스크립트를 실행해야 할 때 적합합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-keyword">at</span> <span class="hljs-number">23</span>:<span class="hljs-number">00</span>
+<span class="hljs-keyword">at</span>&gt; /usr/<span class="hljs-keyword">local</span>/bin/oneshot.sh
+<span class="hljs-keyword">at</span>&gt; Ctrl+D
+</code></pre></div></code></pre>
+<p>반복 실행에는 적합하지 않으며,<br>
+주기적인 작업에는 cron을 사용합니다.</p>
+<hr>
+<h2 id="anacron-이란" tabindex="-1" data-src-line="181">Anacron 이란 <a class="header-anchor" href="#anacron-이란" aria-hidden="true">#</a></h2>
+<p>anacron은 <strong>항상 켜져 있지 않은 시스템</strong>을 위한 스케줄러입니다.</p>
+<p>서버와 달리 노트북이나 개인 PC는<br>
+정해진 시간에 꺼져 있는 경우가 많습니다.<br>
+이 경우 cron 작업은 실행되지 않고 그대로 놓치게 됩니다.</p>
+<p>anacron은 이러한 문제를 보완합니다.</p>
+<h3 id="anacron의-특징" tabindex="-1" data-src-line="191">anacron의 특징 <a class="header-anchor" href="#anacron의-특징" aria-hidden="true">#</a></h3>
+<ul>
+<li>시스템이 꺼져 있던 동안 <strong>놓친 작업을 부팅 후 실행</strong></li>
+<li>하루 단위 이상의 작업만 지원 (분, 시간 단위 불가)</li>
+<li>root 권한으로 동작</li>
+<li>시스템 전역 작업에 사용</li>
+</ul>
+<p>로그 정리, 주간 백업처럼<br>
+&quot;반드시 하루에 한 번 이상 실행되어야 하는 작업&quot;에 적합합니다.</p>
+<hr>
+<h2 id="마치며" tabindex="-1" data-src-line="203">마치며 <a class="header-anchor" href="#마치며" aria-hidden="true">#</a></h2>
+<p>cron은 리눅스 시스템 관리에서 반드시 익혀야 할 핵심 도구입니다.</p>
+<p>처음에는 문법이 다소 복잡하게 느껴질 수 있지만,<br>
+몇 가지 패턴만 익히면 반복 작업 관리가 훨씬 수월해집니다.</p>
+<p>cron, at, anacron의 역할을 구분해서 사용한다면<br>
+시스템 작업을 보다 안정적으로 운영할 수 있습니다.</p>
+<p>다음 글에서는<br>
+실제 운영 환경에서 자주 사용하는 cron 예제와 로그 관리 방법을<br>
+조금 더 깊게 다뤄볼 예정입니다.</p>
+0:{"buildId":"KZGP3CB_y3WHCtqHNeRzg","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-13-schedule-future-tasks"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #13 – 작업 스케줄링과 자동 실행 (cron · at · anacron)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"리눅스에서 반복 작업과 예약 작업을 자동화하는 방법을 정리합니다.\ncron, at, anacron의 차이와 역할을 살펴보고, crontab 문법과 실무에서 자주 사용하는 설정 흐름을 정리했습니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 28."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","cron",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","cron"]}],["$","span","crontab",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","crontab"]}],["$","span","scheduling",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","scheduling"]}],["$","span","task",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","task"]}],["$","span","scheduler",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","scheduler"]}],["$","span","allow",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","allow"]}],["$","span","deny",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","deny"]}],["$","span","anacron",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","anacron"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null

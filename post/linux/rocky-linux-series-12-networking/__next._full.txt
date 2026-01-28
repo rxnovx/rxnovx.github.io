@@ -1,0 +1,311 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-a149350bc26774eb.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-a149350bc26774eb.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-c03e86e1dfb5d50b.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","760","static/chunks/app/(blog)/page-d59893dbd9ca66ec.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/cbceb53e223e8db8.css","style"]
+:HL["/_next/static/css/f9ba877569af6fa6.css","style"]
+0:{"P":null,"b":"KZGP3CB_y3WHCtqHNeRzg","c":["","post","linux","rocky-linux-series-12-networking"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","linux/rocky-linux-series-12-networking","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cbceb53e223e8db8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-d719388b49f0797d.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-full border border-[var(--border)] px-2.5 py-1 transition hover:border-[var(--accent)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-full border border-[var(--border)] px-2.5 py-1 transition hover:border-[var(--accent)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}]
+a:["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]
+b:["$","div",null,{"className":"mt-6 border-t border-dashed border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+13:["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-12-networking"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"Red Hat Enterprise Linux 환경에서 네트워크를 관리하는 기본 흐름을 정리합니다. IPv4·IPv6 개념부터 NetworkManager, nmcli 설정, 라우팅, DNS, 네트워크 진단까지 실습 중심으로 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 28."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","rhel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","networkmanager",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","networkmanager"]}],["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","networking",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","networking"]}],["$","span","ip",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","ip"]}],["$","span","route",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","route"]}],["$","span","dns",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","dns"]}],["$","span","resolv.conf",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","resolv.conf"]}],["$","span","network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","network"]}],["$","span","troubleshooting",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","troubleshooting"]}]]}]]}],"$L1c"]}],"$L1d"]}]
+1e:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-ae45985938c0825e.js"],"default"]
+1c:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]
+1f:T50f3,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#ipv4-기초">IPv4 기초 </a><ul><li><a href="#ipv4-주소란">IPv4 주소란 </a></li><li><a href="#스페셜-주소">스페셜 주소 </a></li><li><a href="#주소-클래스">주소 클래스 </a></li></ul></li><li><a href="#사설-ip와-nat">사설 IP와 NAT </a><ul><li><a href="#nat와-napt">NAT와 NAPT </a></li></ul></li><li><a href="#tcp--udp-기초">TCP / UDP 기초 </a><ul><li><a href="#tcp">TCP </a></li><li><a href="#udp">UDP </a></li><li><a href="#시스템-서비스-포트-정보">시스템 서비스 포트 정보 </a></li></ul></li><li><a href="#ipv6-개요">IPv6 개요 </a><ul><li><a href="#ipv6-주소-예시">IPv6 주소 예시 </a></li></ul></li><li><a href="#리눅스-네트워크-인터페이스-이름-규칙">리눅스 네트워크 인터페이스 이름 규칙 </a><ul><li><a href="#주요-접두어">주요 접두어 </a></li><li><a href="#ethernet-상세-규칙">Ethernet 상세 규칙 </a></li></ul></li><li><a href="#ethtool-명령어">ethtool 명령어 </a></li><li><a href="#ip-주소-확인-명령어">IP 주소 확인 명령어 </a><ul><li><a href="#ifconfig">ifconfig </a></li><li><a href="#ip-명령어-체계">ip 명령어 체계 </a><ul><li><a href="#layer-2">Layer 2 </a></li><li><a href="#layer-3">Layer 3 </a></li><li><a href="#routing-table">Routing Table </a></li><li><a href="#arp--neighbor-table">ARP / Neighbor Table </a></li></ul></li></ul></li><li><a href="#networkmanager-개요">NetworkManager 개요 </a><ul><li><a href="#설정-방식">설정 방식 </a></li></ul></li><li><a href="#nmcli로-네트워크-설정하기">nmcli로 네트워크 설정하기 </a><ul><li><a href="#장치-확인">장치 확인 </a></li><li><a href="#기존-설정-삭제">기존 설정 삭제 </a></li><li><a href="#새-연결-생성">새 연결 생성 </a></li><li><a href="#고정-ip-설정">고정 IP 설정 </a></li></ul></li><li><a href="#라우팅-테이블-설정">라우팅 테이블 설정 </a></li><li><a href="#dns-관련-파일">DNS 관련 파일 </a><ul><li><a href="#etcresolvconf">/etc/resolv.conf </a></li><li><a href="#etchosts">/etc/hosts </a></li></ul></li><li><a href="#네트워크-진단-도구">네트워크 진단 도구 </a></li><li><a href="#vm-복제를-통한-네트워크-실습">VM 복제를 통한 네트워크 실습 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></nav><hr>
+<h2 id="들어가기" tabindex="-1" data-src-line="4">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+<p>리눅스를 사용하다 보면 결국 네트워크를 마주치게 됩니다.<br>
+패키지가 안 내려받아질 때, SSH 접속이 안 될 때, 서비스는 살아 있는데 외부에서 접근이 안 될 때.<br>
+대부분 네트워크 설정 문제입니다.</p>
+<p>이번 글에서는 <strong>RHEL 계열 리눅스에서 네트워크를 관리하는 기본 흐름</strong>을 정리합니다.<br>
+이론은 꼭 필요한 만큼만 다루고, 실제로 시스템에서 무엇을 확인하고 어떻게 설정하는지에 집중합니다.</p>
+<hr>
+<h2 id="ipv4-기초" tabindex="-1" data-src-line="15">IPv4 기초 <a class="header-anchor" href="#ipv4-기초" aria-hidden="true">#</a></h2>
+<h3 id="ipv4-주소란" tabindex="-1" data-src-line="17">IPv4 주소란 <a class="header-anchor" href="#ipv4-주소란" aria-hidden="true">#</a></h3>
+<p>IPv4 주소는 <strong>32비트 주소 체계</strong>입니다.<br>
+총 개수는 약 43억 개이며, 다음 두 부분으로 나뉩니다.</p>
+<ul>
+<li>Network 부분</li>
+<li>Host 부분</li>
+</ul>
+<p>일반적인 /24 네트워크에서는 마지막 옥텟이 호스트 영역입니다.<br>
+이때 사용 가능한 호스트 번호는 <strong>1부터 254까지</strong>입니다.</p>
+<h3 id="스페셜-주소" tabindex="-1" data-src-line="28">스페셜 주소 <a class="header-anchor" href="#스페셜-주소" aria-hidden="true">#</a></h3>
+<p>IPv4에는 사용 목적이 정해진 주소가 있습니다.</p>
+<ul>
+<li>네트워크 주소: 호스트 비트가 모두 0</li>
+<li>브로드캐스트 주소: 호스트 비트가 모두 1</li>
+</ul>
+<p>예를 들어 <code>192.168.1.0/24</code>에서</p>
+<ul>
+<li><code>192.168.1.0</code> → 네트워크 주소</li>
+<li><code>192.168.1.255</code> → 브로드캐스트 주소</li>
+</ul>
+<p>이 두 주소는 <strong>호스트에 할당할 수 없습니다.</strong></p>
+<h3 id="주소-클래스" tabindex="-1" data-src-line="42">주소 클래스 <a class="header-anchor" href="#주소-클래스" aria-hidden="true">#</a></h3>
+<p>과거에는 주소를 클래스 단위로 나누어 사용했습니다.</p>
+<ul>
+<li>Class A / B / C</li>
+</ul>
+<p>현재는 거의 사용하지 않고, <strong>CIDR(Classless Inter-Domain Routing)</strong> 방식이 표준입니다.</p>
+<ul>
+<li><code>/8</code>, <code>/16</code>, <code>/24</code> 같은 프리픽스 길이로 네트워크를 표현합니다.</li>
+</ul>
+<hr>
+<h2 id="사설-ip와-nat" tabindex="-1" data-src-line="54">사설 IP와 NAT <a class="header-anchor" href="#사설-ip와-nat" aria-hidden="true">#</a></h2>
+<p>사설 IP는 인터넷에서 직접 라우팅되지 않는 주소입니다.<br>
+RFC 1918에 정의되어 있으며 다음 세 대역이 있습니다.</p>
+<ul>
+<li><code>10.0.0.0/8</code></li>
+<li><code>172.16.0.0/12</code></li>
+<li><code>192.168.0.0/16</code></li>
+</ul>
+<p>사설 IP는 그대로 인터넷에 나갈 수 없기 때문에 <strong>NAT(Network Address Translation)</strong> 기술을 사용합니다.</p>
+<h3 id="nat와-napt" tabindex="-1" data-src-line="65">NAT와 NAPT <a class="header-anchor" href="#nat와-napt" aria-hidden="true">#</a></h3>
+<ul>
+<li>NAT: 사설 IP ↔ 공인 IP 변환</li>
+<li>NAPT: IP + 포트 번호까지 함께 변환</li>
+</ul>
+<p>가정용 공유기 환경에서 여러 장비가 하나의 공인 IP를 사용하는 이유가 바로 NAPT입니다.</p>
+<hr>
+<h2 id="tcp--udp-기초" tabindex="-1" data-src-line="74">TCP / UDP 기초 <a class="header-anchor" href="#tcp--udp-기초" aria-hidden="true">#</a></h2>
+<h3 id="tcp" tabindex="-1" data-src-line="76">TCP <a class="header-anchor" href="#tcp" aria-hidden="true">#</a></h3>
+<ul>
+<li>Connection-oriented</li>
+<li>Reliable</li>
+<li>순서 보장, 재전송, 흐름 제어</li>
+<li>기본 헤더 크기: 20바이트</li>
+</ul>
+<p>대표적인 서비스:</p>
+<ul>
+<li>SSH</li>
+<li>HTTP/HTTPS</li>
+<li>FTP</li>
+</ul>
+<h3 id="udp" tabindex="-1" data-src-line="89">UDP <a class="header-anchor" href="#udp" aria-hidden="true">#</a></h3>
+<ul>
+<li>Connection-less</li>
+<li>Stateless</li>
+<li>Lightweight</li>
+<li>기본 헤더 크기: 8바이트</li>
+</ul>
+<p>대표적인 서비스:</p>
+<ul>
+<li>DNS</li>
+<li>DHCP</li>
+<li>NTP</li>
+</ul>
+<h3 id="시스템-서비스-포트-정보" tabindex="-1" data-src-line="102">시스템 서비스 포트 정보 <a class="header-anchor" href="#시스템-서비스-포트-정보" aria-hidden="true">#</a></h3>
+<p>리눅스에는 서비스와 포트 정보가 미리 정의되어 있습니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">cat</span> /etc/services
+</code></pre></div></code></pre>
+<p>이 파일은 <strong>참고용</strong>이며, 실제 포트 사용 여부를 강제하지는 않습니다.</p>
+<hr>
+<h2 id="ipv6-개요" tabindex="-1" data-src-line="114">IPv6 개요 <a class="header-anchor" href="#ipv6-개요" aria-hidden="true">#</a></h2>
+<p>IPv4는 주소 고갈 문제가 있습니다.<br>
+IPv6는 이를 해결하기 위해 등장했습니다.</p>
+<ul>
+<li>IPv4: 32bit (약 43억 개)</li>
+<li>IPv6: 128bit (사실상 고갈 걱정 없음)</li>
+</ul>
+<p>RHEL 계열 리눅스에서는 <strong>RHEL 8부터 IPv6가 기본 활성화</strong>되어 있습니다.</p>
+<h3 id="ipv6-주소-예시" tabindex="-1" data-src-line="124">IPv6 주소 예시 <a class="header-anchor" href="#ipv6-주소-예시" aria-hidden="true">#</a></h3>
+<ul>
+<li><code>2001:db8::1/32</code></li>
+<li><code>2001:0db8:0000:0000:0000:0000:0000:0001/32</code></li>
+</ul>
+<p>축약 표기(<code>::</code>)는 연속된 0을 줄여 쓴 것입니다.</p>
+<hr>
+<h2 id="리눅스-네트워크-인터페이스-이름-규칙" tabindex="-1" data-src-line="133">리눅스 네트워크 인터페이스 이름 규칙 <a class="header-anchor" href="#리눅스-네트워크-인터페이스-이름-규칙" aria-hidden="true">#</a></h2>
+<p>과거에는 인터페이스 이름이 단순했습니다.</p>
+<ul>
+<li><code>eth0</code>, <code>eth1</code></li>
+</ul>
+<p>RHEL 7 이후부터는 <strong>예측 가능한 네이밍 규칙</strong>을 사용합니다.</p>
+<h3 id="주요-접두어" tabindex="-1" data-src-line="141">주요 접두어 <a class="header-anchor" href="#주요-접두어" aria-hidden="true">#</a></h3>
+<ul>
+<li><code>en</code> : Ethernet</li>
+<li><code>wl</code> : Wireless LAN</li>
+<li><code>ww</code> : Wireless WAN</li>
+</ul>
+<h3 id="ethernet-상세-규칙" tabindex="-1" data-src-line="147">Ethernet 상세 규칙 <a class="header-anchor" href="#ethernet-상세-규칙" aria-hidden="true">#</a></h3>
+<ul>
+<li><code>eno</code> : 메인보드 내장 NIC</li>
+<li><code>ens</code> : 핫플러그 슬롯 NIC</li>
+<li><code>enpXsY</code> : PCI 슬롯 기반 NIC</li>
+<li><code>enx</code> : MAC 주소 기반</li>
+</ul>
+<p>이름이 길어졌지만, <strong>하드웨어 위치를 추적하기는 훨씬 쉬워졌습니다.</strong></p>
+<hr>
+<h2 id="ethtool-명령어" tabindex="-1" data-src-line="158">ethtool 명령어 <a class="header-anchor" href="#ethtool-명령어" aria-hidden="true">#</a></h2>
+<p><code>ethtool</code>은 네트워크 카드의 <strong>물리 계층 정보</strong>를 확인하는 도구입니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ethtool</span> ens160
+</code></pre></div></code></pre>
+<p>확인 가능한 주요 정보는 다음과 같습니다.</p>
+<ul>
+<li>링크 속도</li>
+<li>듀플렉스 모드 (Full / Half)</li>
+<li>Auto-negotiation 상태</li>
+<li>링크 연결 여부</li>
+</ul>
+<blockquote>
+<p>Link detected: yes</p>
+<p>→ 케이블 또는 가상 NIC 연결은 정상이라는 의미입니다.</p>
+</blockquote>
+<p>네트워크가 안 된다고 해서 항상 IP 문제는 아닙니다.<br>
+물리 계층부터 확인하는 습관이 중요합니다.</p>
+<hr>
+<h2 id="ip-주소-확인-명령어" tabindex="-1" data-src-line="182">IP 주소 확인 명령어 <a class="header-anchor" href="#ip-주소-확인-명령어" aria-hidden="true">#</a></h2>
+<h3 id="ifconfig" tabindex="-1" data-src-line="184">ifconfig <a class="header-anchor" href="#ifconfig" aria-hidden="true">#</a></h3>
+<ul>
+<li>Deprecated</li>
+<li>더 이상 권장되지 않음</li>
+</ul>
+<h3 id="ip-명령어-체계" tabindex="-1" data-src-line="189">ip 명령어 체계 <a class="header-anchor" href="#ip-명령어-체계" aria-hidden="true">#</a></h3>
+<p>리눅스 네트워크 관리는 <code>ip</code> 명령어를 기준으로 생각하면 됩니다.</p>
+<h4 id="layer-2" tabindex="-1" data-src-line="193">Layer 2 <a class="header-anchor" href="#layer-2" aria-hidden="true">#</a></h4>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>ip <span class="hljs-built_in">link</span>
+</code></pre></div></code></pre>
+<ul>
+<li>인터페이스 존재 여부</li>
+<li>UP / DOWN 상태</li>
+</ul>
+<h4 id="layer-3" tabindex="-1" data-src-line="202">Layer 3 <a class="header-anchor" href="#layer-3" aria-hidden="true">#</a></h4>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">ip</span> <span class="hljs-keyword">addr</span>
+</code></pre></div></code></pre>
+<ul>
+<li>IP 주소 확인</li>
+<li>인터페이스에 어떤 주소가 붙어 있는지 확인</li>
+</ul>
+<h4 id="routing-table" tabindex="-1" data-src-line="211">Routing Table <a class="header-anchor" href="#routing-table" aria-hidden="true">#</a></h4>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ip route
+netstat -nr</span>
+</code></pre></div></code></pre>
+<ul>
+<li>커널 라우팅 테이블 확인</li>
+<li>기본 게이트웨이 확인</li>
+</ul>
+<h4 id="arp--neighbor-table" tabindex="-1" data-src-line="221">ARP / Neighbor Table <a class="header-anchor" href="#arp--neighbor-table" aria-hidden="true">#</a></h4>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ip neigh</span>
+</code></pre></div></code></pre>
+<ul>
+<li>IP ↔ MAC 매핑 정보</li>
+</ul>
+<hr>
+<h2 id="networkmanager-개요" tabindex="-1" data-src-line="231">NetworkManager 개요 <a class="header-anchor" href="#networkmanager-개요" aria-hidden="true">#</a></h2>
+<p>RHEL 5부터 NetworkManager가 도입되었습니다.<br>
+최근 버전에서는 <strong>파일 직접 수정 방식이 권장되지 않습니다.</strong></p>
+<h3 id="설정-방식" tabindex="-1" data-src-line="236">설정 방식 <a class="header-anchor" href="#설정-방식" aria-hidden="true">#</a></h3>
+<ul>
+<li>GUI</li>
+<li><code>nmtui</code> : 메뉴 기반</li>
+<li><code>nmcli</code> : 명령어 기반</li>
+</ul>
+<p>설정 파일 위치:</p>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">text</span><button class="copy-button">Copy</button></div><pre class="language-text"><code><span class="hljs-regexp">/etc/</span>NetworkManager<span class="hljs-regexp">/system-connections/</span>
+</code></pre></div></code></pre>
+<hr>
+<h2 id="nmcli로-네트워크-설정하기" tabindex="-1" data-src-line="250">nmcli로 네트워크 설정하기 <a class="header-anchor" href="#nmcli로-네트워크-설정하기" aria-hidden="true">#</a></h2>
+<h3 id="장치-확인" tabindex="-1" data-src-line="252">장치 확인 <a class="header-anchor" href="#장치-확인" aria-hidden="true">#</a></h3>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">nmcli dev</span>
+</code></pre></div></code></pre>
+<h3 id="기존-설정-삭제" tabindex="-1" data-src-line="258">기존 설정 삭제 <a class="header-anchor" href="#기존-설정-삭제" aria-hidden="true">#</a></h3>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>nmcli <span class="hljs-keyword">connection</span> <span class="hljs-keyword">delete</span> ens160
+</code></pre></div></code></pre>
+<h3 id="새-연결-생성" tabindex="-1" data-src-line="264">새 연결 생성 <a class="header-anchor" href="#새-연결-생성" aria-hidden="true">#</a></h3>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>nmcli connection add <span class="hljs-string">\</span>
+  type ethernet <span class="hljs-string">\</span>
+  ifname ens160 <span class="hljs-string">\</span>
+  con-name ens160 <span class="hljs-string">\</span>
+  autoconnect <span class="hljs-literal">yes</span> <span class="hljs-string">\</span>
+  ipv4.method auto
+</code></pre></div></code></pre>
+<h3 id="고정-ip-설정" tabindex="-1" data-src-line="275">고정 IP 설정 <a class="header-anchor" href="#고정-ip-설정" aria-hidden="true">#</a></h3>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">nmcli</span> connection modify ens160 <span class="hljs-punctuation">\
+</span>  ipv4.method manual <span class="hljs-punctuation">\
+</span>  ipv4.addresses <span class="hljs-number">192.168.11.33</span>/<span class="hljs-number">24</span> <span class="hljs-punctuation">\
+</span>  ipv4.gateway <span class="hljs-number">192.168.11.2</span> <span class="hljs-punctuation">\
+</span>  ipv4.dns <span class="hljs-number">192.168.11.2</span>
+
+<span class="hljs-attribute">nmcli</span> con down ens160
+<span class="hljs-attribute">nmcli</span> con up ens160
+</code></pre></div></code></pre>
+<hr>
+<h2 id="라우팅-테이블-설정" tabindex="-1" data-src-line="290">라우팅 테이블 설정 <a class="header-anchor" href="#라우팅-테이블-설정" aria-hidden="true">#</a></h2>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>nmcli connection modify ens160 ipv4.routes <span class="hljs-string">&quot;10.100.1.0/24 192.168.11.2&quot;</span>
+
+nmcli <span class="hljs-keyword">con</span> down ens160
+nmcli <span class="hljs-keyword">con</span> <span class="hljs-keyword">up</span> ens160
+</code></pre></div></code></pre>
+<p>설정 후에는 반드시 <code>ip route</code>로 반영 여부를 확인합니다.</p>
+<hr>
+<h2 id="dns-관련-파일" tabindex="-1" data-src-line="303">DNS 관련 파일 <a class="header-anchor" href="#dns-관련-파일" aria-hidden="true">#</a></h2>
+<h3 id="etcresolvconf" tabindex="-1" data-src-line="305">/etc/resolv.conf <a class="header-anchor" href="#etcresolvconf" aria-hidden="true">#</a></h3>
+<ul>
+<li>DNS 서버 목록 파일</li>
+<li>NetworkManager, DHCP가 자동 관리</li>
+<li>직접 수정하면 다시 덮어써짐</li>
+</ul>
+<blockquote>
+<p>DNS 변경은 nmcli나 네트워크 설정을 통해 해야 합니다.</p>
+</blockquote>
+<h3 id="etchosts" tabindex="-1" data-src-line="313">/etc/hosts <a class="header-anchor" href="#etchosts" aria-hidden="true">#</a></h3>
+<ul>
+<li>로컬 이름 해석 테이블</li>
+<li>DNS보다 우선순위가 높음</li>
+</ul>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">text</span><button class="copy-button">Copy</button></div><pre class="language-text"><code><span class="hljs-number">192.168.11.10</span>   test-server
+</code></pre></div></code></pre>
+<p>테스트나 임시 우회에는 유용하지만, 대규모 환경에는 적합하지 않습니다.</p>
+<hr>
+<h2 id="네트워크-진단-도구" tabindex="-1" data-src-line="326">네트워크 진단 도구 <a class="header-anchor" href="#네트워크-진단-도구" aria-hidden="true">#</a></h2>
+<ul>
+<li><code>dig</code></li>
+<li><code>nslookup</code></li>
+<li><code>tracepath</code></li>
+</ul>
+<p>DNS 문제인지, 라우팅 문제인지, 응답이 없는 문제인지를 구분하는 것이 핵심입니다.</p>
+<hr>
+<h2 id="vm-복제를-통한-네트워크-실습" tabindex="-1" data-src-line="336">VM 복제를 통한 네트워크 실습 <a class="header-anchor" href="#vm-복제를-통한-네트워크-실습" aria-hidden="true">#</a></h2>
+<p>네트워크 실습은 <strong>여러 대의 머신이 있을수록 이해가 빠릅니다.</strong></p>
+<p>VMware 기준 복제 방법은 다음과 같습니다.</p>
+<ul>
+<li>VM 우클릭</li>
+<li>Manage → Clone</li>
+<li>Current state</li>
+<li>Full clone</li>
+<li>이름 지정</li>
+</ul>
+<p>복제된 VM을 이용해 IP 충돌, 라우팅, 통신 테스트를 해보는 것을 권장합니다.</p>
+<hr>
+<h2 id="마치면서" tabindex="-1" data-src-line="352">마치면서 <a class="header-anchor" href="#마치면서" aria-hidden="true">#</a></h2>
+<p>네트워크는 한 번에 이해되지 않습니다.<br>
+하지만 <strong>확인 순서</strong>는 정해져 있습니다.</p>
+<ol>
+<li>링크가 살아 있는가</li>
+<li>IP가 있는가</li>
+<li>게이트웨이가 있는가</li>
+<li>DNS가 되는가</li>
+</ol>
+<p>이 순서만 몸에 익혀도 문제 해결 속도가 크게 달라집니다.<br>
+이번 글은 그 기준선을 잡기 위한 정리입니다.</p>
+1d:["$","article",null,{"className":"mt-6","children":["$","$L1e",null,{"content":"$1f"}]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준) | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Red Hat Enterprise Linux 환경에서 네트워크를 관리하는 기본 흐름을 정리합니다. IPv4·IPv6 개념부터 NetworkManager, nmcli 설정, 라우팅, DNS, 네트워크 진단까지 실습 중심으로 설명합니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://rxnovx.github.io//post/linux/rocky-linux-series-12-networking"}],["$","meta","8",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","9",{"property":"og:title","content":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준)"}],["$","meta","10",{"property":"og:description","content":"Red Hat Enterprise Linux 환경에서 네트워크를 관리하는 기본 흐름을 정리합니다. IPv4·IPv6 개념부터 NetworkManager, nmcli 설정, 라우팅, DNS, 네트워크 진단까지 실습 중심으로 설명합니다."}],["$","meta","11",{"property":"og:url","content":"https://rxnovx.github.io//post/linux/rocky-linux-series-12-networking"}],["$","meta","12",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","13",{"property":"og:image","content":"https://rxnovx.github.io/images/_posts/linux/rocky-linux-series-12-networking/og/1769602746097-image.webp"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준)"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:tag","content":"rhel"}],["$","meta","19",{"property":"article:tag","content":"networkmanager"}],["$","meta","20",{"property":"article:tag","content":"linux"}],["$","meta","21",{"property":"article:tag","content":"networking"}],["$","meta","22",{"property":"article:tag","content":"ip"}],["$","meta","23",{"property":"article:tag","content":"route"}],["$","meta","24",{"property":"article:tag","content":"dns"}],["$","meta","25",{"property":"article:tag","content":"resolv.conf"}],["$","meta","26",{"property":"article:tag","content":"network"}],["$","meta","27",{"property":"article:tag","content":"troubleshooting"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준)"}],["$","meta","30",{"name":"twitter:description","content":"Red Hat Enterprise Linux 환경에서 네트워크를 관리하는 기본 흐름을 정리합니다. IPv4·IPv6 개념부터 NetworkManager, nmcli 설정, 라우팅, DNS, 네트워크 진단까지 실습 중심으로 설명합니다."}],["$","meta","31",{"name":"twitter:image","content":"https://rxnovx.github.io/images/_posts/linux/rocky-linux-series-12-networking/og/1769602746097-image.webp"}],["$","link","32",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L20","33",{}]]
+16:null

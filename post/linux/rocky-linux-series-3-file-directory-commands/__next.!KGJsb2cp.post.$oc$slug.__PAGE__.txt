@@ -1,16 +1,15 @@
 1:"$Sreact.fragment"
-2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-2d4897da2bf3f268.js"],"default"]
+2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-ae45985938c0825e.js"],"default"]
 6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-3:T376f,<h1 id="리눅스-배우기-3---파일과-디렉토리-다루기" tabindex="-1" data-src-line="0">리눅스 배우기 #3 - 파일과 디렉토리 다루기 <a class="header-anchor" href="#리눅스-배우기-3---파일과-디렉토리-다루기" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#리눅스-배우기-3---파일과-디렉토리-다루기">리눅스 배우기 #3 - 파일과 디렉토리 다루기 </a><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#파일시스템이란">파일시스템이란? </a></li><li><a href="#유닉스리눅스에서의-파일-구조-특징">유닉스/리눅스에서의 파일 구조 특징 </a></li><li><a href="#파일시스템을-탐색하는-방법">파일시스템을 탐색하는 방법 </a><ul><li><a href="#절대경로">절대경로 </a></li><li><a href="#상대경로">상대경로 </a></li><li><a href="#트리-구조-안에서-원하는-디렉토리로-이동하는-명령어-cd">트리 구조 안에서 원하는 디렉토리로 이동하는 명령어 cd </a></li><li><a href="#디렉토리-내부-파일-목록을-출력해주는-명령어-ls">디렉토리 내부 파일 목록을 출력해주는 명령어 ls </a></li></ul></li><li><a href="#디렉토리-조작-관련-명령어">디렉토리 조작 관련 명령어 </a></li><li><a href="#파일-조작-관련-명령어">파일 조작 관련 명령어 </a></li><li><a href="#삭제-및-파일-생성-명령어">삭제 및 파일 생성 명령어 </a></li><li><a href="#바로가기-만들기--파일-링크-생성">바로가기 만들기 : 파일 링크 생성 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></li></ul></nav><hr>
-<h2 id="들어가기" tabindex="-1" data-src-line="6">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+3:T35c6,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#파일시스템이란">파일시스템이란? </a></li><li><a href="#유닉스리눅스에서의-파일-구조-특징">유닉스/리눅스에서의 파일 구조 특징 </a></li><li><a href="#파일시스템을-탐색하는-방법">파일시스템을 탐색하는 방법 </a><ul><li><a href="#절대경로">절대경로 </a></li><li><a href="#상대경로">상대경로 </a></li><li><a href="#트리-구조-안에서-원하는-디렉토리로-이동하는-명령어-cd">트리 구조 안에서 원하는 디렉토리로 이동하는 명령어 cd </a></li><li><a href="#디렉토리-내부-파일-목록을-출력해주는-명령어-ls">디렉토리 내부 파일 목록을 출력해주는 명령어 ls </a></li></ul></li><li><a href="#디렉토리-조작-관련-명령어">디렉토리 조작 관련 명령어 </a></li><li><a href="#파일-조작-관련-명령어">파일 조작 관련 명령어 </a></li><li><a href="#삭제-및-파일-생성-명령어">삭제 및 파일 생성 명령어 </a></li><li><a href="#바로가기-만들기--파일-링크-생성">바로가기 만들기 : 파일 링크 생성 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></nav><hr>
+<h2 id="들어가기" tabindex="-1" data-src-line="4">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>리눅스 시스템에서 파일과 디렉토리를 생성하고 삭제하고 수정하는 방법에 대해 정리했습니다.<br>
 윈도우 시스템을 사용해봤다면 크게 낯설지는 않을 것입니다.<br>
 폴더와 파일이라는 개념 자체는 거의 같습니다.</p>
 <hr>
-<h2 id="파일시스템이란" tabindex="-1" data-src-line="14">파일시스템이란? <a class="header-anchor" href="#파일시스템이란" aria-hidden="true">#</a></h2>
+<h2 id="파일시스템이란" tabindex="-1" data-src-line="12">파일시스템이란? <a class="header-anchor" href="#파일시스템이란" aria-hidden="true">#</a></h2>
 <p>파일시스템은 데이터를 저장하고 관리하기 위한 구조를 말합니다.<br>
 윈도우, 유닉스, 리눅스 등 대부분의 운영체제에서 공통으로 사용되는 개념입니다.</p>
 <p>파일의 크기가 크고 개수가 적은지,<br>
@@ -21,7 +20,7 @@
 <p>리눅스에서는 ext4와 같은 전용 파일시스템을 주로 사용하며,<br>
 필요에 따라 FAT32와 같은 파일시스템도 지원합니다.</p>
 <hr>
-<h2 id="유닉스리눅스에서의-파일-구조-특징" tabindex="-1" data-src-line="31">유닉스/리눅스에서의 파일 구조 특징 <a class="header-anchor" href="#유닉스리눅스에서의-파일-구조-특징" aria-hidden="true">#</a></h2>
+<h2 id="유닉스리눅스에서의-파일-구조-특징" tabindex="-1" data-src-line="29">유닉스/리눅스에서의 파일 구조 특징 <a class="header-anchor" href="#유닉스리눅스에서의-파일-구조-특징" aria-hidden="true">#</a></h2>
 <p>유닉스/리눅스에서의 파일 구조 특징은 아래와 같습니다.</p>
 <ul>
 <li>
@@ -46,7 +45,7 @@
 </li>
 </ul>
 <hr>
-<h2 id="파일시스템을-탐색하는-방법" tabindex="-1" data-src-line="52">파일시스템을 탐색하는 방법 <a class="header-anchor" href="#파일시스템을-탐색하는-방법" aria-hidden="true">#</a></h2>
+<h2 id="파일시스템을-탐색하는-방법" tabindex="-1" data-src-line="50">파일시스템을 탐색하는 방법 <a class="header-anchor" href="#파일시스템을-탐색하는-방법" aria-hidden="true">#</a></h2>
 <p>리눅스는 윈도우와 마찬가지로 트리 구조의 파일 구조를 가지고 있습니다.<br>
 이러한 트리 구조에서는 경로가 중요합니다.</p>
 <p>경로에는 두 가지 종류가 있으며,<br>
@@ -54,21 +53,21 @@
 <p>또한 원하는 디렉토리로 이동하기 위한 명령어도 필요합니다.<br>
 아래에서 각각 살펴보겠습니다.</p>
 <hr>
-<h3 id="절대경로" tabindex="-1" data-src-line="65">절대경로 <a class="header-anchor" href="#절대경로" aria-hidden="true">#</a></h3>
+<h3 id="절대경로" tabindex="-1" data-src-line="63">절대경로 <a class="header-anchor" href="#절대경로" aria-hidden="true">#</a></h3>
 <p>절대경로는 최상위 경로(/)부터 시작하여 특정 위치를 가리키는 경로를 말합니다.</p>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># 현재 위치한 곳은 홈 디렉토리</span>
 <span class="hljs-comment"># package.json 파일을 열고자 할 때</span>
 vi <span class="hljs-regexp">/home/u</span>ser<span class="hljs-regexp">/workspace/</span>project1/package.json
 </code></pre></div></code></pre>
 <hr>
-<h3 id="상대경로" tabindex="-1" data-src-line="77">상대경로 <a class="header-anchor" href="#상대경로" aria-hidden="true">#</a></h3>
+<h3 id="상대경로" tabindex="-1" data-src-line="75">상대경로 <a class="header-anchor" href="#상대경로" aria-hidden="true">#</a></h3>
 <p>상대경로는 현재 내가 위치한 디렉토리를 기준으로 경로를 지정하는 방식입니다.</p>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># 현재 위치한 곳은 홈 디렉토리</span>
 <span class="hljs-comment"># package.json 파일을 열고자 할 때</span>
 vi workspace/project1/package.json
 </code></pre></div></code></pre>
 <hr>
-<h3 id="트리-구조-안에서-원하는-디렉토리로-이동하는-명령어-cd" tabindex="-1" data-src-line="89">트리 구조 안에서 원하는 디렉토리로 이동하는 명령어 cd <a class="header-anchor" href="#트리-구조-안에서-원하는-디렉토리로-이동하는-명령어-cd" aria-hidden="true">#</a></h3>
+<h3 id="트리-구조-안에서-원하는-디렉토리로-이동하는-명령어-cd" tabindex="-1" data-src-line="87">트리 구조 안에서 원하는 디렉토리로 이동하는 명령어 cd <a class="header-anchor" href="#트리-구조-안에서-원하는-디렉토리로-이동하는-명령어-cd" aria-hidden="true">#</a></h3>
 <p>cd(change directory) 명령어는 트리 구조 안에서 원하는 디렉토리로 이동하는 명령어입니다.<br>
 인수로 경로를 입력받습니다.</p>
 <p>현재 위치한 경로를 확인하기 위해서는 pwd 명령어를 사용합니다.</p>
@@ -76,7 +75,7 @@ vi workspace/project1/package.json
 <span class="hljs-built_in">pwd</span>
 /home/user
 </code></pre></div></code></pre>
-<h3 id="디렉토리-내부-파일-목록을-출력해주는-명령어-ls" tabindex="-1" data-src-line="101">디렉토리 내부 파일 목록을 출력해주는 명령어 ls <a class="header-anchor" href="#디렉토리-내부-파일-목록을-출력해주는-명령어-ls" aria-hidden="true">#</a></h3>
+<h3 id="디렉토리-내부-파일-목록을-출력해주는-명령어-ls" tabindex="-1" data-src-line="99">디렉토리 내부 파일 목록을 출력해주는 명령어 ls <a class="header-anchor" href="#디렉토리-내부-파일-목록을-출력해주는-명령어-ls" aria-hidden="true">#</a></h3>
 <p>현재 위치한 디렉토리 또는 특정 디렉토리 내부에 어떤 파일과 디렉토리가 있는지 확인하는 명령어입니다.</p>
 <p>ls 명령어는 리눅스에서 가장 자주 사용하는 기본 명령어 중 하나입니다.<br>
 옵션 없이 실행하면 현재 디렉토리의 파일과 디렉토리 이름만 출력합니다.</p>
@@ -108,7 +107,7 @@ vi workspace/project1/package.json
 cd, pwd와 함께 디렉토리 이동과 탐색 과정에서 자연스럽게 사용됩니다.</p>
 <p>추가로 ls는 리눅스를 사용하면서 가장 많이 사용되는 명령어 입니다.</p>
 <hr>
-<h2 id="디렉토리-조작-관련-명령어" tabindex="-1" data-src-line="150">디렉토리 조작 관련 명령어 <a class="header-anchor" href="#디렉토리-조작-관련-명령어" aria-hidden="true">#</a></h2>
+<h2 id="디렉토리-조작-관련-명령어" tabindex="-1" data-src-line="148">디렉토리 조작 관련 명령어 <a class="header-anchor" href="#디렉토리-조작-관련-명령어" aria-hidden="true">#</a></h2>
 <p>디렉토리를 조작하기 위한 명령어를 알아보겠습니다.<br>
 디렉토리를 생성하거나 삭제하는 명령어입니다.</p>
 <ul>
@@ -127,7 +126,7 @@ cd, pwd와 함께 디렉토리 이동과 탐색 과정에서 자연스럽게 사
 </li>
 </ul>
 <hr>
-<h2 id="파일-조작-관련-명령어" tabindex="-1" data-src-line="166">파일 조작 관련 명령어 <a class="header-anchor" href="#파일-조작-관련-명령어" aria-hidden="true">#</a></h2>
+<h2 id="파일-조작-관련-명령어" tabindex="-1" data-src-line="164">파일 조작 관련 명령어 <a class="header-anchor" href="#파일-조작-관련-명령어" aria-hidden="true">#</a></h2>
 <p>파일을 조작하는 명령어에 대해 알아보겠습니다.<br>
 파일을 복사하거나 이동하는 명령어입니다.</p>
 <ul>
@@ -148,7 +147,7 @@ cd, pwd와 함께 디렉토리 이동과 탐색 과정에서 자연스럽게 사
 </li>
 </ul>
 <hr>
-<h2 id="삭제-및-파일-생성-명령어" tabindex="-1" data-src-line="185">삭제 및 파일 생성 명령어 <a class="header-anchor" href="#삭제-및-파일-생성-명령어" aria-hidden="true">#</a></h2>
+<h2 id="삭제-및-파일-생성-명령어" tabindex="-1" data-src-line="183">삭제 및 파일 생성 명령어 <a class="header-anchor" href="#삭제-및-파일-생성-명령어" aria-hidden="true">#</a></h2>
 <ul>
 <li>
 <p><strong>rm</strong> : 파일/디렉토리 삭제</p>
@@ -176,7 +175,7 @@ Alias를 설정해두면 파일이 덮어써지거나 삭제되는 것을 방지
 <p><code>.bashrc</code>에 정의하면 로그인 후에도 유지됨</p>
 </div>
 <hr>
-<h2 id="바로가기-만들기--파일-링크-생성" tabindex="-1" data-src-line="212">바로가기 만들기 : 파일 링크 생성 <a class="header-anchor" href="#바로가기-만들기--파일-링크-생성" aria-hidden="true">#</a></h2>
+<h2 id="바로가기-만들기--파일-링크-생성" tabindex="-1" data-src-line="210">바로가기 만들기 : 파일 링크 생성 <a class="header-anchor" href="#바로가기-만들기--파일-링크-생성" aria-hidden="true">#</a></h2>
 <ul>
 <li>
 <p><strong>ln</strong> : 링크 생성</p>
@@ -197,10 +196,10 @@ Alias를 설정해두면 파일이 덮어써지거나 삭제되는 것을 방지
 </li>
 </ul>
 <hr>
-<h2 id="마치면서" tabindex="-1" data-src-line="225">마치면서 <a class="header-anchor" href="#마치면서" aria-hidden="true">#</a></h2>
+<h2 id="마치면서" tabindex="-1" data-src-line="223">마치면서 <a class="header-anchor" href="#마치면서" aria-hidden="true">#</a></h2>
 <p>리눅스에서 기본적으로 파일이나 디렉토리를 탐색할 때 사용하는 명령어에 대해 정리해보았습니다.<br>
 다음 포스트에서는 터미널에서 각종 정보를 얻거나 명령어에 대한 메뉴얼을 확인하는 방법에 대해서 정리하겠습니다.</p>
-0:{"buildId":"Z8LS-9kTcWyq1I7Hh_FD_","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-3-file-directory-commands"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #3 - 파일과 디렉토리 다루기"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"파일과 디렉토리를 이동하고 확인하는 기본 명령어들을 정리했습니다.\n리눅스 환경에서 작업 흐름을 익히는 과정입니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 24."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","linux"]}],["$","span","rocky-linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","rocky-linux"]}],["$","span","linux-basics",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","linux-basics"]}],["$","span","filesystem",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","filesystem"]}],["$","span","command-line",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","command-line"]}],["$","span","linux-command",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","linux-command"]}],["$","span","rocky-linux-series",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","rocky-linux-series"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+0:{"buildId":"KZGP3CB_y3WHCtqHNeRzg","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-3-file-directory-commands"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #3 - 파일과 디렉토리 다루기"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"파일과 디렉토리를 이동하고 확인하는 기본 명령어들을 정리했습니다.\n리눅스 환경에서 작업 흐름을 익히는 과정입니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 24."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","linux-basics",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux-basics"]}],["$","span","filesystem",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","filesystem"]}],["$","span","command-line",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","command-line"]}],["$","span","linux-command",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux-command"]}],["$","span","rocky-linux-series",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rocky-linux-series"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

@@ -8,7 +8,7 @@
 12:I[7123,[],""]
 :HL["/_next/static/css/cbceb53e223e8db8.css","style"]
 :HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-0:{"P":null,"b":"Z8LS-9kTcWyq1I7Hh_FD_","c":["","post","linux","rocky-linux-series-5-vim-and-text-processing"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","linux/rocky-linux-series-5-vim-and-text-processing","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cbceb53e223e8db8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+0:{"P":null,"b":"KZGP3CB_y3WHCtqHNeRzg","c":["","post","linux","rocky-linux-series-5-vim-and-text-processing"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","linux/rocky-linux-series-5-vim-and-text-processing","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/cbceb53e223e8db8.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
 17:I[1009,["209","static/chunks/app/loading-d719388b49f0797d.js"],"default"]
@@ -24,11 +24,10 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-13:["$","div",null,{"className":"mx-auto max-w-5xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-5-vim-and-text-processing"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #5 - 리눅스 텍스트 편집과 표준 입출력 기초"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[var(--text-muted)] leading-relaxed","children":"Rocky Linux 환경에서 vi/vim 에디터의 기본 사용법과 표준 입출력, 리다이렉션, 파이프, sed, awk 등 텍스트 처리 명령어를 수업 내용을 기준으로 정리합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 25."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","linux"]}],["$","span","vim",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vim"]}],["$","span","vi",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","vi"]}],["$","span","shell",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","shell"]}],["$","span","stdin",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","stdin"]}],["$","span","stdout",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","stdout"]}],["$","span","redirection",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","redirection"]}],["$","span","awk",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","awk"]}],["$","span","sed",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","sed"]}],["$","span","text-processing",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] hover:border-[var(--primary)] transition","children":["#","text-processing"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],"$L1c"]}]
-1d:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-2d4897da2bf3f268.js"],"default"]
-1e:T4756,<h1 id="리눅스-배우기-5---리눅스-텍스트-편집과-표준-입출력-기초" tabindex="-1" data-src-line="0">리눅스 배우기 #5 - 리눅스 텍스트 편집과 표준 입출력 기초 <a class="header-anchor" href="#리눅스-배우기-5---리눅스-텍스트-편집과-표준-입출력-기초" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#리눅스-배우기-5---리눅스-텍스트-편집과-표준-입출력-기초">리눅스 배우기 #5 - 리눅스 텍스트 편집과 표준 입출력 기초 </a><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#vi-and-vim">VI AND VIM </a></li><li><a href="#vi-에디터">VI 에디터 </a><ul><li><a href="#3가지-모드로-동작합니다">3가지 모드로 동작합니다. </a></li></ul></li><li><a href="#vim-명령모드--콜론모드">VIM 명령모드 &amp; 콜론모드 </a><ul><li><a href="#커서-이동">커서 이동 </a></li><li><a href="#이동-단위">이동 단위 </a></li><li><a href="#삭제">삭제 </a></li><li><a href="#복사-및-붙여넣기">복사 및 붙여넣기 </a></li><li><a href="#실행-취소">실행 취소 </a></li></ul></li><li><a href="#vim-입력모드-진입-방법">VIM 입력모드 진입 방법 </a></li><li><a href="#vim-콜론모드">VIM 콜론모드 </a></li><li><a href="#vi-에디터-커스터마이징">VI 에디터 커스터마이징 </a></li><li><a href="#communication-channels">Communication Channels </a></li><li><a href="#file-redirection">File Redirection </a><ul><li><a href="#입력-리다이렉션">입력 리다이렉션 </a></li><li><a href="#출력-리다이렉션">출력 리다이렉션 </a></li><li><a href="#에러-리다이렉션">에러 리다이렉션 </a></li><li><a href="#널-디바이스">널 디바이스 </a></li><li><a href="#출력-병합">출력 병합 </a></li><li><a href="#파이프">파이프 </a></li></ul></li><li><a href="#tar-파일">Tar 파일 </a><ul><li><a href="#기본-옵션">기본 옵션 </a></li><li><a href="#압축-옵션">압축 옵션 </a></li></ul></li><li><a href="#sed-명령어">SED 명령어 </a></li><li><a href="#awk-명령어">AWK 명령어 </a></li><li><a href="#wc-명령어">WC 명령어 </a></li><li><a href="#tr-명령어">TR 명령어 </a></li><li><a href="#sort-명령어">SORT 명령어 </a></li><li><a href="#cut-명령어">CUT 명령어 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></li></ul></nav><hr>
-<h2 id="들어가기" tabindex="-1" data-src-line="6">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+13:["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-5-vim-and-text-processing"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #5 - 리눅스 텍스트 편집과 표준 입출력 기초"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"Rocky Linux 환경에서 vi/vim 에디터의 기본 사용법과 표준 입출력, 리다이렉션, 파이프, sed, awk 등 텍스트 처리 명령어를 수업 내용을 기준으로 정리합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 25."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","vim",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","vim"]}],["$","span","vi",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","vi"]}],["$","span","shell",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","shell"]}],["$","span","stdin",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","stdin"]}],["$","span","stdout",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","stdout"]}],["$","span","redirection",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","redirection"]}],["$","span","awk",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","awk"]}],["$","span","sed",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","sed"]}],["$","span","text-processing",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","text-processing"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],"$L1c"]}]
+1d:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-ae45985938c0825e.js"],"default"]
+1e:T4545,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#vi-and-vim">VI AND VIM </a></li><li><a href="#vi-에디터">VI 에디터 </a><ul><li><a href="#3가지-모드로-동작합니다">3가지 모드로 동작합니다. </a></li></ul></li><li><a href="#vim-명령모드--콜론모드">VIM 명령모드 &amp; 콜론모드 </a><ul><li><a href="#커서-이동">커서 이동 </a></li><li><a href="#이동-단위">이동 단위 </a></li><li><a href="#삭제">삭제 </a></li><li><a href="#복사-및-붙여넣기">복사 및 붙여넣기 </a></li><li><a href="#실행-취소">실행 취소 </a></li></ul></li><li><a href="#vim-입력모드-진입-방법">VIM 입력모드 진입 방법 </a></li><li><a href="#vim-콜론모드">VIM 콜론모드 </a></li><li><a href="#vi-에디터-커스터마이징">VI 에디터 커스터마이징 </a></li><li><a href="#communication-channels">Communication Channels </a></li><li><a href="#file-redirection">File Redirection </a><ul><li><a href="#입력-리다이렉션">입력 리다이렉션 </a></li><li><a href="#출력-리다이렉션">출력 리다이렉션 </a></li><li><a href="#에러-리다이렉션">에러 리다이렉션 </a></li><li><a href="#널-디바이스">널 디바이스 </a></li><li><a href="#출력-병합">출력 병합 </a></li><li><a href="#파이프">파이프 </a></li></ul></li><li><a href="#tar-파일">Tar 파일 </a><ul><li><a href="#기본-옵션">기본 옵션 </a></li><li><a href="#압축-옵션">압축 옵션 </a></li></ul></li><li><a href="#sed-명령어">SED 명령어 </a></li><li><a href="#awk-명령어">AWK 명령어 </a></li><li><a href="#wc-명령어">WC 명령어 </a></li><li><a href="#tr-명령어">TR 명령어 </a></li><li><a href="#sort-명령어">SORT 명령어 </a></li><li><a href="#cut-명령어">CUT 명령어 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></nav><hr>
+<h2 id="들어가기" tabindex="-1" data-src-line="4">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>텍스트 에디터는 리눅스 환경에서 매우 중요한 비중을 차지합니다.<br>
 대부분의 시스템 설정 파일이 텍스트 기반으로 관리되기 때문에,<br>
 에디터를 능숙하게 사용할 수 있어야 설정을 수정하거나 새로 작성할 수 있습니다.</p>
@@ -42,7 +41,7 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 <img src="/images/_posts/linux/rocky-linux-series-5-vim-and-text-processing/1769516113805-image.webp" alt="image.png"></p>
 </div>
 <hr>
-<h2 id="vi-and-vim" tabindex="-1" data-src-line="27">VI AND VIM <a class="header-anchor" href="#vi-and-vim" aria-hidden="true">#</a></h2>
+<h2 id="vi-and-vim" tabindex="-1" data-src-line="25">VI AND VIM <a class="header-anchor" href="#vi-and-vim" aria-hidden="true">#</a></h2>
 <ul>
 <li>vi : Visual Display Editor 입니다.</li>
 <li>vim : Vi IMproved 입니다.</li>
@@ -50,8 +49,8 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 <p>vim은 기존 vi 에디터를 개선한 확장 버전입니다.<br>
 현재 대부분의 리눅스 배포판에서는 vim 또는 vi 호환 버전이 기본 제공됩니다.</p>
 <hr>
-<h2 id="vi-에디터" tabindex="-1" data-src-line="37">VI 에디터 <a class="header-anchor" href="#vi-에디터" aria-hidden="true">#</a></h2>
-<h3 id="3가지-모드로-동작합니다" tabindex="-1" data-src-line="39">3가지 모드로 동작합니다. <a class="header-anchor" href="#3가지-모드로-동작합니다" aria-hidden="true">#</a></h3>
+<h2 id="vi-에디터" tabindex="-1" data-src-line="35">VI 에디터 <a class="header-anchor" href="#vi-에디터" aria-hidden="true">#</a></h2>
+<h3 id="3가지-모드로-동작합니다" tabindex="-1" data-src-line="37">3가지 모드로 동작합니다. <a class="header-anchor" href="#3가지-모드로-동작합니다" aria-hidden="true">#</a></h3>
 <ul>
 <li>명령 모드 : 커서 이동, 삭제, 복사 등의 작업을 수행합니다.</li>
 <li>입력 모드 : 실제 텍스트를 입력하는 모드입니다.</li>
@@ -59,14 +58,14 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </ul>
 <p>모드 개념을 이해하지 못하면 vi 사용이 매우 어렵게 느껴질 수 있습니다.</p>
 <hr>
-<h2 id="vim-명령모드--콜론모드" tabindex="-1" data-src-line="49">VIM 명령모드 &amp; 콜론모드 <a class="header-anchor" href="#vim-명령모드--콜론모드" aria-hidden="true">#</a></h2>
+<h2 id="vim-명령모드--콜론모드" tabindex="-1" data-src-line="47">VIM 명령모드 &amp; 콜론모드 <a class="header-anchor" href="#vim-명령모드--콜론모드" aria-hidden="true">#</a></h2>
 <ul>
 <li>:set number (set nu) : 왼쪽에 줄 번호를 표시합니다.</li>
 <li>:wq : 저장 후 종료합니다.</li>
 <li>:q : 종료합니다. 변경 사항이 있으면 종료되지 않습니다.</li>
 <li>:q! : 변경 사항을 무시하고 강제로 종료합니다.</li>
 </ul>
-<h3 id="커서-이동" tabindex="-1" data-src-line="56">커서 이동 <a class="header-anchor" href="#커서-이동" aria-hidden="true">#</a></h3>
+<h3 id="커서-이동" tabindex="-1" data-src-line="54">커서 이동 <a class="header-anchor" href="#커서-이동" aria-hidden="true">#</a></h3>
 <ul>
 <li>
 <p>h : 왼쪽으로 이동합니다.</p>
@@ -93,13 +92,13 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 <p>^ : 현재 행의 처음으로 이동합니다.</p>
 </li>
 </ul>
-<h3 id="이동-단위" tabindex="-1" data-src-line="74">이동 단위 <a class="header-anchor" href="#이동-단위" aria-hidden="true">#</a></h3>
+<h3 id="이동-단위" tabindex="-1" data-src-line="72">이동 단위 <a class="header-anchor" href="#이동-단위" aria-hidden="true">#</a></h3>
 <ul>
 <li>w : 단어 단위로 앞으로 이동합니다.</li>
 <li>b : 단어 단위로 뒤로 이동합니다.</li>
 <li>숫자 + 명령어 : 명령을 숫자만큼 반복 실행합니다.</li>
 </ul>
-<h3 id="삭제" tabindex="-1" data-src-line="80">삭제 <a class="header-anchor" href="#삭제" aria-hidden="true">#</a></h3>
+<h3 id="삭제" tabindex="-1" data-src-line="78">삭제 <a class="header-anchor" href="#삭제" aria-hidden="true">#</a></h3>
 <ul>
 <li>x : 커서 위치의 문자를 삭제합니다.</li>
 <li>dw : 한 단어를 삭제합니다.</li>
@@ -107,7 +106,7 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 <li>d$, d^ : 커서부터 행의 끝 또는 처음까지 삭제합니다.</li>
 <li>dG : 커서부터 파일 끝까지 삭제합니다.</li>
 </ul>
-<h3 id="복사-및-붙여넣기" tabindex="-1" data-src-line="88">복사 및 붙여넣기 <a class="header-anchor" href="#복사-및-붙여넣기" aria-hidden="true">#</a></h3>
+<h3 id="복사-및-붙여넣기" tabindex="-1" data-src-line="86">복사 및 붙여넣기 <a class="header-anchor" href="#복사-및-붙여넣기" aria-hidden="true">#</a></h3>
 <ul>
 <li>yw : 한 단어를 복사합니다.</li>
 <li>yy : 한 행을 복사합니다.</li>
@@ -115,12 +114,12 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 <li>P : 커서 위에 붙여넣습니다.</li>
 </ul>
 <p>삭제된 내용은 버퍼에 저장되며, 바로 붙여넣기가 가능합니다.</p>
-<h3 id="실행-취소" tabindex="-1" data-src-line="97">실행 취소 <a class="header-anchor" href="#실행-취소" aria-hidden="true">#</a></h3>
+<h3 id="실행-취소" tabindex="-1" data-src-line="95">실행 취소 <a class="header-anchor" href="#실행-취소" aria-hidden="true">#</a></h3>
 <ul>
 <li>u : 이전 작업을 취소합니다.</li>
 </ul>
 <hr>
-<h2 id="vim-입력모드-진입-방법" tabindex="-1" data-src-line="103">VIM 입력모드 진입 방법 <a class="header-anchor" href="#vim-입력모드-진입-방법" aria-hidden="true">#</a></h2>
+<h2 id="vim-입력모드-진입-방법" tabindex="-1" data-src-line="101">VIM 입력모드 진입 방법 <a class="header-anchor" href="#vim-입력모드-진입-방법" aria-hidden="true">#</a></h2>
 <ul>
 <li>a : 커서 다음 위치에서 입력을 시작합니다.</li>
 <li>i : 커서 현재 위치에서 입력을 시작합니다.</li>
@@ -129,7 +128,7 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </ul>
 <p>입력 모드에서는 명령어가 동작하지 않으므로 주의가 필요합니다.</p>
 <hr>
-<h2 id="vim-콜론모드" tabindex="-1" data-src-line="114">VIM 콜론모드 <a class="header-anchor" href="#vim-콜론모드" aria-hidden="true">#</a></h2>
+<h2 id="vim-콜론모드" tabindex="-1" data-src-line="112">VIM 콜론모드 <a class="header-anchor" href="#vim-콜론모드" aria-hidden="true">#</a></h2>
 <ul>
 <li>
 <p>/검색어 : 검색을 수행합니다.</p>
@@ -153,14 +152,14 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </li>
 </ul>
 <hr>
-<h2 id="vi-에디터-커스터마이징" tabindex="-1" data-src-line="132">VI 에디터 커스터마이징 <a class="header-anchor" href="#vi-에디터-커스터마이징" aria-hidden="true">#</a></h2>
+<h2 id="vi-에디터-커스터마이징" tabindex="-1" data-src-line="130">VI 에디터 커스터마이징 <a class="header-anchor" href="#vi-에디터-커스터마이징" aria-hidden="true">#</a></h2>
 <ul>
 <li>홈 디렉터리에 <code>.vimrc</code> 파일을 생성하여 기본 설정을 정의할 수 있습니다.</li>
 <li>자주 사용하는 옵션을 미리 설정해두면 작업 효율이 크게 향상됩니다.</li>
 </ul>
 <p>예를 들어 줄 번호 표시, 탭 설정 등을 등록할 수 있습니다.</p>
 <hr>
-<h2 id="communication-channels" tabindex="-1" data-src-line="141">Communication Channels <a class="header-anchor" href="#communication-channels" aria-hidden="true">#</a></h2>
+<h2 id="communication-channels" tabindex="-1" data-src-line="139">Communication Channels <a class="header-anchor" href="#communication-channels" aria-hidden="true">#</a></h2>
 <p>리눅스에는 기본적으로 3가지 표준 채널이 존재합니다.</p>
 <ul>
 <li>STDIN  : 표준 입력입니다.</li>
@@ -169,8 +168,8 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </ul>
 <p>파일 디스크립터 번호는 각각 0, 1, 2로 할당되어 있습니다.</p>
 <hr>
-<h2 id="file-redirection" tabindex="-1" data-src-line="153">File Redirection <a class="header-anchor" href="#file-redirection" aria-hidden="true">#</a></h2>
-<h3 id="입력-리다이렉션" tabindex="-1" data-src-line="155">입력 리다이렉션 <a class="header-anchor" href="#입력-리다이렉션" aria-hidden="true">#</a></h3>
+<h2 id="file-redirection" tabindex="-1" data-src-line="151">File Redirection <a class="header-anchor" href="#file-redirection" aria-hidden="true">#</a></h2>
+<h3 id="입력-리다이렉션" tabindex="-1" data-src-line="153">입력 리다이렉션 <a class="header-anchor" href="#입력-리다이렉션" aria-hidden="true">#</a></h3>
 <ul>
 <li>기호 : <code>&lt;</code></li>
 <li>파일 내용을 표준 입력으로 전달합니다.</li>
@@ -178,7 +177,7 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-selector-tag">tr</span> <span class="hljs-selector-tag">a</span>-z <span class="hljs-selector-tag">A</span>-Z &lt; test2<span class="hljs-selector-class">.txt</span>
 </code></pre></div></code></pre>
 <hr>
-<h3 id="출력-리다이렉션" tabindex="-1" data-src-line="166">출력 리다이렉션 <a class="header-anchor" href="#출력-리다이렉션" aria-hidden="true">#</a></h3>
+<h3 id="출력-리다이렉션" tabindex="-1" data-src-line="164">출력 리다이렉션 <a class="header-anchor" href="#출력-리다이렉션" aria-hidden="true">#</a></h3>
 <ul>
 <li><code>&gt;</code>  : 덮어쓰기 출력입니다.</li>
 <li><code>&gt;&gt;</code> : 이어서 출력입니다.</li>
@@ -205,26 +204,26 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </tbody>
 </table>
 <hr>
-<h3 id="에러-리다이렉션" tabindex="-1" data-src-line="178">에러 리다이렉션 <a class="header-anchor" href="#에러-리다이렉션" aria-hidden="true">#</a></h3>
+<h3 id="에러-리다이렉션" tabindex="-1" data-src-line="176">에러 리다이렉션 <a class="header-anchor" href="#에러-리다이렉션" aria-hidden="true">#</a></h3>
 <ul>
 <li><code>2&gt;</code> , <code>2&gt;&gt;</code> : 표준 에러를 파일로 저장합니다.</li>
 </ul>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">find</span> / 2&gt;&gt; errors
 </code></pre></div></code></pre>
 <hr>
-<h3 id="널-디바이스" tabindex="-1" data-src-line="188">널 디바이스 <a class="header-anchor" href="#널-디바이스" aria-hidden="true">#</a></h3>
+<h3 id="널-디바이스" tabindex="-1" data-src-line="186">널 디바이스 <a class="header-anchor" href="#널-디바이스" aria-hidden="true">#</a></h3>
 <ul>
 <li><code>/dev/null</code> : 출력 결과를 버립니다.</li>
 </ul>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">find</span> /etc -name test <span class="hljs-number">2</span>&gt; <span class="hljs-regexp">/dev/</span><span class="hljs-literal">null</span>
 </code></pre></div></code></pre>
 <hr>
-<h3 id="출력-병합" tabindex="-1" data-src-line="198">출력 병합 <a class="header-anchor" href="#출력-병합" aria-hidden="true">#</a></h3>
+<h3 id="출력-병합" tabindex="-1" data-src-line="196">출력 병합 <a class="header-anchor" href="#출력-병합" aria-hidden="true">#</a></h3>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ls</span> -R /proc &gt; output <span class="hljs-number">2</span>&gt;&amp;<span class="hljs-number">1</span>
 </code></pre></div></code></pre>
 <p>표준 출력과 에러 출력을 하나의 파일로 합칩니다.</p>
 <hr>
-<h3 id="파이프" tabindex="-1" data-src-line="208">파이프 <a class="header-anchor" href="#파이프" aria-hidden="true">#</a></h3>
+<h3 id="파이프" tabindex="-1" data-src-line="206">파이프 <a class="header-anchor" href="#파이프" aria-hidden="true">#</a></h3>
 <ul>
 <li>앞 명령어의 표준 출력을 뒤 명령어의 입력으로 전달합니다.</li>
 </ul>
@@ -232,17 +231,17 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </code></pre></div></code></pre>
 <p>에러 출력은 파이프로 전달되지 않습니다.</p>
 <hr>
-<h2 id="tar-파일" tabindex="-1" data-src-line="220">Tar 파일 <a class="header-anchor" href="#tar-파일" aria-hidden="true">#</a></h2>
+<h2 id="tar-파일" tabindex="-1" data-src-line="218">Tar 파일 <a class="header-anchor" href="#tar-파일" aria-hidden="true">#</a></h2>
 <ul>
 <li>tar는 여러 파일을 하나로 묶는 아카이브 도구입니다.</li>
 </ul>
-<h3 id="기본-옵션" tabindex="-1" data-src-line="224">기본 옵션 <a class="header-anchor" href="#기본-옵션" aria-hidden="true">#</a></h3>
+<h3 id="기본-옵션" tabindex="-1" data-src-line="222">기본 옵션 <a class="header-anchor" href="#기본-옵션" aria-hidden="true">#</a></h3>
 <ul>
 <li>cvf : 생성합니다.</li>
 <li>tvf : 목록을 확인합니다.</li>
 <li>xvf : 해제합니다.</li>
 </ul>
-<h3 id="압축-옵션" tabindex="-1" data-src-line="230">압축 옵션 <a class="header-anchor" href="#압축-옵션" aria-hidden="true">#</a></h3>
+<h3 id="압축-옵션" tabindex="-1" data-src-line="228">압축 옵션 <a class="header-anchor" href="#압축-옵션" aria-hidden="true">#</a></h3>
 <ul>
 <li>z : gzip</li>
 <li>j : bzip2</li>
@@ -250,39 +249,39 @@ vim을 사용하기 위한 튜토리얼이 실행됩니다.<br>
 </ul>
 <p>압축 여부와 관계없이 tar 파일은 아카이브 개념입니다.</p>
 <hr>
-<h2 id="sed-명령어" tabindex="-1" data-src-line="240">SED 명령어 <a class="header-anchor" href="#sed-명령어" aria-hidden="true">#</a></h2>
+<h2 id="sed-명령어" tabindex="-1" data-src-line="238">SED 명령어 <a class="header-anchor" href="#sed-명령어" aria-hidden="true">#</a></h2>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>sed <span class="hljs-string">&#x27;s/coffee/milk/g&#x27;</span> sed<span class="hljs-selector-class">.txt</span>
 sed <span class="hljs-string">&#x27;/2003/d&#x27;</span> sed<span class="hljs-selector-class">.txt</span>
 </code></pre></div></code></pre>
 <p>스트림 편집기로, 파일을 직접 수정하지 않고 결과를 출력합니다.</p>
 <hr>
-<h2 id="awk-명령어" tabindex="-1" data-src-line="251">AWK 명령어 <a class="header-anchor" href="#awk-명령어" aria-hidden="true">#</a></h2>
+<h2 id="awk-명령어" tabindex="-1" data-src-line="249">AWK 명령어 <a class="header-anchor" href="#awk-명령어" aria-hidden="true">#</a></h2>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">awk</span> <span class="hljs-string">&#x27;/monday/ {print <span class="hljs-variable">$1</span>,<span class="hljs-variable">$4</span>}&#x27;</span> awk.txt
 </code></pre></div></code></pre>
 <p>필드 기반 데이터 처리에 특화된 도구입니다.</p>
 <hr>
-<h2 id="wc-명령어" tabindex="-1" data-src-line="261">WC 명령어 <a class="header-anchor" href="#wc-명령어" aria-hidden="true">#</a></h2>
+<h2 id="wc-명령어" tabindex="-1" data-src-line="259">WC 명령어 <a class="header-anchor" href="#wc-명령어" aria-hidden="true">#</a></h2>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">wc</span> awk.txt
 <span class="hljs-built_in">who</span> | <span class="hljs-built_in">wc</span> -l
 </code></pre></div></code></pre>
 <p>줄, 단어, 문자 개수를 확인할 수 있습니다.</p>
 <hr>
-<h2 id="tr-명령어" tabindex="-1" data-src-line="272">TR 명령어 <a class="header-anchor" href="#tr-명령어" aria-hidden="true">#</a></h2>
+<h2 id="tr-명령어" tabindex="-1" data-src-line="270">TR 명령어 <a class="header-anchor" href="#tr-명령어" aria-hidden="true">#</a></h2>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">date</span> | <span class="hljs-built_in">tr</span> i3K a
 </code></pre></div></code></pre>
 <p>문자 단위 치환에 사용됩니다.</p>
 <hr>
-<h2 id="sort-명령어" tabindex="-1" data-src-line="282">SORT 명령어 <a class="header-anchor" href="#sort-명령어" aria-hidden="true">#</a></h2>
+<h2 id="sort-명령어" tabindex="-1" data-src-line="280">SORT 명령어 <a class="header-anchor" href="#sort-명령어" aria-hidden="true">#</a></h2>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">sort</span> -n -t: -k3 /etc/passwd
 </code></pre></div></code></pre>
 <p>정렬 기준과 구분자를 명확히 지정하는 것이 중요합니다.</p>
 <hr>
-<h2 id="cut-명령어" tabindex="-1" data-src-line="292">CUT 명령어 <a class="header-anchor" href="#cut-명령어" aria-hidden="true">#</a></h2>
+<h2 id="cut-명령어" tabindex="-1" data-src-line="290">CUT 명령어 <a class="header-anchor" href="#cut-명령어" aria-hidden="true">#</a></h2>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">cut</span> -d: -f1,<span class="hljs-number">3</span>,<span class="hljs-number">6</span> /etc/passwd
 </code></pre></div></code></pre>
 <p>열 기반 데이터 추출에 사용됩니다.</p>
 <hr>
-<h2 id="마치면서" tabindex="-1" data-src-line="302">마치면서 <a class="header-anchor" href="#마치면서" aria-hidden="true">#</a></h2>
+<h2 id="마치면서" tabindex="-1" data-src-line="300">마치면서 <a class="header-anchor" href="#마치면서" aria-hidden="true">#</a></h2>
 <p>이번 내용에서는 vi/vim 사용법과 함께,<br>
 리눅스에서 자주 사용되는 표준 입출력과 텍스트 처리 명령어를 정리했습니다.</p>
 <p>처음에는 익숙하지 않더라도,<br>
