@@ -1,0 +1,207 @@
+1:"$Sreact.fragment"
+2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-ae45985938c0825e.js"],"default"]
+6:I[484,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/_next/static/css/f9ba877569af6fa6.css","style"]
+3:T45aa,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#netfilter와-firewall의-변화">Netfilter와 Firewall의 변화 </a></li><li><a href="#firewalld란-무엇인가">FirewallD란 무엇인가 </a></li><li><a href="#firewalld의-핵심-개념-zone">FirewallD의 핵심 개념: Zone </a><ul><li><a href="#zone의-동작-구조">Zone의 동작 구조 </a></li><li><a href="#주요-zone-종류">주요 Zone 종류 </a></li></ul></li><li><a href="#default-zone의-의미">Default Zone의 의미 </a></li><li><a href="#firewalld-실습-흐름-해설">FirewallD 실습 흐름 해설 </a><ul><li><a href="#zone-목록과-현재-상태-확인">Zone 목록과 현재 상태 확인 </a></li><li><a href="#기본-zone-변경의-의미">기본 Zone 변경의 의미 </a></li><li><a href="#서비스-허용과-런타임-규칙">서비스 허용과 런타임 규칙 </a></li><li><a href="#permanent-옵션의-정확한-의미">Permanent 옵션의 정확한 의미 </a></li><li><a href="#reload의-역할">reload의 역할 </a></li></ul></li><li><a href="#포트-기반-허용의-실제-의미">포트 기반 허용의 실제 의미 </a></li><li><a href="#ssh-포트-변경-시-방화벽-설정">SSH 포트 변경 시 방화벽 설정 </a></li><li><a href="#sources-소스-ip-기반-제어">sources: 소스 IP 기반 제어 </a></li><li><a href="#icmp-제어의-의미">ICMP 제어의 의미 </a></li><li><a href="#정리">정리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+<p>리눅스에서 네트워크 통신을 다룬다는 것은, 결국 <strong>어떤 패킷을 허용하고 어떤 패킷을 차단할 것인가</strong>를 결정하는 일입니다.<br>
+서비스를 운영하다 보면 포트를 열어야 하는 순간이 반드시 오고, 그때 방화벽은 선택이 아니라 기본 전제가 됩니다.</p>
+<p>이 글에서는 RHEL 7 이후 표준 방화벽 관리 방식인 <strong>FirewallD</strong>를 기준으로,<br>
+방화벽이 어떤 구조로 동작하는지, 그리고 실습 명령어들이 어떤 의미를 가지는지까지 흐름 중심으로 정리해보려 합니다.</p>
+<hr>
+<h2 id="netfilter와-firewall의-변화" tabindex="-1" data-src-line="12">Netfilter와 Firewall의 변화 <a class="header-anchor" href="#netfilter와-firewall의-변화" aria-hidden="true">#</a></h2>
+<p>리눅스 커널에는 오래전부터 <strong>Netfilter</strong>라는 패킷 필터링 프레임워크가 존재해왔습니다.<br>
+iptables, ip6tables 같은 도구는 모두 이 Netfilter를 직접 제어하는 방식이었습니다.</p>
+<p>문제는 다음과 같았습니다.</p>
+<ul>
+<li>규칙이 많아질수록 관리가 복잡해짐</li>
+<li>규칙 변경 시 서비스 중단 위험</li>
+<li>네트워크 환경별 정책 분리가 어려움</li>
+</ul>
+<p>이런 한계를 보완하기 위해 RHEL 7부터는 <strong>FirewallD</strong>가 기본 방화벽 관리 방식으로 채택되었습니다.</p>
+<hr>
+<h2 id="firewalld란-무엇인가" tabindex="-1" data-src-line="27">FirewallD란 무엇인가 <a class="header-anchor" href="#firewalld란-무엇인가" aria-hidden="true">#</a></h2>
+<p>FirewallD는 단순한 방화벽 도구가 아니라,<br>
+<strong>동적으로 방화벽 규칙을 관리하는 데몬 서비스</strong>입니다.</p>
+<p>핵심 특징은 다음과 같습니다.</p>
+<ul>
+<li>런타임 규칙 변경 가능 (서비스 재시작 불필요)</li>
+<li>네트워크 신뢰 수준 기반 정책 관리</li>
+<li>내부적으로 Netfilter(nftables/iptables)를 추상화</li>
+</ul>
+<p>관리 방법도 다양합니다.</p>
+<ul>
+<li>GUI : firewall-config</li>
+<li>CLI : firewall-cmd</li>
+<li>D-BUS : 다른 프로그램과 연동 가능</li>
+</ul>
+<hr>
+<h2 id="firewalld의-핵심-개념-zone" tabindex="-1" data-src-line="46">FirewallD의 핵심 개념: Zone <a class="header-anchor" href="#firewalld의-핵심-개념-zone" aria-hidden="true">#</a></h2>
+<p>FirewallD를 이해하는 가장 중요한 개념은 <strong>Zone(존)</strong> 입니다.</p>
+<p>Zone은 단순히 포트 목록이 아니라,<br>
+<strong>네트워크의 신뢰 수준에 따라 미리 정의된 방화벽 규칙 묶음</strong>입니다.</p>
+<p>즉, 질문은 이것입니다.</p>
+<blockquote>
+<p>이 네트워크를 얼마나 믿을 수 있는가?</p>
+</blockquote>
+<hr>
+<h3 id="zone의-동작-구조" tabindex="-1" data-src-line="59">Zone의 동작 구조 <a class="header-anchor" href="#zone의-동작-구조" aria-hidden="true">#</a></h3>
+<p>FirewallD는 다음과 같은 흐름으로 패킷을 처리합니다.</p>
+<ol>
+<li>네트워크 인터페이스 또는 소스 IP가 특정 Zone에 매핑됨</li>
+<li>들어오는 패킷이 Zone으로 분류됨</li>
+<li>해당 Zone에 허용된 서비스/포트만 통과</li>
+<li>나머지 트래픽은 기본적으로 차단</li>
+</ol>
+<p>정리하면 다음과 같습니다.</p>
+<p><strong>Interface → Zone → Rule</strong></p>
+<hr>
+<h3 id="주요-zone-종류" tabindex="-1" data-src-line="74">주요 Zone 종류 <a class="header-anchor" href="#주요-zone-종류" aria-hidden="true">#</a></h3>
+<p>FirewallD에는 여러 기본 Zone이 존재합니다.</p>
+<ul>
+<li>public : 신뢰되지 않은 외부 네트워크 (기본값)</li>
+<li>dmz : 외부에 노출되는 서버 영역</li>
+<li>internal : 내부 네트워크</li>
+<li>home : 가정용 네트워크</li>
+<li>trusted : 모든 트래픽 허용</li>
+<li>drop : 응답 없이 패킷 폐기</li>
+<li>block : ICMP 거부 메시지 후 차단</li>
+</ul>
+<p>실무에서는 대부분 public, dmz, internal 정도만 사용하게 됩니다.</p>
+<hr>
+<h2 id="default-zone의-의미" tabindex="-1" data-src-line="90">Default Zone의 의미 <a class="header-anchor" href="#default-zone의-의미" aria-hidden="true">#</a></h2>
+<p>인터페이스에 Zone을 명시적으로 지정하지 않으면,<br>
+FirewallD는 <strong>Default Zone</strong>을 자동으로 적용합니다.</p>
+<p>현재 기본 Zone은 다음 명령으로 확인할 수 있습니다.</p>
+<ul>
+<li>현재 시스템의 기본 Zone 확인</li>
+<li>새로 연결되는 인터페이스에 자동 적용되는 Zone</li>
+</ul>
+<p>운영 환경에서는 이 기본 Zone이 무엇인지 반드시 확인해야 합니다.</p>
+<hr>
+<h2 id="firewalld-실습-흐름-해설" tabindex="-1" data-src-line="104">FirewallD 실습 흐름 해설 <a class="header-anchor" href="#firewalld-실습-흐름-해설" aria-hidden="true">#</a></h2>
+<p>아래에서는 앞에서 설명한 개념이 실제 명령어로 어떻게 연결되는지,<br>
+최소한의 예제를 통해 흐름을 확인해봅니다.</p>
+<h3 id="zone-목록과-현재-상태-확인" tabindex="-1" data-src-line="109">Zone 목록과 현재 상태 확인 <a class="header-anchor" href="#zone-목록과-현재-상태-확인" aria-hidden="true">#</a></h3>
+<p>처음 해야 할 일은, 시스템에 어떤 Zone들이 정의되어 있는지 확인하는 것입니다.</p>
+<p>Zone 전체 목록을 확인하면 각 Zone에 어떤 서비스와 포트가 허용되어 있는지 함께 볼 수 있습니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># 시스템에 정의된 모든 Zone과 규칙 확인</span>
+<span class="hljs-attribute">firewall</span>-cmd --list-<span class="hljs-literal">all</span>-zones
+</code></pre></div></code></pre>
+<p>또한 현재 기본 Zone이 무엇인지도 반드시 확인해야 합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-meta"># 현재 기본 Zone 확인</span>
+firewall-cmd --<span class="hljs-keyword">get</span>-<span class="hljs-literal">default</span>-zone
+</code></pre></div></code></pre>
+<p>이 값은 <strong>Zone을 지정하지 않은 인터페이스에 자동 적용되는 정책</strong>이므로,<br>
+운영 환경에서는 매우 중요합니다.</p>
+<hr>
+<h3 id="기본-zone-변경의-의미" tabindex="-1" data-src-line="132">기본 Zone 변경의 의미 <a class="header-anchor" href="#기본-zone-변경의-의미" aria-hidden="true">#</a></h3>
+<p>기본 Zone을 변경하면,<br>
+명시적으로 Zone이 지정되지 않은 모든 인터페이스의 보안 정책이 함께 변경됩니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-meta"># 기본 Zone을 dmz로 변경</span>
+firewall-cmd --<span class="hljs-keyword">set</span>-<span class="hljs-literal">default</span>-zone=dmz
+</code></pre></div></code></pre>
+<p>이 명령은 단순히 포트를 여는 것과는 다릅니다.<br>
+해당 인터페이스 전체의 <strong>신뢰 수준 자체를 바꾸는 작업</strong>이기 때문에,<br>
+실무에서는 사전에 구조를 충분히 이해한 상태에서만 적용해야 합니다.</p>
+<hr>
+<h3 id="서비스-허용과-런타임-규칙" tabindex="-1" data-src-line="148">서비스 허용과 런타임 규칙 <a class="header-anchor" href="#서비스-허용과-런타임-규칙" aria-hidden="true">#</a></h3>
+<p>FirewallD에서 서비스는 단순한 포트 번호가 아니라,<br>
+미리 정의된 포트·프로토콜 묶음입니다.</p>
+<p>예를 들어 웹 서버를 운영하는 경우 다음과 같이 서비스를 허용할 수 있습니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># http, https 서비스 허용 (런타임)</span>
+firewall-cmd <span class="hljs-attribute">--add-service</span>=http
+firewall-cmd <span class="hljs-attribute">--add-service</span>=https
+</code></pre></div></code></pre>
+<p>이 설정은 즉시 반영되지만,<br>
+재부팅 후에는 사라집니다.</p>
+<p>현재 Zone에 적용된 설정은 다음 명령으로 확인할 수 있습니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>firewall-cmd <span class="hljs-comment">--list-all</span>
+</code></pre></div></code></pre>
+<hr>
+<h3 id="permanent-옵션의-정확한-의미" tabindex="-1" data-src-line="172">Permanent 옵션의 정확한 의미 <a class="header-anchor" href="#permanent-옵션의-정확한-의미" aria-hidden="true">#</a></h3>
+<p>영구 설정은 <code>--permanent</code> 옵션을 사용합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># 재부팅 후에도 유지되는 서비스 허용</span>
+<span class="hljs-string">firewall-cmd</span> <span class="hljs-built_in">--permanent</span> <span class="hljs-built_in">--add-service=http</span>
+<span class="hljs-string">firewall-cmd</span> <span class="hljs-built_in">--permanent</span> <span class="hljs-built_in">--add-service=https</span>
+</code></pre></div></code></pre>
+<p>중요한 점은,<br>
+permanent 설정은 <strong>즉시 적용되지 않는다</strong>는 것입니다.</p>
+<p>이 상태에서 바로 확인하면 아직 반영되지 않은 것처럼 보입니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>firewall-cmd <span class="hljs-comment">--list-all</span>
+</code></pre></div></code></pre>
+<hr>
+<h3 id="reload의-역할" tabindex="-1" data-src-line="193">reload의 역할 <a class="header-anchor" href="#reload의-역할" aria-hidden="true">#</a></h3>
+<p>permanent 설정을 실제 방화벽 규칙으로 반영하려면 reload가 필요합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># permanent 설정을 런타임에 반영</span>
+firewall-cmd <span class="hljs-comment">--reload</span>
+</code></pre></div></code></pre>
+<p>reload는 다음과 같은 특징을 가집니다.</p>
+<ul>
+<li>기존 연결 유지</li>
+<li>서비스 재시작 불필요</li>
+<li>운영 중 안전하게 적용 가능</li>
+</ul>
+<p>그래서 FirewallD는 운영 환경에서도 비교적 부담 없이 정책 변경이 가능합니다.</p>
+<hr>
+<h2 id="포트-기반-허용의-실제-의미" tabindex="-1" data-src-line="212">포트 기반 허용의 실제 의미 <a class="header-anchor" href="#포트-기반-허용의-실제-의미" aria-hidden="true">#</a></h2>
+<p>특정 포트를 직접 허용하는 경우는 보통 다음과 같습니다.</p>
+<ul>
+<li>서비스 정의가 없는 커스텀 데몬</li>
+<li>syslog (514/udp)</li>
+<li>커스텀 SSH 포트</li>
+</ul>
+<p>예를 들어 원격 로그 수신을 허용하려면 다음과 같이 설정합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># syslog 수신 포트 허용</span>
+firewall-<span class="hljs-keyword">cmd</span><span class="language-bash"> --permanent --add-port=514/udp</span>
+</code></pre></div></code></pre>
+<p>이는 <strong>외부에서 들어오는 syslog 패킷을 허용</strong>하는 설정입니다.</p>
+<hr>
+<h2 id="ssh-포트-변경-시-방화벽-설정" tabindex="-1" data-src-line="231">SSH 포트 변경 시 방화벽 설정 <a class="header-anchor" href="#ssh-포트-변경-시-방화벽-설정" aria-hidden="true">#</a></h2>
+<p>SSH 포트를 기본값이 아닌 다른 값으로 변경했다면,<br>
+방화벽 설정도 반드시 함께 변경해야 합니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># SSH를 222/tcp 포트로 허용</span>
+firewall-<span class="hljs-keyword">cmd</span><span class="language-bash"> --permanent --add-port=222/tcp</span>
+firewall-<span class="hljs-keyword">cmd</span><span class="language-bash"> --reload</span>
+</code></pre></div></code></pre>
+<p>이 작업이 빠지면 sshd가 정상 동작하더라도<br>
+외부에서는 접속할 수 없는 상태가 됩니다.</p>
+<p>또한 실제 환경에서는 SELinux 포트 정책도 함께 확인해야 합니다.</p>
+<hr>
+<h2 id="sources-소스-ip-기반-제어" tabindex="-1" data-src-line="249">sources: 소스 IP 기반 제어 <a class="header-anchor" href="#sources-소스-ip-기반-제어" aria-hidden="true">#</a></h2>
+<p>FirewallD는 포트보다 먼저 <strong>출발지 IP를 기준으로 신뢰</strong>할 수 있습니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-comment"># 특정 네트워크 대역을 신뢰</span>
+<span class="hljs-string">firewall-cmd</span> <span class="hljs-built_in">--permanent</span> <span class="hljs-built_in">--add-source=192.168.11.0/24</span>
+
+<span class="hljs-comment"># 특정 호스트만 신뢰</span>
+<span class="hljs-string">firewall-cmd</span> <span class="hljs-built_in">--permanent</span> <span class="hljs-built_in">--add-source=10.100.1.2</span>
+
+<span class="hljs-string">firewall-cmd</span> <span class="hljs-built_in">--reload</span>
+</code></pre></div></code></pre>
+<p>이 방식은 내부 관리망이나 VPN 구간에서 특히 유용합니다.</p>
+<hr>
+<h2 id="icmp-제어의-의미" tabindex="-1" data-src-line="267">ICMP 제어의 의미 <a class="header-anchor" href="#icmp-제어의-의미" aria-hidden="true">#</a></h2>
+<p>ICMP는 단순한 ping이 아니라,<br>
+네트워크 오류 전달과 상태 확인에 사용됩니다.</p>
+<p>예를 들어 echo-request를 차단하면 ping 요청에 응답하지 않게 됩니다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code># ICMP <span class="hljs-built_in">echo</span>-request 차단
+firewall-<span class="hljs-built_in">cmd</span> --permanent --add-icmp-block=<span class="hljs-built_in">echo</span>-request
+firewall-<span class="hljs-built_in">cmd</span> --reload
+</code></pre></div></code></pre>
+<p>보안을 강화할 수는 있지만,<br>
+장애 진단이 어려워질 수 있으므로 환경에 따라 신중하게 선택해야 합니다.</p>
+<hr>
+<h2 id="정리" tabindex="-1" data-src-line="285">정리 <a class="header-anchor" href="#정리" aria-hidden="true">#</a></h2>
+<p>FirewallD는 단순한 방화벽 명령어 집합이 아닙니다.</p>
+<ul>
+<li>Zone을 중심으로 한 정책 설계</li>
+<li>런타임과 영구 설정의 분리</li>
+<li>서비스 중단 없는 정책 변경</li>
+</ul>
+<p>이 구조를 이해하면,<br>
+방화벽 설정은 더 이상 외워야 할 명령어가 아니라<br>
+<strong>의도적으로 설계하는 보안 정책</strong>이 됩니다.</p>
+0:{"buildId":"OVH8QBuitG6cUfqQIWlJ_","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-20-firewalld-network-communication"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #20 – FirewallD 기반 네트워크 통신과 Zone 설계"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"RHEL 7 이후 표준 방화벽인 FirewallD의 구조와 동작 원리를 정리합니다. Zone 개념을 중심으로 네트워크 신뢰 수준 설계, 서비스·포트·source 기반 제어 방식, 런타임과 영구 설정의 차이를 실습 흐름과 함께 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 30."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","firewalld",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","firewalld"]}],["$","span","linux-firewall",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux-firewall"]}],["$","span","rhel-firewalld",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rhel-firewalld"]}],["$","span","rocky-linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","network-security",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","network-security"]}],["$","span","linux-networking",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux-networking"]}],["$","span","firewalld-zone",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","firewalld-zone"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next"}]
+5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
+8:null
