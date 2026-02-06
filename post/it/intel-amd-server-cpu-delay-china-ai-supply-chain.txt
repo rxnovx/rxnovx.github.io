@@ -1,0 +1,128 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-eadfcb599fee955e.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-eadfcb599fee955e.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","760","static/chunks/app/(blog)/page-cb2054a8ed72bedb.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/4092efc9d2b7227b.css","style"]
+:HL["/_next/static/css/f9ba877569af6fa6.css","style"]
+0:{"P":null,"b":"f0MKmqcS5C0K5rA4G1ARj","c":["","post","it","intel-amd-server-cpu-delay-china-ai-supply-chain"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","it/intel-amd-server-cpu-delay-china-ai-supply-chain","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4092efc9d2b7227b.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-full border border-[var(--border)] px-2.5 py-1 transition hover:border-[var(--accent)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-full border border-[var(--border)] px-2.5 py-1 transition hover:border-[var(--accent)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}]
+a:["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]
+b:["$","div",null,{"className":"mt-6 border-t border-dashed border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0b84b2ba1ddd70b3.js"],"default"]
+1d:T1c52,<nav class="md-toc"><ul><li><a href="#들어가며">들어가며 </a></li><li><a href="#intel과-amd의-공급-지연-통보">Intel과 AMD의 공급 지연 통보 </a><ul><li><a href="#공급을-장담할-수-없다는-메시지">“공급을 장담할 수 없다”는 메시지 </a></li></ul></li><li><a href="#ai-수요가-만든-구조적-변화">AI 수요가 만든 구조적 변화 </a><ul><li><a href="#서버는-다시-전략-자산이-됐다">서버는 다시 ‘전략 자산’이 됐다 </a></li></ul></li><li><a href="#intelamd가-처한-현실">Intel·AMD가 처한 현실 </a></li><li><a href="#아시아-그리고-한국의-위치">아시아, 그리고 한국의 위치 </a><ul><li><a href="#리스크">리스크 </a></li><li><a href="#기회">기회 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><blockquote>
+<p>이 글은 <strong>해외 IT 기사 원문을 읽고 요약·재구성한 글</strong>이다.<br>
+사실 전달을 우선하되, 중간중간 개인적인 해석과 생각을 덧붙였다.<br>
+원문: Reuters – <em>Intel, AMD warn China customers of server CPU delays</em><br>
+<a href="https://www.reuters.com/technology/" target="_blank" rel="noopener noreferrer" class="md-ext-link">https://www.reuters.com/technology/</a></p>
+</blockquote>
+<hr>
+<h2 id="들어가며" tabindex="-1" data-src-line="8">들어가며 <a class="header-anchor" href="#들어가며" aria-hidden="true">#</a></h2>
+<p>AI 이야기만 나오면 모든 것이 소프트웨어 문제처럼 보이기 쉽다.<br>
+모델이 어떻고, 파라미터가 어떻고, 프레임워크가 어떻고.</p>
+<p>그런데 최근 Reuters 기사 하나를 읽으면서,<br>
+<strong>AI 시대에도 결국 발목을 잡는 건 물리적인 공급망</strong>이라는 생각이 다시 들었다.</p>
+<p>Intel과 AMD가 중국 고객들에게<br>
+데이터센터용 서버 CPU 공급이 수개월 이상 지연될 수 있다고 통보했다는 내용이다.</p>
+<p>이건 단순한 납기 지연 공지가 아니다.</p>
+<hr>
+<h2 id="intel과-amd의-공급-지연-통보" tabindex="-1" data-src-line="23">Intel과 AMD의 공급 지연 통보 <a class="header-anchor" href="#intel과-amd의-공급-지연-통보" aria-hidden="true">#</a></h2>
+<p>Reuters에 따르면 Intel과 AMD는 중국 내 주요 고객사들에게<br>
+서버용 CPU 공급이 최대 6개월 이상 늦어질 수 있음을 사전에 알렸다.</p>
+<p>표면적인 이유는 다음과 같다.</p>
+<ul>
+<li>데이터센터 및 AI 관련 수요 급증</li>
+<li>글로벌 반도체 생산 능력 한계</li>
+<li>지정학적 리스크와 수출 규제 환경</li>
+</ul>
+<p>하지만 이 조합은 이미 몇 년째 반복되고 있다.<br>
+그럼에도 이번 소식이 눈에 띄는 이유는 따로 있다.</p>
+<h3 id="공급을-장담할-수-없다는-메시지" tabindex="-1" data-src-line="37">“공급을 장담할 수 없다”는 메시지 <a class="header-anchor" href="#공급을-장담할-수-없다는-메시지" aria-hidden="true">#</a></h3>
+<p>Intel과 AMD는 전통적으로 <strong>성능 경쟁</strong>을 해오던 회사들이다.</p>
+<p>누가 더 빠른가, 누가 더 효율적인가.</p>
+<p>그런 회사들이 고객에게 먼저 나서서<br>
+&quot;언제 줄 수 있을지 확답하기 어렵다&quot;고 말한 건,<br>
+지금 시장의 중심이 성능이 아니라 <strong>공급 안정성</strong>으로 이동했음을 보여준다.</p>
+<hr>
+<h2 id="ai-수요가-만든-구조적-변화" tabindex="-1" data-src-line="49">AI 수요가 만든 구조적 변화 <a class="header-anchor" href="#ai-수요가-만든-구조적-변화" aria-hidden="true">#</a></h2>
+<p>이번 이슈를 단기적인 병목으로만 보기엔 무리가 있다.</p>
+<p>AI 워크로드는 기존 서버 수요와 성격이 다르다.</p>
+<ul>
+<li>연산량이 크고</li>
+<li>지속적으로 돌고</li>
+<li>한 번 깔리면 쉽게 줄지 않는다</li>
+</ul>
+<h3 id="서버는-다시-전략-자산이-됐다" tabindex="-1" data-src-line="59">서버는 다시 ‘전략 자산’이 됐다 <a class="header-anchor" href="#서버는-다시-전략-자산이-됐다" aria-hidden="true">#</a></h3>
+<p>이전에는 필요하면 서버를 사서 쓰는 구조였다.</p>
+<p>지금은 다르다.</p>
+<ul>
+<li>대형 기업은 장기 계약으로 물량을 선점하고</li>
+<li>중소 기업은 대기 상태에 놓인다</li>
+</ul>
+<p>결국 AI 인프라는 점점<br>
+<strong>소수 기업 중심으로 집중되는 구조</strong>로 흘러가고 있다.</p>
+<p>클라우드 시대가 모두에게 열려 있다는 말은,<br>
+하드웨어 앞에서는 더 이상 성립하지 않는다.</p>
+<hr>
+<h2 id="intelamd가-처한-현실" tabindex="-1" data-src-line="76">Intel·AMD가 처한 현실 <a class="header-anchor" href="#intelamd가-처한-현실" aria-hidden="true">#</a></h2>
+<p>이번 통보는 기술 실패의 결과라기보다는,<br>
+<strong>제조 주도권을 완전히 쥐고 있지 못한 현실</strong>을 드러낸다.</p>
+<ul>
+<li>파운드리는 여전히 제한적이고</li>
+<li>공정 전환은 느리며</li>
+<li>캐파 배분은 AI 쪽으로 쏠린다</li>
+</ul>
+<p>특히 Intel조차 이런 메시지를 냈다는 점은,<br>
+x86 진영 전체가 성능 경쟁보다<br>
+<strong>공급 현실에 먼저 반응해야 하는 국면</strong>에 들어섰다는 신호처럼 보인다.</p>
+<hr>
+<h2 id="아시아-그리고-한국의-위치" tabindex="-1" data-src-line="91">아시아, 그리고 한국의 위치 <a class="header-anchor" href="#아시아-그리고-한국의-위치" aria-hidden="true">#</a></h2>
+<p>이 상황은 리스크이면서 동시에 기회다.</p>
+<h3 id="리스크" tabindex="-1" data-src-line="95">리스크 <a class="header-anchor" href="#리스크" aria-hidden="true">#</a></h3>
+<ul>
+<li>연산 자원이 글로벌 빅테크에 집중</li>
+<li>AI 인프라 접근 격차 확대</li>
+<li>중국 시장 변수로 인한 공급망 불안정</li>
+</ul>
+<h3 id="기회" tabindex="-1" data-src-line="101">기회 <a class="header-anchor" href="#기회" aria-hidden="true">#</a></h3>
+<ul>
+<li>파운드리, 메모리, 후공정의 전략적 가치 상승</li>
+<li>제조 역량 자체가 기술 경쟁력이 되는 흐름</li>
+<li>ARM, RISC-V, 특수 가속기 등 대안 실험 가속</li>
+</ul>
+<p>한국은 완성 CPU를 만드는 국가는 아니다.</p>
+<p>하지만 AI 시대에 필요한<br>
+메모리, 공정, 제조 경험을 가진 몇 안 되는 국가다.</p>
+<p>이 변화가 불편하긴 하지만,<br>
+흐름을 잘 읽으면 주도권의 일부를 가져올 여지는 남아 있다.</p>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="117">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>이번 Intel·AMD 공급 지연 소식은<br>
+&quot;AI가 모든 걸 바꾼다&quot;는 말의 이면을 보여준다.</p>
+<p>아무리 소프트웨어가 중요해져도,<br>
+결국 세상은 물리적인 한계 위에서 돌아간다.</p>
+<p>그리고 지금 그 한계가,<br>
+다시 한 번 산업의 방향을 결정하고 있다.</p>
+<p>이게 일시적인 혼란인지,<br>
+아니면 구조적인 전환의 시작인지는<br>
+조금 더 지켜봐야 할 것 같다.</p>
+13:["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"it › intel-amd-server-cpu-delay-china-ai-supply-chain"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"반도체 공급은 다시 전략이 됐다"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"Intel과 AMD의 서버 CPU 공급 지연이 보여주는 AI 시대 반도체 공급망의 구조적 변화"}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 02. 06."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","semiconductor",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","semiconductor"]}],["$","span","ai-infrastructure",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","ai-infrastructure"]}],["$","span","server-cpu",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","server-cpu"]}],["$","span","intel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","intel"]}],["$","span","amd",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","amd"]}],["$","span","supply-chain",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","supply-chain"]}],["$","span","data-center",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","data-center"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L1c",null,{"content":"$1d"}]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"반도체 공급은 다시 전략이 됐다 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Intel과 AMD의 서버 CPU 공급 지연이 보여주는 AI 시대 반도체 공급망의 구조적 변화"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","link","7",{"rel":"canonical","href":"https://rxnovx.github.io//post/it/intel-amd-server-cpu-delay-china-ai-supply-chain"}],["$","meta","8",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","9",{"property":"og:title","content":"반도체 공급은 다시 전략이 됐다"}],["$","meta","10",{"property":"og:description","content":"Intel과 AMD의 서버 CPU 공급 지연이 보여주는 AI 시대 반도체 공급망의 구조적 변화"}],["$","meta","11",{"property":"og:url","content":"https://rxnovx.github.io//post/it/intel-amd-server-cpu-delay-china-ai-supply-chain"}],["$","meta","12",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","13",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","14",{"property":"og:image:width","content":"1200"}],["$","meta","15",{"property":"og:image:height","content":"630"}],["$","meta","16",{"property":"og:image:alt","content":"반도체 공급은 다시 전략이 됐다"}],["$","meta","17",{"property":"og:type","content":"article"}],["$","meta","18",{"property":"article:tag","content":"semiconductor"}],["$","meta","19",{"property":"article:tag","content":"ai-infrastructure"}],["$","meta","20",{"property":"article:tag","content":"server-cpu"}],["$","meta","21",{"property":"article:tag","content":"intel"}],["$","meta","22",{"property":"article:tag","content":"amd"}],["$","meta","23",{"property":"article:tag","content":"supply-chain"}],["$","meta","24",{"property":"article:tag","content":"data-center"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"반도체 공급은 다시 전략이 됐다"}],["$","meta","27",{"name":"twitter:description","content":"Intel과 AMD의 서버 CPU 공급 지연이 보여주는 AI 시대 반도체 공급망의 구조적 변화"}],["$","meta","28",{"name":"twitter:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","link","29",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1e","30",{}]]
+16:null
