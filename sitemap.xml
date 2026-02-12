@@ -6,7 +6,8 @@
 <url><loc>https://rxnovx.github.io/categories/termux</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/vscode</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io</loc><lastmod>2026-02-12T04:47:41.389Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io</loc><lastmod>2026-02-12T07:26:20.497Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/post/it/co-packaged-optics-explained-for-students-ai-datacenter</loc><lastmod>2026-02-12T07:23:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/it/digital-existentialism-architecting-autonomy</loc><lastmod>2026-02-12T04:42:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/it/intel-amd-server-cpu-delay-china-ai-supply-chain</loc><lastmod>2026-02-05T20:13:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/it/linux-kernel-7-0-announced-major-technical-shift</loc><lastmod>2026-02-09T04:21:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -40,11 +41,12 @@
 <url><loc>https://rxnovx.github.io/post/termux/run-nextjs-on-android</loc><lastmod>2025-12-31T01:07:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/termux/run-vscode-on-android</loc><lastmod>2025-12-31T00:55:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/vscode/vscode-ssh-remote-offline-network</loc><lastmod>2026-01-15T06:15:05.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/posts</loc><lastmod>2026-02-12T04:47:41.389Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/posts</loc><lastmod>2026-02-12T07:26:20.497Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/ai_hardware</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/ai-infrastructure</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/ai-safety</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/AIInfrastructure</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/allow</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/amd</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/anacron</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -73,6 +75,7 @@
 <url><loc>https://rxnovx.github.io/tags/cron</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/crontab</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/data-center</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/DataCenter</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/deny</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/dev-environment</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/DigitalEthics</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -82,6 +85,7 @@
 <url><loc>https://rxnovx.github.io/tags/edge_ai</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/energy_efficiency</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/enterprise-linux</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/Ethernet</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/extent</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/fdisk</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/file</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -97,6 +101,7 @@
 <url><loc>https://rxnovx.github.io/tags/grubby</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/howtousemarkdown</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/http3</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/InfiniBand</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/intel</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/ip</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/journal</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -146,10 +151,12 @@
 <url><loc>https://rxnovx.github.io/tags/network-security</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/network-storage</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/networking</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/Networking</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/networkmanager</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/next.js</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/nfs</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/ntp</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/NVIDIA</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/offline-network</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/opensource</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/openssh</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -204,6 +211,7 @@
 <url><loc>https://rxnovx.github.io/tags/sgid</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/shell</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/signal</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/SiliconPhotonics</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/single</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/smb</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/specialcharacter</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -242,9 +250,9 @@
 <url><loc>https://rxnovx.github.io/tags/windows</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/yum</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/chat</loc><lastmod>2026-02-12T04:47:41.390Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/design-guide-pro</loc><lastmod>2026-02-12T04:47:41.390Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/seojun</loc><lastmod>2026-02-12T04:47:41.390Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/chat</loc><lastmod>2026-02-12T07:26:20.498Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/design-guide-pro</loc><lastmod>2026-02-12T07:26:20.498Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/seojun</loc><lastmod>2026-02-12T07:26:20.498Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post</loc></url>
 <url><loc>https://rxnovx.github.io/about</loc></url>
 </urlset>
