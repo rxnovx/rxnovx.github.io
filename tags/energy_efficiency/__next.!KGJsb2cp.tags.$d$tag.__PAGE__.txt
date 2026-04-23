@@ -1,124 +1,13 @@
 1:"$Sreact.fragment"
-2:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
-5:I[484,[],"OutletBoundary"]
-6:"$Sreact.suspense"
-3:T1298,[[toc]]
-
-## 들어가기
-
-AI 하드웨어 이야기를 하다 보면 결국 같은 결론에 도달한다.
-연산 성능은 계속 올라가지만, 그 대가로 전력과 열 문제는 점점 감당하기 어려워지고 있다는 점이다.
-
-최근 해외 IT 기사 하나를 읽으면서, 이 흐름을 전혀 다른 방향에서 풀어보려는 시도가 눈에 들어왔다.
-전자 대신 **소리**를 이용해 연산을 수행하는 AI 칩 이야기다.
-
----
-
-## 기사 요약·재구성 (원문 기반)
-
-> ※ 이 글은 해외 IT 기사 내용을 요약·재구성한 글이며, 원문의 흐름과 문제의식을 최대한 유지하려 했다.
-> 원문 URL: [https://news.yahoo.com/brisbane-startup-cortisonic-creates-revolutionary-015652361.html](https://news.yahoo.com/brisbane-startup-cortisonic-creates-revolutionary-015652361.html)
-
-### 음향 기반 AI 칩이라는 접근
-
-호주 브리즈번의 한 스타트업은 기존 전자 기반 칩과 전혀 다른 방식의 AI 연산 칩을 개발하고 있다.
-이들이 제안하는 방식은 트랜지스터를 통해 전자를 이동시키는 대신, **음향 진동(phonon)**을 이용해 정보를 전달하고 계산하는 구조다.
-
-이 칩은 ‘Sonic Processing Unit’이라는 이름으로 소개되며, 핵심 목표는 단순하다.
-
-* 전력 소비를 극단적으로 낮출 것
-* 발열 문제를 구조적으로 줄일 것
-* AI 추론 연산에 특화될 것
-
-기존 GPU나 AI 가속기가 점점 더 많은 전력을 요구하는 상황에서, 이 접근은 정면으로 다른 방향을 택하고 있다.
-
----
-
-### 왜 전력 문제가 핵심인가
-
-AI 모델이 커질수록 연산량은 기하급수적으로 늘어난다.
-문제는 연산 자체보다, 그 연산을 **어디서 어떻게 감당하느냐**다.
-
-데이터센터는 전력과 냉각으로 버틸 수 있다.
-하지만 스마트폰, 드론, 웨어러블 기기처럼 전력과 공간이 제한된 환경에서는 이야기가 달라진다.
-
-이 스타트업은 바로 이 지점을 겨냥한다.
-
-* 고성능보다는 **지속 가능한 연산**
-* 범용성보다는 **특정 목적에 최적화된 구조**
-
-음향 기반 연산은 이론적으로 전자 이동보다 에너지 손실이 적고, 열 발생도 낮다.
-그래서 이 기술은 데이터센터보다 **Edge AI 환경**에서 먼저 의미를 가질 가능성이 크다.
-
----
-
-### 아직은 초기 단계
-
-물론 현실적인 한계도 분명하다.
-
-* 아직은 프로토타입 수준
-* 기존 소프트웨어 생태계와의 호환성 문제
-* 범용 CPU·GPU를 대체하기에는 갈 길이 멂
-
-이 기술이 당장 모든 AI 하드웨어를 바꿀 것이라고 보기는 어렵다.
-다만, 지금과 같은 전력 중심 구조가 계속 유지되기 어렵다는 점을 다시 한 번 드러내는 사례라고 볼 수 있다.
-
----
-
-## 이 기술이 던지는 질문
-
-### 하드웨어 산업의 기준은 바뀔 수 있을까
-
-현재 하드웨어 산업의 발전 방향은 꽤 명확하다.
-
-* 더 많은 트랜지스터
-* 더 높은 연산 밀도
-* 더 많은 전력 허용
-* 더 강력한 냉각 인프라
-
-이 흐름은 모두 **전자 기반 연산**을 전제로 한다.
-
-하지만 만약 전자 외의 다른 물리적 방식으로,
-AI 연산을 훨씬 적은 전력으로 처리할 수 있다면 이야기는 달라진다.
-
-성능을 얼마나 끌어올리느냐보다,
-
-* 어디까지 전력을 낮출 수 있는가
-* 어디까지 열을 줄일 수 있는가
-
-가 더 중요한 기준이 될 수도 있다.
-
----
-
-## 내 생각
-
-새로운 컴퓨팅 기술이 실제로 상용화된다면, 기존의 하드웨어 산업 방향성이 달라질 가능성은 충분히 있다고 본다.
-
-지금까지의 하드웨어 발전은
-‘얼마나 많은 전력과 냉각을 감당할 수 있는가’를 전제로 움직여왔다.
-
-하지만 연산 방식 자체가 바뀐다면,
-성능을 키우는 경쟁보다 전력과 열을 줄이는 방향이 더 중요한 기준이 될 수도 있다.
-
-물론 이런 기술이 기존 CPU나 GPU를 곧바로 대체하지는 못할 것이다.
-대신 하드웨어 산업이 하나의 방향이 아니라,
-
-* 데이터센터 중심의 고전력 연산
-* Edge 환경을 위한 초저전력 연산
-
-처럼 **여러 갈래로 분화되는 계기**가 될 가능성은 충분해 보인다.
-
----
-
-## 마무리
-
-이런 기술이 성공할지 여부는 아직 알 수 없다.
-다만 분명한 건, AI 연산의 병목이 단순한 성능 문제가 아니라는 점이다.
-
-전력과 열이라는 물리적 한계를 어떻게 다루느냐에 따라,
-하드웨어의 미래는 지금과 전혀 다른 모습이 될 수도 있다.
-
-이 기사는 그 가능성을 보여주는 하나의 신호처럼 느껴졌다.
-0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"typeLabel":"TAG","breadcrumb":"tags › #energy_efficiency","title":"#energy_efficiency","desc":"\"energy_efficiency\" 태그가 붙은 글 모음","posts":[{"slug":["it","sonic-ai-chip-hardware-industry-shift"],"slugPath":"it/sonic-ai-chip-hardware-industry-shift","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/it/sonic-ai-chip-hardware-industry-shift.md","frontmatter":{"title":"소리로 계산하는 AI 칩이 바꿀 하드웨어 산업의 방향","slug":"sonic-ai-chip-hardware-industry-shift","description":"음향 기반 AI 칩 기술이 등장하면서 기존 전자 기반 하드웨어 산업의 방향성이 어떻게 달라질 수 있는지 살펴본다.","date":"2026-02-06 15:04","tags":["ai_hardware","energy_efficiency","edge_ai","computing_architecture","semiconductor"],"category":"it","cover":"/images/og.webp","draft":false},"content":"$3"}],"basePath":"/tags/energy_efficiency","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}],null,"$L4"]}],"loading":null,"isPartial":false}
-4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
-7:null
+2:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-4946eec8f54173f3.js"],""]
+a:I[484,[],"OutletBoundary"]
+b:"$Sreact.suspense"
+0:{"buildId":"TQnTLghtjK9TKahpBwqnH","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl space-y-8","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"tags › #energy_efficiency"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-4xl text-2xl font-extrabold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"#energy_efficiency"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"\"energy_efficiency\" 태그가 붙은 글 모음"}],false,["$","div",null,{"className":"relative mt-7 h-px w-full bg-[var(--border)]/70"}]]}],["$","section",null,{"className":"rounded-[var(--radius-lg)] border border-[var(--border)]/80 bg-[var(--surface)] p-4 sm:p-5","children":[["$","div",null,{"className":"mb-3 flex flex-wrap items-center justify-between gap-3","children":[["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":["총 ",["$","strong",null,{"className":"text-[var(--foreground)]","children":1}],"개의 글"]}],["$","p",null,{"className":"text-xs text-[var(--text-muted)]","children":["페이지 ",1," / ",1]}]]}],["$","div",null,{"className":"flex max-h-28 flex-wrap gap-2 overflow-y-auto pr-1","children":[["$","$L2","/tags/linux",{"href":"/tags/linux","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","linux"]}],["$","$L2","/tags/rocky-linux",{"href":"/tags/rocky-linux","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","rocky-linux"]}],["$","$L2","/tags/rhel",{"href":"/tags/rhel","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","rhel"]}],["$","$L2","/tags/termux",{"href":"/tags/termux","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","termux"]}],["$","$L2","/tags/android",{"href":"/tags/android","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","android"]}],["$","$L2","/tags/rocky",{"href":"/tags/rocky","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","rocky"]}],["$","$L2","/tags/network",{"href":"/tags/network","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","network"]}],"$L3","$L4","$L5","$L6","$L7"]}]]}],"$L8"]}],null,"$L9"]}],"loading":null,"isPartial":false}
+3:["$","$L2","/tags/systemd",{"href":"/tags/systemd","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","systemd"]}]
+4:["$","$L2","/tags/system",{"href":"/tags/system","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","system"]}]
+5:["$","$L2","/tags/linux-basics",{"href":"/tags/linux-basics","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","linux-basics"]}]
+6:["$","$L2","/tags/code-server",{"href":"/tags/code-server","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","code-server"]}]
+7:["$","$L2","/tags/vscode",{"href":"/tags/vscode","className":"rounded-[var(--radius-pill)] border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)]/70 text-[var(--text-muted)] hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vscode"]}]
+8:[["$","ul",null,{"className":"grid gap-4 sm:gap-5","children":[["$","li","it/sonic-ai-chip-hardware-industry-shift",{"className":"group rounded-[var(--radius-lg)] border border-[var(--border)]/90 bg-[var(--surface)] shadow-[0_1px_0_rgba(0,0,0,0.02)] transition hover:border-[var(--primary)]/80","children":["$","$L2",null,{"href":"/post/it/sonic-ai-chip-hardware-industry-shift","className":"block p-5 sm:p-6","children":[["$","div",null,{"className":"mb-3 flex flex-wrap items-center gap-x-3 gap-y-1 text-[11px] text-[var(--text-muted)]","children":[["$","span",null,{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] px-2 py-0.5","children":"it"}],["$","time",null,{"dateTime":"2026-02-06 15:04","children":"2026-02-06 15:04"}],["$","span",null,{"children":"3 min read"}]]}],["$","h2",null,{"className":"text-lg font-semibold sm:text-xl leading-snug tracking-tight text-[var(--foreground)] transition group-hover:text-[var(--primary)]","children":["소리로 계산하는 AI 칩이 바꿀 하드웨어 산업의 방향",false]}],["$","p",null,{"className":"mt-3 line-clamp-2 text-[13px] leading-6 text-[var(--text-muted)]","children":"음향 기반 AI 칩 기술이 등장하면서 기존 전자 기반 하드웨어 산업의 방향성이 어떻게 달라질 수 있는지 살펴본다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","ai_hardware",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-2.5 py-1 text-[11px] text-[var(--text-muted)]","children":["#","ai_hardware"]}],["$","span","energy_efficiency",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-2.5 py-1 text-[11px] text-[var(--text-muted)]","children":["#","energy_efficiency"]}],["$","span","edge_ai",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-2.5 py-1 text-[11px] text-[var(--text-muted)]","children":["#","edge_ai"]}]]}]]}]}]]}],null]
+9:["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]
+c:null
