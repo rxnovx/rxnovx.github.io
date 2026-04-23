@@ -1,6 +1,83 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
-3:I[484,[],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"NvtiHDoIDVMynshd6FiOq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #pydantic-core"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#pydantic-core"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"pydantic-core\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","it/termux-fastapi-pydantic-install-summary",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/it/termux-fastapi-pydantic-install-summary","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"it › termux-fastapi-pydantic-install-summary"}],["$","span",null,{"children":["· ","2026-04-14 00:00:00"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["Termux에서 FastAPI 설치 실패 해결하기 (Pydantic-core/Rust 오류)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"Termux에서 FastAPI 설치 시 발생하는 pydantic-core 빌드 오류를 Rust·binutils 설치로 해결하는 과정을 단계별로 정리합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","termux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","termux"]}],["$","span","fastapi",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","fastapi"]}],["$","span","pydantic",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","pydantic"]}],["$","span","pydantic-core",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","pydantic-core"]}],["$","span","rust",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rust"]}],["$","span","android",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","android"]}],["$","span","python",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","python"]}]]}]]}]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+4:I[484,[],"OutletBoundary"]
+5:"$Sreact.suspense"
+3:Tc18,
+# Termux에서 FastAPI 설치 실패 해결하기
+
+## 들어가기
+
+Termux에서 간단히 FastAPI 테스트를 하려다가 설치 단계에서 계속 막혔다. 처음에는 `fastapi` 자체 문제라고 생각했지만, 실제 원인은 `pydantic-core` 빌드에 필요한 도구가 누락된 상태였다.
+
+같은 증상을 겪는 분들이 로그를 붙잡고 오래 헤매지 않도록, 내가 확인한 오류 흐름과 해결 순서를 정리한다.
+
+> [!NOTE]
+> 이 글은 아래 원문을 참고해 핵심 흐름을 재구성한 요약 기록이다. 원문 전문을 복제하지 않고, 실제 설치 시 필요한 포인트 중심으로 정리했다.
+
+---
+
+## 1. 설치할 때 어떤 에러가 나왔나
+
+실패 흐름은 아래처럼 반복됐다.
+
+1. `python -m pip install fastapi`
+2. 의존성 설치 중 `pydantic-core` 빌드 실패
+3. `pip` 업그레이드 안내가 뜨지만 Termux 환경에서는 이 방식이 도움이 안 됨
+4. `python -m pip install pydantic` 단독 설치 시 `can't find Rust compiler`
+5. Rust 설치 후에는 `aarch64-linux-android-ar` 관련 오류가 추가로 발생
+
+여기까지 오면 결론은 명확하다. **파이썬 패키지 자체 문제가 아니라, Termux의 네이티브 빌드 툴체인 부족 문제**다.
+
+---
+
+## 2. 해결 순서 (그대로 따라 하면 됨)
+
+아래 순서로 설치하니 정상적으로 진행됐다.
+
+```bash
+pkg install binutils
+pkg install rust
+pkg install build-essential
+python -m pip install pydantic
+python -m pip install fastapi
+```
+
+왜 이 순서가 중요한지는 아래 두 줄로 요약된다.
+
+- `rust`: `pydantic-core`를 빌드할 때 필요
+- `binutils`: `aarch64-linux-android-ar` 같은 툴 제공
+
+가능하면 가상환경(venv)에서 진행하는 것을 추천한다. 기존 패키지와 충돌 가능성을 줄일 수 있다.
+
+---
+
+## 3. 설치 후 확인할 점 (접속 범위)
+
+설치가 끝난 뒤 서버 실행 자체는 됐지만, 접속 범위는 따로 확인이 필요했다.
+
+- 휴대폰 내부 `localhost` 접속: 가능
+- 같은 와이파이의 다른 PC에서 안드로이드 IP 접속: 환경에 따라 실패 가능
+
+이 부분은 파이썬 라이브러리 문제가 아니라 안드로이드 단 정책/네트워크 제한 영향이 크다. 외부 기기 접근이 필요하면 방화벽, 포트, 단말 보안 정책을 함께 점검해야 한다.
+
+---
+
+## 4. 빠른 체크리스트
+
+- [ ] 오류 로그에 `Rust compiler` / `aarch64-linux-android-ar`가 보이는지 확인
+- [ ] `binutils`, `rust`, `build-essential` 먼저 설치
+- [ ] `pydantic` 설치 성공 후 `fastapi` 설치
+- [ ] 로컬 접속과 외부 기기 접속을 분리해서 테스트
+
+---
+
+## 마무리
+
+Termux에서 FastAPI가 설치되지 않을 때는 `fastapi` 자체보다 `pydantic-core`의 네이티브 빌드 환경을 먼저 의심하는 게 훨씬 빠르다. 같은 오류를 만난 분들께 이 순서가 바로 해결에 도움이 되었으면 한다.
+
+## 원문
+
+- shyim, *Install FastAPI, Pydantic on termux LOL*  
+  https://velog.io/@shyim/Install-FastAPI-Pydantic-on-termux-LOL
+0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"typeLabel":"TAG","breadcrumb":"tags › #pydantic-core","title":"#pydantic-core","desc":"\"pydantic-core\" 태그가 붙은 글 모음","posts":[{"slug":["it","termux-fastapi-pydantic-install-summary"],"slugPath":"it/termux-fastapi-pydantic-install-summary","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/it/termux-fastapi-pydantic-install-summary.md","frontmatter":{"title":"Termux에서 FastAPI 설치 실패 해결하기 (Pydantic-core/Rust 오류)","slug":"termux-fastapi-pydantic-install-summary","description":"Termux에서 FastAPI 설치 시 발생하는 pydantic-core 빌드 오류를 Rust·binutils 설치로 해결하는 과정을 단계별로 정리합니다.","date":"2026-04-14 00:00:00","tags":["termux","fastapi","pydantic","pydantic-core","rust","android","python"],"category":"it","cover":"/images/og.webp","draft":false},"content":"$3"}],"basePath":"/tags/pydantic-core","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}],null,["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null

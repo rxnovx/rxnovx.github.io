@@ -1,9 +1,15 @@
 1:"$Sreact.fragment"
-2:I[7971,["121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-2c2c46b59be49ae5.js"],"default"]
-6:I[484,[],"OutletBoundary"]
-7:"$Sreact.suspense"
-:HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-3:T430b,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#group">GROUP </a><ul><li><a href="#groupadd--그룹-생성">groupadd : 그룹 생성 </a></li><li><a href="#groupmod--그룹-설정-변경">groupmod : 그룹 설정 변경 </a></li><li><a href="#groupdel--그룹-삭제">groupdel : 그룹 삭제 </a></li></ul></li><li><a href="#user">USER </a><ul><li><a href="#useradd--유저-생성">useradd : 유저 생성 </a></li><li><a href="#usermod--유저-설정-변경">usermod : 유저 설정 변경 </a></li><li><a href="#userdel--유저-삭제">userdel : 유저 삭제 </a></li><li><a href="#특정-유저가-만든-파일-정리">특정 유저가 만든 파일 정리 </a></li></ul></li><li><a href="#shadow-파일과-비밀번호-정책">Shadow 파일과 비밀번호 정책 </a></li><li><a href="#계정-생성-시-영향을-주는-설정-파일">계정 생성 시 영향을 주는 설정 파일 </a><ul><li><a href="#etclogindefs">/etc/login.defs </a></li><li><a href="#etcdefaultuseradd">/etc/default/useradd </a></li><li><a href="#etcskel">/etc/skel </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-3dc91473a801847e.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-3dc91473a801847e.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-3dc91473a801847e.js"],""]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/css/9c75d3e7cd4cc239.css","style"]
+0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","$L2",null,{"title":"리눅스 배우기 #7 – 로컬 유저와 그룹 관리","slugPath":"linux/rocky-linux-series-7-manage-users-and-groups","headings":[{"id":"들어가기","text":"들어가기","level":2},{"id":"group","text":"GROUP","level":2},{"id":"groupadd--그룹-생성","text":"groupadd : 그룹 생성","level":3},{"id":"sales라는-그룹을-생성","text":"sales라는 그룹을 생성","level":1},{"id":"fin-이라는-그룹을-생성하고-gid를-2000으로-설정","text":"fin 이라는 그룹을 생성하고 GID를 2000으로 설정","level":1},{"id":"groupmod--그룹-설정-변경","text":"groupmod : 그룹 설정 변경","level":3},{"id":"sales-그룹의-gid를-3000으로-수정","text":"sales 그룹의 GID를 3000으로 수정","level":1},{"id":"fin-그룹의-이름을-oper로-변경","text":"fin 그룹의 이름을 oper로 변경","level":1},{"id":"groupdel--그룹-삭제","text":"groupdel : 그룹 삭제","level":3},{"id":"oper-그룹을-삭제","text":"oper 그룹을 삭제","level":1},{"id":"user","text":"USER","level":2},{"id":"useradd--유저-생성","text":"useradd : 유저 생성","level":3},{"id":"tom-이라는-계정을-생성","text":"tom 이라는 계정을 생성","level":1},{"id":"user1을-생성하고-uid를-3001-메모를-new-user로-설정","text":"user1을 생성하고 UID를 3001, 메모를 \"New User\"로 설정","level":1},{"id":"시스템-계정-derek-생성","text":"시스템 계정 derek 생성","level":1},{"id":"usermod--유저-설정-변경","text":"usermod : 유저 설정 변경","level":3},{"id":"susan의-uid를-3030으로-변경하고","text":"susan의 UID를 3030으로 변경하고","level":1},{"id":"primary-그룹을-sales로-로그인-쉘을-bash로-변경","text":"primary 그룹을 sales로, 로그인 쉘을 bash로 변경","level":1},{"id":"susan을-기존-그룹은-유지한-채-docker-그룹에-추가","text":"susan을 기존 그룹은 유지한 채 docker 그룹에 추가","level":1},{"id":"userdel--유저-삭제","text":"userdel : 유저 삭제","level":3},{"id":"tom은-홈디렉토리까지-삭제","text":"tom은 홈디렉토리까지 삭제","level":1},{"id":"susan은-계정만-삭제-홈디렉토리는-유지","text":"susan은 계정만 삭제, 홈디렉토리는 유지","level":1},{"id":"특정-유저가-만든-파일-정리","text":"특정 유저가 만든 파일 정리","level":3},{"id":"uid-1701이-소유한-파일-및-디렉토리-삭제","text":"UID 1701이 소유한 파일 및 디렉토리 삭제","level":1},{"id":"소유자가-없는-파일을-tmpbackup-으로-이동","text":"소유자가 없는 파일을 /tmp/backup 으로 이동","level":1},{"id":"shadow-파일과-비밀번호-정책","text":"Shadow 파일과 비밀번호 정책","level":2},{"id":"현재-비밀번호계정-만료-정책-확인","text":"현재 비밀번호/계정 만료 정책 확인","level":1},{"id":"다음-로그인-시-비밀번호-변경-강제","text":"다음 로그인 시 비밀번호 변경 강제","level":1},{"id":"비밀번호-최소-사용-기간-7일","text":"비밀번호 최소 사용 기간 7일","level":1},{"id":"비밀번호-최대-사용-기간-90일","text":"비밀번호 최대 사용 기간 90일","level":1},{"id":"만료-7일-전-경고","text":"만료 7일 전 경고","level":1},{"id":"만료-후-14일-지나면-계정-비활성화","text":"만료 후 14일 지나면 계정 비활성화","level":1},{"id":"계정-만료일-설정","text":"계정 만료일 설정","level":1},{"id":"계정-생성-시-영향을-주는-설정-파일","text":"계정 생성 시 영향을 주는 설정 파일","level":2},{"id":"etclogindefs","text":"/etc/login.defs","level":3},{"id":"etcdefaultuseradd","text":"/etc/default/useradd","level":3},{"id":"etcskel","text":"/etc/skel","level":3},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"linux › rocky-linux-series-7-manage-users-and-groups"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-4xl text-2xl font-extrabold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"리눅스 배우기 #7 – 로컬 유저와 그룹 관리"}],["$","p",null,{"className":"relative mt-4 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"로컬 계정과 그룹을 만들고 수정하고 삭제하는 흐름을 정리했습니다. /etc/group, /etc/passwd, /etc/shadow 구조와 useradd·usermod·chage의 핵심 옵션을 함께 다룹니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","2026. 01. 26."]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}]
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","rocky-linux"]}],["$","span","user-management",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","user-management"]}],["$","span","group-management",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","group-management"]}],["$","span","system-administration",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","system-administration"]}],["$","span","security",{"className":"rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/70 px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","security"]}]]}]
+5:["$","div",null,{"className":"relative mt-7 h-px w-full bg-[var(--border)]/70"}]
+b:T45e6,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#group">GROUP </a><ul><li><a href="#groupadd--그룹-생성">groupadd : 그룹 생성 </a></li><li><a href="#groupmod--그룹-설정-변경">groupmod : 그룹 설정 변경 </a></li><li><a href="#groupdel--그룹-삭제">groupdel : 그룹 삭제 </a></li></ul></li><li><a href="#user">USER </a><ul><li><a href="#useradd--유저-생성">useradd : 유저 생성 </a></li><li><a href="#usermod--유저-설정-변경">usermod : 유저 설정 변경 </a></li><li><a href="#userdel--유저-삭제">userdel : 유저 삭제 </a></li><li><a href="#특정-유저가-만든-파일-정리">특정 유저가 만든 파일 정리 </a></li></ul></li><li><a href="#shadow-파일과-비밀번호-정책">Shadow 파일과 비밀번호 정책 </a></li><li><a href="#계정-생성-시-영향을-주는-설정-파일">계정 생성 시 영향을 주는 설정 파일 </a><ul><li><a href="#etclogindefs">/etc/login.defs </a></li><li><a href="#etcdefaultuseradd">/etc/default/useradd </a></li><li><a href="#etcskel">/etc/skel </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>리눅스 시스템을 사용하려면 반드시 계정이 필요합니다.<br>
 모든 로그인, 모든 작업은 결국 <strong>유저(user)</strong> 단위로 기록되고 제어됩니다.</p>
 <p>이때 유저를 직접 하나하나 관리하기보다는,<br>
@@ -15,7 +21,7 @@
 <hr>
 <h2 id="group" tabindex="-1" data-src-line="17">GROUP <a class="header-anchor" href="#group" aria-hidden="true">#</a></h2>
 <p>리눅스의 그룹 정보는 <code>/etc/group</code> 파일에 저장되어 있습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">cat</span> /etc/group
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">cat</span> /etc/group
 </code></pre></div></code></pre>
 <p>이 파일은 한 줄이 하나의 그룹을 의미하며,<br>
 각 줄은 <code>:</code> 기준으로 <strong>4개의 컬럼</strong>으로 구성됩니다.</p>
@@ -26,12 +32,12 @@
 <li>그룹 구성원 목록</li>
 </ul>
 <p>형식은 아래와 같습니다.</p>
-<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">group_name:x:GID:user1,user2,user3
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">group_name:x:GID:user1,user2,user3
 </code></pre></div></code></pre>
 <hr>
 <h3 id="groupadd--그룹-생성" tabindex="-1" data-src-line="41">groupadd : 그룹 생성 <a class="header-anchor" href="#groupadd--그룹-생성" aria-hidden="true">#</a></h3>
 <p>새로운 그룹을 생성할 때 사용하는 명령어입니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># sales라는 그룹을 생성</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># sales라는 그룹을 생성</span>
 groupadd sales
 
 <span class="hljs-comment"># fin 이라는 그룹을 생성하고 GID를 2000으로 설정</span>
@@ -43,7 +49,7 @@ groupadd -g 2000 fin
 <hr>
 <h3 id="groupmod--그룹-설정-변경" tabindex="-1" data-src-line="59">groupmod : 그룹 설정 변경 <a class="header-anchor" href="#groupmod--그룹-설정-변경" aria-hidden="true">#</a></h3>
 <p>이미 존재하는 그룹의 설정을 변경할 때 사용합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># sales 그룹의 GID를 3000으로 수정</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># sales 그룹의 GID를 3000으로 수정</span>
 groupmod -g 3000 sales
 
 <span class="hljs-comment"># fin 그룹의 이름을 oper로 변경</span>
@@ -55,7 +61,7 @@ groupmod -n oper fin
 <hr>
 <h3 id="groupdel--그룹-삭제" tabindex="-1" data-src-line="77">groupdel : 그룹 삭제 <a class="header-anchor" href="#groupdel--그룹-삭제" aria-hidden="true">#</a></h3>
 <p>그룹을 삭제할 때 사용합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># oper 그룹을 삭제</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># oper 그룹을 삭제</span>
 groupdel oper
 </code></pre></div></code></pre>
 <p>해당 그룹을 primary 그룹으로 사용하는 유저가 있다면 삭제되지 않습니다.<br>
@@ -69,7 +75,7 @@ groupdel oper
 <li><code>/etc/shells</code> : 로그인 가능한 쉘 목록</li>
 </ul>
 <p><code>/etc/passwd</code>의 한 줄은 다음과 같은 구조를 가집니다.</p>
-<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">계정명:암호:UID:GID:유저메모:홈디렉토리:로그인쉘
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">계정명:암호:UID:GID:유저메모:홈디렉토리:로그인쉘
 </code></pre></div></code></pre>
 <p>실제 암호는 <code>/etc/shadow</code> 파일에 해시 형태로 저장됩니다.</p>
 <hr>
@@ -86,7 +92,7 @@ groupdel oper
 <li><code>-m</code> : 홈 디렉토리 생성</li>
 <li><code>-d</code> : 홈 디렉토리 경로 지정</li>
 </ul>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># tom 이라는 계정을 생성</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># tom 이라는 계정을 생성</span>
 useradd tom
 
 <span class="hljs-comment"># user1을 생성하고 UID를 3001, 메모를 &quot;New User&quot;로 설정</span>
@@ -109,12 +115,12 @@ useradd -r -s /sbin/nologin -g sales -G sshd,kvm,dbus -m -d /oracle ora
 <h3 id="usermod--유저-설정-변경" tabindex="-1" data-src-line="148">usermod : 유저 설정 변경 <a class="header-anchor" href="#usermod--유저-설정-변경" aria-hidden="true">#</a></h3>
 <p>이미 존재하는 유저의 설정을 변경할 때 사용합니다.</p>
 <p><code>useradd</code>에서 사용하던 옵션 대부분을 그대로 사용할 수 있습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># susan의 UID를 3030으로 변경하고</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># susan의 UID를 3030으로 변경하고</span>
 <span class="hljs-comment"># primary 그룹을 sales로, 로그인 쉘을 bash로 변경</span>
 usermod -u 3030 -g sales -s /bin/bash susan
 </code></pre></div></code></pre>
 <p>secondary 그룹을 추가할 때는 <code>-aG</code> 옵션을 사용합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># susan을 기존 그룹은 유지한 채 docker 그룹에 추가</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># susan을 기존 그룹은 유지한 채 docker 그룹에 추가</span>
 usermod -aG docker susan
 </code></pre></div></code></pre>
 <p><code>-a</code> 옵션 없이 <code>-G</code>만 사용하면<br>
@@ -122,7 +128,7 @@ usermod -aG docker susan
 <hr>
 <h3 id="userdel--유저-삭제" tabindex="-1" data-src-line="172">userdel : 유저 삭제 <a class="header-anchor" href="#userdel--유저-삭제" aria-hidden="true">#</a></h3>
 <p>유저를 삭제할 때 사용하는 명령어입니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># tom은 홈디렉토리까지 삭제</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># tom은 홈디렉토리까지 삭제</span>
 userdel -r tom
 
 <span class="hljs-comment"># susan은 계정만 삭제, 홈디렉토리는 유지</span>
@@ -134,11 +140,11 @@ userdel susan
 <h3 id="특정-유저가-만든-파일-정리" tabindex="-1" data-src-line="189">특정 유저가 만든 파일 정리 <a class="header-anchor" href="#특정-유저가-만든-파일-정리" aria-hidden="true">#</a></h3>
 <p>계정은 삭제했지만,<br>
 파일 시스템에는 해당 UID를 가진 파일이 남아있는 경우가 많습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># UID 1701이 소유한 파일 및 디렉토리 삭제</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># UID 1701이 소유한 파일 및 디렉토리 삭제</span>
 find / -uid 1701 -<span class="hljs-built_in">exec</span> <span class="hljs-built_in">rm</span> -rf {} +
 </code></pre></div></code></pre>
 <p>소유자가 없는 파일(<code>-nouser</code>)을 처리하는 예시는 아래와 같습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># 소유자가 없는 파일을 /tmp/backup 으로 이동</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># 소유자가 없는 파일을 /tmp/backup 으로 이동</span>
 <span class="hljs-built_in">mkdir</span> /tmp/backup
 find / -nouser 2&gt; /dev/null -<span class="hljs-built_in">exec</span> <span class="hljs-built_in">mv</span> {} /tmp/backup \;
 </code></pre></div></code></pre>
@@ -149,7 +155,7 @@ find / -nouser 2&gt; /dev/null -<span class="hljs-built_in">exec</span> <span cl
 유저의 비밀번호와 만료 정책을 관리하는 핵심 파일입니다.</p>
 <p>이 파일을 직접 수정하기보다는<br>
 <code>chage</code> 명령어를 사용하는 것이 일반적입니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># 현재 비밀번호/계정 만료 정책 확인</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># 현재 비밀번호/계정 만료 정책 확인</span>
 chage -l user
 
 <span class="hljs-comment"># 다음 로그인 시 비밀번호 변경 강제</span>
@@ -171,7 +177,7 @@ chage -I 14 user
 chage -E 2026-12-31 user
 </code></pre></div></code></pre>
 <p>shadow 파일의 각 필드는 다음 의미를 가집니다.</p>
-<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">username:password:lastchg:min:max:warn:inactive:expire:reserved
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">username:password:lastchg:min:max:warn:inactive:expire:reserved
 </code></pre></div></code></pre>
 <hr>
 <h2 id="계정-생성-시-영향을-주는-설정-파일" tabindex="-1" data-src-line="250">계정 생성 시 영향을 주는 설정 파일 <a class="header-anchor" href="#계정-생성-시-영향을-주는-설정-파일" aria-hidden="true">#</a></h2>
@@ -184,7 +190,7 @@ chage -E 2026-12-31 user
 </ul>
 <p>이 파일은 PAM보다 하위 레벨에서<br>
 기본값의 기준이 됩니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">PASS_MAX_DAYS 60
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">PASS_MAX_DAYS 60
 PASS_MIN_DAYS 10
 UID_MIN       10000
 GID_MIN       20000
@@ -193,14 +199,14 @@ GID_MIN       20000
 <h3 id="etcdefaultuseradd" tabindex="-1" data-src-line="272">/etc/default/useradd <a class="header-anchor" href="#etcdefaultuseradd" aria-hidden="true">#</a></h3>
 <p><code>useradd</code> 명령어를 실행할 때<br>
 옵션을 주지 않으면 적용되는 기본값입니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">INACTIVE=30
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">INACTIVE=30
 </code></pre></div></code></pre>
 <hr>
 <h3 id="etcskel" tabindex="-1" data-src-line="283">/etc/skel <a class="header-anchor" href="#etcskel" aria-hidden="true">#</a></h3>
 <p>새 계정을 생성할 때,<br>
 <code>/etc/skel</code> 디렉토리 안의 파일과 디렉토리가<br>
 사용자의 홈 디렉토리로 그대로 복사됩니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">mkdir</span> -p /etc/skel/Data
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">mkdir</span> -p /etc/skel/Data
 <span class="hljs-built_in">touch</span> /etc/skel/manual.txt
 
 useradd lunch
@@ -218,7 +224,8 @@ chage -l lunch
 권한(permission), ACL, 보안 설정의 기반이 됩니다.</p>
 <p>한 번에 다 외우려고 하기보다는,<br>
 직접 만들어보고, 바꿔보고, 지워보는 과정이 가장 확실한 학습 방법이라고 생각합니다.</p>
-0:{"buildId":"NvtiHDoIDVMynshd6FiOq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-7-manage-users-and-groups"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #7 – 로컬 유저와 그룹 관리"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"로컬 계정과 그룹을 만들고 수정하고 삭제하는 흐름을 정리했습니다. /etc/group, /etc/passwd, /etc/shadow 구조와 useradd·usermod·chage의 핵심 옵션을 함께 다룹니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 26."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","user-management",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","user-management"]}],["$","span","group-management",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","group-management"]}],["$","span","system-administration",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","system-administration"]}],["$","span","security",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","security"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
-4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next"}]
-5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
-8:null
+6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$La",null,{"content":"$b"}]}]}]
+7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/linux/rocky-linux-series-6-grep-and-regular-expressions","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"리눅스 배우기 #6 - 리눅스 grep과 정규표현식 기초 정리"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lc",null,{"href":"/post/linux/rocky-linux-series-8-file-system-permissions","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","linux/rocky-linux-series-21-manage-selinux-security",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/linux/rocky-linux-series-21-manage-selinux-security","className":"text-sm font-medium hover:text-[var(--primary)]","children":"리눅스 배우기 #21 – SELinux 보안 프레임워크 이해와 실무 운용"}]}],["$","li","linux/rocky-linux-series-20-firewalld-network-communication",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/linux/rocky-linux-series-20-firewalld-network-communication","className":"text-sm font-medium hover:text-[var(--primary)]","children":"리눅스 배우기 #20 – FirewallD 기반 네트워크 통신과 Zone 설계"}]}],["$","li","linux/rocky-linux-series-18-smb-cifs-autofs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/linux/rocky-linux-series-18-smb-cifs-autofs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"리눅스 배우기 #18 – SMB(CIFS)와 AutoFS로 네트워크 스토리지 사용하기"}]}]]}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/9c75d3e7cd4cc239.css","precedence":"next"}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

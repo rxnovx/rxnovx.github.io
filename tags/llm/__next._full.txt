@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 11:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","llm"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","llm","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","llm"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","llm","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
 13:I[484,[],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -22,8 +22,116 @@ d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 e:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
 f:["$","$L16","l",{}]
 10:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$@18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$@1a"}]}]}],null]}]
-12:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #llm"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#llm"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"llm\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","it/why-ai-safety-keeps-lagging-behind-capability",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/it/why-ai-safety-keeps-lagging-behind-capability","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"it › why-ai-safety-keeps-lagging-behind-capability"}],["$","span",null,{"children":["· ","2026-02-09 16:49"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["AI 안전 논의가 계속 미끄러지는 이유 - title"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"해외 IT 매체의 AI 안전 분석 기사를 바탕으로 기술 발전과 규제 논의의 구조적 어긋남을 정리"}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","artificial-intelligence",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","artificial-intelligence"]}],["$","span","ai-safety",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","ai-safety"]}],["$","span","regulation",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","regulation"]}],["$","span","llm",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","llm"]}],["$","span","governance",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","governance"]}]]}]]}]}]]}]]}]
+1b:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1c:T1151,[[toc]]
+
+# AI 안전 논의는 왜 항상 늦는가
+
+해외 IT 매체들은 최근 몇 년간 공통된 문제를 지적함. AI 기술은 빠르게 진화하는데, 안전과 규제 논의는 항상 한 박자씩 늦음.
+
+이 글은 WIRED의 AI 안전 관련 분석 기사 흐름을 바탕으로 내용을 재구성한 것임.
+원문 URL: [https://www.wired.com/tag/ai-safety/](https://www.wired.com/tag/ai-safety/)
+
+## 기술 발전 속도의 구조적 문제
+
+### 모델 성능은 지수적으로 증가
+
+대규모 언어 모델과 멀티모달 모델의 성능은 단순 개선이 아니라 **질적 도약**에 가까움.
+텍스트 생성에서 시작해 코드 작성, 추론, 이미지·음성 생성까지 빠르게 확장됨.
+
+여기서 중요한 점은, 성능 향상이 대부분 **연산량·데이터·모델 크기 증가**에 의해 이루어진다는 사실임.
+알고리즘 혁신보다 자원 투입이 더 큰 변수로 작동함.
+
+이 구조는 안전 문제를 더 복잡하게 만듦.
+왜냐하면 성능을 멈추지 않는 한 위험도 함께 커지기 때문임.
+
+### 안전 연구는 항상 후행
+
+안전성 평가는 대부분 **이미 배포된 모델**을 기준으로 이루어짐.
+즉, 문제가 발생한 뒤에야 대응이 시작됨.
+
+이는 제약이 아니라 구조적 한계에 가까움.
+모델 내부 동작은 불투명하고, 실제 사용 환경은 예측 불가능하기 때문임.
+
+추가 정보로, 이 문제를 완화하려는 시도가 바로 RLHF나 헌법형 AI 같은 접근임.
+다만 이 역시 사후적 조정에 가깝다는 한계가 있음.
+
+## 규제 논의가 현실을 따라가지 못하는 이유
+
+### 기술 주도권과 국가 경쟁
+
+AI는 단순한 소프트웨어 문제가 아님.
+국가 경쟁력, 군사·정보 우위, 산업 패권과 직결됨.
+
+이 때문에 각국 정부는 위험을 인지하면서도 **속도 조절을 꺼림**.
+규제가 곧 경쟁력 저하로 이어질 수 있다는 판단 때문임.
+
+이 지점에서 안전 논의는 항상 후순위로 밀림.
+명시적으로 반대하지는 않지만, 실행 단계로는 잘 이어지지 않음.
+
+### 규제 대상이 명확하지 않음
+
+기존 산업 규제는 명확한 대상이 있었음.
+공장, 제품, 사업자처럼 물리적 실체가 존재했음.
+
+하지만 AI는 다름.
+모델, 데이터, 파인튜닝, 배포 방식이 모두 분산돼 있음.
+
+그래서 규제 초점이 자주 흔들림.
+모델을 규제할지, 사용을 규제할지, 결과물을 규제할지 합의가 잘 안 됨.
+
+## 실제로 문제가 되는 영역들
+
+### 딥페이크와 정보 신뢰 붕괴
+
+가장 빠르게 현실화된 문제는 딥페이크임.
+텍스트·이미지·음성 모두에서 진짜와 가짜 구분이 어려워짐.
+
+이로 인해 정보의 진위 판단 비용이 급격히 상승함.
+개인이 아니라 사회 전체의 문제로 확장되는 지점임.
+
+### 자동화된 판단의 책임 문제
+
+AI가 추천·분류·판단에 개입하는 영역이 늘어남.
+금융, 채용, 의료, 행정까지 확장 중임.
+
+문제는 결과에 대한 책임 주체가 불분명하다는 점임.
+모델 개발자, 서비스 제공자, 사용자 중 누가 책임지는지 명확하지 않음.
+
+### 인간 의존성 증가
+
+일부 연구에서는 사용자가 AI 응답을 과도하게 신뢰하거나 정서적으로 의존하는 경향을 지적함.
+아직 인과관계가 명확하다고 보긴 어려움.
+다만 무시하기엔 사례가 빠르게 늘고 있음.
+
+## 구조적으로 가능한 선택지
+
+### 1. 사전 배포 기준 강화
+
+완전한 예방은 불가능함.
+다만 대규모 배포 전 최소한의 위험 평가 기준을 강제할 수는 있음.
+
+### 2. 투명성 요구
+
+모델 구조 공개가 아니라,
+훈련 범위, 사용 제한, 실패 사례에 대한 투명성 확보가 현실적인 대안임.
+
+### 3. 기술 외적 대응 병행
+
+모든 문제를 기술로 해결하려는 접근은 한계가 있음.
+미디어 리터러시, 조직 내 검증 절차 같은 비기술적 대응도 필요함.
+
+## 열린 결론
+
+AI 안전 논의가 늦는 이유는 의지가 없어서가 아님.
+기술 구조 자체가 안전을 뒤늦게 생각하도록 만들기 때문임.
+
+결국 선택지는 명확함.
+속도를 줄이거나, 위험을 감수하거나.
+대부분의 사회는 지금까지 후자를 선택해왔음.
+앞으로도 그럴지는 아직 열려 있음.
+12:["$","$L1b",null,{"typeLabel":"TAG","breadcrumb":"tags › #llm","title":"#llm","desc":"\"llm\" 태그가 붙은 글 모음","posts":[{"slug":["it","why-ai-safety-keeps-lagging-behind-capability"],"slugPath":"it/why-ai-safety-keeps-lagging-behind-capability","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/it/why-ai-safety-keeps-lagging-behind-capability.md","frontmatter":{"title":"AI 안전 논의가 계속 미끄러지는 이유 - title","slug":"why-ai-safety-keeps-lagging-behind-capability","description":"해외 IT 매체의 AI 안전 분석 기사를 바탕으로 기술 발전과 규제 논의의 구조적 어긋남을 정리","date":"2026-02-09 16:49","tags":["artificial-intelligence","ai-safety","regulation","llm","governance"],"category":"it","cover":"/images/og.webp","draft":false},"content":"$1c"}],"basePath":"/tags/llm","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1b:I[6869,[],"IconMark"]
-1a:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1b","26",{}]]
+1d:I[6869,[],"IconMark"]
+1a:[["$","title","0",{"children":"#llm 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#llm 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1d","26",{}]]
 15:null

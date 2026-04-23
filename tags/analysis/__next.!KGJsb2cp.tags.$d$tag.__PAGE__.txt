@@ -1,11 +1,295 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
-8:I[484,[],"OutletBoundary"]
-9:"$Sreact.suspense"
-0:{"buildId":"NvtiHDoIDVMynshd6FiOq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #analysis"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#analysis"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"analysis\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-11-analyzing-and-storing-logs",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/linux/rocky-linux-series-11-analyzing-and-storing-logs","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-11-analyzing-and-storing-logs"}],["$","span",null,{"children":["· ","2026-01-28 21:01"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #11 - 리눅스 로그 분석과 저장 방식 정리 (journalctl · rsyslog · 시간 동기화)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스 시스템에서 로그가 어떻게 생성되고 관리되는지 정리합니다.\nsystemd journal과 rsyslog의 차이, journalctl 사용법, 로그 영구 저장 설정, 그리고 정확한 로그 분석을 위한 시간 동기화까지 함께 다룹니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","rocky",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky"]}],["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","logging",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","logging"]}],["$","span","journalctl",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","journalctl"]}],["$","span","systemd",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","systemd"]}],["$","span","journal",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","journal"]}],["$","span","rsyslog",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rsyslog"]}],["$","span","log",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","log"]}],"$L3","$L4","$L5","$L6"]}]]}]}]]}]]}],null,"$L7"]}],"loading":null,"isPartial":false}
-3:["$","span","analysis",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","analysis"]}]
-4:["$","span","chrony",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","chrony"]}]
-5:["$","span","ntp",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","ntp"]}]
-6:["$","span","system",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","system"]}]
-7:["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]
-a:null
+2:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T1ebd,[[toc]]
+
+---
+
+## 들어가기
+
+리눅스를 사용하다 보면 반드시 마주치게 되는 것이 로그입니다.
+서비스가 왜 죽었는지, 인증이 왜 실패했는지, 시스템에 어떤 일이 있었는지를 가장 정확하게 말해주는 것이 로그입니다.
+이번 글에서는 리눅스에서 로그가 어떻게 관리되는지, 그리고 실제로 어떻게 확인하고 설정하는지를 정리해봅니다.
+
+---
+
+## 리눅스의 로그 관리 흐름
+
+리눅스의 로그 시스템은 한 번에 만들어진 것이 아니라, 시간이 지나며 점진적으로 발전해왔습니다.
+현재 기준으로는 다음 세 가지 흐름을 이해하면 정리가 됩니다.
+
+### Sysklogd
+
+Sysklogd는 전통적인 유닉스/리눅스 로그 관리 프로그램입니다.
+`syslogd`, `klogd`로 구성되어 있으며, 텍스트 파일 기반 로그 관리의 출발점이라고 볼 수 있습니다.
+최근 배포판에서는 거의 사용되지 않지만, rsyslog의 기반 개념을 이해하는 데 의미가 있습니다.
+
+### Rsyslog
+
+rsyslog는 Sysklogd를 대체하기 위해 등장한 로그 데몬입니다.
+RHEL 계열 기준으로 기본 로그 시스템으로 오랫동안 사용되어 왔습니다.
+
+특징은 다음과 같습니다.
+
+* 원격 로그 전송 및 수신 가능
+* IPv4 / IPv6 모두 지원
+* 조건 기반 필터링 및 파일 분리 저장 가능
+* 기본적으로 텍스트 파일로 로그를 관리
+
+### systemd Journal
+
+RHEL7부터 시스템 시작 프로세스가 init에서 systemd로 변경되면서, journald라는 로그 관리 시스템이 함께 도입되었습니다.
+기존 파일 기반 로그와 달리 바이너리 형태로 로그를 저장하며, 전용 도구를 통해서만 조회합니다.
+
+---
+
+## systemd Journal의 특징
+
+### 휘발성 로그 구조
+
+기본 설정에서 journal 로그는 휘발성입니다.
+시스템이 재부팅되면 로그가 사라집니다.
+
+휘발성 로그는 다음 경로에 저장됩니다.
+
+* `/run/log/journal/<machine-id>/`
+
+machine-id는 시스템을 식별하는 고유 값이며, `hostnamectl` 명령으로 확인할 수 있습니다.
+
+### 영구 로그로 전환하기
+
+로그를 재부팅 후에도 유지하고 싶다면 별도의 디렉토리를 생성해야 합니다.
+
+```bash
+mkdir -p /var/log/journal
+```
+
+이 디렉토리가 존재하면 journald는 자동으로 로그를 영구 저장 모드로 전환합니다.
+최근 버전에서는 서비스 재시작 없이도 바로 적용됩니다.
+
+---
+
+## journalctl 사용법
+
+journal 로그는 일반적인 `cat`이나 `ls`로 확인할 수 없습니다.
+바이너리 형식이기 때문에 전용 뷰어인 `journalctl`을 사용해야 합니다.
+
+### 기본 조회
+
+* 기본 정렬은 오래된 로그가 위에 표시됩니다.
+* 최신 로그부터 보고 싶다면 `-r` 옵션을 사용합니다.
+
+```bash
+journalctl -r
+```
+
+### 줄 수 제한
+
+```bash
+journalctl -n 50
+```
+
+지정한 개수만큼의 로그만 출력합니다.
+
+### 실시간 로그 확인
+
+```bash
+journalctl -f
+```
+
+서비스 로그를 실시간으로 추적할 때 자주 사용합니다.
+
+### Priority 기반 필터링
+
+journal 로그는 0부터 7까지의 priority 값을 가집니다.
+숫자가 낮을수록 더 심각한 로그입니다.
+
+```bash
+journalctl -p 0..3 _COMM=sshd
+```
+
+위 예시는 sshd 프로세스에서 발생한 치명적인 로그만 조회합니다.
+
+| 값 | 이름      | 설명           |
+| - | ------- | ------------ |
+| 0 | emerg   | 시스템 사용 불가 상태 |
+| 1 | alert   | 즉각적인 조치 필요   |
+| 2 | crit    | 치명적 오류       |
+| 3 | err     | 일반 오류        |
+| 4 | warning | 경고           |
+| 5 | notice  | 주목할 이벤트      |
+| 6 | info    | 정보           |
+| 7 | debug   | 디버깅          |
+
+### 기간 및 서비스 기준 조회
+
+```bash
+journalctl --since "2024-01-01" --until "2024-12-31" -u crond
+```
+
+특정 기간 + 특정 서비스 로그를 함께 조회할 수 있습니다.
+
+서비스 이름이 헷갈릴 경우 다음 명령으로 확인합니다.
+
+```bash
+systemctl list-unit-files -t service
+```
+
+---
+
+## Journal 로그 씰링(Sealing)
+
+journal 로그는 기본적으로 수정이 가능합니다.
+이를 방지하기 위해 씰링 기능을 사용할 수 있습니다.
+
+```bash
+journalctl --setup-keys --interval=30m
+```
+
+이 기능을 사용하려면 암호화 라이브러리가 필요합니다.
+
+```bash
+dnf install libgcrypt
+```
+
+씰링이 적용되면 로그 위변조 여부를 검증할 수 있습니다.
+
+---
+
+## Rsyslog 구조 이해하기
+
+rsyslog는 여전히 매우 중요한 로그 시스템입니다.
+특히 원격 로그 서버를 구성하거나 파일 기반 로그 분석이 필요한 환경에서는 필수입니다.
+
+### /etc/rsyslog.conf
+
+이 파일은 rsyslog의 메인 설정 파일입니다.
+실제 운영 환경에서는 `/etc/rsyslog.d/*.conf`로 설정을 분리하는 경우가 많습니다.
+
+rsyslog 설정은 크게 세 가지 요소로 구성됩니다.
+
+* Selector
+* Action
+* Module
+
+---
+
+## Selector 개념
+
+Selector는 `Facility.Priority` 형태로 로그를 선택합니다.
+
+* Facility: 로그를 발생시킨 주체
+* Priority: 로그의 중요도
+
+예시는 다음과 같습니다.
+
+```bash
+auth.info
+*.err
+mail.*
+```
+
+---
+
+## Facility와 Priority 정리
+
+| 구분       | 이름              | 설명            |
+| -------- | --------------- | ------------- |
+| Facility | auth / authpriv | 인증 및 권한 로그    |
+| Facility | cron            | 크론 로그         |
+| Facility | daemon          | 데몬 로그         |
+| Facility | kern            | 커널 로그         |
+| Facility | mail            | 메일 로그         |
+| Facility | syslog          | rsyslog 자체 로그 |
+| Facility | user            | 사용자 프로세스 로그   |
+| Facility | local0~7        | 사용자 정의        |
+| Priority | debug           | 디버그           |
+| Priority | info            | 정보            |
+| Priority | notice          | 주의            |
+| Priority | warning         | 경고            |
+| Priority | err             | 오류            |
+| Priority | crit            | 치명            |
+| Priority | alert           | 즉시 조치         |
+| Priority | emerg           | 시스템 불가        |
+
+---
+
+## Action 설정 예시
+
+```bash
+authpriv.*   /var/log/secure
+mail.*       -/var/log/maillog
+*.info;mail.none;authpriv.none;cron.none   /var/log/messages
+*.emerg      :omusrmsg:*
+```
+
+* `-` 옵션은 디스크 I/O 부하를 줄이기 위한 버퍼링 옵션입니다.
+* `:omusrmsg:*` 는 모든 로그인 사용자에게 메시지를 출력합니다.
+
+### 커스텀 로그 추가
+
+```bash
+*.*   /var/log/mylog.log
+```
+
+설정 변경 후에는 반드시 재시작합니다.
+
+```bash
+systemctl restart rsyslog
+```
+
+---
+
+## 시스템 시간 관리
+
+로그 분석에서 시간은 매우 중요합니다.
+시간이 어긋나 있으면 로그 해석 자체가 불가능해집니다.
+
+### 기본 명령어
+
+* `hwclock` : 하드웨어 시계
+* `date` : 시스템 시계
+
+### NTP 개념
+
+* 계층 구조 (stratum 1~3)
+* 유니캐스트 / 브로드캐스트 방식 모두 지원
+* 보안 문제로 ntpd 대신 chronyd 사용
+
+---
+
+## Chronyd 설정
+
+### 시간대 설정
+
+```bash
+timedatectl list-timezones
+timedatectl set-timezone Asia/Seoul
+```
+
+### /etc/chronyd.conf 예시
+
+```bash
+server ntp.xbsd.kr iburst
+server time.windows.com
+
+allow 192.168.11.0/24
+```
+
+### 동기화 상태 확인
+
+```bash
+chronyc sources -v
+```
+
+---
+
+## 마치며
+
+로그는 시스템의 기록이자 증거입니다.
+단순히 명령어를 외우는 것보다, 로그가 어떤 구조로 저장되고 어떤 도구로 관리되는지를 이해하는 것이 중요합니다.
+이번 내용을 기준으로 로그를 읽어보는 연습을 해보시는 것을 권장드립니다.
+0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"typeLabel":"TAG","breadcrumb":"tags › #analysis","title":"#analysis","desc":"\"analysis\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-11-analyzing-and-storing-logs"],"slugPath":"linux/rocky-linux-series-11-analyzing-and-storing-logs","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-11-analyzing-and-storing-logs.md","frontmatter":{"title":"리눅스 배우기 #11 - 리눅스 로그 분석과 저장 방식 정리 (journalctl · rsyslog · 시간 동기화)","slug":"rocky-linux-series-11-analyzing-and-storing-logs","description":"리눅스 시스템에서 로그가 어떻게 생성되고 관리되는지 정리합니다.\nsystemd journal과 rsyslog의 차이, journalctl 사용법, 로그 영구 저장 설정, 그리고 정확한 로그 분석을 위한 시간 동기화까지 함께 다룹니다.","date":"2026-01-28 21:01","tags":["rocky","linux","logging","journalctl","systemd","journal","rsyslog","log","analysis","chrony","ntp","system"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-11-analyzing-and-storing-logs/og/1769602007225-image.webp","draft":false},"content":"$3"}],"basePath":"/tags/analysis","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

@@ -1,6 +1,153 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
-3:I[484,[],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"NvtiHDoIDVMynshd6FiOq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #windows"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#windows"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"windows\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","notes/window-symbols",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/notes/window-symbols","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"notes › window-symbols"}],["$","span",null,{"children":["· ","2025-12-29 13:47:00"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["윈도우 특수문자 모음"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"윈도우에서 자주 사용되는 특수문자들을 모아두었습니다. 필요할 때 복사해서 사용가능합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","windows",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","windows"]}],["$","span","specialcharacter",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","specialcharacter"]}],["$","span","symbols",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","symbols"]}]]}]]}]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T134b,
+
+# 💡 한글 + 한자키 특수문자 전체 정리
+
+
+## ㄱ + [한자키] — 기본 기호 / 문장부호
+
+```
+！ ＇ ， ． ／ ： ； ？ ＾ ＿ ｀ ｜ ￣ 、 。 · ‥ … ¨ 〃 ­ ― ∥ ＼ ∼ ´ ～ ˇ ˘ ˝ ˚ ˙ ¸ ˛ ¡ ¿ ː
+```
+
+---
+
+## ㄴ + [한자키] — 괄호 / 인용 부호
+
+```
+＂ （ ） ［ ］ ｛ ｝ ‘ ’ “ ” 〔 〕 〈 〉 《 》 「 」 『 』 【 】
+```
+
+---
+
+## ㄷ + [한자키] — 수학 / 논리 / 집합 기호
+
+```
+＋ － ＜ ＝ ＞ ± × ÷ ≠ ≤ ≥ ∞ ∴ ♂ ♀ ∠ ⊥ ⌒ ∂ ∇ ≡ ≒ ≪ ≫ √ ∽ ∝ ∵ ∫ ∬ ∈ ∋ ⊆ ⊇ ⊂ ⊃ ∪ ∩ ∧ ∨ ￢ ⇒ ⇔ ∀ ∃ ∮ ∑ ∏
+```
+
+---
+
+## ㄹ + [한자키] — 통화 / 단위 / 과학 기호
+
+```
+＄ ％ ￦ Ｆ ′ ″ ℃ Å ￠ ￡ ￥ ¤ ℉ ‰ € ㎕ ㎖ ㎗ ㎘ ㏄ ㎣ ㎤ ㎥ ㎦ ㎙ ㎚ ㎛ ㎜ ㎝ ㎞ ㎟ ㎠ ㎡ ㎢ ㏊ ㎍ ㎎ ㎏ ㏏ ㎈ ㎉ ㏈ ㎧ ㎨ ㎰ ㎱ ㎲ ㎳ ㎴ ㎵ ㎶ ㎷ ㎸ ㎹ ㎀ ㎁ ㎂ ㎃ ㎄ ㎺ ㎻ ㎼ ㎽ ㎾ ㎿ ㎐ ㎑ ㎒ ㎓ ㎔ Ω ㏀ ㏁ ㎊ ㎋ ㎌ ㏖ ㏅ ㎭ ㎮ ㎯ ㏛ ㎩ ㎪ ㎫ ㎬ ㏝ ㏐ ㏓ ㏃ ㏉ ㏜ ㏆
+```
+
+---
+
+## ㅁ + [한자키] — 도형 / 화살표 / 기호
+
+```
+＃ ＆ ＊ ＠ § ※ ☆ ★ ○ ● ◎ ◇ ◆ □ ■ △ ▲ ▽ ▼ → ← ↑ ↓ ↔ 〓 ▷ ◀ ▷ ▶ ♤ ♠ ♡ ♥ ♧ ⊙ ◈ ▣ ◐ ◑ ▒ ▤ ▥ ▨ ▧ ▦ ▩ ♨ ☏ ☎ ☜ ☞ ¶ † ‡ ↕ ↗ ↙ ↖ ↘ ♭ ♩ ♪ ♬ ㉿ ㈜ № ㏇ ™ ㏂ ㏘ ℡ ? ª º
+```
+
+---
+
+## ㅂ + [한자키] — 박스 / 선 그리기
+
+```
+─ │ ┌ ┐ ┘ └ ├ ┬ ┤ ┴ ┼ ━ ┃ ┏ ┓ ┛ ┗ ┣ ┳ ┫ ┻ ╋ ┠ ┯ ┨ ┷ ┿ ┝ ┰ ┥ ┸ ╂ ┒ ┑ ┚ ┙ ┖ ┕ ┎ ┍ ┞ ┟ ┡ ┢ ┦ ┧ ┩ ┪ ┭ ┮ ┲ ┵ ┶ ┹ ┺ ┽ ┾ ╀ ╁ ╃ ╄ ╅ ╆ ╇ ╈ ╉ ╊
+```
+
+---
+
+## ㅅ + [한자키] — 한글 번호 기호
+
+```
+㉠ ㉡ ㉢ ㉣ ㉤ ㉥ ㉦ ㉧ ㉨ ㉩ ㉪ ㉫ ㉬ ㉭ ㉮ ㉯ ㉰ ㉱ ㉲ ㉳ ㉴ ㉵ ㉶ ㉷ ㉸ ㉹ ㉺ ㉻ ㈀ ㈁ ㈂ ㈃ ㈄ ㈅ ㈆ ㈇ ㈈ ㈉ ㈊ ㈋ ㈌ ㈍ ㈎ ㈏ ㈐ ㈑ ㈒ ㈓ ㈔ ㈕ ㈖ ㈗ ㈘ ㈙ ㈚ ㈛
+```
+
+---
+
+## ㅇ + [한자키] — 원문자 / 숫자
+
+```
+ⓐ ⓑ ⓒ ⓓ ⓔ ⓕ ⓖ ⓗ ⓘ ⓙ ⓚ ⓛ ⓜ ⓝ ⓞ ⓟ ⓠ ⓡ ⓢ ⓣ ⓤ ⓥ ⓦ ⓧ ⓨ ⓩ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⒜ ⒝ ⒞ ⒟ ⒠ ⒡ ⒢ ⒣ ⒤ ⒥ ⒦ ⒧ ⒨ ⒩ ⒪ ⒫ ⒬ ⒭ ⒮ ⒯ ⒰ ⒱ ⒲ ⒳ ⒴ ⒵ ⑴ ⑵ ⑶ ⑷ ⑸ ⑹ ⑺ ⑻ ⑼ ⑽ ⑾ ⑿ ⒀ ⒁ ⒂
+```
+
+---
+
+## ㅈ + [한자키] — 숫자 / 로마 숫자
+
+```
+０ １ ２ ３ ４ ５ ６ ７ ８ ９ ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ Ⅵ Ⅶ Ⅷ Ⅸ Ⅹ
+```
+
+---
+
+## ㅊ + [한자키] — 분수 / 위첨자 / 아래첨자
+
+```
+½ ⅓ ⅔ ¼ ¾ ⅛ ⅜ ⅝ ⅞ ¹ ² ³ ⁴ ⁿ ₁ ₂ ₃ ₄
+```
+
+---
+
+## ㅋ + [한자키] — 한글 자모 전체
+
+```
+ㄱ ㄲ ㄳ ㄴ ㄵ ㄶ ㄷ ㄸ ㄹ ㄺ ㄻ ㄼ ㄽ ㄾ ㄿ ㅀ ㅁ ㅂ ㅃ ㅄ ㅅ ㅆ ㅇ ㅈ ㅉ ㅊ ㅋ ㅌ ㅍ ㅎ ㅏ ㅐ ㅑ ㅒ ㅓ ㅔ ㅕ ㅖ ㅗ ㅘ ㅙ ㅚ ㅛ ㅜ ㅝ ㅞ ㅟ ㅠ ㅡ ㅢ ㅣ
+```
+
+---
+
+## ㅌ + [한자키] — 옛한글
+
+```
+ㅥ ㅦ ㅧ ㅨ ㅩ ㅪ ㅫ ㅬ ㅭ ㅮ ㅯ ㅰ ㅱ ㅲ ㅳ ㅴ ㅵ ㅶ ㅷ ㅸ ㅹ ㅺ ㆄ ㅼ ㅽ ㅾ ㅿ ㆀ ㆁ ㆂ ㆃ ㆄ ㆅ ㆆ ㆇ ㆈ ㆉ ㆊ ㆋ ㆌ ㆍ ㆎ
+```
+
+---
+
+## ㅍ + [한자키] — 영문자 (전각)
+
+```
+Ａ Ｂ Ｃ Ｄ Ｅ Ｆ Ｇ Ｈ Ｉ Ｊ Ｋ Ｌ Ｍ Ｎ Ｏ Ｐ Ｑ Ｒ Ｓ Ｔ Ｕ Ｖ Ｗ Ｘ Ｙ Ｚ ａ ｂ ｃ ｄ ｅ ｆ ｇ ｈ ｉ ｊ ｋ ｌ ｍ ｎ ｏ ｐ ｑ ｒ ｓ ｔ ｕ ｖ ｗ ｘ ｙ ｚ
+```
+
+---
+
+## ㅎ + [한자키] — 그리스 문자
+
+```
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+```
+
+---
+
+## ㄲ + [한자키] — 확장 라틴 문자
+
+```
+Æ Ð Ħ Ĳ Ŀ Ł Ø Œ Þ Ŧ Ŋ æ đ ð ħ ı ĳ ĸ ŀ ł ø œ ß þ ŧ ŋ ŉ
+```
+
+---
+
+## ㄸ + [한자키] — 히라가나
+
+```
+ぁ あ ぃ い ぅ う ぇ え ぉ お か が き ぎ く ぐ け げ こ ご さ ざ し じ す ず せ ぜ そ ぞ た だ ち ぢ っ つ づ て で と ど な に ぬ ね の は ば ぱ ひ び ぴ ふ ぶ ぷ へ べ ぺ ほ ぼ ぽ ま み む め も ゃ や ゅ ゆ ょ よ ら り る れ ろ ゎ わ ゐ ゑ を ん
+```
+
+---
+
+## ㅃ + [한자키] — 가타카나
+
+```
+ァ ア ィ イ ゥ ウ ェ エ ォ オ カ ガ キ ギ ク グ ケ ゲ コ ゴ サ ザ シ ジ ス ズ セ ゼ ソ ゾ タ ダ チ ヂ ッ ツ ヅ テ デ ト ド ナ ニ ヌ ネ ノ ハ バ パ ヒ ビ ピ フ ブ プ ヘ ベ ペ ホ ボ ポ マ ミ ム メ モ ャ ヤ ュ ユ ョ ヨ ラ リ ル レ ロ ヮ ワ ヰ ヱ ヲ ン ヴ ヵ ヶ
+```
+
+---
+
+## ㅆ + [한자키] — 키릴 문자 (러시아어)
+
+```
+А Б В Г Д Е Ё Ж З И Й К Л М Н О П Р С Т У Ф Х Ц Ч Ш Щ Ъ Ы Ь Э Ю Я а б в г д е ё ж з и й к л м н о п р с т у ф х ц ч ш щ ъ ы ь э ю я
+```
+0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"typeLabel":"TAG","breadcrumb":"tags › #windows","title":"#windows","desc":"\"windows\" 태그가 붙은 글 모음","posts":[{"slug":["notes","window-symbols"],"slugPath":"notes/window-symbols","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/notes/window-symbols.md","frontmatter":{"title":"윈도우 특수문자 모음","slug":"window-symbols","description":"윈도우에서 자주 사용되는 특수문자들을 모아두었습니다. 필요할 때 복사해서 사용가능합니다.","date":"2025-12-29 13:47:00","tags":["windows","specialcharacter","symbols"],"category":"notes","cover":"og.webp","draft":false},"content":"$3"}],"basePath":"/tags/windows","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

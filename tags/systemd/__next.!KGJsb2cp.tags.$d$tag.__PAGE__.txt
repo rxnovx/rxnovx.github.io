@@ -1,14 +1,842 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
-b:I[484,[],"OutletBoundary"]
-c:"$Sreact.suspense"
-0:{"buildId":"NvtiHDoIDVMynshd6FiOq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #systemd"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#systemd"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"systemd\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-19-control-and-troubleshoot-linux-boot-process",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/linux/rocky-linux-series-19-control-and-troubleshoot-linux-boot-process","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-19-control-and-troubleshoot-linux-boot-process"}],["$","span",null,{"children":["· ","2026-01-30 19:27"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #19 – 부팅 과정 제어와 문제 해결 (RHEL / systemd 기준)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"RHEL 기반 리눅스 시스템의 부팅 과정을 systemd 중심으로 정리합니다. Runlevel과 Target의 관계, GRUB2 설정, 싱글 유저 모드 진입, root 암호 복구, initramfs와 부팅 순서까지 실제 장애 상황에서 바로 활용할 수 있도록 설명합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","boot",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","boot"]}],["$","span","process",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","process"]}],["$","span","rhel",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","systemd",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","systemd"]}],["$","span","target",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","target"]}],["$","span","runlevel",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","runlevel"]}],["$","span","grub2",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","grub2"]}],"$L3","$L4","$L5","$L6","$L7"]}]]}]}],"$L8","$L9"]}]]}],null,"$La"]}],"loading":null,"isPartial":false}
-3:["$","span","configuration",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","configuration"]}]
-4:["$","span","grubby",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","grubby"]}]
-5:["$","span","single",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","single"]}]
-6:["$","span","user",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","user"]}]
-7:["$","span","mode",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","mode"]}]
-8:["$","li","linux/rocky-linux-series-11-analyzing-and-storing-logs",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/linux/rocky-linux-series-11-analyzing-and-storing-logs","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-11-analyzing-and-storing-logs"}],["$","span",null,{"children":["· ","2026-01-28 21:01"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #11 - 리눅스 로그 분석과 저장 방식 정리 (journalctl · rsyslog · 시간 동기화)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스 시스템에서 로그가 어떻게 생성되고 관리되는지 정리합니다.\nsystemd journal과 rsyslog의 차이, journalctl 사용법, 로그 영구 저장 설정, 그리고 정확한 로그 분석을 위한 시간 동기화까지 함께 다룹니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","rocky",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky"]}],["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","logging",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","logging"]}],["$","span","journalctl",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","journalctl"]}],["$","span","systemd",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","systemd"]}],["$","span","journal",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","journal"]}],["$","span","rsyslog",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rsyslog"]}],["$","span","log",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","log"]}],["$","span","analysis",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","analysis"]}],["$","span","chrony",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","chrony"]}],["$","span","ntp",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","ntp"]}],["$","span","system",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","system"]}]]}]]}]}]
-9:["$","li","linux/rocky-linux-series-9-process-management",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/linux/rocky-linux-series-9-process-management","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-9-process-management"}],["$","span",null,{"children":["· ","2026-01-28 20:36"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #9 – 프로세스 이해와 제어"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스에서 프로세스가 무엇인지부터 상태, 시그널, 우선순위까지 기본적인 흐름을 정리했습니다. ps, top, kill, nice 명령어를 중심으로 프로세스 관리의 기초를 정리한 글입니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","process",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","process"]}],["$","span","process-management",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","process-management"]}],["$","span","systemd",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","systemd"]}],["$","span","cpu",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","cpu"]}],["$","span","memory",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","memory"]}],["$","span","signal",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","signal"]}],["$","span","ps",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","ps"]}],["$","span","top",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","top"]}]]}]]}]}]
-a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
-d:null
+2:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+7:I[484,[],"OutletBoundary"]
+8:"$Sreact.suspense"
+3:T1bee,[[toc]]
+
+## 들어가기
+
+리눅스를 사용하다 보면 언젠가는 **부팅이 정상적으로 되지 않는 상황**을 마주하게 됩니다.
+서비스가 올라오지 않거나, 네트워크가 죽어 있거나, 심한 경우 로그인 자체가 불가능한 상태가 되기도 합니다.
+
+이럴 때 필요한 것은 단순한 명령어 암기가 아니라,
+**리눅스가 어떤 순서로 부팅되는지**, 그리고 **어디에서 문제가 발생했는지 추적할 수 있는 감각**입니다.
+
+이번 글에서는 Red Hat Enterprise Linux 계열(RHEL 7~10 기준)을 중심으로,
+
+* 리눅스 부팅 방식의 역사
+* systemd 기반 부팅 구조
+* Runlevel과 Target의 관계
+* 싱글 유저 모드 진입과 암호 복구
+* 서비스와 부팅의 관계
+* GRUB2와 커널 파라미터
+* initramfs의 역할
+
+을 **실무에서 문제를 해결하는 관점**으로 정리해봅니다.
+
+---
+
+## 리눅스 시스템 부팅 방식의 변화
+
+리눅스의 부팅 방식은 한 번에 systemd로 넘어온 것이 아닙니다.
+시대에 따라 점진적으로 발전해 왔습니다.
+
+### Runlevel 기반 (System V init)
+
+가장 오래된 방식입니다.
+부팅 시 특정 **Runlevel**에 따라 정해진 스크립트를 순서대로 실행합니다.
+
+* 각 Runlevel마다 시작/중지할 서비스 목록이 존재
+* 순차 실행 방식
+* 상용 UNIX 및 초기 리눅스 배포판에서 사용
+
+단순하지만 느리고, 의존성 관리가 어렵다는 단점이 있었습니다.
+
+### Event 기반 (Upstart)
+
+Ubuntu에서 시작된 방식으로,
+RHEL 6에서도 잠시 사용되었습니다.
+
+* 이벤트 발생 시 스크립트 실행
+* SysV init 구조를 기반으로 개선
+
+과도기적 성격이 강했고, 현재는 거의 사용되지 않습니다.
+
+### Dependency 기반 (systemd)
+
+현재 표준입니다.
+RHEL 7부터 본격적으로 도입되었습니다.
+
+* 서비스 간 **의존성**을 기반으로 병렬 실행
+* init 스크립트 대신 **unit 파일** 사용
+* 시스템과 서비스 전체를 통합 관리
+
+부팅 속도와 관리 측면에서 가장 큰 개선이 이루어진 구조입니다.
+
+---
+
+## init과 PID 1
+
+부팅 과정에서 커널이 가장 먼저 실행하는 사용자 공간 프로세스가 **init**입니다.
+
+* PID 1
+* 모든 프로세스의 부모
+* 시스템 전체 수명 동안 유지
+
+과거에는 SysV init이 PID 1이었고,
+현재는 **systemd가 PID 1** 역할을 수행합니다.
+
+이 차이를 이해하는 것이 매우 중요합니다.
+
+---
+
+## systemd 핵심 개념: Unit과 Target
+
+systemd를 이해하려면 두 가지 용어가 핵심입니다.
+
+### Unit
+
+systemd가 관리하는 모든 객체를 **Unit**이라고 부릅니다.
+
+대표적인 유형은 다음과 같습니다.
+
+* service : 서비스
+* target : 상태 묶음
+* mount : 마운트 포인트
+* socket : 소켓 기반 활성화
+* timer : 스케줄링
+
+### Target
+
+Target은 **여러 Unit의 묶음**입니다.
+
+과거 SysV init의 Runlevel에 해당하는 개념입니다.
+
+---
+
+## Runlevel과 Target의 관계
+
+SysV init 시절의 Runlevel은 다음과 같았습니다.
+
+* 0 : 종료
+* 1 : 싱글 유저 모드 (Rescue)
+* 3 : 텍스트 모드 (멀티 유저)
+* 5 : GUI 모드
+
+systemd에서는 이를 Target으로 대응시킵니다.
+
+* runlevel 3 → multi-user.target
+* runlevel 5 → graphical.target
+
+내부적으로는 여전히 Runlevel 개념이 남아 있지만,
+**운영 관점에서는 Target만 사용**하는 것이 맞습니다.
+
+---
+
+## 기본 Target 확인 및 변경
+
+```bash
+systemctl get-default
+```
+
+기본 부팅 Target을 확인합니다.
+
+```bash
+systemctl set-default graphical.target
+```
+
+다음 부팅부터 GUI 모드로 시작합니다.
+
+```bash
+systemctl set-default multi-user.target
+```
+
+서버 환경에서 주로 사용하는 설정입니다.
+
+---
+
+## 일시적인 Target 변경 (isolate)
+
+```bash
+systemctl isolate multi-user.target
+```
+
+현재 세션에서만 Target을 전환합니다.
+재부팅하면 원래 설정으로 돌아옵니다.
+
+운영 중 테스트할 때 매우 유용합니다.
+
+---
+
+## 현재 Runlevel 확인
+
+```bash
+who -r
+```
+
+systemd 환경에서도 호환을 위해 제공되는 명령입니다.
+
+---
+
+## 싱글 유저 모드와 암호 복구
+
+부팅 문제 해결에서 가장 많이 사용되는 기술 중 하나입니다.
+
+### RHEL 7 ~ 9 방식 (rd.break)
+
+1. 부팅 시 GRUB 메뉴에서 커널 선택
+2. `e` 입력
+3. linux 라인 끝에 `rd.break` 추가
+4. Ctrl + x 부팅
+5. `/sysroot`로 진입
+
+```bash
+chroot /sysroot
+mount -o rw,remount /sysroot
+passwd root
+touch /.autorelabel
+exit
+exit
+```
+
+SELinux 환경에서는 **/.autorelabel**이 매우 중요합니다.
+
+---
+
+### RHEL 10 방식 (init=/bin/bash)
+
+1. GRUB에서 커널 선택 후 `e`
+2. linux 라인 끝에 `init=/bin/bash` 추가
+3. Ctrl + x
+
+```bash
+mount -o rw,remount /
+passwd root
+touch /.autorelabel
+exec /sbin/init
+```
+
+init을 다시 실행해야 정상 부팅으로 이어집니다.
+
+---
+
+## 서비스와 부팅의 관계
+
+### SysV init 시절
+
+* 서비스 스크립트 직접 실행
+* service 명령어 사용
+* ntsysv, setup 등
+
+### systemd 환경
+
+시스템과 서비스를 통합 관리합니다.
+
+```bash
+systemctl start httpd
+systemctl stop httpd
+systemctl restart httpd
+```
+
+### 자동 시작 설정
+
+```bash
+systemctl enable httpd
+systemctl disable httpd
+systemctl mask httpd
+systemctl unmask httpd
+```
+
+mask는 실무에서 매우 강력한 차단 수단입니다.
+
+---
+
+## GRUB 2와 커널 파라미터
+
+GRUB 2는 커널과 initramfs를 메모리에 로드하는 역할을 합니다.
+
+### 커널 옵션 확인
+
+```bash
+cat /proc/cmdline
+```
+
+실제로 적용된 옵션을 확인할 수 있습니다.
+
+---
+
+## RHEL 9 이상: grubby 사용
+
+```bash
+grubby --info=ALL
+grubby --default-index
+grubby --set-default-index=0
+```
+
+### 커널 옵션 추가
+
+```bash
+grubby --update-kernel=ALL --args="rhgb quiet ipv6.disable=1"
+```
+
+### 옵션 제거
+
+```bash
+grubby --update-kernel=1 --remove-args="rhgb quiet"
+```
+
+---
+
+## 부트로더 암호 설정
+
+```bash
+grub2-set-password
+```
+
+직접 grub.cfg를 수정하지 않는 것이 원칙입니다.
+
+---
+
+## initramfs (초기 램 파일시스템)
+
+initramfs는 **커널이 루트 파일시스템을 마운트하기 전까지 사용하는 임시 환경**입니다.
+
+* 스토리지 드라이버
+* 파일시스템 모듈
+* LVM, RAID, 암호화 지원
+
+레스큐 커널의 initramfs가 더 큰 이유는,
+더 많은 하드웨어와 파일시스템을 지원하기 위해서입니다.
+
+```bash
+dr
+
+dracut --regenerate-all
+```
+
+---
+
+## systemd 부팅 순서
+
+* local-fs.target
+* sysinit.target
+* basic.target
+* multi-user.target
+* graphical.target
+
+```bash
+systemctl list-dependencies graphical.target
+```
+
+부팅 문제 분석에 매우 유용합니다.
+
+---
+
+## rc.local의 현재 위치
+
+```bash
+/etc/rc.d/rc.local
+```
+
+호환성 목적입니다.
+systemd 서비스로 대체하는 것이 권장됩니다.
+
+---
+
+## 마무리
+
+부팅은 리눅스의 모든 것의 시작입니다.
+
+부팅 과정을 이해하면,
+
+* 시스템 장애 복구
+* 서비스 문제 추적
+* 보안 사고 대응
+
+까지 훨씬 수월해집니다.
+4:T1ebd,[[toc]]
+
+---
+
+## 들어가기
+
+리눅스를 사용하다 보면 반드시 마주치게 되는 것이 로그입니다.
+서비스가 왜 죽었는지, 인증이 왜 실패했는지, 시스템에 어떤 일이 있었는지를 가장 정확하게 말해주는 것이 로그입니다.
+이번 글에서는 리눅스에서 로그가 어떻게 관리되는지, 그리고 실제로 어떻게 확인하고 설정하는지를 정리해봅니다.
+
+---
+
+## 리눅스의 로그 관리 흐름
+
+리눅스의 로그 시스템은 한 번에 만들어진 것이 아니라, 시간이 지나며 점진적으로 발전해왔습니다.
+현재 기준으로는 다음 세 가지 흐름을 이해하면 정리가 됩니다.
+
+### Sysklogd
+
+Sysklogd는 전통적인 유닉스/리눅스 로그 관리 프로그램입니다.
+`syslogd`, `klogd`로 구성되어 있으며, 텍스트 파일 기반 로그 관리의 출발점이라고 볼 수 있습니다.
+최근 배포판에서는 거의 사용되지 않지만, rsyslog의 기반 개념을 이해하는 데 의미가 있습니다.
+
+### Rsyslog
+
+rsyslog는 Sysklogd를 대체하기 위해 등장한 로그 데몬입니다.
+RHEL 계열 기준으로 기본 로그 시스템으로 오랫동안 사용되어 왔습니다.
+
+특징은 다음과 같습니다.
+
+* 원격 로그 전송 및 수신 가능
+* IPv4 / IPv6 모두 지원
+* 조건 기반 필터링 및 파일 분리 저장 가능
+* 기본적으로 텍스트 파일로 로그를 관리
+
+### systemd Journal
+
+RHEL7부터 시스템 시작 프로세스가 init에서 systemd로 변경되면서, journald라는 로그 관리 시스템이 함께 도입되었습니다.
+기존 파일 기반 로그와 달리 바이너리 형태로 로그를 저장하며, 전용 도구를 통해서만 조회합니다.
+
+---
+
+## systemd Journal의 특징
+
+### 휘발성 로그 구조
+
+기본 설정에서 journal 로그는 휘발성입니다.
+시스템이 재부팅되면 로그가 사라집니다.
+
+휘발성 로그는 다음 경로에 저장됩니다.
+
+* `/run/log/journal/<machine-id>/`
+
+machine-id는 시스템을 식별하는 고유 값이며, `hostnamectl` 명령으로 확인할 수 있습니다.
+
+### 영구 로그로 전환하기
+
+로그를 재부팅 후에도 유지하고 싶다면 별도의 디렉토리를 생성해야 합니다.
+
+```bash
+mkdir -p /var/log/journal
+```
+
+이 디렉토리가 존재하면 journald는 자동으로 로그를 영구 저장 모드로 전환합니다.
+최근 버전에서는 서비스 재시작 없이도 바로 적용됩니다.
+
+---
+
+## journalctl 사용법
+
+journal 로그는 일반적인 `cat`이나 `ls`로 확인할 수 없습니다.
+바이너리 형식이기 때문에 전용 뷰어인 `journalctl`을 사용해야 합니다.
+
+### 기본 조회
+
+* 기본 정렬은 오래된 로그가 위에 표시됩니다.
+* 최신 로그부터 보고 싶다면 `-r` 옵션을 사용합니다.
+
+```bash
+journalctl -r
+```
+
+### 줄 수 제한
+
+```bash
+journalctl -n 50
+```
+
+지정한 개수만큼의 로그만 출력합니다.
+
+### 실시간 로그 확인
+
+```bash
+journalctl -f
+```
+
+서비스 로그를 실시간으로 추적할 때 자주 사용합니다.
+
+### Priority 기반 필터링
+
+journal 로그는 0부터 7까지의 priority 값을 가집니다.
+숫자가 낮을수록 더 심각한 로그입니다.
+
+```bash
+journalctl -p 0..3 _COMM=sshd
+```
+
+위 예시는 sshd 프로세스에서 발생한 치명적인 로그만 조회합니다.
+
+| 값 | 이름      | 설명           |
+| - | ------- | ------------ |
+| 0 | emerg   | 시스템 사용 불가 상태 |
+| 1 | alert   | 즉각적인 조치 필요   |
+| 2 | crit    | 치명적 오류       |
+| 3 | err     | 일반 오류        |
+| 4 | warning | 경고           |
+| 5 | notice  | 주목할 이벤트      |
+| 6 | info    | 정보           |
+| 7 | debug   | 디버깅          |
+
+### 기간 및 서비스 기준 조회
+
+```bash
+journalctl --since "2024-01-01" --until "2024-12-31" -u crond
+```
+
+특정 기간 + 특정 서비스 로그를 함께 조회할 수 있습니다.
+
+서비스 이름이 헷갈릴 경우 다음 명령으로 확인합니다.
+
+```bash
+systemctl list-unit-files -t service
+```
+
+---
+
+## Journal 로그 씰링(Sealing)
+
+journal 로그는 기본적으로 수정이 가능합니다.
+이를 방지하기 위해 씰링 기능을 사용할 수 있습니다.
+
+```bash
+journalctl --setup-keys --interval=30m
+```
+
+이 기능을 사용하려면 암호화 라이브러리가 필요합니다.
+
+```bash
+dnf install libgcrypt
+```
+
+씰링이 적용되면 로그 위변조 여부를 검증할 수 있습니다.
+
+---
+
+## Rsyslog 구조 이해하기
+
+rsyslog는 여전히 매우 중요한 로그 시스템입니다.
+특히 원격 로그 서버를 구성하거나 파일 기반 로그 분석이 필요한 환경에서는 필수입니다.
+
+### /etc/rsyslog.conf
+
+이 파일은 rsyslog의 메인 설정 파일입니다.
+실제 운영 환경에서는 `/etc/rsyslog.d/*.conf`로 설정을 분리하는 경우가 많습니다.
+
+rsyslog 설정은 크게 세 가지 요소로 구성됩니다.
+
+* Selector
+* Action
+* Module
+
+---
+
+## Selector 개념
+
+Selector는 `Facility.Priority` 형태로 로그를 선택합니다.
+
+* Facility: 로그를 발생시킨 주체
+* Priority: 로그의 중요도
+
+예시는 다음과 같습니다.
+
+```bash
+auth.info
+*.err
+mail.*
+```
+
+---
+
+## Facility와 Priority 정리
+
+| 구분       | 이름              | 설명            |
+| -------- | --------------- | ------------- |
+| Facility | auth / authpriv | 인증 및 권한 로그    |
+| Facility | cron            | 크론 로그         |
+| Facility | daemon          | 데몬 로그         |
+| Facility | kern            | 커널 로그         |
+| Facility | mail            | 메일 로그         |
+| Facility | syslog          | rsyslog 자체 로그 |
+| Facility | user            | 사용자 프로세스 로그   |
+| Facility | local0~7        | 사용자 정의        |
+| Priority | debug           | 디버그           |
+| Priority | info            | 정보            |
+| Priority | notice          | 주의            |
+| Priority | warning         | 경고            |
+| Priority | err             | 오류            |
+| Priority | crit            | 치명            |
+| Priority | alert           | 즉시 조치         |
+| Priority | emerg           | 시스템 불가        |
+
+---
+
+## Action 설정 예시
+
+```bash
+authpriv.*   /var/log/secure
+mail.*       -/var/log/maillog
+*.info;mail.none;authpriv.none;cron.none   /var/log/messages
+*.emerg      :omusrmsg:*
+```
+
+* `-` 옵션은 디스크 I/O 부하를 줄이기 위한 버퍼링 옵션입니다.
+* `:omusrmsg:*` 는 모든 로그인 사용자에게 메시지를 출력합니다.
+
+### 커스텀 로그 추가
+
+```bash
+*.*   /var/log/mylog.log
+```
+
+설정 변경 후에는 반드시 재시작합니다.
+
+```bash
+systemctl restart rsyslog
+```
+
+---
+
+## 시스템 시간 관리
+
+로그 분석에서 시간은 매우 중요합니다.
+시간이 어긋나 있으면 로그 해석 자체가 불가능해집니다.
+
+### 기본 명령어
+
+* `hwclock` : 하드웨어 시계
+* `date` : 시스템 시계
+
+### NTP 개념
+
+* 계층 구조 (stratum 1~3)
+* 유니캐스트 / 브로드캐스트 방식 모두 지원
+* 보안 문제로 ntpd 대신 chronyd 사용
+
+---
+
+## Chronyd 설정
+
+### 시간대 설정
+
+```bash
+timedatectl list-timezones
+timedatectl set-timezone Asia/Seoul
+```
+
+### /etc/chronyd.conf 예시
+
+```bash
+server ntp.xbsd.kr iburst
+server time.windows.com
+
+allow 192.168.11.0/24
+```
+
+### 동기화 상태 확인
+
+```bash
+chronyc sources -v
+```
+
+---
+
+## 마치며
+
+로그는 시스템의 기록이자 증거입니다.
+단순히 명령어를 외우는 것보다, 로그가 어떤 구조로 저장되고 어떤 도구로 관리되는지를 이해하는 것이 중요합니다.
+이번 내용을 기준으로 로그를 읽어보는 연습을 해보시는 것을 권장드립니다.
+5:T1b2a,[[toc]]
+
+---
+
+## 들어가기
+
+프로세스 관리는 리눅스를 다룰 때 가장 자주 마주치는 영역 중 하나입니다.
+명령어를 실행하고, 멈추고, 백그라운드로 보내는 모든 동작은 결국 프로세스 관리로 귀결됩니다.
+
+이 글에서는 프로세스의 정의를 나열하는 데서 그치지 않고,
+**운영 중 실제로 언제 어떤 판단을 해야 하는지**를 기준으로 정리합니다.
+
+---
+
+## 프로세스란 무엇인가요?
+
+프로세스는 **메모리에 적재되어 실행 중인 프로그램**을 의미합니다.
+디스크에 존재하는 실행 파일은 아직 프로세스가 아니며,
+실행되는 순간 운영체제로부터 PID를 부여받고 프로세스로 관리됩니다.
+
+리눅스 시스템은 하나의 CPU 위에서 여러 프로세스를 처리합니다.
+이를 위해 **시분할(Time Sharing)** 방식을 사용하며,
+짧은 시간 단위로 CPU를 나누어 사용하기 때문에 동시에 실행되는 것처럼 보이게 됩니다.
+
+---
+
+## 프로세스는 어떤 정보로 관리될까요?
+
+리눅스는 각 프로세스를 단순한 실행 단위가 아닌,
+여러 속성을 가진 객체처럼 관리합니다.
+
+* **PID (Process ID)** : 프로세스를 구분하기 위한 고유 번호입니다.
+* **Priority** : CPU 스케줄링 시 적용되는 우선순위입니다.
+* **Nice value** : Priority에 영향을 주는 보정 값으로, 낮을수록 우선순위가 높습니다.
+* **Memory** : 코드, 데이터, 힙, 스택 영역을 포함한 메모리 사용 정보입니다.
+* **Security context** : SELinux에서 사용하는 보안 정책 정보입니다.
+* **Environment** : 실행 시 전달된 환경 변수 집합입니다.
+* **File handles** : 열려 있는 파일, 소켓, 파이프 디스크립터입니다.
+* **Exit status** : 종료 시 부모 프로세스에게 전달되는 결과 코드입니다.
+
+이 정보들은 단순 조회용이 아니라,
+문제 상황에서 원인을 추적하는 단서로 사용됩니다.
+
+---
+
+## PID 1은 왜 중요할까요? (init → systemd)
+
+리눅스에서 **PID 1**은 시스템의 시작점입니다.
+부팅이 완료되면 가장 먼저 실행되며,
+다른 모든 프로세스의 조상이 됩니다.
+
+초기 리눅스에서는 `init`이 이 역할을 담당했습니다.
+SysV init 방식은 스크립트를 순차적으로 실행하는 구조였으며,
+단순하지만 부팅 속도가 느리고 의존성 관리가 어렵다는 문제가 있었습니다.
+
+이를 개선하기 위해 등장한 것이 **systemd**입니다.
+systemd 역시 PID 1로 동작하지만,
+unit 기반으로 서비스를 관리하고 병렬 실행을 지원합니다.
+
+이로 인해 부팅 속도가 개선되었고,
+서비스 상태 확인과 재시작, 로그 관리가 표준화되었습니다.
+
+* init : 스크립트 기반, 순차 실행
+* systemd : unit 기반, 병렬 실행
+
+---
+
+## 프로세스 상태는 언제 확인해야 할까요?
+
+프로세스는 실행 중 상황에 따라 여러 상태를 오갑니다.
+상태를 이해하면, 프로세스가 멈춘 이유를 추측할 수 있습니다.
+
+* **running** : CPU를 할당받아 실행 중이거나 실행 가능한 상태입니다.
+* **sleeping** : 이벤트나 자원을 기다리는 정상 대기 상태입니다.
+* **uninterruptible sleep** : I/O 작업을 기다리며 시그널로도 깨어나지 않는 상태입니다.
+* **stopped** : SIGSTOP, SIGTSTP 등에 의해 일시 정지된 상태입니다.
+* **zombie** : 실행은 종료되었으나 종료 상태가 회수되지 않은 상태입니다.
+
+특히 zombie 상태는 프로세스 자체보다
+부모 프로세스의 처리 문제를 의심해야 하는 신호입니다.
+
+---
+
+## 프로세스를 어떻게 확인할까요?
+
+### ps : 현재 실행 중인 프로세스 확인
+
+`ps`는 특정 시점의 프로세스 상태를 확인할 때 사용합니다.
+로그인한 터미널에서 어떤 프로세스가 실행 중인지 확인할 때 유용합니다.
+
+```bash
+ps
+ps -f
+ps --forest
+```
+
+`PPID`를 함께 확인하면,
+해당 프로세스가 어떤 부모 프로세스에 의해 실행되었는지 파악할 수 있습니다.
+
+---
+
+### top : 실시간 상태 확인
+
+`top`은 시스템이 느려졌다고 느껴질 때 가장 먼저 실행하는 명령어입니다.
+
+* **Shift + P** : CPU 사용량 기준 정렬
+* **Shift + M** : 메모리 사용량 기준 정렬
+
+특정 프로세스가 자원을 과도하게 사용하고 있는지
+빠르게 파악할 수 있습니다.
+
+---
+
+## 시그널은 언제 사용해야 할까요?
+
+시그널은 프로세스에게 동작을 요청하는 수단입니다.
+운영체제 내부뿐 아니라, 사용자가 직접 전달할 수도 있습니다.
+
+* 커널 → 프로세스
+* 프로세스 → 프로세스
+* 사용자 → 프로세스
+
+`kill` 명령어의 기본 시그널은 **SIGTERM(15)** 입니다.
+이는 강제 종료가 아니라 정상 종료를 요청하는 신호입니다.
+
+```bash
+kill PID
+kill -19 PID
+```
+
+정상 종료가 되지 않을 경우에만
+보다 강한 시그널을 고려하는 것이 일반적입니다.
+
+---
+
+## 포그라운드와 백그라운드 전환
+
+명령어 뒤에 `&`를 붙이면 백그라운드에서 실행됩니다.
+
+```bash
+sleep 10000 &
+```
+
+실행 중인 작업은 `jobs`로 확인할 수 있으며,
+필요에 따라 포그라운드와 백그라운드를 전환할 수 있습니다.
+
+* `fg` : 백그라운드 → 포그라운드
+* `bg` : 정지 상태 → 백그라운드
+
+---
+
+## 우선순위는 언제 조정할까요?
+
+모든 프로세스가 동일한 중요도를 가지지는 않습니다.
+CPU 자원을 덜 사용하도록 조정해야 하는 경우가 있습니다.
+
+이를 위해 `nice`, `renice` 명령어를 사용합니다.
+
+* nice 값 범위 : **-20 ~ 19**
+* 기본값 : **0**
+* 값이 낮을수록 우선순위가 높습니다.
+
+```bash
+nice -n 10 command
+renice -10 PID
+```
+
+일반 사용자는 0~19 범위만 사용할 수 있으며,
+root 사용자만 전체 범위를 조정할 수 있습니다.
+
+---
+
+## 시스템 자원 상태 확인
+
+프로세스 상태는 CPU와 메모리 상태와 함께 확인해야 합니다.
+
+### CPU
+
+* `/proc/cpuinfo`
+* `iostat -c`
+* `mpstat`
+
+### 메모리
+
+* `free`
+* `vmstat`
+* `/proc/meminfo`
+* `/proc/swaps`
+
+자원 사용량을 함께 확인해야
+프로세스 문제를 정확히 판단할 수 있습니다.
+
+---
+
+## 프로세스 문제를 만났을 때의 기본 흐름
+
+1. 시스템이 느려졌다면 `top`으로 자원 사용 현황을 확인합니다.
+2. 원인이 되는 프로세스를 찾으면 `ps`로 PID와 부모 프로세스를 확인합니다.
+3. 정상 종료가 가능하다면 SIGTERM을 먼저 전달합니다.
+4. 반복 생성된다면 부모 프로세스나 서비스 관리 방식을 확인합니다.
+
+---
+
+프로세스 관리는 명령어를 외우는 영역이라기보다,
+시스템의 상태를 읽고 판단하는 과정에 가깝습니다.
+0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"typeLabel":"TAG","breadcrumb":"tags › #systemd","title":"#systemd","desc":"\"systemd\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-19-control-and-troubleshoot-linux-boot-process"],"slugPath":"linux/rocky-linux-series-19-control-and-troubleshoot-linux-boot-process","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-19-control-and-troubleshoot-linux-boot-process.md","frontmatter":{"title":"리눅스 배우기 #19 – 부팅 과정 제어와 문제 해결 (RHEL / systemd 기준)","slug":"rocky-linux-series-19-control-and-troubleshoot-linux-boot-process","description":"RHEL 기반 리눅스 시스템의 부팅 과정을 systemd 중심으로 정리합니다. Runlevel과 Target의 관계, GRUB2 설정, 싱글 유저 모드 진입, root 암호 복구, initramfs와 부팅 순서까지 실제 장애 상황에서 바로 활용할 수 있도록 설명합니다.","date":"2026-01-30 19:27","tags":["linux","boot","process","rhel","systemd","target","runlevel","grub2","configuration","grubby","single","user","mode"],"category":"linux","cover":"/images/_posts/linux/linux-series-19-control-and-troubleshoot-linux-boot-process/og/1769776365273-image.webp","draft":false},"content":"$3"},{"slug":["linux","rocky-linux-series-11-analyzing-and-storing-logs"],"slugPath":"linux/rocky-linux-series-11-analyzing-and-storing-logs","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-11-analyzing-and-storing-logs.md","frontmatter":{"title":"리눅스 배우기 #11 - 리눅스 로그 분석과 저장 방식 정리 (journalctl · rsyslog · 시간 동기화)","slug":"rocky-linux-series-11-analyzing-and-storing-logs","description":"리눅스 시스템에서 로그가 어떻게 생성되고 관리되는지 정리합니다.\nsystemd journal과 rsyslog의 차이, journalctl 사용법, 로그 영구 저장 설정, 그리고 정확한 로그 분석을 위한 시간 동기화까지 함께 다룹니다.","date":"2026-01-28 21:01","tags":["rocky","linux","logging","journalctl","systemd","journal","rsyslog","log","analysis","chrony","ntp","system"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-11-analyzing-and-storing-logs/og/1769602007225-image.webp","draft":false},"content":"$4"},{"slug":["linux","rocky-linux-series-9-process-management"],"slugPath":"linux/rocky-linux-series-9-process-management","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-9-process-management.md","frontmatter":{"title":"리눅스 배우기 #9 – 프로세스 이해와 제어","slug":"rocky-linux-series-9-process-management","description":"리눅스에서 프로세스가 무엇인지부터 상태, 시그널, 우선순위까지 기본적인 흐름을 정리했습니다. ps, top, kill, nice 명령어를 중심으로 프로세스 관리의 기초를 정리한 글입니다.","date":"2026-01-28 20:36","tags":["linux","rocky-linux","process","process-management","systemd","cpu","memory","signal","ps","top"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-9-process-management/og/1769600649493-image.webp","draft":false},"content":"$5"}],"basePath":"/tags/systemd","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":true,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}],null,"$L6"]}],"loading":null,"isPartial":false}
+6:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

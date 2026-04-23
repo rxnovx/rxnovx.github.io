@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 12:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","system-administration"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","system-administration","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":"$L8"}],"$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","system-administration"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","system-administration","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":"$L8"}],"$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
 17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -23,11 +23,634 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-13:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #system-administration"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#system-administration"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"system-administration\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-21-manage-selinux-security",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/linux/rocky-linux-series-21-manage-selinux-security","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-21-manage-selinux-security"}],["$","span",null,{"children":["· ","2026-01-30 21:50"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #21 – SELinux 보안 프레임워크 이해와 실무 운용"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"SELinux의 보안 모델(DAC, MAC), Security Context 구조, 정책(Targeted·MLS·Minimum), Boolean, Permissive Domain, 그리고 SSH·FTP 실무 트러블슈팅까지 한 흐름으로 정리합니다. SELinux를 끄지 않고 다루는 방법을 중심으로 설명합니다.\n"}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","selinux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","selinux"]}],["$","span","rocky-linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","rhel",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","mandatory-access-control",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","mandatory-access-control"]}],["$","span","linux-security",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux-security"]}],["$","span","selinux-context",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","selinux-context"]}],["$","span","selinux-boolean",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","selinux-boolean"]}],"$L1c","$L1d"]}]]}]}],"$L1e"]}]]}]
-1c:["$","span","selinux-troubleshooting",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","selinux-troubleshooting"]}]
-1d:["$","span","system-administration",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","system-administration"]}]
-1e:["$","li","linux/rocky-linux-series-7-manage-users-and-groups",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/linux/rocky-linux-series-7-manage-users-and-groups","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-7-manage-users-and-groups"}],["$","span",null,{"children":["· ","2026-01-26 23:58"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #7 – 로컬 유저와 그룹 관리"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"로컬 계정과 그룹을 만들고 수정하고 삭제하는 흐름을 정리했습니다. /etc/group, /etc/passwd, /etc/shadow 구조와 useradd·usermod·chage의 핵심 옵션을 함께 다룹니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","user-management",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","user-management"]}],["$","span","group-management",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","group-management"]}],["$","span","system-administration",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","system-administration"]}],["$","span","security",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","security"]}]]}]]}]}]
+1c:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1d:T19fd,[[toc]]
+
+## 들어가기
+
+SELinux는 이름만 들어도 부담을 느끼는 경우가 많습니다.
+실제로도 리눅스를 어느 정도 사용하다가 처음으로 "SELinux 때문에 안 된다"라는 상황을 겪으면, 가장 먼저 끄고 싶어지는 대상이기도 합니다.
+
+하지만 SELinux는 단순한 옵션이 아니라, **리눅스 보안 모델의 방향 자체를 바꾼 핵심 구성 요소**입니다.
+이 글에서는 명령어 나열보다는,
+
+* SELinux가 왜 만들어졌는지
+* 어떤 보안 모델을 기반으로 동작하는지
+* 실무에서 문제가 생겼을 때 어떤 순서로 접근해야 하는지
+
+이 흐름을 중심으로 정리해보려 합니다.
+
+---
+
+## SELinux Security Framework
+
+SELinux(Security-Enhanced Linux)는 **NSA가 주도하여 설계한 강제 접근 제어(MAC) 기반 보안 프레임워크**입니다.
+오픈소스 리눅스 환경에서 기존 권한 모델의 한계를 보완하기 위해 만들어졌습니다.
+
+핵심은 하나입니다.
+
+> "퍼미션이 맞아도, 정책이 허용하지 않으면 접근할 수 없다"
+
+이를 이해하려면 먼저 리눅스의 접근 제어 모델을 구분해서 볼 필요가 있습니다.
+
+---
+
+## 리눅스 접근 제어 모델 3가지
+
+### DAC (Discretionary Access Control)
+
+임의 접근 제어 모델입니다.
+파일과 디렉터리의 **소유자(owner)** 가 접근 권한을 결정합니다.
+
+* chmod
+* chown
+* rwx 퍼미션
+
+우리가 일반적으로 알고 있는 리눅스 권한 시스템은 모두 DAC 기반입니다.
+
+문제는,
+소유자가 실수로 권한을 열어버리면 시스템 전체가 위험해질 수 있다는 점입니다.
+
+---
+
+### MAC (Mandatory Access Control)
+
+강제 접근 제어 모델입니다.
+**사용자 의도와 상관없이 정책이 최우선**으로 적용됩니다.
+
+SELinux는 이 MAC 모델을 기반으로 설계되었습니다.
+
+* 정책(policy)에 의해 접근 허용 여부 결정
+* 중앙 집중적 제어 가능
+* 퍼미션보다 항상 우선
+
+SELinux가 "까다롭다"고 느껴지는 이유가 바로 여기에 있습니다.
+
+---
+
+### RBAC / RAC (Role-Based Access Control)
+
+역할 기반 접근 제어 모델입니다.
+
+* 사용자에게 역할(role)을 부여
+* 역할에 따라 수행 가능한 작업 제한
+
+SELinux 내부에서도 role 개념이 존재하지만,
+실무에서는 type 중심으로 다루는 경우가 대부분입니다.
+
+---
+
+## SELinux의 작동 흐름
+
+SELinux는 접근 요청이 발생하면 다음 순서로 판단합니다.
+
+1. **기본 퍼미션(DAC) 확인**
+2. **Security Context 확인**
+3. 정책에 따라 허용 또는 차단
+
+여기서 핵심은 2번입니다.
+
+---
+
+## Security Context 구조
+
+SELinux는 모든 프로세스와 파일에 **보안 꼬리표(Security Context)** 를 붙여 관리합니다.
+
+형식은 다음과 같습니다.
+
+```
+identity:role:type:level
+```
+
+이 중 실무에서 가장 중요한 것은 **type** 입니다.
+
+* 프로세스 타입
+* 파일 타입
+
+이 둘의 조합이 정책에 정의되어 있어야 접근이 허용됩니다.
+
+---
+
+## Security Context 확인 방법
+
+아래 명령어들은 반드시 익숙해져야 합니다.
+
+* 현재 사용자 컨텍스트 확인
+
+```
+id
+```
+
+* 파일 컨텍스트 확인
+
+```
+ls -lZ
+```
+
+* 프로세스 컨텍스트 확인
+
+```
+ps -eZ
+```
+
+SELinux 트러블슈팅의 시작은 항상 **타입 확인**입니다.
+
+---
+
+## Relabeling Files (컨텍스트 복구)
+
+웹 디렉터리에 파일을 복사했는데 접근이 안 되는 경우는 매우 흔합니다.
+
+```bash
+touch /var/www/html/1.html
+touch /var/www/html/2.html
+cp -a /etc/passwd /var/www/html/3.html
+```
+
+퍼미션만 보면 문제 없어 보이지만,
+`/etc/passwd`의 보안 컨텍스트는 웹 서비스와 전혀 맞지 않습니다.
+
+---
+
+### chcon
+
+* 임시로 Security Context를 변경
+* 타입을 정확히 알고 있을 때만 사용
+
+```bash
+chcon -t httpd_sys_content_t /var/www/html/3.html
+```
+
+재부팅이나 정책 재적용 시 원래대로 돌아갑니다.
+
+---
+
+### restorecon
+
+권장되는 방식입니다.
+
+```bash
+restorecon -vFR /var/www/html
+```
+
+* 정책에 정의된 기본 컨텍스트로 복구
+* 실무에서는 **restorecon 우선**
+
+---
+
+## SELinux 동작 모드
+
+SELinux는 세 가지 모드로 동작합니다.
+
+```bash
+getenforce
+```
+
+### Enforcing
+
+* 정책 강제 적용
+* 차단 시 실제 접근 불가
+
+### Permissive
+
+* 정책은 검사
+* 차단하지 않고 로그만 기록
+
+### Disabled
+
+* SELinux 자체 비활성화
+* 재부팅 필요
+
+RHEL 8 이상에서는 커널 파라미터 수정이 필요합니다.
+
+---
+
+## SELinux 정책 선택
+
+### Targeted
+
+* 기본값
+* 주요 데몬만 보호
+* 실무 표준
+
+대부분의 서버 환경에서는 Targeted 정책으로 충분합니다.
+
+---
+
+### MLS
+
+* 다단계 보안 모델
+* 군·정부 목적
+* 운영 난이도 매우 높음
+
+---
+
+### Minimum
+
+* Targeted 기반 최소 보호
+* 테스트, 분석 환경용
+
+---
+
+## SELinux Booleans
+
+SELinux Boolean은 **정책을 수정하지 않고 동작만 제어하는 스위치**입니다.
+
+문제 해결 시 가장 먼저 확인해야 할 요소입니다.
+
+### Boolean 목록 확인
+
+```bash
+getsebool -a
+getsebool -a | grep httpd
+```
+
+### Boolean 변경
+
+```bash
+setsebool httpd_can_network_connect on
+```
+
+재부팅 시 초기화됩니다.
+
+### 영구 적용
+
+```bash
+setsebool -P httpd_can_network_connect on
+```
+
+---
+
+## 실습: FTP 업로드 차단 문제
+
+FTP 업로드 실패 시 퍼미션이 아닌 SELinux 문제일 가능성이 높습니다.
+
+로그를 확인하면 다음과 같은 메시지를 볼 수 있습니다.
+
+```bash
+sealert -l <UUID>
+```
+
+Boolean 하나로 해결되는 경우가 많습니다.
+
+```bash
+setsebool -P ftpd_full_access on
+```
+
+---
+
+## Permissive Domains
+
+특정 서비스만 permissive로 설정할 수 있습니다.
+
+```bash
+semanage permissive -a httpd_t
+```
+
+전체 SELinux를 끄지 않고 문제 분석이 가능합니다.
+
+---
+
+## SELinux 트러블슈팅 접근 순서
+
+1. 서비스 로그 확인
+2. `/var/log/messages` 또는 `journalctl`
+3. `sealert -l` 실행
+4. Boolean 여부 확인
+5. port, type, context 점검
+
+SELinux 문제는 대부분 **정책 위반 로그에 답이 이미 적혀 있습니다**.
+
+---
+
+## 마무리
+
+SELinux는 어렵기 때문이 아니라,
+**제대로 된 흐름 없이 접근해서 어렵게 느껴지는 경우가 많습니다.**
+
+* 끄는 대신 이해하기
+* 막연한 공포 대신 로그 읽기
+* 퍼미션이 아니라 type부터 보기
+
+이 세 가지만 익숙해져도 SELinux는 더 이상 장애물이 아니라,
+시스템을 지켜주는 안전장치로 보이기 시작합니다.
+1e:T1d38,[[toc]]
+
+## 들어가기
+
+리눅스 시스템을 사용하려면 반드시 계정이 필요합니다.
+모든 로그인, 모든 작업은 결국 **유저(user)** 단위로 기록되고 제어됩니다.
+
+이때 유저를 직접 하나하나 관리하기보다는,
+**그룹을 먼저 만들고 그 그룹에 유저를 소속시키는 방식**이 훨씬 효율적입니다.
+권한 관리 측면에서도 그렇고,
+실제 운영 환경에서도 이 방식이 기본이 됩니다.
+
+개인적으로는 **유저 관리보다 그룹 관리가 더 중요하고, 더 단순하다**고 느끼는 편입니다.
+이 글에서는 그 흐름에 맞춰 그룹 → 유저 순서로 정리합니다.
+
+---
+
+## GROUP
+
+리눅스의 그룹 정보는 `/etc/group` 파일에 저장되어 있습니다.
+
+```bash
+cat /etc/group
+```
+
+이 파일은 한 줄이 하나의 그룹을 의미하며,
+각 줄은 `:` 기준으로 **4개의 컬럼**으로 구성됩니다.
+
+* 그룹 이름
+* 그룹 비밀번호 (실제 사용하지 않음)
+* GID (Group ID)
+* 그룹 구성원 목록
+
+형식은 아래와 같습니다.
+
+```text
+group_name:x:GID:user1,user2,user3
+```
+
+---
+
+### groupadd : 그룹 생성
+
+새로운 그룹을 생성할 때 사용하는 명령어입니다.
+
+```bash
+# sales라는 그룹을 생성
+groupadd sales
+
+# fin 이라는 그룹을 생성하고 GID를 2000으로 설정
+groupadd -g 2000 fin
+```
+
+일반적으로 GID는 자동으로 할당되지만,
+조직 정책이나 기존 시스템과의 연계를 위해
+직접 지정해야 하는 경우도 종종 있습니다.
+
+---
+
+### groupmod : 그룹 설정 변경
+
+이미 존재하는 그룹의 설정을 변경할 때 사용합니다.
+
+```bash
+# sales 그룹의 GID를 3000으로 수정
+groupmod -g 3000 sales
+
+# fin 그룹의 이름을 oper로 변경
+groupmod -n oper fin
+```
+
+운영 중인 시스템에서는
+**이미 사용 중인 GID를 변경하는 작업은 매우 신중해야 합니다.**
+파일 소유권과 직접적으로 연결되기 때문입니다.
+
+---
+
+### groupdel : 그룹 삭제
+
+그룹을 삭제할 때 사용합니다.
+
+```bash
+# oper 그룹을 삭제
+groupdel oper
+```
+
+해당 그룹을 primary 그룹으로 사용하는 유저가 있다면 삭제되지 않습니다.
+이 경우 먼저 유저의 그룹을 변경해야 합니다.
+
+---
+
+## USER
+
+유저 관련 정보는 여러 파일에 나뉘어 관리됩니다.
+
+* `/etc/passwd` : 계정 기본 정보
+* `/etc/shadow` : 암호 및 만료 정책
+* `/etc/shells` : 로그인 가능한 쉘 목록
+
+`/etc/passwd`의 한 줄은 다음과 같은 구조를 가집니다.
+
+```text
+계정명:암호:UID:GID:유저메모:홈디렉토리:로그인쉘
+```
+
+실제 암호는 `/etc/shadow` 파일에 해시 형태로 저장됩니다.
+
+---
+
+### useradd : 유저 생성
+
+새로운 계정을 생성하는 명령어입니다.
+
+주요 옵션은 다음과 같습니다.
+
+* `-u` : UID 지정
+* `-c` : 유저 메모(Comment)
+* `-r` : 시스템 계정 생성 (UID 1~999)
+* `-s` : 로그인 쉘 지정
+* `-g` : primary 그룹 지정
+* `-G` : secondary 그룹 지정
+* `-m` : 홈 디렉토리 생성
+* `-d` : 홈 디렉토리 경로 지정
+
+```bash
+# tom 이라는 계정을 생성
+useradd tom
+
+# user1을 생성하고 UID를 3001, 메모를 "New User"로 설정
+useradd -u 3001 -c "New User" user1
+
+# 시스템 계정 derek 생성
+useradd -r -s /sbin/nologin -g sys -G sup1 derek
+
+useradd -u 4989 -s /bin/csh -c "010-1111-2222" susan
+useradd -r -s /sbin/nologin -g sales -G sshd,kvm,dbus -m -d /oracle ora
+```
+
+리눅스에는 **primary 그룹과 secondary 그룹** 개념이 있습니다.
+
+* `-g` : primary 그룹 (기본 소유 그룹)
+* `-G` : secondary 그룹 (추가 소속 그룹)
+
+파일 권한과 접근 제어를 이해하려면
+이 구분은 반드시 알고 있어야 합니다.
+
+---
+
+### usermod : 유저 설정 변경
+
+이미 존재하는 유저의 설정을 변경할 때 사용합니다.
+
+`useradd`에서 사용하던 옵션 대부분을 그대로 사용할 수 있습니다.
+
+```bash
+# susan의 UID를 3030으로 변경하고
+# primary 그룹을 sales로, 로그인 쉘을 bash로 변경
+usermod -u 3030 -g sales -s /bin/bash susan
+```
+
+secondary 그룹을 추가할 때는 `-aG` 옵션을 사용합니다.
+
+```bash
+# susan을 기존 그룹은 유지한 채 docker 그룹에 추가
+usermod -aG docker susan
+```
+
+`-a` 옵션 없이 `-G`만 사용하면
+기존 secondary 그룹이 모두 사라지므로 주의해야 합니다.
+
+---
+
+### userdel : 유저 삭제
+
+유저를 삭제할 때 사용하는 명령어입니다.
+
+```bash
+# tom은 홈디렉토리까지 삭제
+userdel -r tom
+
+# susan은 계정만 삭제, 홈디렉토리는 유지
+userdel susan
+```
+
+운영 환경에서는
+데이터 보존 여부를 반드시 확인한 후 삭제하는 것이 안전합니다.
+
+---
+
+### 특정 유저가 만든 파일 정리
+
+계정은 삭제했지만,
+파일 시스템에는 해당 UID를 가진 파일이 남아있는 경우가 많습니다.
+
+```bash
+# UID 1701이 소유한 파일 및 디렉토리 삭제
+find / -uid 1701 -exec rm -rf {} +
+```
+
+소유자가 없는 파일(`-nouser`)을 처리하는 예시는 아래와 같습니다.
+
+```bash
+# 소유자가 없는 파일을 /tmp/backup 으로 이동
+mkdir /tmp/backup
+find / -nouser 2> /dev/null -exec mv {} /tmp/backup \;
+```
+
+이 작업은 반드시 신중하게 진행해야 합니다.
+
+---
+
+## Shadow 파일과 비밀번호 정책
+
+`/etc/shadow` 파일은
+유저의 비밀번호와 만료 정책을 관리하는 핵심 파일입니다.
+
+이 파일을 직접 수정하기보다는
+`chage` 명령어를 사용하는 것이 일반적입니다.
+
+```bash
+# 현재 비밀번호/계정 만료 정책 확인
+chage -l user
+
+# 다음 로그인 시 비밀번호 변경 강제
+chage -d 0 user
+
+# 비밀번호 최소 사용 기간 7일
+chage -m 7 user
+
+# 비밀번호 최대 사용 기간 90일
+chage -M 90 user
+
+# 만료 7일 전 경고
+chage -W 7 user
+
+# 만료 후 14일 지나면 계정 비활성화
+chage -I 14 user
+
+# 계정 만료일 설정
+chage -E 2026-12-31 user
+```
+
+shadow 파일의 각 필드는 다음 의미를 가집니다.
+
+```text
+username:password:lastchg:min:max:warn:inactive:expire:reserved
+```
+
+---
+
+## 계정 생성 시 영향을 주는 설정 파일
+
+### /etc/login.defs
+
+계정 관련 명령어의 **기본 보안 정책**을 정의합니다.
+
+* login
+* useradd
+* passwd
+
+이 파일은 PAM보다 하위 레벨에서
+기본값의 기준이 됩니다.
+
+```bash
+PASS_MAX_DAYS 60
+PASS_MIN_DAYS 10
+UID_MIN       10000
+GID_MIN       20000
+```
+
+---
+
+### /etc/default/useradd
+
+`useradd` 명령어를 실행할 때
+옵션을 주지 않으면 적용되는 기본값입니다.
+
+```bash
+INACTIVE=30
+```
+
+---
+
+### /etc/skel
+
+새 계정을 생성할 때,
+`/etc/skel` 디렉토리 안의 파일과 디렉토리가
+사용자의 홈 디렉토리로 그대로 복사됩니다.
+
+```bash
+mkdir -p /etc/skel/Data
+touch /etc/skel/manual.txt
+
+useradd lunch
+passwd lunch
+chage -l lunch
+```
+
+초기 환경을 표준화할 때 매우 유용한 구조입니다.
+
+---
+
+## 마무리
+
+유저와 그룹 관리는
+리눅스 시스템 보안과 운영의 기본입니다.
+
+명령어 자체는 단순하지만,
+그 결과는 파일 권한, 접근 제어, 로그 기록까지 모두 연결됩니다.
+
+이번 내용은 이후에 다룰
+권한(permission), ACL, 보안 설정의 기반이 됩니다.
+
+한 번에 다 외우려고 하기보다는,
+직접 만들어보고, 바꿔보고, 지워보는 과정이 가장 확실한 학습 방법이라고 생각합니다.
+13:["$","$L1c",null,{"typeLabel":"TAG","breadcrumb":"tags › #system-administration","title":"#system-administration","desc":"\"system-administration\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-21-manage-selinux-security"],"slugPath":"linux/rocky-linux-series-21-manage-selinux-security","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-21-manage-selinux-security.md","frontmatter":{"title":"리눅스 배우기 #21 – SELinux 보안 프레임워크 이해와 실무 운용","slug":"rocky-linux-series-21-manage-selinux-security","description":"SELinux의 보안 모델(DAC, MAC), Security Context 구조, 정책(Targeted·MLS·Minimum), Boolean, Permissive Domain, 그리고 SSH·FTP 실무 트러블슈팅까지 한 흐름으로 정리합니다. SELinux를 끄지 않고 다루는 방법을 중심으로 설명합니다.\n","date":"2026-01-30 21:50","tags":["linux","selinux","rocky-linux","rhel","mandatory-access-control","linux-security","selinux-context","selinux-boolean","selinux-troubleshooting","system-administration"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-21-manage-selinux-security/og/1769777712713-image.webp","draft":false},"content":"$1d"},{"slug":["linux","rocky-linux-series-7-manage-users-and-groups"],"slugPath":"linux/rocky-linux-series-7-manage-users-and-groups","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-7-manage-users-and-groups.md","frontmatter":{"title":"리눅스 배우기 #7 – 로컬 유저와 그룹 관리","slug":"rocky-linux-series-7-manage-users-and-groups","description":"로컬 계정과 그룹을 만들고 수정하고 삭제하는 흐름을 정리했습니다. /etc/group, /etc/passwd, /etc/shadow 구조와 useradd·usermod·chage의 핵심 옵션을 함께 다룹니다.","date":"2026-01-26 23:58","tags":["linux","rocky-linux","user-management","group-management","system-administration","security"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-7-manage-users-and-groups/og/1769519118890-image.webp","draft":false},"content":"$1e"}],"basePath":"/tags/system-administration","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 1f:I[6869,[],"IconMark"]
-1b:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1f","26",{}]]
+1b:[["$","title","0",{"children":"#system-administration 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#system-administration 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1f","26",{}]]
 16:null

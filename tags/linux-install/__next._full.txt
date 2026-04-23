@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 12:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","linux-install"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","linux-install","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":"$L8"}],"$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","linux-install"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","linux-install","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":"$L8"}],"$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
 17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -23,15 +23,308 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-13:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #linux-install"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#linux-install"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"linux-install\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-1-install",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/linux/rocky-linux-series-1-install","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-1-install"}],["$","span",null,{"children":["· ","2026-01-22 22:13"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #1 - 로키 리눅스 설치"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"로키 리눅스를 설치하는 방법에 대해 설명합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","rocky-linux-install",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux-install"]}],["$","span","linux-install",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","linux-install"]}],["$","span","vmware",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","vmware"]}],["$","span","vmware-fusion",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","vmware-fusion"]}],["$","span","vmware-workstation",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","vmware-workstation"]}],["$","span","linux-tutorial",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux-tutorial"]}],["$","span","redhat",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","redhat"]}],"$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}]}]]}]]}]
-1c:["$","span","rhel",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rhel"]}]
-1d:["$","span","centos-alternative",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","centos-alternative"]}]
-1e:["$","span","enterprise-linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","enterprise-linux"]}]
-1f:["$","span","linux-beginner",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux-beginner"]}]
-20:["$","span","virtual-machine",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","virtual-machine"]}]
-21:["$","span","mac",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","mac"]}]
-22:["$","span","apple-silicon",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","apple-silicon"]}]
+1c:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1d:T3052,[[toc]]
+
+---
+
+## 들어가기
+
+최근 회사에서 Redhat Linux 9.7 을 사용하게 되어 HPE 교육센터에서 교육을 수강했습니다.
+해당 교육을 수강하고나서, 필요할 때마다 꺼내보기 위해 리눅스 배우기 시리즈로 글을 작성합니다.
+
+대학 수업에서도, 이전 회사에서 일을 할 때부터 리눅스를 자주 다뤄왔으며 CentOS, Ubuntu 두 종류의 배포판 리눅스를 사용해 본 경험이 있습니다.
+다만, 지금까지 정식적으로 교육은 받아 본 적이 없고 인터넷에 작성된 블로그나 문서를 보면서 배운 리눅스라 사용법은 알지만 구멍이 송송 뚫린 지식이기 때문에
+이번 정식 교육을 통해 리눅스 지식에 뚫린 구멍을 메꾸고자 합니다.
+
+---
+
+## Linux 설치를 위한 도구 준비
+
+리눅스를 설치하기 위해선 당연하지만 PC 한대가 추가로 있어야 설치가 가능합니다.
+하지만 리눅스를 설치하려고 PC 1대를 사기엔 너무 부담스럽기 때문에 우리는 가상화 툴을 이용하여 리눅스를 설치할 예정입니다.
+그리고 로키 리눅스를 설치하기 위해 로키 리눅스 디스크 이미지가 필요합니다.
+
+## VMware 다운로드 및 설치
+제가 사용할 가상화 툴은 VMware이고, 운영체제에 따라 두가지 버전으로 나뉩니다.
+
+- VMware Workstation(Window)
+- VMware Fusion(MAC)
+
+저는 현재 MAC를 사용중이므로 Fusion을 사용할 예정이며 다운로드 받는 파일이 Fusion일 뿐, 윈도우와 거의 동일합니다.
+아래 주소에서 파일을 다운로드 받을 수 있습니다.
+
+- [https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769237947060-image.webp)
+
+---
+
+### Broadcom 사이트 회원가입
+
+다운로드 버튼을 눌러보면 아시겠지만 로그인을 하라는 창이 나옵니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769239535840-image.webp)
+
+안타깝게도 프로그램을 다운로드 하기 위해서는 로그인이 필수입니다.
+계정이 없으시다면 우선 우측 상단의 드랍다운을 클릭하여 회원가입을 진행하도록 합니다.
+
+---
+
+#### 1. 이메일 입력
+
+자신의 이메일 주소를 입력해주시고 자동 가입 방지 문자를 입력하고 Next 버튼을 누릅니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769242673807-image.webp)
+
+#### 2. 이메일 인증
+
+입력하신 이메일 주소로 이메일로 인증번호가 발송되었습니다.
+해당 번호를 확인하여 입력해줍니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769242914540-image.webp)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769242971456-image.webp)
+
+#### 3. 기본 정보 입력
+
+이름, 성, 나라, 직업, 비밀번호, 비밀번호 확인
+각 항목에 자신의 정보를 입력하고 이용약관에 동의를 체크하시고 Create Account 버튼을 누릅니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769243753873-image.webp)
+
+#### 4. 가입 완료
+
+아래와 같이 Registerd Successfully! 가 뜬다면 가입이 완료된 것입니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769243832085-image.webp)
+
+---
+
+### 다시 다운로드 사이트를 접속
+
+아래의 다운로드 사이트로 접속하고
+
+- [https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion)
+
+다시 한번 Download Now 버튼을 클릭하여 로그인을 하시면 됩니다.
+
+#### 다운로드 클릭
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769244230158-image.webp)
+
+#### 이메일 / 패스워드 입력
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769244232607-image.webp)
+
+#### 로그인 성공
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769244234916-image.webp)
+
+### 다운로드 페이지로 이동
+
+해당 페이지 우측 사이드바에서
+My Downloads > Free Software Downloads available <u>*HERE*</u>
+<u>*HERE*</u>를 클릭한다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769244408746-image.webp)
+
+다음 페이지에서 스크롤을 조금 내리면 Fusion, Workstation Pro가 보인다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769244674450-image.webp)
+
+자신의 OS에 맞게 클릭
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769244951317-image.webp)
+
+1. 버전을 한번 더 클릭
+2. 이용약관 페이지를 한번 들어가고
+3. 이용약관 동의 체크
+4. 구름 모양의 다운로드 버튼 클릭
+5. 추가 정보를 입력하시겠습니까? -> Yes 클릭
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769245194814-image.webp)
+
+이제 진짜 마지막 입니다.
+아래대로 주소를 채워주시면 됩니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769246909212-image.webp)
+
+조금 기다리시면 아까의 다운로드 화면으로 이동이 되고
+다시 구름모양 다운로드를 누르시면 설치 파일을 다운로드 할 수 있습니다.
+
+설치 파일 다운로드가 완료되면 설치 수순을 밟으시면 됩니다.
+
+설치 완료된 화면
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769246190323-image.webp)
+
+
+## Linux 이미지 파일 다운로드
+
+길고 긴 VMware의 다운로드가 완료되었습니다.
+이제는 Rocky Linux ISO 이미지 파일을 다운받으로 가보겠습니다.
+아래의 주소로 들어가시면 로키 리눅스를 다운로드 할 수 있습니다.
+
+[https://rockylinux.org/ko-KR/download](https://rockylinux.org/ko-KR/download)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769246142479-image.webp)
+
+Minimal ISO 파일을 다운로드 하도록 합니다.
+
+다운로드가 완료되면 VMware를 실행시켜 ISO 파일로 설치를 진행해봅니다.
+
+## 1. 본격적인 Rocky Linux 가상머신에 설치하기
+
+이제 VMware를 켜주시고 새로운 머신을 생성하여 해당 머신에 로키 리눅스를 설치하는 과정을 진행하도록 하겠습니다.
+
+### 1. 가상머신 생성
+
+맥북 기준이긴 하지만 윈도우도 메뉴가 비슷하므로, 충분히 따라 하실 수 있을겁니다.
+
+### 1-1. 상단에 File > New... 를 클릭하여 새로운 가상머신을 생성 팝업을 띄웁니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769247543590-image.webp)
+
+### 1-2. Create a custom virtual machine 클릭
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769247634425-image.webp)
+
+### 1-3. Rocky Linux 64-bit Arm 클릭 > Continue
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769247721170-image.webp)
+
+### 1-4. Create a new virtual disk 클릭 (기본값)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769247767652-image.webp)
+
+### 1-5. Finish (끝)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769247795763-image.webp)
+
+### 1-6. 가상 머신 종료
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248012524-image.webp)
+
+## 2. 로키 리눅스 이미지를 부팅 이미지로 잡아주기
+
+마지막에 가상머신을 종료한 이유는 추가 설정 및 로키 리눅스 이미지를 부팅 이미지로 설정 후 부팅하기 위함입니다. 
+
+### 2-1. 하드웨어 용량 추가 (옵션)
+
+하드웨어 용량이 20GB로 너무 적습니다.
+물론 리눅스 명령어를 익히기 위해서는 충분한 용량이지만 넉넉하게 100GB 정도로 수정을 해줍니다.
+
+수정은 아래 이미지와 같이
+
+Hard Disk (NVMe) > Disk size 100 입력 > Apply
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248514098-image.webp)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248542163-image.webp)
+
+### 2-2. 부팅 이미지를 다운로드한 이미지로 잡아주기
+
+드랍다운 메뉴 클릭 > Choose a disc or disc image... > 다운로드한 이미지 선택 > Connect CD/DVD Drive 체크 > 창 닫기
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248657091-image.webp)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248628880-image.webp)
+
+## 3. 부팅하여 로키 리눅스 설치 진행
+
+
+### 3-1. 가상머신 부팅
+
+가상머신 우클릭 > Start Up
+정상적으로 이미지가 잡히고 부팅이 시작되면 아래와 같이 검은 화면에 메뉴가 뜹니다.
+
+Install Rocky Linux 10.1 을 눌러 진행합니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248742113-image.webp)
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769248778119-image.webp)
+
+
+### 3-2. 언어 설정
+
+언어는 영어로 설정해주도록 합니다.
+홈디렉토리가 한글로 생성되거나 하면 예상치 못한 오류가 발생하기 때문에 (큰 오류는 아니지만)
+미리 영어로 홈디렉토리가 생성되도록 해줍니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249135915-image.webp)
+
+### 3-3. 설치를 위한 설정
+
+설치를 진행하기 위해 몇가지 설정을 해주어야 합니다.
+설정할 항목은 아래와 같습니다.
+
+- Root Account
+- User Creation
+- Installation Destination
+
+3가지 설정만 하면 나머지는 문제 없으니 설정을 진행해보도록 하겠습니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249313704-image.webp)
+
+#### 3-3-1. Root Account
+
+루트 어카운트의 로그인을 허용할지 설정하는 단계입니다.
+
+보안을 위해 설정하지 않도록 합니다.
+필요하신 분들은 설치 후 passwd 명령어를 통해 root 계정의 암호를 설정하여 로그인 하도록 할 수 있습니다.
+우선은 아래 이미지와 같이 Disable root account 로 선택 후 좌측 상단의 Done 버튼을 눌러줍니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249431738-image.webp)
+
+#### 3-3-2. Create User
+
+로그인 할 유저를 설정하는 단계입니다.
+항목에 맞춰 적어주시고 한가지 주의할점은 암호가 단순하면 좌측 상단의 Done 버튼을 두번 눌러야 적용이 가능합니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249464472-image.webp)
+
+#### 3-3-3. Installation Destination
+
+설치할 디스크를 설정하는 단계입니다.
+
+전문가 또는 특수한 목적으로 디스크 영역을 수동으로 설정할 경우에는
+디스크를 선택한 뒤 Storage Configuration 에서 Custom을 선택하여 직접 디스크를 나눠주지만,
+학습 단계에서는 필요없습니다. Automatic로 진행 후 좌측 상단의 Done 버튼을 누르도록 합니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249532984-image.webp)
+
+#### 3-3-4. 설치 진행
+
+다 끝나셨으면 우측 하단의 Begin Installation을 눌러 설치를 진행합니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249686250-image.webp)
+
+#### 3-3-5. 설치 완료
+
+설치가 완료되면 우측 하단의 Reboot System 버튼을 누릅니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249835868-image.webp)
+
+#### 3-3-6. 부팅 이미지 언마운트
+
+그대로 부팅을 하게 되면 다시 설치 이미지로 부팅이 되기 때문에 아래의 설정으로 돌아가
+[Connect CD/DVD Drive] 를 체크 해제 해줍니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769249999356-image.webp)
+
+## 4. 로키 리눅스 실행
+
+정상적으로 부팅이 되면 아래와 같이 로그인이 뜹니다.
+
+User Create 단계에서 입력했던 유저 정보를 입력하여 로그인 하면 설치 완료입니다.
+
+![image.png](/images/_posts/linux/rocky-linux-series-1-install/1769250086643-image.webp)
+
+## 5. 마치면서
+
+로키 리눅스를 가상머신 환경에 설치하기 위한 설치 과정을 정리해보았습니다.
+다음 포스트 부터는 본격적으로 리눅스 시스템을 다루는 방법에 대해 설명을 진행하도록 하겠습니다.
+13:["$","$L1c",null,{"typeLabel":"TAG","breadcrumb":"tags › #linux-install","title":"#linux-install","desc":"\"linux-install\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-1-install"],"slugPath":"linux/rocky-linux-series-1-install","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-1-install.md","frontmatter":{"title":"리눅스 배우기 #1 - 로키 리눅스 설치","slug":"rocky-linux-series-1-install","description":"로키 리눅스를 설치하는 방법에 대해 설명합니다.","date":"2026-01-22 22:13","tags":["linux","rocky-linux","rocky-linux-install","linux-install","vmware","vmware-fusion","vmware-workstation","linux-tutorial","redhat","rhel","centos-alternative","enterprise-linux","linux-beginner","virtual-machine","mac","apple-silicon"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-1-install/og/1769253121300-image.webp","draft":false},"content":"$1d"}],"basePath":"/tags/linux-install","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-23:I[6869,[],"IconMark"]
-1b:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L23","26",{}]]
+1e:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"#linux-install 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#linux-install 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1e","26",{}]]
 16:null

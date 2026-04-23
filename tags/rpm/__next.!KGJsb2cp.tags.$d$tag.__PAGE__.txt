@@ -1,6 +1,308 @@
 1:"$Sreact.fragment"
-2:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
-3:I[484,[],"OutletBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"NvtiHDoIDVMynshd6FiOq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #rpm"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#rpm"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"rpm\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-14-linux-package-management-rpm-dnf",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L2",null,{"href":"/post/linux/rocky-linux-series-14-linux-package-management-rpm-dnf","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-14-linux-package-management-rpm-dnf"}],["$","span",null,{"children":["· ","2026-01-28 21:38"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #14 – 소프트웨어 패키지 설치와 업데이트 (RPM · DNF · Repository)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스에서 소프트웨어를 설치하고 업데이트하는 방식은 배포판마다 다릅니다. 이 글에서는 RPM 기반 리눅스를 중심으로 패키지 관리의 배경부터 rpm, dnf 명령어, repository 구조, EPEL과 폐쇄망 저장소 구성까지 정리합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky"]}],["$","span","package",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","package"]}],["$","span","management",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","management"]}],["$","span","rpm",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","rpm"]}],["$","span","dnf",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","dnf"]}],["$","span","yum",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","yum"]}]]}]]}]}]]}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
-5:null
+2:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+3:T2294,[[toc]]
+
+---
+
+## 들어가기
+
+예전의 리눅스 환경에서는 프로그램을 사용하려면 소스 코드를 직접 내려받아 컴파일하는 과정이 일반적이었습니다.
+이 방식은 유연하고 강력했지만, 컴파일 환경을 갖추기 어렵거나 빌드 과정 자체가 부담이 되는 사용자에게는 진입 장벽이 높았습니다.
+
+이러한 불편함을 줄이기 위해 **미리 컴파일된 형태의 프로그램을 배포**하기 시작했고, 그 결과 등장한 개념이 바로 **패키지(package)**와 **패키지 매니저(package manager)** 입니다.
+
+이번 글에서는 리눅스 패키징의 흐름을 간단히 살펴본 뒤, RPM 기반 시스템에서 사용하는 패키지 관리 방식과 `rpm`, `dnf` 명령어, 그리고 저장소(repository)의 개념까지 정리해보겠습니다.
+
+---
+
+## 소프트웨어 패키지 매니저의 등장 배경
+
+패키지는 단순히 실행 파일 하나만을 의미하지 않습니다.
+프로그램 실행에 필요한 라이브러리, 설정 파일, 문서, 스크립트 등을 하나의 묶음으로 관리하는 단위입니다.
+
+패키지 매니저는 다음과 같은 문제를 해결하기 위해 등장했습니다.
+
+* 소프트웨어 설치 과정을 표준화하기 위해
+* 파일이 어디에 설치되었는지 추적하기 위해
+* 업데이트와 삭제를 안전하게 수행하기 위해
+* 의존성 관계를 관리하기 위해
+
+이러한 요구가 쌓이면서 각 운영체제 계열마다 고유한 패키징 시스템이 발전하게 되었습니다.
+
+---
+
+## 유닉스와 리눅스의 패키징 계열
+
+### Unix 계열
+
+* **SysV packages**
+  전통적인 UNIX System V 계열에서 사용되던 패키지 형식입니다.
+  의존성 관리가 체계적이지 않아, 관리자가 설치 순서와 필요 파일을 직접 파악해야 하는 경우가 많았습니다.
+
+### Linux 계열
+
+리눅스는 배포판마다 패키징 정책이 다르며, 이 차이가 배포판의 성격을 결정하기도 합니다.
+
+#### Slackware
+
+* **Slackware Tarballs**
+* `tar` 기반의 단순한 패키지 형식
+* 의존성 자동 해결 기능 없음
+
+관리자가 패키지 구조를 명확히 이해하고 직접 제어하는 방식을 취합니다.
+자동화보다는 단순성과 투명성을 중시하는 배포판입니다.
+
+#### Debian 계열
+
+* **Debian**
+
+  * `dpkg`를 기본 패키지 도구로 사용
+  * `apt`를 통해 의존성 자동 해결과 저장소 기반 설치 제공
+
+* **Ubuntu**
+
+  * Debian 기반
+  * 서버와 데스크톱 환경 모두를 고려한 사용자 친화적 패키징
+
+* **Linux Mint**
+
+  * Ubuntu 기반
+  * 안정성과 사용 편의성을 강조
+
+#### Red Hat 계열
+
+* **Red Hat Enterprise Linux / Fedora / CentOS / Rocky Linux**
+
+  * RPM 포맷 사용
+  * `dnf` (과거 `yum`)을 통해 패키지 관리
+
+* **SUSE Linux Enterprise**
+
+  * RPM 기반
+  * `zypper` 패키지 매니저 사용
+
+* **Mandriva**
+
+  * RPM 기반 배포판
+  * 현재는 역사적 의미를 가지는 배포판
+
+---
+
+## RPM 패키지 파일 구조
+
+### 네이밍 규칙
+
+RPM 패키지 파일명은 다음과 같은 형식을 따릅니다.
+
+```
+이름-버전-릴리즈.아키텍처.rpm
+```
+
+파일명만 보더라도 다음 정보를 유추할 수 있습니다.
+
+* 어떤 소프트웨어인지
+* 어떤 버전인지
+* 어느 배포판용 빌드인지
+* 어떤 CPU 아키텍처를 대상으로 하는지
+
+---
+
+### 아키텍처 구분
+
+* **.src.rpm**
+
+  * 소스 코드와 spec 파일을 포함
+  * 바이너리 RPM을 생성하기 위한 재료
+
+* **.noarch.rpm**
+
+  * CPU 아키텍처에 의존하지 않음
+  * 스크립트, 설정 파일, 인터프리터 언어 패키지에 주로 사용
+
+* **.x86_64.rpm**
+
+  * 64비트 x86 아키텍처용 바이너리 패키지
+
+* **.i586.rpm**
+
+  * 32비트 x86 계열 바이너리 패키지
+
+* **.arm*.rpm**
+
+  * ARM 계열 CPU용 바이너리 패키지
+
+---
+
+### 내부 포맷
+
+RPM 파일은 다음 두 요소로 구성됩니다.
+
+* 바이너리 헤더
+
+  * 메타데이터
+  * 의존성 정보
+
+* 실제 파일 데이터
+
+  * `cpio` 아카이브 형식으로 저장
+
+즉, RPM은 단순한 압축 파일이 아니라 **패키지 관리에 필요한 정보를 함께 담은 구조**입니다.
+
+---
+
+## rpm 명령어로 패키지 상태 확인하기
+
+RPM은 저수준(low-level) 패키지 관리 도구입니다.
+의존성을 자동으로 해결하지는 않지만, 설치 상태를 정확히 조회하는 데 매우 유용합니다.
+
+```bash
+rpm -qa                # 설치된 전체 패키지 목록
+rpm -ql package_name   # 특정 패키지가 설치한 파일 목록
+rpm -qf /usr/bin/ls    # 해당 파일을 제공하는 패키지 확인
+```
+
+실무에서는 `rpm -qa | grep 패키지명` 형태로 자주 사용합니다.
+
+---
+
+## 패키지를 직접 내려받아 설치해보기
+
+공식 저장소를 사용하지 않고, RPM 파일을 직접 설치할 수도 있습니다.
+
+예를 들어 `rpmfind.net` 사이트에서 패키지를 검색한 뒤 다음과 같이 설치할 수 있습니다.
+
+```bash
+wget https://rpmfind.net/linux/centos-stream/10-stream/BaseOS/x86_64/os/Packages/zsh-5.9-15.el10.x86_64.rpm
+wget https://rpmfind.net/linux/centos-stream/10-stream/AppStream/x86_64/os/Packages/git-2.52.0-1.el10.x86_64.rpm
+
+rpm -Uvh zsh-5.9-15.el10.x86_64.rpm
+rpm -Uvh git-2.52.0-1.el10.x86_64.rpm
+```
+
+* `-U` : 업그레이드 또는 신규 설치
+* `-v` : 상세 출력
+* `-h` : 진행 상황 표시
+
+이 방식의 단점은 **의존성 패키지를 직접 해결해야 한다는 점**입니다.
+이 불편함을 해결하기 위해 등장한 것이 `yum`과 `dnf`입니다.
+
+---
+
+## rpm 패키지 삭제
+
+```bash
+rpm -e 패키지명
+```
+
+의존성 검사는 수행하지 않으므로, 시스템 패키지를 제거할 때는 주의가 필요합니다.
+
+---
+
+## 의존성 문제와 패키지 매니저의 역할
+
+RPM 자체는 의존성을 기록하지만, 자동으로 해결해주지는 않습니다.
+이 문제를 해결하기 위해 등장한 고수준(high-level) 도구가 바로 **yum / dnf** 입니다.
+
+이 도구들은 다음을 담당합니다.
+
+* 의존성 자동 해결
+* 저장소(repository) 기반 패키지 관리
+* 업데이트 이력 관리
+
+---
+
+## YUM & DNF 주요 명령어
+
+```bash
+dnf search keyword        # 패키지 검색
+dnf install package       # 설치 또는 업데이트
+dnf remove package        # 제거
+dnf repolist              # 활성화된 저장소 목록
+dnf grouplist             # 패키지 그룹 목록
+dnf groupinstall "Group"  # 그룹 설치
+dnf history               # 트랜잭션 이력
+dnf history info 13       # 특정 트랜잭션 상세
+dnf undo 13               # 트랜잭션 되돌리기
+```
+
+`dnf history` 기능은 시스템 변경 이력을 추적할 수 있어 운영 환경에서 특히 중요합니다.
+
+---
+
+## Repository 개념 이해하기
+
+Repository는 **패키지를 모아둔 저장소**입니다.
+`dnf`는 이 저장소 정보를 기반으로 패키지를 검색하고 내려받습니다.
+
+### 저장소 설정 파일 예시
+
+`/etc/yum.repos.d/rocky.repo`
+
+```ini
+[appstream]
+name=Rocky Linux $releasever - AppStream
+mirrorlist=https://mirrors.rockylinux.org/mirrorlist?arch=$basearch&repo=AppStream-$releasever$rltype
+gpgcheck=1
+enabled=1
+metadata_expire=6h
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-Rocky-10
+```
+
+각 항목은 저장소의 위치, 보안 검증 여부, 활성화 상태를 정의합니다.
+
+---
+
+## EPEL 저장소
+
+EPEL(Extra Packages for Enterprise Linux)은 RHEL 계열에서 기본 저장소에 포함되지 않은 패키지를 제공합니다.
+
+```bash
+dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-10.noarch.rpm
+```
+
+서버 환경에서 자주 사용하는 유틸리티들이 다수 포함되어 있습니다.
+
+---
+
+## 폐쇄망 환경에서 Repository 구성하기
+
+외부 인터넷이 차단된 환경에서는 자체 저장소 구성이 필요합니다.
+
+### 기본 흐름
+
+```bash
+cp *.rpm /src/repository
+createrepo /src/repository
+```
+
+`createrepo`는 RPM 메타데이터를 생성하여 저장소로 인식할 수 있게 합니다.
+
+### 저장소 등록
+
+```bash
+dnf config-manager --add-repo http://server1.example.com/RHEL8
+```
+
+```ini
+[server1.example.com_RHEL8]
+name=created by dnf config-manager from http://server1.example.com/RHEL8
+baseurl=http://server1.example.com/RHEL8
+enabled=1
+gpgcheck=0
+```
+
+이 방식은 폐쇄망, 내부 테스트 환경, 보안망 구성 시 자주 사용됩니다.
+
+---
+
+## 마무리
+
+패키지 관리 시스템은 리눅스 운영의 핵심 요소입니다.
+단순히 설치 명령어를 외우는 것보다, **왜 이런 구조가 되었는지**를 이해하는 것이 중요합니다.
+
+이번 글에서는 RPM 기반 시스템을 중심으로 패키지 설치와 업데이트 흐름을 정리했습니다.
+0:{"buildId":"O8Nqs8Mm86QYs2k_WaTdZ","rsc":["$","$1","c",{"children":[["$","$L2",null,{"typeLabel":"TAG","breadcrumb":"tags › #rpm","title":"#rpm","desc":"\"rpm\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-14-linux-package-management-rpm-dnf"],"slugPath":"linux/rocky-linux-series-14-linux-package-management-rpm-dnf","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-14-linux-package-management-rpm-dnf.md","frontmatter":{"title":"리눅스 배우기 #14 – 소프트웨어 패키지 설치와 업데이트 (RPM · DNF · Repository)","slug":"rocky-linux-series-14-linux-package-management-rpm-dnf","description":"리눅스에서 소프트웨어를 설치하고 업데이트하는 방식은 배포판마다 다릅니다. 이 글에서는 RPM 기반 리눅스를 중심으로 패키지 관리의 배경부터 rpm, dnf 명령어, repository 구조, EPEL과 폐쇄망 저장소 구성까지 정리합니다.","date":"2026-01-28 21:38","tags":["linux","rocky","package","management","rpm","dnf","yum"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-14-linux-package-management-rpm-dnf/og/1769604188311-image.webp","draft":false},"content":"$3"}],"basePath":"/tags/rpm","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}],null,"$L4"]}],"loading":null,"isPartial":false}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null

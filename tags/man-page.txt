@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 11:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","man-page"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","man-page","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","man-page"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","man-page","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
 13:I[484,[],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -22,8 +22,230 @@ d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 e:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
 f:["$","$L16","l",{}]
 10:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$@18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$@1a"}]}]}],null]}]
-12:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #man-page"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#man-page"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"man-page\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-4-get-help",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/linux/rocky-linux-series-4-get-help","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-4-get-help"}],["$","span",null,{"children":["· ","2026-01-24 23:44"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #4 – 텍스트 환경에서 도움말 확인하기"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스 텍스트 환경에서 명령어 도움말을 확인하는 방법을 정리했습니다. \n--help, man, info 명령어를 통해 사용법과 시스템 정보를 확인하는 기본 흐름을 다룹니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky-linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux"]}],["$","span","linux-basics",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux-basics"]}],["$","span","command-line",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","command-line"]}],["$","span","linux-help",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux-help"]}],["$","span","man-page",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","man-page"]}],["$","span","rocky-linux-series",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky-linux-series"]}]]}]]}]}]]}]]}]
+1b:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1c:T1928,[[toc]]
+
+---
+
+## 로그인 세션에 대한 정보를 얻기
+
+### 로그인 사용자를 확인하는 방법
+
+리눅스에서 현재 로그인한 사용자가 누구인지,
+어떤 터미널을 통해 접속했는지는 기본적으로 확인해야 할 정보입니다.
+문제 상황을 추적하거나 접근 권한을 확인할 때 자주 사용됩니다.
+
+* **UID** : user id
+* **GID** : group id
+* **terminal** : tty, pts 등 접속 터미널 정보
+
+---
+
+### 커맨드로 확인하는 방법
+
+가장 기본적으로 사용하는 명령어는 `id` 입니다.
+현재 사용자 기준으로 UID, GID, 소속 그룹 정보를 한 번에 출력합니다.
+
+```bash
+id
+```
+
+필요한 정보만 확인하고 싶을 경우에는 다음과 같이 나누어 사용할 수 있습니다.
+
+```bash
+id -un      # 사용자 이름
+whoami     # 현재 사용자 이름
+id -Gn     # 소속 그룹 목록
+tty        # 현재 터미널
+```
+
+> [!NOTE] 노트
+> 공식 문서는 대부분 여기에서 확인할 수 있습니다.
+> [https://docs.redhat.com/ko](https://docs.redhat.com/ko)
+> 문제가 생겼을 때 가장 먼저 참고할 만한 자료입니다.
+
+---
+
+## 명령어 문서에서 도움말 확인하기
+
+대부분의 리눅스 명령어는 자체적인 도움말을 포함하고 있습니다.
+짧고 빠르게 옵션이나 사용법을 확인할 때 유용합니다.
+
+```bash
+command --help
+```
+
+출력 내용은 간단하지만,
+자주 사용하는 옵션을 확인하기에는 충분한 정보가 제공됩니다.
+
+---
+
+## man 과 info 명령어로 메뉴얼을 확인하기
+
+보다 자세한 설명이 필요할 경우에는 `man` 명령어를 사용합니다.
+각 명령어에 대한 공식 매뉴얼을 텍스트 환경에서 확인할 수 있습니다.
+
+```bash
+man [section] name
+```
+
+매뉴얼 화면에서 사용할 수 있는 기본 조작은 다음과 같습니다.
+
+* `Enter` : 한 줄씩 이동
+* `Space` : 한 페이지씩 이동
+* `b` : 이전 페이지로 이동
+* `/` : 검색 모드 진입 (`n`으로 다음 결과 이동)
+
+매뉴얼은 섹션별로 구성되어 있으며,
+명령어, 설정 파일, 시스템 호출 등 용도에 따라 구분되어 있습니다.
+
+키워드 기반으로 매뉴얼을 검색하고 싶을 경우에는 다음 명령어를 사용합니다.
+
+```bash
+man -k 키워드
+```
+
+이는 내부적으로 매뉴얼 인덱스를 검색하는 방식이며,
+환경에 따라 인덱스가 최신 상태가 아닐 수도 있습니다.
+
+이럴 경우에는 `mandb` 명령어를 사용하여
+수동으로 매뉴얼 인덱스 데이터베이스를 생성할 수 있습니다.
+
+```bash
+mandb
+```
+
+---
+
+## man 페이지의 기호를 예제로 이해하기
+
+`man` 페이지에서 사용하는 기호들은
+처음 보면 의미를 파악하기 어렵습니다.
+아래에서는 실제 메뉴얼에 등장하는 예시를 기준으로
+각 기호가 어떤 의미를 가지는지 정리합니다.
+
+---
+
+### 대괄호 `[]` : 생략 가능한 옵션 또는 인수
+
+대괄호로 묶인 항목은 반드시 입력할 필요가 없는 선택 사항입니다.
+
+```text
+ls [-a] [-l] [file ...]
+```
+
+위 예시는 다음과 같이 해석할 수 있습니다.
+
+* `-a`, `-l` 옵션은 필요할 때만 사용합니다.
+* `file` 인수는 생략할 수 있습니다.
+* 인수를 생략하면 현재 디렉토리를 기준으로 동작합니다.
+
+---
+
+### 꺾쇠 괄호 `<>` : 반드시 필요한 값
+
+꺾쇠 괄호로 표시된 항목은 반드시 값을 입력해야 합니다.
+실제 메뉴얼에서는 문자열, 숫자, 경로 등이 들어갑니다.
+
+```text
+useradd -u <UID> <username>
+```
+
+위 예시는 다음을 의미합니다.
+
+* `<UID>`에는 숫자 값이 반드시 들어가야 합니다.
+* `<username>`은 생성할 사용자 이름입니다.
+* 두 값 모두 생략할 수 없습니다.
+
+---
+
+### 세로 막대 `|` : 여러 항목 중 하나 선택
+
+세로 막대는 여러 선택지 중 하나를 선택해야 함을 의미합니다.
+동시에 사용할 수는 없습니다.
+
+```text
+shutdown [-h | -r | -c] [time]
+```
+
+위 예시는 다음과 같이 해석됩니다.
+
+* `-h`, `-r`, `-c` 중 하나만 사용할 수 있습니다.
+* 시스템 종료, 재부팅, 예약 취소 중 하나를 선택합니다.
+
+---
+
+### 말줄임표 `...` : 반복 가능
+
+말줄임표는 동일한 형태의 인수를 여러 개 사용할 수 있음을 의미합니다.
+
+```text
+chmod [OPTION]... MODE[,MODE]... FILE...
+```
+
+위 예시는 다음을 의미합니다.
+
+* `OPTION`은 여러 개 지정할 수 있습니다.
+* `FILE` 인수는 하나 이상 지정할 수 있습니다.
+* 여러 파일에 동일한 권한 설정을 적용할 수 있습니다.
+
+---
+
+### 기호를 읽는 순서
+
+처음 `man` 페이지를 볼 때는 다음 순서로 읽는 것이 좋습니다.
+
+1. 대괄호(`[]`)로 선택 사항을 구분합니다.
+2. 꺾쇠 괄호(`<>`)로 반드시 필요한 값을 확인합니다.
+3. 세로 막대(`|`)로 동시에 사용할 수 없는 옵션을 확인합니다.
+4. 말줄임표(`...`)로 반복 가능한 인수를 파악합니다.
+
+기호의 의미를 알고 나면,
+긴 메뉴얼에서도 필요한 사용법만 빠르게 골라볼 수 있습니다.
+
+
+`man` 외에도 `info` 명령어를 통해 문서를 확인할 수 있습니다.
+일부 GNU 계열 명령어는 `info` 문서에 더 자세한 설명이 포함되어 있습니다.
+
+```bash
+info 명령어
+```
+
+---
+
+현재 로그인한 사용자나 시스템 접속 이력을 확인하기 위한 명령어도 자주 사용됩니다.
+
+```bash
+who     # 현재 로그인한 사용자
+last    # 로그인 이력
+```
+
+---
+
+## 여러 가지 시스템 정보 확인 방법
+
+리눅스 시스템의 기본 정보를 확인할 수 있는 대표적인 명령어는 다음과 같습니다.
+
+```bash
+cat /etc/os-release   # 운영체제 버전 정보
+hostnamectl           # 시스템, 커널, 하드웨어 정보 개요
+free -h               # 메모리 사용량 (-h: 사람이 읽기 쉬운 단위)
+lscpu                 # CPU 정보
+ip addr               # 네트워크 인터페이스 및 IP 정보
+```
+
+과거에 사용되던 `ifconfig` 명령어는 현재 deprecated 상태이며,
+대신 `ip` 명령어 사용
+
+## 마치면서
+
+리눅스는 대부분의 명령어에 대해
+스스로 도움말과 문서를 제공하도록 설계되어 있습니다.
+
+다음 포스트에서는
+터미널 환경에서 자주 사용하는 에디터에 대해 정리해보겠습니다.
+12:["$","$L1b",null,{"typeLabel":"TAG","breadcrumb":"tags › #man-page","title":"#man-page","desc":"\"man-page\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-4-get-help"],"slugPath":"linux/rocky-linux-series-4-get-help","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-4-get-help.md","frontmatter":{"title":"리눅스 배우기 #4 – 텍스트 환경에서 도움말 확인하기","slug":"rocky-linux-series-4-get-help","description":"리눅스 텍스트 환경에서 명령어 도움말을 확인하는 방법을 정리했습니다. \n--help, man, info 명령어를 통해 사용법과 시스템 정보를 확인하는 기본 흐름을 다룹니다.","date":"2026-01-24 23:44","tags":["linux","rocky-linux","linux-basics","command-line","linux-help","man-page","rocky-linux-series"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-4-get-help/og/1769517342491-image.webp","draft":false},"content":"$1c"}],"basePath":"/tags/man-page","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1b:I[6869,[],"IconMark"]
-1a:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1b","26",{}]]
+1d:I[6869,[],"IconMark"]
+1a:[["$","title","0",{"children":"#man-page 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#man-page 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1d","26",{}]]
 15:null

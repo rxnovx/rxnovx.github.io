@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 11:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","remote"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","remote","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","remote"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","remote","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
 13:I[484,[],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -22,8 +22,285 @@ d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 e:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
 f:["$","$L16","l",{}]
 10:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$@18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$@1a"}]}]}],null]}]
-12:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #remote"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#remote"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"remote\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","vscode/vscode-ssh-remote-offline-network",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/vscode/vscode-ssh-remote-offline-network","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"vscode › vscode-ssh-remote-offline-network"}],["$","span",null,{"children":["· ","2026-01-15 15:15:05"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"폐쇄망에서 vscode ssh remote 하는 방법에 대해 설명합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","vs-code",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","vs-code"]}],["$","span","remote",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","remote"]}],["$","span","offline-network",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","offline-network"]}]]}]]}]}]]}]]}]
+1b:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1c:T2890,# 폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)
+
+## 들어가기
+
+안녕하세요.
+오늘은 **폐쇄망 환경에서 VS Code Remote-SSH를 사용하는 방법**에 대해 알아보겠습니다.
+
+보안 정책상 개발 PC에서 외부 인터넷 접근이 제한되거나, 서버에 직접 접속해 터미널 기반으로만 작업해야 하는 환경이 존재합니다.
+이러한 경우 서버에서 직접 편집을 진행하면, 로컬 IDE에서 제공되는 자동 완성, 디버깅, 확장 기능 등 기존의 개발 경험을 충분히 활용하기 어렵습니다.
+
+이처럼 **서버 자원을 사용해야 하지만 로컬 개발 환경의 편의성은 유지하고 싶은 상황**에서, 그 대안 중 하나가 VS Code Remote-SSH입니다.
+
+하지만 인터넷에 연결되지 않은 서버에 VS Code 확장 프로그램인 Remote-SSH를 사용해 접근하려고 하면, 기본 설정만으로는 오류가 발생합니다.
+이 글에서는 이러한 문제를 해결하기 위해, **폐쇄망 환경에서 Remote-SSH를 정상적으로 사용하기 위한 오프라인 설치 방법**을 단계별로 정리합니다.
+
+또한, 기존에 널리 알려진 스택오버플로우의 방법을 그대로 따라 해도 최근 버전의 VS Code에서는 동일한 오류가 발생할 수 있습니다.
+이는 **최근 VS Code 및 Remote-SSH의 내부 동작 방식이 변경되었기 때문**입니다.
+
+본 글은 **이미 VS Code Remote-SSH를 사용해 본 경험이 있는 분**을 대상으로 하며, 기본적인 SSH 개념과 사용법은 다루지 않습니다.
+
+> [!NOTE] 바쁨!
+> 바쁘신 분들은 [4번 사전 준비 체크리스트](#4-사전-준비-체크리스트)부터 확인하셔도 됩니다.
+
+> [!NOTE] 버전
+> 1.97.2 버전 기준으로 설명합니다. 그 이후 버전은 BadInstallScriptResult 에러가 발생합니다.
+
+---
+
+## 1. 글의 범위와 전제
+
+### 1.1 대상 독자
+
+이 글은 다음과 같은 분들을 대상으로 작성되었습니다.
+
+* VS Code에서 Remote-SSH를 사용해 본 경험이 있는 개발자
+* 폐쇄망(에어갭) 서버에 개발 환경을 구성해야 하는 경우
+* 인터넷이 차단된 서버에서 VS Code 기반 개발을 유지해야 하는 경우
+
+### 1.2 이 글에서 해결하는 문제
+
+이 글에서 다루는 핵심 문제는 다음과 같습니다.
+
+* Remote-SSH 접속 시 서버에서 vscode-server 다운로드 단계에서 실패하는 문제
+* 기존 `~/.vscode-server/bin/<commit>` 방식이 동작하지 않는 문제
+* 오프라인 환경에서 vscode-server를 수동으로 설치해야 하는 상황
+
+### 1.3 폐쇄망 환경의 제약 조건
+
+일반적으로 폐쇄망 환경에서는 다음과 같은 제약이 존재합니다.
+
+* 서버에서 외부 인터넷 접근 불가
+* 패키지 매니저를 통한 실시간 다운로드 불가
+* 특정 포트 및 아웃바운드 트래픽 차단
+
+이로 인해 VS Code Remote-SSH의 기본 동작 흐름이 정상적으로 완료되지 않습니다.
+
+---
+
+## 2. Remote-SSH가 실패하는 이유
+
+### 2.1 Remote-SSH의 내부 동작 개요
+
+VS Code Remote-SSH는 단순히 SSH로 접속만 하는 확장이 아닙니다.
+
+연결 과정에서 VS Code는 원격 서버에 다음 작업을 수행합니다.
+
+* vscode-server 바이너리 다운로드
+* 서버 환경에 맞는 실행 파일 압축 해제
+* 원격 서버에서 VS Code와 통신할 백엔드 프로세스 실행
+
+이 과정 중 **다운로드 단계가 실패**하면 Remote-SSH 연결 자체가 중단됩니다.
+
+### 2.2 폐쇄망에서 발생하는 대표적인 오류
+
+폐쇄망 환경에서는 다음과 같은 오류를 자주 마주치게 됩니다.
+
+* `Failed to download VS Code Server`
+* `Waiting for vscode-server to be installed`
+* 무한 재시도 루프
+
+이는 모두 서버에서 외부 네트워크로 접근할 수 없기 때문에 발생하는 문제입니다.
+
+### 2.3 기존 스택오버플로우 방식이 실패하는 이유
+
+과거에는 `~/.vscode-server/bin/<commit>` 경로에 미리 다운로드한 파일을 복사하는 방식으로 문제를 해결할 수 있었습니다.
+
+하지만 최근 버전의 VS Code Remote-SSH에서는 **서버 설치 경로 및 실행 방식이 변경**되었고, 이로 인해 기존 방식이 더 이상 통하지 않는 경우가 많아졌습니다.
+
+---
+
+## 3. 최근 VS Code / Remote-SSH의 변경점
+
+### 3.1 기존 방식: `~/.vscode-server/bin/<commit>`
+
+과거 Remote-SSH는 커밋 ID 기준으로 다음 경로에 서버 파일을 설치했습니다.
+
+```
+~/.vscode-server/bin/<commit>/
+```
+
+이 경로에 파일이 존재하면 다운로드 과정을 건너뛰었습니다.
+
+### 3.2 최신 방식: `cli/servers/Stable-<commit>`
+
+최근 버전에서는 다음과 같은 새로운 경로가 사용됩니다.
+
+```
+~/.vscode-server/code-<commit>
+~/.vscode-server/cli/servers/Stable-<commit>/server/
+```
+
+이 변화로 인해 기존 경로에 파일을 복사해도 Remote-SSH가 이를 인식하지 못하는 상황이 발생합니다.
+
+### 3.3 내 환경에서 사용 중인 방식 확인하기
+
+현재 사용 중인 방식은 VS Code의 **Remote-SSH Output 로그**를 통해 확인할 수 있습니다.
+
+로그에 다음과 같은 문자열이 포함되어 있다면 최신 방식입니다.
+
+* `cli/servers/Stable-<commit>/server/bin/code-server`
+
+---
+
+## 4. 사전 준비 체크리스트
+
+### 4.1 서버 OS 및 아키텍처 확인
+
+서버의 운영체제와 CPU 아키텍처(x64, arm64 등)를 정확히 확인해야 합니다.
+
+잘못된 아키텍처의 바이너리를 사용할 경우 실행 단계에서 실패합니다.
+
+### 4.2 VS Code 버전 및 Commit ID 확인
+
+VS Code는 커밋 ID 기준으로 버전을 관리합니다.
+
+로컬 PC에서 사용 중인 VS Code의 **Commit ID**를 반드시 확인해 두어야 합니다.
+
+방법은 아래와 같습니다.
+
+``` bash
+code -v
+1.97.2 # 버전
+{COMMIT} # 커밋
+x64 # 아키텍처
+```
+
+
+### 4.3 서버 필수 조건
+
+* SSH 접속 가능
+* 사용자 홈 디렉토리 쓰기 권한
+* 충분한 디스크 공간
+
+---
+
+## 5. 오프라인 설치 파일 준비
+
+### 5.1 인터넷 가능한 PC에서 파일 준비
+
+인터넷이 가능한 PC에서 서버용 vscode-server 압축 파일을 미리 다운로드합니다.
+
+사전에 확인한 COMMIT 값을 아래 주소에 대입하여 파일을 다운로드 합니다.
+
+[https://vscode.download.prss.microsoft.com/dbazure/download/stable/${COMMIT}/vscode-server-linux-x64.tar.gz](https://vscode.download.prss.microsoft.com/dbazure/download/stable/${COMMIT}/vscode-server-linux-x64.tar.gz)
+[https://vscode.download.prss.microsoft.com/dbazure/download/stable/${COMMIT}/vscode_cli_alpine_x64_cli.tar.gz](https://vscode.download.prss.microsoft.com/dbazure/download/stable/${COMMIT}/vscode_cli_alpine_x64_cli.tar.gz)
+
+아래 각각 파일명을 가진 압축파일이 다운로드 됩니다.
+vscode-server-linux-x64.tar.gz
+vscode-cli_alpine_x64_cli.tar.gz
+
+
+### 5.2 폐쇄망 서버로 파일 반입
+
+USB, 내부 파일 서버, 보안 승인된 전송 수단을 이용해 서버로 파일을 전달합니다.
+
+---
+
+## 6. 폐쇄망 서버에 VS Code Server 수동 설치
+
+### 6.1 최신 경로 기준 설치 방법
+
+다운로드 한 두 파일을 특정 폴더에 지정해서 넣어두고 아래의 스크립트를 실행합니다.
+
+``` bash
+COMMIT=COMMIT_ID # 여기에 자신의 VS Code Commit ID를 입력
+
+
+# 현재 디렉토리에 아래 두 파일이 존재한다고 가정
+# - vscode-server-linux-x64.tar.gz
+# - vscode-cli_alpine_x64_cli.tar.gz
+
+
+# 1. vscode-cli 압축 해제
+tar -xzf ./vscode-cli_alpine_x64_cli.tar.gz
+
+
+# 2. code 실행 파일을 Commit ID 기준으로 복사
+cp code ./vscode-server-code-${COMMIT}
+
+
+# 3. 최신 Remote-SSH에서 사용하는 서버 디렉토리 생성
+mkdir -p ~/.vscode-server/cli/servers/Stable-${COMMIT}/server
+
+
+# 4. vscode-server 파일 압축 해제
+tar -xzf ./vscode-server-linux-x64.tar.gz \
+-C ~/.vscode-server/cli/servers/Stable-${COMMIT}/server \
+--strip-components=1
+
+
+# 5. 권한 정리 (권한 문제로 인한 실패 방지)
+chmod -R 700 ~/.vscode-server
+
+```
+### 6.2 스크립트 설명
+
+- 1단계: vscode-cli 압축을 해제하여 code 실행 파일을 준비합니다.
+- 2단계: code 바이너리를 Commit ID 기준 이름으로 복사합니다.
+- 3단계: 최신 Remote-SSH가 인식하는 서버 설치 경로를 생성합니다.
+- 4단계: 서버용 VS Code 바이너리를 해당 경로에 압축 해제합니다.
+- 5단계: 퍼미션 문제로 인한 재설치 루프를 방지하기 위해 권한을 정리합니다.
+
+이 단계까지 완료되면, Remote-SSH가 서버에 추가 다운로드를 시도하지 않고 기존 파일을 사용하게 됩니다.
+
+
+---
+
+## 7. Remote-SSH 연결 확인
+
+### 7.1 VS Code에서 재접속
+
+설치가 완료되면 VS Code에서 Remote-SSH로 다시 접속을 시도합니다.
+
+### 7.2 정상 동작 여부 확인
+
+정상적으로 연결되었다면 연결 완료 후 아무 에러 없이 VS Code 창이 뜨는 걸 확인할 수 있습니다.
+
+---
+
+## 8. 자주 발생하는 문제와 해결 방법
+
+### 8.1 Commit ID 불일치
+
+VS Code가 업데이트되면 Commit ID가 변경되며, 기존 서버 파일이 재사용되지 않습니다.
+
+VS Code 업데이트를 진행하게 되면 위의 과정을 반복해주시면 됩니다.
+
+### 8.2 아키텍처 불일치
+
+서버 아키텍처와 다른 바이너리를 사용하는 경우 실행이 불가능합니다.
+
+### 8.3 퍼미션 및 홈 디렉토리 문제
+
+NFS 홈 디렉토리 또는 제한된 권한 환경에서는 추가 설정이 필요할 수 있습니다.
+
+---
+
+## 9. 운영 팁
+
+### 9.1 VS Code 업데이트 전략
+
+폐쇄망 환경에서는 VS Code 버전을 고정해 사용하는 것이 관리 측면에서 유리합니다.
+
+### 9.2 팀 단위 배포 전략
+
+미리 서버 바이너리를 패키징해 내부 배포용으로 관리하면 반복 작업을 줄일 수 있습니다.
+
+---
+
+## 10. 마무리
+
+본 글에서는 폐쇄망 환경에서 VS Code Remote-SSH를 오프라인으로 구성하는 방법을 살펴보았습니다.
+
+환경 제약으로 인해 번거로울 수 있지만, 한 번 구성해 두면 로컬과 동일한 개발 경험을 유지할 수 있습니다.
+
+폐쇄망 환경에서 개발 생산성을 유지해야 하는 분들께 이 글이 도움이 되기를 바랍니다.
+12:["$","$L1b",null,{"typeLabel":"TAG","breadcrumb":"tags › #remote","title":"#remote","desc":"\"remote\" 태그가 붙은 글 모음","posts":[{"slug":["vscode","vscode-ssh-remote-offline-network"],"slugPath":"vscode/vscode-ssh-remote-offline-network","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/vscode/vscode-ssh-remote-offline-network.md","frontmatter":{"title":"폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)","slug":"vscode-ssh-remote-offline-network","description":"폐쇄망에서 vscode ssh remote 하는 방법에 대해 설명합니다.","date":"2026-01-15 15:15:05","tags":["vs-code","remote","offline-network"],"category":"vscode","cover":"images/og.webp","draft":false},"content":"$1c"}],"basePath":"/tags/remote","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1b:I[6869,[],"IconMark"]
-1a:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1b","26",{}]]
+1d:I[6869,[],"IconMark"]
+1a:[["$","title","0",{"children":"#remote 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#remote 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1d","26",{}]]
 15:null

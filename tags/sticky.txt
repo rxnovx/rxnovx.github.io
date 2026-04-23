@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 11:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","sticky"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","sticky","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","sticky"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","sticky","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],"$L8","$L9"]}]]}],"$La","$Lb"]}]}]]}]}]]}],{"children":["$Lc",{"children":["$Ld",{"children":["$Le",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$Lf",[],[]],false,false],"$L10",false]],"m":"$undefined","G":["$11",[]],"S":true}
 13:I[484,[],"OutletBoundary"]
 14:"$Sreact.suspense"
 16:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -22,10 +22,270 @@ d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 e:["$","$1","c",{"children":["$L12",null,["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}]
 f:["$","$L16","l",{}]
 10:["$","$1","h",{"children":[null,["$","$L17",null,{"children":"$@18"}],["$","div",null,{"hidden":true,"children":["$","$L19",null,{"children":["$","$14",null,{"name":"Next.Metadata","children":"$@1a"}]}]}],null]}]
-12:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #sticky"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#sticky"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"sticky\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-8-file-system-permissions",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/linux/rocky-linux-series-8-file-system-permissions","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-8-file-system-permissions"}],["$","span",null,{"children":["· ","2026-01-27 22:17"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스 파일 시스템에서 소유자와 권한은 접근 제어의 출발점입니다.\n이 글에서는 chown, chmod, 숫자 권한 표기법부터 SUID·SGID·Sticky Bit까지 파일 접근 권한의 동작 원리를 정리합니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","permissions",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","permissions"]}],["$","span","chmod",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","chmod"]}],["$","span","chown",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","chown"]}],["$","span","suid",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","suid"]}],["$","span","sgid",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","sgid"]}],["$","span","sticky",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","sticky"]}],["$","span","bit",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","bit"]}],["$","span","file",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","file"]}],"$L1b","$L1c"]}]]}]}]]}]]}]
-1b:["$","span","system",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","system"]}]
-1c:["$","span","rocky",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","rocky"]}]
+1b:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1c:T1944,[[toc]]
+
+## 들어가기
+이전 글들에서는 리눅스에서 파일과 디렉터리를 다루는 방법을 중심으로 살펴봤습니다.
+이번 글에서는 그 파일과 디렉터리에 **누가, 무엇을, 어디까지 할 수 있는지**를 제어하는 핵심 개념인 **파일 시스템 권한(File System Permissions)** 을 정리합니다.
+
+리눅스는 기본적으로 멀티 유저 시스템입니다.
+혼자 쓰는 서버라 하더라도, 권한 개념은 보안과 안정성을 지탱하는 가장 기본적인 장치입니다.
+이 장은 이후 사용자 관리, 보안 설정, 서버 운영 전반의 토대가 됩니다.
+
+---
+
+## File Ownership
+
+리눅스의 모든 파일과 디렉터리는 **소유자(owner)** 와 **그룹(group)** 을 가집니다.
+권한 판단의 출발점은 항상 이 두 가지입니다.
+
+### chown : 파일의 소유자 및 그룹 변경
+
+`chown` 명령어는 파일 또는 디렉터리의 소유자와 그룹을 변경할 때 사용합니다.
+
+```bash
+chown [옵션] 소유자:그룹 대상
+```
+
+#### 기본 예제
+
+```bash
+# 소유자를 test 유저로 변경
+chown test /tmp/backup/susan
+
+# 그룹만 cloud로 변경
+chown :cloud /tmp/backup/susan
+
+# 소유자와 그룹을 동시에 변경
+chown hpe:cloud /tmp/backup/susan
+```
+
+#### 재귀적 변경 (-R)
+
+```bash
+# 하위 파일과 디렉터리까지 모두 변경
+chown -R hpe:cloud /tmp/backup/susan
+```
+
+운영 환경에서는 특정 디렉터리 트리 전체의 소유권을 변경해야 하는 경우가 많기 때문에 `-R` 옵션은 자주 사용됩니다.
+
+---
+
+## File and Directory Permissions
+
+권한(permission)은 **누가 무엇을 할 수 있는지**를 정의하는 규칙입니다.
+권한이 없다면 파일을 읽을 수도, 수정할 수도, 실행할 수도 없습니다.
+
+`ls -l` 또는 `ls -al` 명령을 실행하면 왼쪽에 10자리 문자열이 출력됩니다.
+
+```text
+drwxr-xr-x
+```
+
+이 문자열 안에 파일 타입과 권한 정보가 모두 들어 있습니다.
+
+---
+
+## 파일 타입 (첫 번째 문자)
+
+| 문자 | 의미                   |
+| -- | -------------------- |
+| d  | 디렉터리 (directory)     |
+| -  | 일반 파일 (regular file) |
+| l  | 심볼릭 링크               |
+| b  | 블록 디바이스              |
+| c  | 문자 디바이스              |
+| s  | 소켓                   |
+| p  | 네임드 파이프 (FIFO)       |
+
+### 보완 설명
+
+* **디렉터리(d)**
+
+  * 다른 파일을 담는 컨테이너
+  * `cd`, `ls` 명령의 대상
+* **일반 파일(-)**
+
+  * 텍스트, 바이너리, 실행 파일 포함
+* **심볼릭 링크(l)**
+
+  * 다른 파일이나 디렉터리를 가리키는 참조
+* **블록/문자 디바이스**
+
+  * `/dev` 아래에서 주로 확인
+* **소켓 / 파이프**
+
+  * 프로세스 간 통신 용도
+
+---
+
+## rwx 권한 구조
+
+```text
+drwxr-xr-x
+│ └── others
+│ └──── group
+└──────── owner
+```
+
+| 위치   | 의미                |
+| ---- | ----------------- |
+| 첫 글자 | 파일 타입             |
+| 1~3  | 소유자(owner) 권한     |
+| 4~6  | 그룹(group) 권한      |
+| 7~9  | 기타 사용자(others) 권한 |
+
+---
+
+## r / w / x 권한 의미
+
+| 권한 | 파일(File) | 디렉터리(Directory) |
+| -- | -------- | --------------- |
+| r  | 파일 내용 읽기 | 목록 조회(ls)       |
+| w  | 파일 수정    | 파일 생성·삭제·이름 변경  |
+| x  | 파일 실행    | 디렉터리 접근(cd)     |
+
+디렉터리에서 **삭제 권한은 파일이 아니라 상위 디렉터리의 w 권한**으로 결정된다는 점이 중요합니다.
+
+---
+
+## Permission 숫자 표기법 (Octal)
+
+리눅스 권한은 8진수로 표현할 수 있습니다.
+실무에서는 이 방식이 가장 많이 사용됩니다.
+
+### 기본 비트 값
+
+| 값 | 의미 |
+| - | -- |
+| 4 | r  |
+| 2 | w  |
+| 1 | x  |
+
+### 조합 예시
+
+| 숫자 | 권한  | 의미       |
+| -- | --- | -------- |
+| 7  | rwx | 읽기·쓰기·실행 |
+| 6  | rw- | 읽기·쓰기    |
+| 5  | r-x | 읽기·실행    |
+| 4  | r-- | 읽기       |
+| 0  | --- | 없음       |
+
+### 3자리 권한 예시
+
+| 숫자  | 의미                |
+| --- | ----------------- |
+| 755 | 소유자 전체, 나머지 읽기·실행 |
+| 700 | 소유자만 접근           |
+| 644 | 일반 파일 기본값         |
+| 777 | 모두 전체 권한 (주의 필요)  |
+
+---
+
+## chmod : 권한 변경
+
+### 숫자 방식
+
+```bash
+chmod 644 file.txt
+chmod 755 script.sh
+```
+
+### 문자 방식
+
+```bash
+chmod u+x file
+chmod g-w file
+chmod o=r file
+chmod a+rx file
+```
+
+| 대상 | 의미     |
+| -- | ------ |
+| u  | 소유자    |
+| g  | 그룹     |
+| o  | 기타 사용자 |
+| a  | 전체     |
+
+---
+
+## 디렉터리 삭제 권한 실습 개념
+
+파일을 삭제할 수 있는지는 **파일 권한이 아니라 디렉터리 권한**으로 판단됩니다.
+
+쓰기(w) 권한이 없는 디렉터리에서는 파일을 생성하거나 삭제할 수 없습니다.
+이 개념은 보안 사고에서 매우 중요하게 작용합니다.
+
+---
+
+## SUID / SGID / Sticky Bit
+
+일반적인 rwx 권한 외에, **권한 동작 자체를 변경하는 특수 퍼미션**이 존재합니다.
+
+| 비트         | 의미                  |
+| ---------- | ------------------- |
+| SUID       | 실행 시 파일 소유자 권한으로 실행 |
+| SGID       | 실행 시 파일 그룹 권한으로 실행  |
+| Sticky Bit | 공용 디렉터리 보호          |
+
+### 대표 예시
+
+```bash
+-rwsr-xr-x /bin/passwd
+drwxrwxrwt /tmp
+```
+
+### SUID
+
+* 실행한 사용자가 누구든 **파일 소유자 권한**으로 실행
+* 대표 사례: `passwd`
+
+### SGID
+
+* 실행 시 파일의 **그룹 권한**으로 동작
+* 디렉터리에 적용 시 하위 파일이 동일 그룹을 상속
+
+### Sticky Bit
+
+* 공용 디렉터리에서 파일 삭제 제한
+* 본인 소유 파일만 삭제 가능
+
+---
+
+## 특수 퍼미션 설정 방법
+
+### 문자 방식
+
+```bash
+chmod u+s file   # SUID
+chmod g+s file   # SGID
+chmod o+t dir    # Sticky Bit
+```
+
+### 숫자 방식
+
+| 값    | 의미         |
+| ---- | ---------- |
+| 4xxx | SUID       |
+| 2xxx | SGID       |
+| 1xxx | Sticky Bit |
+
+```bash
+chmod 4755 file
+chmod 2770 dir
+chmod 1777 /tmp
+```
+
+---
+
+## 마무리
+
+파일 시스템 권한은 단순한 문법이 아니라, **리눅스 보안 모델의 핵심**입니다.
+이 개념을 정확히 이해하지 못하면 사용자 관리, 서비스 운영, 보안 설정 모두 흔들릴 수 있습니다.
+12:["$","$L1b",null,{"typeLabel":"TAG","breadcrumb":"tags › #sticky","title":"#sticky","desc":"\"sticky\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-8-file-system-permissions"],"slugPath":"linux/rocky-linux-series-8-file-system-permissions","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-8-file-system-permissions.md","frontmatter":{"title":"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)","slug":"rocky-linux-series-8-file-system-permissions","description":"리눅스 파일 시스템에서 소유자와 권한은 접근 제어의 출발점입니다.\n이 글에서는 chown, chmod, 숫자 권한 표기법부터 SUID·SGID·Sticky Bit까지 파일 접근 권한의 동작 원리를 정리합니다.","date":"2026-01-27 22:17","tags":["linux","permissions","chmod","chown","suid","sgid","sticky","bit","file","system","rocky"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-8-file-system-permissions/og/1769520179547-image.webp","draft":false},"content":"$1c"}],"basePath":"/tags/sticky","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 18:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 1d:I[6869,[],"IconMark"]
-1a:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1d","26",{}]]
+1a:[["$","title","0",{"children":"#sticky 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#sticky 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1d","26",{}]]
 15:null

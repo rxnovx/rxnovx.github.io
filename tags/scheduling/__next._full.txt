@@ -4,10 +4,10 @@
 4:I[7121,[],""]
 5:I[4581,[],""]
 6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-559bcdd2c2fe3233.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-cb2054a8ed72bedb.js"],""]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","864","static/chunks/app/(blog)/tags/page-3e554f7a59d20832.js"],""]
 12:I[7123,[],""]
-:HL["/_next/static/css/a5c321cd2e78683d.css","style"]
-0:{"P":null,"b":"NvtiHDoIDVMynshd6FiOq","c":["","tags","scheduling"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","scheduling","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a5c321cd2e78683d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":"$L8"}],"$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+:HL["/_next/static/css/5ea600c292acd719.css","style"]
+0:{"P":null,"b":"O8Nqs8Mm86QYs2k_WaTdZ","c":["","tags","scheduling"],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["tags",{"children":[["tag","scheduling","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5ea600c292acd719.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-2 md:px-4 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-xl border border-[var(--border)] bg-[var(--background)] text-sm font-bold text-[var(--accent)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":"$L8"}],"$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
 17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -23,8 +23,222 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-13:["$","div",null,{"className":"mx-auto max-w-5xl w-full space-y-6","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"TAG"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"tags › #scheduling"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"#scheduling"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"\"scheduling\" 태그 글 목록"}],false,["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","ul",null,{"className":"space-y-4","children":[["$","li","linux/rocky-linux-series-13-schedule-future-tasks",{"className":"border border-[var(--border)] bg-[var(--surface)] p-6 shadow-sm transition hover:border-[var(--primary)]","children":["$","$L7",null,{"href":"/post/linux/rocky-linux-series-13-schedule-future-tasks","className":"block","children":[["$","div",null,{"className":"mb-2 flex flex-wrap items-center gap-2 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"children":"linux › rocky-linux-series-13-schedule-future-tasks"}],["$","span",null,{"children":["· ","2026-01-28 21:21"]}]]}],["$","h2",null,{"className":"text-xl font-bold leading-snug text-[var(--foreground)]","children":["리눅스 배우기 #13 – 작업 스케줄링과 자동 실행 (cron · at · anacron)"," ",false]}],["$","p",null,{"className":"mt-2 text-sm text-[var(--text-muted)]","children":"리눅스에서 반복 작업과 예약 작업을 자동화하는 방법을 정리합니다.\ncron, at, anacron의 차이와 역할을 살펴보고, crontab 문법과 실무에서 자주 사용하는 설정 흐름을 정리했습니다."}],["$","div",null,{"className":"mt-4 flex flex-wrap gap-2","children":[["$","span","linux",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","cron",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","cron"]}],["$","span","crontab",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","crontab"]}],["$","span","scheduling",{"className":"border px-3 py-1 text-xs transition border-[var(--primary)] bg-[var(--secondary)] text-[var(--foreground)]","children":["#","scheduling"]}],["$","span","task",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","task"]}],["$","span","scheduler",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","scheduler"]}],["$","span","allow",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","allow"]}],["$","span","deny",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","deny"]}],["$","span","anacron",{"className":"border px-3 py-1 text-xs transition border-[var(--border)] bg-[var(--background)] text-[var(--foreground)] hover:border-[var(--primary)]","children":["#","anacron"]}]]}]]}]}]]}]]}]
+1c:I[9677,["500","static/chunks/500-b84d19d842172eba.js","873","static/chunks/app/(blog)/tags/%5Btag%5D/page-b80736597d64b8e7.js"],"TaxonomyPageShell"]
+1d:T16c8,[[toc]]
+
+## 들어가기
+
+리눅스를 사용하다 보면 **정해진 시간에 반복 작업을 실행해야 하는 상황**을 자주 만나게 됩니다.
+백업 스크립트, 로그 정리, 임시 파일 삭제, 주기적인 상태 점검 등이 대표적입니다.
+
+이런 작업을 매번 사람이 직접 실행하는 것은 비효율적입니다.
+리눅스에서는 이를 위해 **작업 스케줄링 서비스**를 제공합니다.
+
+이번 글에서는 리눅스에서 가장 많이 사용되는 스케줄링 도구인 **cron**, 그리고 보조적으로 사용되는 **at**, **anacron**의 역할과 사용 흐름을 정리합니다.
+실무에서 자주 사용하는 cron을 중심으로 설명합니다.
+
+---
+
+## 리눅스 작업 스케줄링 도구 개요
+
+리눅스에서 사용하는 대표적인 스케줄링 서비스는 다음과 같습니다.
+
+* **cron** : 주기적으로 반복 실행되는 작업
+* **at** : 한 번만 실행되는 예약 작업
+* **anacron** : 시스템이 꺼져 있어도 실행 보장이 필요한 작업
+
+이 중에서 **cron이 가장 많이 사용**됩니다.
+서버 환경에서는 사실상 표준이라고 봐도 무방합니다.
+
+---
+
+## CRON 이란
+
+cron은 **정해진 시간 규칙에 따라 명령이나 스크립트를 실행**하는 데몬 서비스입니다.
+백그라운드에서 항상 동작하며, 설정된 작업이 있으면 해당 시점에 실행합니다.
+
+### cron 사용 제한 정책
+
+cron은 아무 사용자나 사용할 수 없습니다.
+시스템 관리자가 허용한 사용자만 cron을 사용할 수 있도록 제한할 수 있습니다.
+
+이때 사용되는 파일이 다음 두 가지입니다.
+
+* `/etc/cron.allow`
+* `/etc/cron.deny`
+
+동작 규칙은 다음과 같습니다.
+
+* `cron.allow` 파일이 **존재하면**
+
+  * root 사용자와 `cron.allow`에 등록된 사용자만 cron 사용 가능
+  * `cron.deny` 파일은 무시됨
+* `cron.allow` 파일이 **존재하지 않고** `cron.deny`만 있으면
+
+  * `cron.deny`에 등록된 사용자는 cron 사용 불가
+  * 나머지 사용자는 사용 가능
+
+보안이 중요한 시스템에서는 보통 `cron.allow` 파일을 사용하여
+허용된 사용자만 명확하게 관리합니다.
+
+---
+
+## Crontab 이란
+
+cron 작업은 **crontab(cron table)** 이라는 설정 파일에 등록됩니다.
+각 사용자는 자신의 crontab을 가질 수 있으며,
+cron 데몬은 이를 읽어 작업을 수행합니다.
+
+### crontab 명령어
+
+crontab을 관리하기 위한 기본 명령어는 다음과 같습니다.
+
+* 현재 등록된 cron 작업 확인
+
+```bash
+crontab -l
+```
+
+* cron 작업 편집
+
+```bash
+crontab -e
+```
+
+* cron 작업 전체 삭제
+
+```bash
+crontab -r
+```
+
+* 파일로 작성한 cron 설정 등록
+
+```bash
+crontab filename
+```
+
+실무에서는 보통 `crontab -e`를 가장 많이 사용합니다.
+
+---
+
+## 크론탭 문법 이해하기
+
+crontab의 핵심은 **시간 필드 문법**입니다.
+형식은 다음과 같습니다.
+
+```
+분 시 일 월 요일 명령어
+```
+
+이를 풀어서 보면 다음과 같습니다.
+
+```
+*  *  *  *  *  command
+┬  ┬  ┬  ┬  ┬
+│  │  │  │  └─ 요일 (0-7 = 일요일, 1 = 월요일)
+│  │  │  └──── 월 (1-12)
+│  │  └─────── 일 (1-31)
+│  └────────── 시 (0-23)
+└───────────── 분 (0-59)
+```
+
+### 자주 사용하는 예제
+
+* 매일 새벽 3시 30분에 실행
+
+```bash
+30 3 * * * /usr/local/bin/backup.sh
+```
+
+* 5분마다 실행
+
+```bash
+*/5 * * * * /usr/local/bin/job.sh
+```
+
+* 매주 월요일 오전 9시에 실행
+
+```bash
+0 9 * * 1 /usr/local/bin/weekly.sh
+```
+
+### 특수 표현
+
+* `*` : 모든 값
+* `*/5` : 5 단위(step)마다
+* `1-5` : 1부터 5까지(range)
+
+이 조합만 익혀도 대부분의 cron 작업을 작성할 수 있습니다.
+
+---
+
+## cron 사용 시 주의할 점
+
+cron 환경은 **일반 쉘과 다르다**는 점을 반드시 인지해야 합니다.
+
+* PATH 환경 변수가 제한적임
+* 상대 경로 사용 시 오류 발생 가능
+* 실행 파일은 절대 경로로 지정하는 것이 안전함
+
+따라서 cron에서는 다음과 같은 습관이 중요합니다.
+
+* 명령어와 스크립트는 **절대 경로 사용**
+* 필요한 환경 변수는 스크립트 내부에서 직접 설정
+* 로그 출력을 통해 실행 여부 확인
+
+---
+
+## at 명령어
+
+`at`은 **한 번만 실행되는 예약 작업**을 등록할 때 사용합니다.
+
+예를 들어, 특정 시각에 한 번만 스크립트를 실행해야 할 때 적합합니다.
+
+```bash
+at 23:00
+at> /usr/local/bin/oneshot.sh
+at> Ctrl+D
+```
+
+반복 실행에는 적합하지 않으며,
+주기적인 작업에는 cron을 사용합니다.
+
+---
+
+## Anacron 이란
+
+anacron은 **항상 켜져 있지 않은 시스템**을 위한 스케줄러입니다.
+
+서버와 달리 노트북이나 개인 PC는
+정해진 시간에 꺼져 있는 경우가 많습니다.
+이 경우 cron 작업은 실행되지 않고 그대로 놓치게 됩니다.
+
+anacron은 이러한 문제를 보완합니다.
+
+### anacron의 특징
+
+* 시스템이 꺼져 있던 동안 **놓친 작업을 부팅 후 실행**
+* 하루 단위 이상의 작업만 지원 (분, 시간 단위 불가)
+* root 권한으로 동작
+* 시스템 전역 작업에 사용
+
+로그 정리, 주간 백업처럼
+"반드시 하루에 한 번 이상 실행되어야 하는 작업"에 적합합니다.
+
+---
+
+## 마치며
+
+cron은 리눅스 시스템 관리에서 반드시 익혀야 할 핵심 도구입니다.
+
+처음에는 문법이 다소 복잡하게 느껴질 수 있지만,
+몇 가지 패턴만 익히면 반복 작업 관리가 훨씬 수월해집니다.
+
+cron, at, anacron의 역할을 구분해서 사용한다면
+시스템 작업을 보다 안정적으로 운영할 수 있습니다.
+
+13:["$","$L1c",null,{"typeLabel":"TAG","breadcrumb":"tags › #scheduling","title":"#scheduling","desc":"\"scheduling\" 태그가 붙은 글 모음","posts":[{"slug":["linux","rocky-linux-series-13-schedule-future-tasks"],"slugPath":"linux/rocky-linux-series-13-schedule-future-tasks","filePath":"/data/data/com.termux/files/home/workspace/rxnovx.github.io-origin/src/_posts/linux/rocky-linux-series-13-schedule-future-tasks.md","frontmatter":{"title":"리눅스 배우기 #13 – 작업 스케줄링과 자동 실행 (cron · at · anacron)","slug":"rocky-linux-series-13-schedule-future-tasks","description":"리눅스에서 반복 작업과 예약 작업을 자동화하는 방법을 정리합니다.\ncron, at, anacron의 차이와 역할을 살펴보고, crontab 문법과 실무에서 자주 사용하는 설정 흐름을 정리했습니다.","date":"2026-01-28 21:21","tags":["linux","cron","crontab","scheduling","task","scheduler","allow","deny","anacron"],"category":"linux","cover":"/images/_posts/linux/rocky-linux-series-13-schedule-future-tasks/og/1769603208179-image.webp","draft":false},"content":"$1d"}],"basePath":"/tags/scheduling","emptyHref":"/tags","emptyLabel":"태그 전체 보기","relatedFilters":[{"label":"linux","href":"/tags/linux","active":false,"prefix":"#"},{"label":"rocky-linux","href":"/tags/rocky-linux","active":false,"prefix":"#"},{"label":"rhel","href":"/tags/rhel","active":false,"prefix":"#"},{"label":"termux","href":"/tags/termux","active":false,"prefix":"#"},{"label":"android","href":"/tags/android","active":false,"prefix":"#"},{"label":"rocky","href":"/tags/rocky","active":false,"prefix":"#"},{"label":"network","href":"/tags/network","active":false,"prefix":"#"},{"label":"systemd","href":"/tags/systemd","active":false,"prefix":"#"},{"label":"system","href":"/tags/system","active":false,"prefix":"#"},{"label":"linux-basics","href":"/tags/linux-basics","active":false,"prefix":"#"},{"label":"code-server","href":"/tags/code-server","active":false,"prefix":"#"},{"label":"vscode","href":"/tags/vscode","active":false,"prefix":"#"}]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-1c:I[6869,[],"IconMark"]
-1b:[["$","title","0",{"children":"RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Dev ・ Notes"}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1c","26",{}]]
+1e:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"#scheduling 태그 글 모음 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"#scheduling 태그가 포함된 포스트 아카이브 페이지입니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","8",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","9",{"rel":"canonical","href":"https://rxnovx.github.io"}],["$","meta","10",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","11",{"property":"og:title","content":"RxNovx Blog"}],["$","meta","12",{"property":"og:description","content":"Dev ・ Notes"}],["$","meta","13",{"property":"og:url","content":"https://rxnovx.github.io"}],["$","meta","14",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","15",{"property":"og:locale","content":"ko_KR"}],["$","meta","16",{"property":"og:image","content":"https://rxnovx.github.io/images/og.webp"}],["$","meta","17",{"property":"og:image:width","content":"1200"}],["$","meta","18",{"property":"og:image:height","content":"630"}],["$","meta","19",{"property":"og:image:alt","content":"RxNovx Blog Open Graph Image"}],["$","meta","20",{"property":"og:type","content":"website"}],["$","meta","21",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","22",{"name":"twitter:title","content":"RxNovx Blog"}],["$","meta","23",{"name":"twitter:description","content":"Dev ・ Notes"}],["$","meta","24",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","25",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L1e","26",{}]]
 16:null
