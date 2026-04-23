@@ -3,7 +3,7 @@
 6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-3:T4e75,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#소프트웨어-패키지-매니저의-등장-배경">소프트웨어 패키지 매니저의 등장 배경 </a></li><li><a href="#유닉스와-리눅스의-패키징-계열">유닉스와 리눅스의 패키징 계열 </a><ul><li><a href="#unix-계열">Unix 계열 </a></li><li><a href="#linux-계열">Linux 계열 </a><ul><li><a href="#slackware">Slackware </a></li><li><a href="#debian-계열">Debian 계열 </a></li><li><a href="#red-hat-계열">Red Hat 계열 </a></li></ul></li></ul></li><li><a href="#rpm-패키지-파일-구조">RPM 패키지 파일 구조 </a><ul><li><a href="#네이밍-규칙">네이밍 규칙 </a></li><li><a href="#아키텍처-구분">아키텍처 구분 </a></li><li><a href="#내부-포맷">내부 포맷 </a></li></ul></li><li><a href="#rpm-명령어로-패키지-상태-확인하기">rpm 명령어로 패키지 상태 확인하기 </a></li><li><a href="#패키지를-직접-내려받아-설치해보기">패키지를 직접 내려받아 설치해보기 </a></li><li><a href="#rpm-패키지-삭제">rpm 패키지 삭제 </a></li><li><a href="#의존성-문제와-패키지-매니저의-역할">의존성 문제와 패키지 매니저의 역할 </a></li><li><a href="#yum--dnf-주요-명령어">YUM &amp; DNF 주요 명령어 </a></li><li><a href="#repository-개념-이해하기">Repository 개념 이해하기 </a><ul><li><a href="#저장소-설정-파일-예시">저장소 설정 파일 예시 </a></li></ul></li><li><a href="#epel-저장소">EPEL 저장소 </a></li><li><a href="#폐쇄망-환경에서-repository-구성하기">폐쇄망 환경에서 Repository 구성하기 </a><ul><li><a href="#기본-흐름">기본 흐름 </a></li><li><a href="#저장소-등록">저장소 등록 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><hr>
+3:T4bf5,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#소프트웨어-패키지-매니저의-등장-배경">소프트웨어 패키지 매니저의 등장 배경 </a></li><li><a href="#유닉스와-리눅스의-패키징-계열">유닉스와 리눅스의 패키징 계열 </a><ul><li><a href="#unix-계열">Unix 계열 </a></li><li><a href="#linux-계열">Linux 계열 </a><ul><li><a href="#slackware">Slackware </a></li><li><a href="#debian-계열">Debian 계열 </a></li><li><a href="#red-hat-계열">Red Hat 계열 </a></li></ul></li></ul></li><li><a href="#rpm-패키지-파일-구조">RPM 패키지 파일 구조 </a><ul><li><a href="#네이밍-규칙">네이밍 규칙 </a></li><li><a href="#아키텍처-구분">아키텍처 구분 </a></li><li><a href="#내부-포맷">내부 포맷 </a></li></ul></li><li><a href="#rpm-명령어로-패키지-상태-확인하기">rpm 명령어로 패키지 상태 확인하기 </a></li><li><a href="#패키지를-직접-내려받아-설치해보기">패키지를 직접 내려받아 설치해보기 </a></li><li><a href="#rpm-패키지-삭제">rpm 패키지 삭제 </a></li><li><a href="#의존성-문제와-패키지-매니저의-역할">의존성 문제와 패키지 매니저의 역할 </a></li><li><a href="#yum--dnf-주요-명령어">YUM &amp; DNF 주요 명령어 </a></li><li><a href="#repository-개념-이해하기">Repository 개념 이해하기 </a><ul><li><a href="#저장소-설정-파일-예시">저장소 설정 파일 예시 </a></li></ul></li><li><a href="#epel-저장소">EPEL 저장소 </a></li><li><a href="#폐쇄망-환경에서-repository-구성하기">폐쇄망 환경에서 Repository 구성하기 </a><ul><li><a href="#기본-흐름">기본 흐름 </a></li><li><a href="#저장소-등록">저장소 등록 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><hr>
 <h2 id="들어가기" tabindex="-1" data-src-line="4">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>예전의 리눅스 환경에서는 프로그램을 사용하려면 소스 코드를 직접 내려받아 컴파일하는 과정이 일반적이었습니다.<br>
 이 방식은 유연하고 강력했지만, 컴파일 환경을 갖추기 어렵거나 빌드 과정 자체가 부담이 되는 사용자에게는 진입 장벽이 높았습니다.</p>
@@ -91,7 +91,7 @@
 <h2 id="rpm-패키지-파일-구조" tabindex="-1" data-src-line="88">RPM 패키지 파일 구조 <a class="header-anchor" href="#rpm-패키지-파일-구조" aria-hidden="true">#</a></h2>
 <h3 id="네이밍-규칙" tabindex="-1" data-src-line="90">네이밍 규칙 <a class="header-anchor" href="#네이밍-규칙" aria-hidden="true">#</a></h3>
 <p>RPM 패키지 파일명은 다음과 같은 형식을 따릅니다.</p>
-<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>이름-버전-릴리즈.아키텍처<span class="hljs-string">.rpm</span>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">이름-버전-릴리즈.아키텍처.rpm
 </code></pre></div></code></pre>
 <p>파일명만 보더라도 다음 정보를 유추할 수 있습니다.</p>
 <ul>
@@ -159,20 +159,20 @@
 <h2 id="rpm-명령어로-패키지-상태-확인하기" tabindex="-1" data-src-line="150">rpm 명령어로 패키지 상태 확인하기 <a class="header-anchor" href="#rpm-명령어로-패키지-상태-확인하기" aria-hidden="true">#</a></h2>
 <p>RPM은 저수준(low-level) 패키지 관리 도구입니다.<br>
 의존성을 자동으로 해결하지는 않지만, 설치 상태를 정확히 조회하는 데 매우 유용합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>rpm -qa                <span class="hljs-comment"># 설치된 전체 패키지 목록</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">rpm -qa                <span class="hljs-comment"># 설치된 전체 패키지 목록</span>
 rpm -ql package_name   <span class="hljs-comment"># 특정 패키지가 설치한 파일 목록</span>
-rpm -qf <span class="hljs-regexp">/usr/</span>bin/ls    <span class="hljs-comment"># 해당 파일을 제공하는 패키지 확인</span>
+rpm -qf /usr/bin/ls    <span class="hljs-comment"># 해당 파일을 제공하는 패키지 확인</span>
 </code></pre></div></code></pre>
 <p>실무에서는 <code>rpm -qa | grep 패키지명</code> 형태로 자주 사용합니다.</p>
 <hr>
 <h2 id="패키지를-직접-내려받아-설치해보기" tabindex="-1" data-src-line="165">패키지를 직접 내려받아 설치해보기 <a class="header-anchor" href="#패키지를-직접-내려받아-설치해보기" aria-hidden="true">#</a></h2>
 <p>공식 저장소를 사용하지 않고, RPM 파일을 직접 설치할 수도 있습니다.</p>
 <p>예를 들어 <code>rpmfind.net</code> 사이트에서 패키지를 검색한 뒤 다음과 같이 설치할 수 있습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">wget</span> https://rpmfind.net/linux/centos-stream/<span class="hljs-number">10</span>-stream/BaseOS/x86_64/os/Packages/zsh-<span class="hljs-number">5</span>.<span class="hljs-number">9</span>-<span class="hljs-number">15</span>.el10.x86_64.rpm
-<span class="hljs-attribute">wget</span> https://rpmfind.net/linux/centos-stream/<span class="hljs-number">10</span>-stream/AppStream/x86_64/os/Packages/git-<span class="hljs-number">2</span>.<span class="hljs-number">52</span>.<span class="hljs-number">0</span>-<span class="hljs-number">1</span>.el10.x86_64.rpm
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">wget https://rpmfind.net/linux/centos-stream/10-stream/BaseOS/x86_64/os/Packages/zsh-5.9-15.el10.x86_64.rpm
+wget https://rpmfind.net/linux/centos-stream/10-stream/AppStream/x86_64/os/Packages/git-2.52.0-1.el10.x86_64.rpm
 
-<span class="hljs-attribute">rpm</span> -Uvh zsh-<span class="hljs-number">5</span>.<span class="hljs-number">9</span>-<span class="hljs-number">15</span>.el10.x86_64.rpm
-<span class="hljs-attribute">rpm</span> -Uvh git-<span class="hljs-number">2</span>.<span class="hljs-number">52</span>.<span class="hljs-number">0</span>-<span class="hljs-number">1</span>.el10.x86_64.rpm
+rpm -Uvh zsh-5.9-15.el10.x86_64.rpm
+rpm -Uvh git-2.52.0-1.el10.x86_64.rpm
 </code></pre></div></code></pre>
 <ul>
 <li><code>-U</code> : 업그레이드 또는 신규 설치</li>
@@ -183,7 +183,7 @@ rpm -qf <span class="hljs-regexp">/usr/</span>bin/ls    <span class="hljs-commen
 이 불편함을 해결하기 위해 등장한 것이 <code>yum</code>과 <code>dnf</code>입니다.</p>
 <hr>
 <h2 id="rpm-패키지-삭제" tabindex="-1" data-src-line="188">rpm 패키지 삭제 <a class="header-anchor" href="#rpm-패키지-삭제" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">rpm</span> -e 패키지명
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">rpm -e 패키지명
 </code></pre></div></code></pre>
 <p>의존성 검사는 수행하지 않으므로, 시스템 패키지를 제거할 때는 주의가 필요합니다.</p>
 <hr>
@@ -198,7 +198,7 @@ rpm -qf <span class="hljs-regexp">/usr/</span>bin/ls    <span class="hljs-commen
 </ul>
 <hr>
 <h2 id="yum--dnf-주요-명령어" tabindex="-1" data-src-line="211">YUM &amp; DNF 주요 명령어 <a class="header-anchor" href="#yum--dnf-주요-명령어" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>dnf search keyword        <span class="hljs-comment"># 패키지 검색</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">dnf search keyword        <span class="hljs-comment"># 패키지 검색</span>
 dnf install package       <span class="hljs-comment"># 설치 또는 업데이트</span>
 dnf remove package        <span class="hljs-comment"># 제거</span>
 dnf repolist              <span class="hljs-comment"># 활성화된 저장소 목록</span>
@@ -215,7 +215,7 @@ dnf undo 13               <span class="hljs-comment"># 트랜잭션 되돌리기
 <code>dnf</code>는 이 저장소 정보를 기반으로 패키지를 검색하고 내려받습니다.</p>
 <h3 id="저장소-설정-파일-예시" tabindex="-1" data-src-line="234">저장소 설정 파일 예시 <a class="header-anchor" href="#저장소-설정-파일-예시" aria-hidden="true">#</a></h3>
 <p><code>/etc/yum.repos.d/rocky.repo</code></p>
-<pre><code class="language-ini"><div class="code-block"><div class="code-header"><span class="code-title">ini</span><button class="copy-button">Copy</button></div><pre class="language-ini"><code><span class="hljs-section">[appstream]</span>
+<pre><code class="language-ini"><div class="code-block"><div class="code-header"><span class="code-title">ini</span><button class="copy-button">Copy</button></div><pre class="language-ini"><code class="hljs language-ini"><span class="hljs-section">[appstream]</span>
 <span class="hljs-attr">name</span>=Rocky Linux <span class="hljs-variable">$releasever</span> - AppStream
 <span class="hljs-attr">mirrorlist</span>=https://mirrors.rockylinux.org/mirrorlist?arch=<span class="hljs-variable">$basearch</span>&amp;repo=AppStream-<span class="hljs-variable">$releasever</span><span class="hljs-variable">$rltype</span>
 <span class="hljs-attr">gpgcheck</span>=<span class="hljs-number">1</span>
@@ -227,21 +227,21 @@ dnf undo 13               <span class="hljs-comment"># 트랜잭션 되돌리기
 <hr>
 <h2 id="epel-저장소" tabindex="-1" data-src-line="252">EPEL 저장소 <a class="header-anchor" href="#epel-저장소" aria-hidden="true">#</a></h2>
 <p>EPEL(Extra Packages for Enterprise Linux)은 RHEL 계열에서 기본 저장소에 포함되지 않은 패키지를 제공합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>dnf install https:<span class="hljs-regexp">//</span>dl.fedoraproject.org<span class="hljs-regexp">/pub/</span>epel/epel-release-latest-<span class="hljs-number">10</span>.noarch.rpm
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-10.noarch.rpm
 </code></pre></div></code></pre>
 <p>서버 환경에서 자주 사용하는 유틸리티들이 다수 포함되어 있습니다.</p>
 <hr>
 <h2 id="폐쇄망-환경에서-repository-구성하기" tabindex="-1" data-src-line="264">폐쇄망 환경에서 Repository 구성하기 <a class="header-anchor" href="#폐쇄망-환경에서-repository-구성하기" aria-hidden="true">#</a></h2>
 <p>외부 인터넷이 차단된 환경에서는 자체 저장소 구성이 필요합니다.</p>
 <h3 id="기본-흐름" tabindex="-1" data-src-line="268">기본 흐름 <a class="header-anchor" href="#기본-흐름" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">cp</span> *.rpm /src/repository
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">cp</span> *.rpm /src/repository
 createrepo /src/repository
 </code></pre></div></code></pre>
 <p><code>createrepo</code>는 RPM 메타데이터를 생성하여 저장소로 인식할 수 있게 합니다.</p>
 <h3 id="저장소-등록" tabindex="-1" data-src-line="277">저장소 등록 <a class="header-anchor" href="#저장소-등록" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>dnf config-manager --add-repo http:<span class="hljs-comment">//server1.example.com/RHEL8</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">dnf config-manager --add-repo http://server1.example.com/RHEL8
 </code></pre></div></code></pre>
-<pre><code class="language-ini"><div class="code-block"><div class="code-header"><span class="code-title">ini</span><button class="copy-button">Copy</button></div><pre class="language-ini"><code><span class="hljs-section">[server1.example.com_RHEL8]</span>
+<pre><code class="language-ini"><div class="code-block"><div class="code-header"><span class="code-title">ini</span><button class="copy-button">Copy</button></div><pre class="language-ini"><code class="hljs language-ini"><span class="hljs-section">[server1.example.com_RHEL8]</span>
 <span class="hljs-attr">name</span>=created by dnf config-manager from http://server1.example.com/RHEL8
 <span class="hljs-attr">baseurl</span>=http://server1.example.com/RHEL8
 <span class="hljs-attr">enabled</span>=<span class="hljs-number">1</span>
@@ -253,7 +253,7 @@ createrepo /src/repository
 <p>패키지 관리 시스템은 리눅스 운영의 핵심 요소입니다.<br>
 단순히 설치 명령어를 외우는 것보다, <strong>왜 이런 구조가 되었는지</strong>를 이해하는 것이 중요합니다.</p>
 <p>이번 글에서는 RPM 기반 시스템을 중심으로 패키지 설치와 업데이트 흐름을 정리했습니다.</p>
-0:{"buildId":"XUCt0thr6T7HFt8mupGNW","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-14-linux-package-management-rpm-dnf"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #14 – 소프트웨어 패키지 설치와 업데이트 (RPM · DNF · Repository)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"리눅스에서 소프트웨어를 설치하고 업데이트하는 방식은 배포판마다 다릅니다. 이 글에서는 RPM 기반 리눅스를 중심으로 패키지 관리의 배경부터 rpm, dnf 명령어, repository 구조, EPEL과 폐쇄망 저장소 구성까지 정리합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 28."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rocky"]}],["$","span","package",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","package"]}],["$","span","management",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","management"]}],["$","span","rpm",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rpm"]}],["$","span","dnf",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","dnf"]}],["$","span","yum",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","yum"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+0:{"buildId":"YjH8iMldwmGtbOoKwXbgY","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-14-linux-package-management-rpm-dnf"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #14 – 소프트웨어 패키지 설치와 업데이트 (RPM · DNF · Repository)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"리눅스에서 소프트웨어를 설치하고 업데이트하는 방식은 배포판마다 다릅니다. 이 글에서는 RPM 기반 리눅스를 중심으로 패키지 관리의 배경부터 rpm, dnf 명령어, repository 구조, EPEL과 폐쇄망 저장소 구성까지 정리합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 28."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","rocky",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rocky"]}],["$","span","package",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","package"]}],["$","span","management",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","management"]}],["$","span","rpm",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rpm"]}],["$","span","dnf",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","dnf"]}],["$","span","yum",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","yum"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

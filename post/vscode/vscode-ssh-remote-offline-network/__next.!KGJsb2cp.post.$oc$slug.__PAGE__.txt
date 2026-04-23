@@ -3,7 +3,7 @@
 6:I[484,[],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-3:T4b58,<h1 id="폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" tabindex="-1" data-src-line="0">폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드) <a class="header-anchor" href="#폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" aria-hidden="true">#</a></h1>
+3:T4ab6,<h1 id="폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" tabindex="-1" data-src-line="0">폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드) <a class="header-anchor" href="#폐쇄망-환경에서-vs-code-remote-ssh-사용하기-오프라인-설치-가이드" aria-hidden="true">#</a></h1>
 <h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>안녕하세요.<br>
 오늘은 <strong>폐쇄망 환경에서 VS Code Remote-SSH를 사용하는 방법</strong>에 대해 알아보겠습니다.</p>
@@ -71,13 +71,13 @@
 <h2 id="3-최근-vs-code--remote-ssh의-변경점" tabindex="-1" data-src-line="90">3. 최근 VS Code / Remote-SSH의 변경점 <a class="header-anchor" href="#3-최근-vs-code--remote-ssh의-변경점" aria-hidden="true">#</a></h2>
 <h3 id="31-기존-방식-vscode-serverbincommit" tabindex="-1" data-src-line="92">3.1 기존 방식: <code>~/.vscode-server/bin/&lt;commit&gt;</code> <a class="header-anchor" href="#31-기존-방식-vscode-serverbincommit" aria-hidden="true">#</a></h3>
 <p>과거 Remote-SSH는 커밋 ID 기준으로 다음 경로에 서버 파일을 설치했습니다.</p>
-<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>~<span class="hljs-regexp">/.vscode-server/</span>bin<span class="hljs-regexp">/&lt;commit&gt;/</span>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">~/.vscode-server/bin/&lt;commit&gt;/
 </code></pre></div></code></pre>
 <p>이 경로에 파일이 존재하면 다운로드 과정을 건너뛰었습니다.</p>
 <h3 id="32-최신-방식-cliserversstable-commit" tabindex="-1" data-src-line="102">3.2 최신 방식: <code>cli/servers/Stable-&lt;commit&gt;</code> <a class="header-anchor" href="#32-최신-방식-cliserversstable-commit" aria-hidden="true">#</a></h3>
 <p>최근 버전에서는 다음과 같은 새로운 경로가 사용됩니다.</p>
-<pre><code><div class="code-block"><div class="code-header"><span class="code-title">unknown</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code>~/.vscode-<span class="hljs-keyword">server</span>/code-&lt;<span class="hljs-keyword">commit</span>&gt;
-~/.vscode-<span class="hljs-keyword">server</span>/cli/servers/<span class="hljs-keyword">Stable</span>-&lt;<span class="hljs-keyword">commit</span>&gt;/<span class="hljs-keyword">server</span>/
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">~/.vscode-server/code-&lt;commit&gt;
+~/.vscode-server/cli/servers/Stable-&lt;commit&gt;/server/
 </code></pre></div></code></pre>
 <p>이 변화로 인해 기존 경로에 파일을 복사해도 Remote-SSH가 이를 인식하지 못하는 상황이 발생합니다.</p>
 <h3 id="33-내-환경에서-사용-중인-방식-확인하기" tabindex="-1" data-src-line="113">3.3 내 환경에서 사용 중인 방식 확인하기 <a class="header-anchor" href="#33-내-환경에서-사용-중인-방식-확인하기" aria-hidden="true">#</a></h3>
@@ -95,10 +95,10 @@
 <p>VS Code는 커밋 ID 기준으로 버전을 관리합니다.</p>
 <p>로컬 PC에서 사용 중인 VS Code의 <strong>Commit ID</strong>를 반드시 확인해 두어야 합니다.</p>
 <p>방법은 아래와 같습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-keyword">code</span> -v
-<span class="hljs-number">1.97</span><span class="hljs-number">.2</span> # 버전
-{COMMIT} # 커밋
-x64 # 아키텍처
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">code -v
+1.97.2 <span class="hljs-comment"># 버전</span>
+{COMMIT} <span class="hljs-comment"># 커밋</span>
+x64 <span class="hljs-comment"># 아키텍처</span>
 </code></pre></div></code></pre>
 <h3 id="43-서버-필수-조건" tabindex="-1" data-src-line="147">4.3 서버 필수 조건 <a class="header-anchor" href="#43-서버-필수-조건" aria-hidden="true">#</a></h3>
 <ul>
@@ -122,7 +122,7 @@ vscode-cli_alpine_x64_cli.tar.gz</p>
 <h2 id="6-폐쇄망-서버에-vs-code-server-수동-설치" tabindex="-1" data-src-line="177">6. 폐쇄망 서버에 VS Code Server 수동 설치 <a class="header-anchor" href="#6-폐쇄망-서버에-vs-code-server-수동-설치" aria-hidden="true">#</a></h2>
 <h3 id="61-최신-경로-기준-설치-방법" tabindex="-1" data-src-line="179">6.1 최신 경로 기준 설치 방법 <a class="header-anchor" href="#61-최신-경로-기준-설치-방법" aria-hidden="true">#</a></h3>
 <p>다운로드 한 두 파일을 특정 폴더에 지정해서 넣어두고 아래의 스크립트를 실행합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>COMMIT=COMMIT_ID <span class="hljs-comment"># 여기에 자신의 VS Code Commit ID를 입력</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">COMMIT=COMMIT_ID <span class="hljs-comment"># 여기에 자신의 VS Code Commit ID를 입력</span>
 
 
 <span class="hljs-comment"># 현재 디렉토리에 아래 두 파일이 존재한다고 가정</span>
@@ -187,7 +187,7 @@ tar -xzf ./vscode-server-linux-x64.tar.gz \
 <p>본 글에서는 폐쇄망 환경에서 VS Code Remote-SSH를 오프라인으로 구성하는 방법을 살펴보았습니다.</p>
 <p>환경 제약으로 인해 번거로울 수 있지만, 한 번 구성해 두면 로컬과 동일한 개발 경험을 유지할 수 있습니다.</p>
 <p>폐쇄망 환경에서 개발 생산성을 유지해야 하는 분들께 이 글이 도움이 되기를 바랍니다.</p>
-0:{"buildId":"XUCt0thr6T7HFt8mupGNW","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"vscode › vscode-ssh-remote-offline-network"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"폐쇄망에서 vscode ssh remote 하는 방법에 대해 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 15."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","vs-code",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","vs-code"]}],["$","span","remote",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","remote"]}],["$","span","offline-network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","offline-network"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+0:{"buildId":"YjH8iMldwmGtbOoKwXbgY","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"vscode › vscode-ssh-remote-offline-network"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"폐쇄망 환경에서 VS Code Remote-SSH 사용하기 (오프라인 설치 가이드)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"폐쇄망에서 vscode ssh remote 하는 방법에 대해 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 15."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","vs-code",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","vs-code"]}],["$","span","remote",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","remote"]}],["$","span","offline-network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","offline-network"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]]}],["$","article",null,{"className":"mt-6","children":["$","$L2",null,{"content":"$3"}]}]]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 4:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f9ba877569af6fa6.css","precedence":"next"}]
 5:["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]
 8:null

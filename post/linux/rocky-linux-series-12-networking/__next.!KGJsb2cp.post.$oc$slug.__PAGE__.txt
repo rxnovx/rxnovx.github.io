@@ -3,9 +3,9 @@
 8:I[484,[],"OutletBoundary"]
 9:"$Sreact.suspense"
 :HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-0:{"buildId":"XUCt0thr6T7HFt8mupGNW","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-12-networking"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"Red Hat Enterprise Linux 환경에서 네트워크를 관리하는 기본 흐름을 정리합니다. IPv4·IPv6 개념부터 NetworkManager, nmcli 설정, 라우팅, DNS, 네트워크 진단까지 실습 중심으로 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 28."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","rhel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","networkmanager",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","networkmanager"]}],["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","networking",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","networking"]}],["$","span","ip",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","ip"]}],["$","span","route",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","route"]}],["$","span","dns",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","dns"]}],["$","span","resolv.conf",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","resolv.conf"]}],["$","span","network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","network"]}],["$","span","troubleshooting",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","troubleshooting"]}]]}]]}],"$L2"]}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+0:{"buildId":"YjH8iMldwmGtbOoKwXbgY","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-12-networking"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #12 - 네트워크 관리 (RHEL 기준)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"Red Hat Enterprise Linux 환경에서 네트워크를 관리하는 기본 흐름을 정리합니다. IPv4·IPv6 개념부터 NetworkManager, nmcli 설정, 라우팅, DNS, 네트워크 진단까지 실습 중심으로 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 28."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","rhel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","networkmanager",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","networkmanager"]}],["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","networking",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","networking"]}],["$","span","ip",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","ip"]}],["$","span","route",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","route"]}],["$","span","dns",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","dns"]}],["$","span","resolv.conf",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","resolv.conf"]}],["$","span","network",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","network"]}],["$","span","troubleshooting",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","troubleshooting"]}]]}]]}],"$L2"]}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
 2:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]
-7:T50b1,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#ipv4-기초">IPv4 기초 </a><ul><li><a href="#ipv4-주소란">IPv4 주소란 </a></li><li><a href="#스페셜-주소">스페셜 주소 </a></li><li><a href="#주소-클래스">주소 클래스 </a></li></ul></li><li><a href="#사설-ip와-nat">사설 IP와 NAT </a><ul><li><a href="#nat와-napt">NAT와 NAPT </a></li></ul></li><li><a href="#tcp--udp-기초">TCP / UDP 기초 </a><ul><li><a href="#tcp">TCP </a></li><li><a href="#udp">UDP </a></li><li><a href="#시스템-서비스-포트-정보">시스템 서비스 포트 정보 </a></li></ul></li><li><a href="#ipv6-개요">IPv6 개요 </a><ul><li><a href="#ipv6-주소-예시">IPv6 주소 예시 </a></li></ul></li><li><a href="#리눅스-네트워크-인터페이스-이름-규칙">리눅스 네트워크 인터페이스 이름 규칙 </a><ul><li><a href="#주요-접두어">주요 접두어 </a></li><li><a href="#ethernet-상세-규칙">Ethernet 상세 규칙 </a></li></ul></li><li><a href="#ethtool-명령어">ethtool 명령어 </a></li><li><a href="#ip-주소-확인-명령어">IP 주소 확인 명령어 </a><ul><li><a href="#ifconfig">ifconfig </a></li><li><a href="#ip-명령어-체계">ip 명령어 체계 </a><ul><li><a href="#layer-2">Layer 2 </a></li><li><a href="#layer-3">Layer 3 </a></li><li><a href="#routing-table">Routing Table </a></li><li><a href="#arp--neighbor-table">ARP / Neighbor Table </a></li></ul></li></ul></li><li><a href="#networkmanager-개요">NetworkManager 개요 </a><ul><li><a href="#설정-방식">설정 방식 </a></li></ul></li><li><a href="#nmcli로-네트워크-설정하기">nmcli로 네트워크 설정하기 </a><ul><li><a href="#장치-확인">장치 확인 </a></li><li><a href="#기존-설정-삭제">기존 설정 삭제 </a></li><li><a href="#새-연결-생성">새 연결 생성 </a></li><li><a href="#고정-ip-설정">고정 IP 설정 </a></li></ul></li><li><a href="#라우팅-테이블-설정">라우팅 테이블 설정 </a></li><li><a href="#dns-관련-파일">DNS 관련 파일 </a><ul><li><a href="#etcresolvconf">/etc/resolv.conf </a></li><li><a href="#etchosts">/etc/hosts </a></li></ul></li><li><a href="#네트워크-진단-도구">네트워크 진단 도구 </a></li><li><a href="#vm-복제를-통한-네트워크-실습">VM 복제를 통한 네트워크 실습 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></nav><hr>
+7:T4e2d,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#ipv4-기초">IPv4 기초 </a><ul><li><a href="#ipv4-주소란">IPv4 주소란 </a></li><li><a href="#스페셜-주소">스페셜 주소 </a></li><li><a href="#주소-클래스">주소 클래스 </a></li></ul></li><li><a href="#사설-ip와-nat">사설 IP와 NAT </a><ul><li><a href="#nat와-napt">NAT와 NAPT </a></li></ul></li><li><a href="#tcp--udp-기초">TCP / UDP 기초 </a><ul><li><a href="#tcp">TCP </a></li><li><a href="#udp">UDP </a></li><li><a href="#시스템-서비스-포트-정보">시스템 서비스 포트 정보 </a></li></ul></li><li><a href="#ipv6-개요">IPv6 개요 </a><ul><li><a href="#ipv6-주소-예시">IPv6 주소 예시 </a></li></ul></li><li><a href="#리눅스-네트워크-인터페이스-이름-규칙">리눅스 네트워크 인터페이스 이름 규칙 </a><ul><li><a href="#주요-접두어">주요 접두어 </a></li><li><a href="#ethernet-상세-규칙">Ethernet 상세 규칙 </a></li></ul></li><li><a href="#ethtool-명령어">ethtool 명령어 </a></li><li><a href="#ip-주소-확인-명령어">IP 주소 확인 명령어 </a><ul><li><a href="#ifconfig">ifconfig </a></li><li><a href="#ip-명령어-체계">ip 명령어 체계 </a><ul><li><a href="#layer-2">Layer 2 </a></li><li><a href="#layer-3">Layer 3 </a></li><li><a href="#routing-table">Routing Table </a></li><li><a href="#arp--neighbor-table">ARP / Neighbor Table </a></li></ul></li></ul></li><li><a href="#networkmanager-개요">NetworkManager 개요 </a><ul><li><a href="#설정-방식">설정 방식 </a></li></ul></li><li><a href="#nmcli로-네트워크-설정하기">nmcli로 네트워크 설정하기 </a><ul><li><a href="#장치-확인">장치 확인 </a></li><li><a href="#기존-설정-삭제">기존 설정 삭제 </a></li><li><a href="#새-연결-생성">새 연결 생성 </a></li><li><a href="#고정-ip-설정">고정 IP 설정 </a></li></ul></li><li><a href="#라우팅-테이블-설정">라우팅 테이블 설정 </a></li><li><a href="#dns-관련-파일">DNS 관련 파일 </a><ul><li><a href="#etcresolvconf">/etc/resolv.conf </a></li><li><a href="#etchosts">/etc/hosts </a></li></ul></li><li><a href="#네트워크-진단-도구">네트워크 진단 도구 </a></li><li><a href="#vm-복제를-통한-네트워크-실습">VM 복제를 통한 네트워크 실습 </a></li><li><a href="#마치면서">마치면서 </a></li></ul></nav><hr>
 <h2 id="들어가기" tabindex="-1" data-src-line="4">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>리눅스를 사용하다 보면 결국 네트워크를 마주치게 됩니다.<br>
 패키지가 안 내려받아질 때, SSH 접속이 안 될 때, 서비스는 살아 있는데 외부에서 접근이 안 될 때.<br>
@@ -90,7 +90,7 @@ RFC 1918에 정의되어 있으며 다음 세 대역이 있습니다.</p>
 </ul>
 <h3 id="시스템-서비스-포트-정보" tabindex="-1" data-src-line="102">시스템 서비스 포트 정보 <a class="header-anchor" href="#시스템-서비스-포트-정보" aria-hidden="true">#</a></h3>
 <p>리눅스에는 서비스와 포트 정보가 미리 정의되어 있습니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">cat</span> /etc/services
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">cat</span> /etc/services
 </code></pre></div></code></pre>
 <p>이 파일은 <strong>참고용</strong>이며, 실제 포트 사용 여부를 강제하지는 않습니다.</p>
 <hr>
@@ -132,7 +132,7 @@ IPv6는 이를 해결하기 위해 등장했습니다.</p>
 <hr>
 <h2 id="ethtool-명령어" tabindex="-1" data-src-line="158">ethtool 명령어 <a class="header-anchor" href="#ethtool-명령어" aria-hidden="true">#</a></h2>
 <p><code>ethtool</code>은 네트워크 카드의 <strong>물리 계층 정보</strong>를 확인하는 도구입니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ethtool</span> ens160
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ethtool ens160
 </code></pre></div></code></pre>
 <p>확인 가능한 주요 정보는 다음과 같습니다.</p>
 <ul>
@@ -157,29 +157,29 @@ IPv6는 이를 해결하기 위해 등장했습니다.</p>
 <h3 id="ip-명령어-체계" tabindex="-1" data-src-line="189">ip 명령어 체계 <a class="header-anchor" href="#ip-명령어-체계" aria-hidden="true">#</a></h3>
 <p>리눅스 네트워크 관리는 <code>ip</code> 명령어를 기준으로 생각하면 됩니다.</p>
 <h4 id="layer-2" tabindex="-1" data-src-line="193">Layer 2 <a class="header-anchor" href="#layer-2" aria-hidden="true">#</a></h4>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>ip <span class="hljs-built_in">link</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ip <span class="hljs-built_in">link</span>
 </code></pre></div></code></pre>
 <ul>
 <li>인터페이스 존재 여부</li>
 <li>UP / DOWN 상태</li>
 </ul>
 <h4 id="layer-3" tabindex="-1" data-src-line="202">Layer 3 <a class="header-anchor" href="#layer-3" aria-hidden="true">#</a></h4>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-symbol">ip</span> <span class="hljs-keyword">addr</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ip addr
 </code></pre></div></code></pre>
 <ul>
 <li>IP 주소 확인</li>
 <li>인터페이스에 어떤 주소가 붙어 있는지 확인</li>
 </ul>
 <h4 id="routing-table" tabindex="-1" data-src-line="211">Routing Table <a class="header-anchor" href="#routing-table" aria-hidden="true">#</a></h4>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ip route
-netstat -nr</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ip route
+netstat -nr
 </code></pre></div></code></pre>
 <ul>
 <li>커널 라우팅 테이블 확인</li>
 <li>기본 게이트웨이 확인</li>
 </ul>
 <h4 id="arp--neighbor-table" tabindex="-1" data-src-line="221">ARP / Neighbor Table <a class="header-anchor" href="#arp--neighbor-table" aria-hidden="true">#</a></h4>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">ip neigh</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ip neigh
 </code></pre></div></code></pre>
 <ul>
 <li>IP ↔ MAC 매핑 정보</li>
@@ -195,40 +195,40 @@ netstat -nr</span>
 <li><code>nmcli</code> : 명령어 기반</li>
 </ul>
 <p>설정 파일 위치:</p>
-<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">text</span><button class="copy-button">Copy</button></div><pre class="language-text"><code><span class="hljs-regexp">/etc/</span>NetworkManager<span class="hljs-regexp">/system-connections/</span>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">/etc/NetworkManager/system-connections/
 </code></pre></div></code></pre>
 <hr>
 <h2 id="nmcli로-네트워크-설정하기" tabindex="-1" data-src-line="250">nmcli로 네트워크 설정하기 <a class="header-anchor" href="#nmcli로-네트워크-설정하기" aria-hidden="true">#</a></h2>
 <h3 id="장치-확인" tabindex="-1" data-src-line="252">장치 확인 <a class="header-anchor" href="#장치-확인" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">nmcli dev</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">nmcli dev
 </code></pre></div></code></pre>
 <h3 id="기존-설정-삭제" tabindex="-1" data-src-line="258">기존 설정 삭제 <a class="header-anchor" href="#기존-설정-삭제" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>nmcli <span class="hljs-keyword">connection</span> <span class="hljs-keyword">delete</span> ens160
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">nmcli connection delete ens160
 </code></pre></div></code></pre>
 <h3 id="새-연결-생성" tabindex="-1" data-src-line="264">새 연결 생성 <a class="header-anchor" href="#새-연결-생성" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>nmcli connection add <span class="hljs-string">\</span>
-  type ethernet <span class="hljs-string">\</span>
-  ifname ens160 <span class="hljs-string">\</span>
-  con-name ens160 <span class="hljs-string">\</span>
-  autoconnect <span class="hljs-literal">yes</span> <span class="hljs-string">\</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">nmcli connection add \
+  <span class="hljs-built_in">type</span> ethernet \
+  ifname ens160 \
+  con-name ens160 \
+  autoconnect <span class="hljs-built_in">yes</span> \
   ipv4.method auto
 </code></pre></div></code></pre>
 <h3 id="고정-ip-설정" tabindex="-1" data-src-line="275">고정 IP 설정 <a class="header-anchor" href="#고정-ip-설정" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-attribute">nmcli</span> connection modify ens160 <span class="hljs-punctuation">\
-</span>  ipv4.method manual <span class="hljs-punctuation">\
-</span>  ipv4.addresses <span class="hljs-number">192.168.11.33</span>/<span class="hljs-number">24</span> <span class="hljs-punctuation">\
-</span>  ipv4.gateway <span class="hljs-number">192.168.11.2</span> <span class="hljs-punctuation">\
-</span>  ipv4.dns <span class="hljs-number">192.168.11.2</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">nmcli connection modify ens160 \
+  ipv4.method manual \
+  ipv4.addresses 192.168.11.33/24 \
+  ipv4.gateway 192.168.11.2 \
+  ipv4.dns 192.168.11.2
 
-<span class="hljs-attribute">nmcli</span> con down ens160
-<span class="hljs-attribute">nmcli</span> con up ens160
+nmcli con down ens160
+nmcli con up ens160
 </code></pre></div></code></pre>
 <hr>
 <h2 id="라우팅-테이블-설정" tabindex="-1" data-src-line="290">라우팅 테이블 설정 <a class="header-anchor" href="#라우팅-테이블-설정" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>nmcli connection modify ens160 ipv4.routes <span class="hljs-string">&quot;10.100.1.0/24 192.168.11.2&quot;</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">nmcli connection modify ens160 ipv4.routes <span class="hljs-string">&quot;10.100.1.0/24 192.168.11.2&quot;</span>
 
-nmcli <span class="hljs-keyword">con</span> down ens160
-nmcli <span class="hljs-keyword">con</span> <span class="hljs-keyword">up</span> ens160
+nmcli con down ens160
+nmcli con up ens160
 </code></pre></div></code></pre>
 <p>설정 후에는 반드시 <code>ip route</code>로 반영 여부를 확인합니다.</p>
 <hr>
@@ -247,7 +247,7 @@ nmcli <span class="hljs-keyword">con</span> <span class="hljs-keyword">up</span>
 <li>로컬 이름 해석 테이블</li>
 <li>DNS보다 우선순위가 높음</li>
 </ul>
-<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">text</span><button class="copy-button">Copy</button></div><pre class="language-text"><code><span class="hljs-number">192.168.11.10</span>   test-server
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button class="copy-button">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">192.168.11.10   test-server
 </code></pre></div></code></pre>
 <p>테스트나 임시 우회에는 유용하지만, 대규모 환경에는 적합하지 않습니다.</p>
 <hr>

@@ -3,12 +3,12 @@
 b:I[484,[],"OutletBoundary"]
 c:"$Sreact.suspense"
 :HL["/_next/static/css/f9ba877569af6fa6.css","style"]
-0:{"buildId":"XUCt0thr6T7HFt8mupGNW","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-19-control-and-troubleshoot-linux-boot-process"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #19 – 부팅 과정 제어와 문제 해결 (RHEL / systemd 기준)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"RHEL 기반 리눅스 시스템의 부팅 과정을 systemd 중심으로 정리합니다. Runlevel과 Target의 관계, GRUB2 설정, 싱글 유저 모드 진입, root 암호 복구, initramfs와 부팅 순서까지 실제 장애 상황에서 바로 활용할 수 있도록 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 30."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","boot",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","boot"]}],["$","span","process",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","process"]}],["$","span","rhel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","systemd",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","systemd"]}],["$","span","target",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","target"]}],["$","span","runlevel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","runlevel"]}],["$","span","grub2",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","grub2"]}],["$","span","configuration",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","configuration"]}],["$","span","grubby",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","grubby"]}],"$L2","$L3","$L4"]}]]}],"$L5"]}],"$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+0:{"buildId":"YjH8iMldwmGtbOoKwXbgY","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-6xl w-full","children":[["$","header",null,{"className":"relative overflow-hidden ","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs font-medium tracking-wide text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-2 w-2 rounded-full bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-xs tracking-wide text-[var(--text-muted)]","children":"linux › rocky-linux-series-19-control-and-troubleshoot-linux-boot-process"}]]}],["$","h1",null,{"className":"relative mt-4 text-4xl font-extrabold leading-[1.12] tracking-tight text-[var(--foreground)]","children":"리눅스 배우기 #19 – 부팅 과정 제어와 문제 해결 (RHEL / systemd 기준)"}],["$","p",null,{"className":"relative mt-4 max-w-3xl leading-relaxed text-[var(--text-muted)]","children":"RHEL 기반 리눅스 시스템의 부팅 과정을 systemd 중심으로 정리합니다. Runlevel과 Target의 관계, GRUB2 설정, 싱글 유저 모드 진입, root 암호 복구, initramfs와 부팅 순서까지 실제 장애 상황에서 바로 활용할 수 있도록 설명합니다."}],["$","div",null,{"className":"relative mt-5 flex flex-wrap items-center gap-2","children":[["$","span",null,{"className":"inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--text-muted)]"}],"2026. 01. 30."]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","linux"]}],["$","span","boot",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","boot"]}],["$","span","process",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","process"]}],["$","span","rhel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","rhel"]}],["$","span","systemd",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","systemd"]}],["$","span","target",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","target"]}],["$","span","runlevel",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","runlevel"]}],["$","span","grub2",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","grub2"]}],["$","span","configuration",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","configuration"]}],["$","span","grubby",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","grubby"]}],"$L2","$L3","$L4"]}]]}],"$L5"]}],"$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
 2:["$","span","single",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","single"]}]
 3:["$","span","user",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","user"]}]
 4:["$","span","mode",{"className":"rounded-full border border-[var(--border)] bg-[var(--background)] px-3 py-1 text-xs text-[var(--foreground)] transition hover:border-[var(--primary)]","children":["#","mode"]}]
 5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)] opacity-70"}]
-a:T4efb,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#리눅스-시스템-부팅-방식의-변화">리눅스 시스템 부팅 방식의 변화 </a><ul><li><a href="#runlevel-기반-system-v-init">Runlevel 기반 (System V init) </a></li><li><a href="#event-기반-upstart">Event 기반 (Upstart) </a></li><li><a href="#dependency-기반-systemd">Dependency 기반 (systemd) </a></li></ul></li><li><a href="#init과-pid-1">init과 PID 1 </a></li><li><a href="#systemd-핵심-개념-unit과-target">systemd 핵심 개념: Unit과 Target </a><ul><li><a href="#unit">Unit </a></li><li><a href="#target">Target </a></li></ul></li><li><a href="#runlevel과-target의-관계">Runlevel과 Target의 관계 </a></li><li><a href="#기본-target-확인-및-변경">기본 Target 확인 및 변경 </a></li><li><a href="#일시적인-target-변경-isolate">일시적인 Target 변경 (isolate) </a></li><li><a href="#현재-runlevel-확인">현재 Runlevel 확인 </a></li><li><a href="#싱글-유저-모드와-암호-복구">싱글 유저 모드와 암호 복구 </a><ul><li><a href="#rhel-7--9-방식-rdbreak">RHEL 7 ~ 9 방식 (rd.break) </a></li><li><a href="#rhel-10-방식-initbinbash">RHEL 10 방식 (init=/bin/bash) </a></li></ul></li><li><a href="#서비스와-부팅의-관계">서비스와 부팅의 관계 </a><ul><li><a href="#sysv-init-시절">SysV init 시절 </a></li><li><a href="#systemd-환경">systemd 환경 </a></li><li><a href="#자동-시작-설정">자동 시작 설정 </a></li></ul></li><li><a href="#grub-2와-커널-파라미터">GRUB 2와 커널 파라미터 </a><ul><li><a href="#커널-옵션-확인">커널 옵션 확인 </a></li></ul></li><li><a href="#rhel-9-이상-grubby-사용">RHEL 9 이상: grubby 사용 </a><ul><li><a href="#커널-옵션-추가">커널 옵션 추가 </a></li><li><a href="#옵션-제거">옵션 제거 </a></li></ul></li><li><a href="#부트로더-암호-설정">부트로더 암호 설정 </a></li><li><a href="#initramfs-초기-램-파일시스템">initramfs (초기 램 파일시스템) </a></li><li><a href="#systemd-부팅-순서">systemd 부팅 순서 </a></li><li><a href="#rclocal의-현재-위치">rc.local의 현재 위치 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+a:T4c4f,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#리눅스-시스템-부팅-방식의-변화">리눅스 시스템 부팅 방식의 변화 </a><ul><li><a href="#runlevel-기반-system-v-init">Runlevel 기반 (System V init) </a></li><li><a href="#event-기반-upstart">Event 기반 (Upstart) </a></li><li><a href="#dependency-기반-systemd">Dependency 기반 (systemd) </a></li></ul></li><li><a href="#init과-pid-1">init과 PID 1 </a></li><li><a href="#systemd-핵심-개념-unit과-target">systemd 핵심 개념: Unit과 Target </a><ul><li><a href="#unit">Unit </a></li><li><a href="#target">Target </a></li></ul></li><li><a href="#runlevel과-target의-관계">Runlevel과 Target의 관계 </a></li><li><a href="#기본-target-확인-및-변경">기본 Target 확인 및 변경 </a></li><li><a href="#일시적인-target-변경-isolate">일시적인 Target 변경 (isolate) </a></li><li><a href="#현재-runlevel-확인">현재 Runlevel 확인 </a></li><li><a href="#싱글-유저-모드와-암호-복구">싱글 유저 모드와 암호 복구 </a><ul><li><a href="#rhel-7--9-방식-rdbreak">RHEL 7 ~ 9 방식 (rd.break) </a></li><li><a href="#rhel-10-방식-initbinbash">RHEL 10 방식 (init=/bin/bash) </a></li></ul></li><li><a href="#서비스와-부팅의-관계">서비스와 부팅의 관계 </a><ul><li><a href="#sysv-init-시절">SysV init 시절 </a></li><li><a href="#systemd-환경">systemd 환경 </a></li><li><a href="#자동-시작-설정">자동 시작 설정 </a></li></ul></li><li><a href="#grub-2와-커널-파라미터">GRUB 2와 커널 파라미터 </a><ul><li><a href="#커널-옵션-확인">커널 옵션 확인 </a></li></ul></li><li><a href="#rhel-9-이상-grubby-사용">RHEL 9 이상: grubby 사용 </a><ul><li><a href="#커널-옵션-추가">커널 옵션 추가 </a></li><li><a href="#옵션-제거">옵션 제거 </a></li></ul></li><li><a href="#부트로더-암호-설정">부트로더 암호 설정 </a></li><li><a href="#initramfs-초기-램-파일시스템">initramfs (초기 램 파일시스템) </a></li><li><a href="#systemd-부팅-순서">systemd 부팅 순서 </a></li><li><a href="#rclocal의-현재-위치">rc.local의 현재 위치 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>리눅스를 사용하다 보면 언젠가는 <strong>부팅이 정상적으로 되지 않는 상황</strong>을 마주하게 됩니다.<br>
 서비스가 올라오지 않거나, 네트워크가 죽어 있거나, 심한 경우 로그인 자체가 불가능한 상태가 되기도 합니다.</p>
 <p>이럴 때 필요한 것은 단순한 명령어 암기가 아니라,<br>
@@ -99,25 +99,25 @@ RHEL 7부터 본격적으로 도입되었습니다.</p>
 <strong>운영 관점에서는 Target만 사용</strong>하는 것이 맞습니다.</p>
 <hr>
 <h2 id="기본-target-확인-및-변경" tabindex="-1" data-src-line="121">기본 Target 확인 및 변경 <a class="header-anchor" href="#기본-target-확인-및-변경" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-string">systemctl</span> <span class="hljs-built_in">get-default</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl get-default
 </code></pre></div></code></pre>
 <p>기본 부팅 Target을 확인합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-string">systemctl</span> <span class="hljs-built_in">set-default</span> <span class="hljs-string">graphical</span>.<span class="hljs-string">target</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl set-default graphical.target
 </code></pre></div></code></pre>
 <p>다음 부팅부터 GUI 모드로 시작합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-string">systemctl</span> <span class="hljs-built_in">set-default</span> <span class="hljs-string">multi-user</span>.<span class="hljs-string">target</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl set-default multi-user.target
 </code></pre></div></code></pre>
 <p>서버 환경에서 주로 사용하는 설정입니다.</p>
 <hr>
 <h2 id="일시적인-target-변경-isolate" tabindex="-1" data-src-line="143">일시적인 Target 변경 (isolate) <a class="header-anchor" href="#일시적인-target-변경-isolate" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-params">system</span>ctl isolate multi-<span class="hljs-literal">user</span>.target
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl isolate multi-user.target
 </code></pre></div></code></pre>
 <p>현재 세션에서만 Target을 전환합니다.<br>
 재부팅하면 원래 설정으로 돌아옵니다.</p>
 <p>운영 중 테스트할 때 매우 유용합니다.</p>
 <hr>
 <h2 id="현재-runlevel-확인" tabindex="-1" data-src-line="156">현재 Runlevel 확인 <a class="header-anchor" href="#현재-runlevel-확인" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">who</span> -r
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">who</span> -r
 </code></pre></div></code></pre>
 <p>systemd 환경에서도 호환을 위해 제공되는 명령입니다.</p>
 <hr>
@@ -131,12 +131,12 @@ RHEL 7부터 본격적으로 도입되었습니다.</p>
 <li>Ctrl + x 부팅</li>
 <li><code>/sysroot</code>로 진입</li>
 </ol>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>chroot /sysroot
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">chroot</span> /sysroot
 mount -o rw,remount /sysroot
 passwd root
-touch /.autorelabel
-<span class="hljs-keyword">exit</span>
-<span class="hljs-keyword">exit</span>
+<span class="hljs-built_in">touch</span> /.autorelabel
+<span class="hljs-built_in">exit</span>
+<span class="hljs-built_in">exit</span>
 </code></pre></div></code></pre>
 <p>SELinux 환경에서는 <strong>/.autorelabel</strong>이 매우 중요합니다.</p>
 <hr>
@@ -146,7 +146,7 @@ touch /.autorelabel
 <li>linux 라인 끝에 <code>init=/bin/bash</code> 추가</li>
 <li>Ctrl + x</li>
 </ol>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>mount -o rw,remount /
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">mount -o rw,remount /
 passwd root
 <span class="hljs-built_in">touch</span> /.autorelabel
 <span class="hljs-built_in">exec</span> /sbin/init
@@ -162,39 +162,39 @@ passwd root
 </ul>
 <h3 id="systemd-환경" tabindex="-1" data-src-line="216">systemd 환경 <a class="header-anchor" href="#systemd-환경" aria-hidden="true">#</a></h3>
 <p>시스템과 서비스를 통합 관리합니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-params">system</span>ctl start httpd
-<span class="hljs-params">system</span>ctl stop httpd
-<span class="hljs-params">system</span>ctl restart httpd
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl start httpd
+systemctl stop httpd
+systemctl restart httpd
 </code></pre></div></code></pre>
 <h3 id="자동-시작-설정" tabindex="-1" data-src-line="226">자동 시작 설정 <a class="header-anchor" href="#자동-시작-설정" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-params">system</span>ctl enable httpd
-<span class="hljs-params">system</span>ctl disable httpd
-<span class="hljs-params">system</span>ctl mask httpd
-<span class="hljs-params">system</span>ctl unmask httpd
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl <span class="hljs-built_in">enable</span> httpd
+systemctl <span class="hljs-built_in">disable</span> httpd
+systemctl mask httpd
+systemctl unmask httpd
 </code></pre></div></code></pre>
 <p>mask는 실무에서 매우 강력한 차단 수단입니다.</p>
 <hr>
 <h2 id="grub-2와-커널-파라미터" tabindex="-1" data-src-line="239">GRUB 2와 커널 파라미터 <a class="header-anchor" href="#grub-2와-커널-파라미터" aria-hidden="true">#</a></h2>
 <p>GRUB 2는 커널과 initramfs를 메모리에 로드하는 역할을 합니다.</p>
 <h3 id="커널-옵션-확인" tabindex="-1" data-src-line="243">커널 옵션 확인 <a class="header-anchor" href="#커널-옵션-확인" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-built_in">cat</span> /proc/cmdline
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">cat</span> /proc/cmdline
 </code></pre></div></code></pre>
 <p>실제로 적용된 옵션을 확인할 수 있습니다.</p>
 <hr>
 <h2 id="rhel-9-이상-grubby-사용" tabindex="-1" data-src-line="253">RHEL 9 이상: grubby 사용 <a class="header-anchor" href="#rhel-9-이상-grubby-사용" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>grubby --info=ALL
-grubby --<span class="hljs-keyword">default</span>-<span class="hljs-keyword">index</span>
-grubby --<span class="hljs-keyword">set</span>-<span class="hljs-keyword">default</span>-<span class="hljs-keyword">index</span>=<span class="hljs-number">0</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">grubby --info=ALL
+grubby --default-index
+grubby --set-default-index=0
 </code></pre></div></code></pre>
 <h3 id="커널-옵션-추가" tabindex="-1" data-src-line="261">커널 옵션 추가 <a class="header-anchor" href="#커널-옵션-추가" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>grubby <span class="hljs-attribute">--update-kernel</span>=ALL <span class="hljs-attribute">--args</span>=<span class="hljs-string">&quot;rhgb quiet ipv6.disable=1&quot;</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">grubby --update-kernel=ALL --args=<span class="hljs-string">&quot;rhgb quiet ipv6.disable=1&quot;</span>
 </code></pre></div></code></pre>
 <h3 id="옵션-제거" tabindex="-1" data-src-line="267">옵션 제거 <a class="header-anchor" href="#옵션-제거" aria-hidden="true">#</a></h3>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>grubby <span class="hljs-attribute">--update-kernel</span>=1 <span class="hljs-attribute">--remove-args</span>=<span class="hljs-string">&quot;rhgb quiet&quot;</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">grubby --update-kernel=1 --remove-args=<span class="hljs-string">&quot;rhgb quiet&quot;</span>
 </code></pre></div></code></pre>
 <hr>
 <h2 id="부트로더-암호-설정" tabindex="-1" data-src-line="275">부트로더 암호 설정 <a class="header-anchor" href="#부트로더-암호-설정" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>grub2-<span class="hljs-keyword">set</span>-<span class="hljs-keyword">password</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">grub2-set-password
 </code></pre></div></code></pre>
 <p>직접 grub.cfg를 수정하지 않는 것이 원칙입니다.</p>
 <hr>
@@ -207,9 +207,9 @@ grubby --<span class="hljs-keyword">set</span>-<span class="hljs-keyword">defaul
 </ul>
 <p>레스큐 커널의 initramfs가 더 큰 이유는,<br>
 더 많은 하드웨어와 파일시스템을 지원하기 위해서입니다.</p>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-keyword">dr</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">dr
 
-dracut --regenerate-<span class="hljs-keyword">all</span>
+dracut --regenerate-all
 </code></pre></div></code></pre>
 <hr>
 <h2 id="systemd-부팅-순서" tabindex="-1" data-src-line="304">systemd 부팅 순서 <a class="header-anchor" href="#systemd-부팅-순서" aria-hidden="true">#</a></h2>
@@ -220,12 +220,12 @@ dracut --regenerate-<span class="hljs-keyword">all</span>
 <li>multi-user.target</li>
 <li>graphical.target</li>
 </ul>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code><span class="hljs-string">systemctl</span> <span class="hljs-built_in">list-dependencies</span> <span class="hljs-string">graphical</span>.<span class="hljs-string">target</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">systemctl list-dependencies graphical.target
 </code></pre></div></code></pre>
 <p>부팅 문제 분석에 매우 유용합니다.</p>
 <hr>
 <h2 id="rclocal의-현재-위치" tabindex="-1" data-src-line="320">rc.local의 현재 위치 <a class="header-anchor" href="#rclocal의-현재-위치" aria-hidden="true">#</a></h2>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code>/etc/rc.d/rc.<span class="hljs-keyword">local</span>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button class="copy-button">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">/etc/rc.d/rc.local
 </code></pre></div></code></pre>
 <p>호환성 목적입니다.<br>
 systemd 서비스로 대체하는 것이 권장됩니다.</p>
