@@ -1,0 +1,438 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"Lov2dlWcf7Sdsj4u7B8_-","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-08-giving-receiving\"},\"headline\":\"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます\",\"description\":\"일본어에서 가장 헷갈리는 주고받기 표현, あげます·もらいます·くれます의 차이를 시점(視点) 개념으로 완전히 정복합니다.\",\"datePublished\":\"2026-04-29T14:34:00.000Z\",\"dateModified\":\"2026-04-29T14:34:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-08-giving-receiving\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"giving-receiving\",\"agemasu\",\"moraimasu\",\"kuremasu\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます","slugPath":"japanese/japanese-lesson-08-giving-receiving","headings":[{"id":"일본어-8강-수수-표현-완전-정복------","text":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-수수-표현의-핵심-개념--시점","text":"1. 수수 표현의 핵심 개념 — 시점(視点)","level":2},{"id":"2---주다-나타인--타인타인","text":"2. あげます — 주다 (나→타인 / 타인→타인)","level":2},{"id":"기본-구조","text":"기본 구조","level":3},{"id":"예문","text":"예문","level":3},{"id":"3---받다-나타인--타인","text":"3. もらいます — 받다 (나·타인 ← 타인)","level":2},{"id":"기본-구조","text":"기본 구조","level":3},{"id":"예문","text":"예문","level":3},{"id":"4---주다-타인--나내-주변","text":"4. くれます — 주다 (타인 → 나·내 주변)","level":2},{"id":"기본-구조","text":"기본 구조","level":3},{"id":"예문","text":"예문","level":3},{"id":"5-세-동사-완전-비교","text":"5. 세 동사 완전 비교","level":2},{"id":"6-수수-동사-방향-다이어그램","text":"6. 수수 동사 방향 다이어그램","level":2},{"id":"7-정중도별-수수-동사-변형","text":"7. 정중도별 수수 동사 변형","level":2},{"id":"예문-비교","text":"예문 비교","level":3},{"id":"8-수수-동사--형--은혜-표현","text":"8. 수수 동사 + て형 — 은혜 표현","level":2},{"id":"--내가-해줍니다","text":"～てあげます — 내가 해줍니다","level":3},{"id":"--해-받습니다-부탁해서-해-받음","text":"～てもらいます — 해 받습니다 (부탁해서 해 받음)","level":3},{"id":"--상대가-나를-위해-해줍니다","text":"～てくれます — 상대가 나를 위해 해줍니다","level":3},{"id":"9-수수-표현-한눈에-정리","text":"9. 수수 표현 한눈에 정리","level":2},{"id":"10-실전-회화--선물-주고받기","text":"10. 실전 회화 — 선물 주고받기","level":2},{"id":"11-문형-정리","text":"11. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-08-giving-receiving"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어에서 가장 헷갈리는 주고받기 표현, あげます·もらいます·くれます의 차이를 시점(視点) 개념으로 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-29T14:34:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 29일"]}],["$","time",null,{"dateTime":"2026-04-29T14:34:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 29일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","giving-receiving",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","giving-receiving"]}],["$","span","agemasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","agemasu"]}],["$","span","moraimasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","moraimasu"]}],["$","span","kuremasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","kuremasu"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+b:T6775,<h1 id="일본어-8강-수수-표현-완전-정복------" tabindex="-1" data-src-line="1">일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます <a class="header-anchor" href="#일본어-8강-수수-표현-완전-정복------" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#일본어-8강-수수-표현-완전-정복------">일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-수수-표현의-핵심-개념--시점">1. 수수 표현의 핵심 개념 — 시점(視点) </a></li><li><a href="#2---주다-나타인--타인타인">2. あげます — 주다 (나→타인 / 타인→타인) </a><ul><li><a href="#기본-구조">기본 구조 </a></li><li><a href="#예문">예문 </a></li></ul></li><li><a href="#3---받다-나타인--타인">3. もらいます — 받다 (나·타인 ← 타인) </a><ul><li><a href="#기본-구조-1">기본 구조 </a></li><li><a href="#예문-1">예문 </a></li></ul></li><li><a href="#4---주다-타인--나내-주변">4. くれます — 주다 (타인 → 나·내 주변) </a><ul><li><a href="#기본-구조-2">기본 구조 </a></li><li><a href="#예문-2">예문 </a></li></ul></li><li><a href="#5-세-동사-완전-비교">5. 세 동사 완전 비교 </a></li><li><a href="#6-수수-동사-방향-다이어그램">6. 수수 동사 방향 다이어그램 </a></li><li><a href="#7-정중도별-수수-동사-변형">7. 정중도별 수수 동사 변형 </a><ul><li><a href="#예문-비교">예문 비교 </a></li></ul></li><li><a href="#8-수수-동사--형--은혜-표현">8. 수수 동사 + て형 — 은혜 표현 </a><ul><li><a href="#--내가-해줍니다">～てあげます — 내가 해줍니다 </a></li><li><a href="#--해-받습니다-부탁해서-해-받음">～てもらいます — 해 받습니다 (부탁해서 해 받음) </a></li><li><a href="#--상대가-나를-위해-해줍니다">～てくれます — 상대가 나를 위해 해줍니다 </a></li></ul></li><li><a href="#9-수수-표현-한눈에-정리">9. 수수 표현 한눈에 정리 </a></li><li><a href="#10-실전-회화--선물-주고받기">10. 실전 회화 — 선물 주고받기 </a></li><li><a href="#11-문형-정리">11. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>수수 표현(授受表現)은 일본어 학습자가 <strong>가장 많이 혼동하는 문법</strong> 중 하나입니다.<br>
+한국어에서는 “주다” 한 단어로 해결되는 상황이, 일본어에서는 <strong>누가 누구에게 주느냐에 따라</strong> 동사가 달라집니다.<br>
+이 강에서는 핵심 개념인 <strong>“시점(視点)”</strong> 을 중심으로 세 동사의 차이를 완전히 정리합니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>あげます·もらいます·くれます의 차이를 명확히 구분할 수 있습니다.</li>
+<li>각 동사에 사용하는 조사(に·から)를 정확히 쓸 수 있습니다.</li>
+<li>나(화자)를 기준으로 수수 동사를 자연스럽게 선택할 수 있습니다.</li>
+<li>수수 표현을 활용한 자연스러운 회화를 만들 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-수수-표현의-핵심-개념--시점" tabindex="-1" data-src-line="19">1. 수수 표현의 핵심 개념 — 시점(視点) <a class="header-anchor" href="#1-수수-표현의-핵심-개념--시점" aria-hidden="true">#</a></h2>
+<p>일본어 수수 표현에서 가장 중요한 것은 <strong>“누구의 시점에서 바라보느냐”</strong> 입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[화자/나] ← → [상대방]
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">방향</th>
+<th scope="col">시점</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>あげます</td>
+<td>나·타인 → 타인</td>
+<td>주는 쪽</td>
+<td>(내가/누군가가) 줍니다</td>
+</tr>
+<tr>
+<td>もらいます</td>
+<td>나·타인 ← 타인</td>
+<td>받는 쪽</td>
+<td>(내가/누군가가) 받습니다</td>
+</tr>
+<tr>
+<td>くれます</td>
+<td>타인 → 나·내 주변</td>
+<td>받는 쪽(나)</td>
+<td>(상대방이 나에게) 줍니다</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <strong>핵심 포인트</strong></p>
+<ul>
+<li><code>あげます</code>와 <code>くれます</code>는 모두 &quot;주다&quot;이지만, <strong>누가 나에게 주느냐</strong>가 다릅니다.</li>
+<li><code>くれます</code>는 <strong>반드시 나(또는 내 가족·내 편)에게</strong> 줄 때만 씁니다.</li>
+<li><code>あげます</code>는 나→타인, 또는 타인→타인에게 줄 때 씁니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="2---주다-나타인--타인타인" tabindex="-1" data-src-line="40">2. あげます — 주다 (나→타인 / 타인→타인) <a class="header-anchor" href="#2---주다-나타인--타인타인" aria-hidden="true">#</a></h2>
+<h3 id="기본-구조" tabindex="-1" data-src-line="42">기본 구조 <a class="header-anchor" href="#기본-구조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주는 사람] は [받는 사람] に [물건] を あげます
+</code></pre></div></code></pre>
+<h3 id="예문" tabindex="-1" data-src-line="48">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは ともだちに プレゼントを あげます。
+와타시와 토모다치니 푸레젠토오 아게마스。
+(나는 친구에게 선물을 줍니다.)
+
+わたしは せんせいに はなを あげました。
+와타시와 센세이니 하나오 아게마시타。
+(나는 선생님께 꽃을 드렸습니다.)
+
+たなかさんは すずきさんに ほんを あげました。
+타나카상와 스즈키상니 혼오 아게마시타。
+(다나카 씨는 스즈키 씨에게 책을 주었습니다.)
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>주의</strong>: 윗사람에게 줄 때 <code>あげます</code>를 그대로 쓰면 다소 무례하게 들릴 수 있습니다.<br>
+윗사람께 드릴 때는 겸양어 <strong>さしあげます</strong> 를 사용합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">せんせいに ほんを さしあげました。
+선생님께 책을 드렸습니다.
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="3---받다-나타인--타인" tabindex="-1" data-src-line="73">3. もらいます — 받다 (나·타인 ← 타인) <a class="header-anchor" href="#3---받다-나타인--타인" aria-hidden="true">#</a></h2>
+<h3 id="기본-구조-1" tabindex="-1" data-src-line="75">기본 구조 <a class="header-anchor" href="#기본-구조-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[받는 사람] は [주는 사람] に/から [물건] を もらいます
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>に vs から</strong></p>
+<ul>
+<li><code>に</code>: 직접 건네받는 상황 (비교적 친근한 관계)</li>
+<li><code>から</code>: 출처·근원을 강조할 때 (약간 더 격식체 느낌)<br>
+일상 회화에서는 두 조사 모두 자연스럽게 쓰입니다.</li>
+</ul>
+</blockquote>
+<h3 id="예문-1" tabindex="-1" data-src-line="86">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは ともだちに プレゼントを もらいました。
+와타시와 토모다치니 푸레젠토오 모라이마시타。
+(나는 친구에게서 선물을 받았습니다.)
+
+わたしは せんせいから アドバイスを もらいました。
+와타시와 센세이카라 아도바이스오 모라이마시타。
+(나는 선생님으로부터 조언을 받았습니다.)
+
+たなかさんは かいしゃから ボーナスを もらいました。
+타나카상와 카이샤카라 보나스오 모라이마시타。
+(다나카 씨는 회사로부터 보너스를 받았습니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4---주다-타인--나내-주변" tabindex="-1" data-src-line="104">4. くれます — 주다 (타인 → 나·내 주변) <a class="header-anchor" href="#4---주다-타인--나내-주변" aria-hidden="true">#</a></h2>
+<h3 id="기본-구조-2" tabindex="-1" data-src-line="106">기본 구조 <a class="header-anchor" href="#기본-구조-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주는 사람] は [나/내 가족] に [물건] を くれます
+</code></pre></div></code></pre>
+<h3 id="예문-2" tabindex="-1" data-src-line="112">예문 <a class="header-anchor" href="#예문-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ともだちは わたしに プレゼントを くれました。
+토모다치와 와타시니 푸레젠토오 쿠레마시타。
+(친구가 나에게 선물을 주었습니다.)
+
+せんせいは わたしに ほんを くれました。
+센세이와 와타시니 혼오 쿠레마시타。
+(선생님이 나에게 책을 주셨습니다.)
+
+はははわたしの いもうとに おかしを くれました。
+하하와 와타시노 이모우토니 오카시오 쿠레마시타。
+(어머니가 내 여동생에게 과자를 주셨습니다.) ← 내 가족에게도 くれます 사용 가능
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>くれます는 타인→나(내 편)일 때만</strong><br>
+타인→타인의 상황에는 くれます를 쓸 수 없습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ ともだちが わたしに くれました (친구→나 ✓)
+❌ たなかさんが すずきさんに くれました (타인→타인 ✗)
+✅ たなかさんが すずきさんに あげました (타인→타인 ✓)
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="5-세-동사-완전-비교" tabindex="-1" data-src-line="138">5. 세 동사 완전 비교 <a class="header-anchor" href="#5-세-동사-완전-비교" aria-hidden="true">#</a></h2>
+<p>같은 상황을 세 가지 시점으로 표현해봅니다.</p>
+<p><strong>상황: 친구가 나에게 책을 주었다.</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① あげます 시점 (주는 쪽):
+  ともだちは わたしに ほんを あげました。
+  (친구는 나에게 책을 주었습니다.) ← 어색! 보통 くれます를 씀
+
+② もらいます 시점 (받는 쪽 = 나):
+  わたしは ともだちに/から ほんを もらいました。
+  (나는 친구에게서 책을 받았습니다.) ✅ 자연스러움
+
+③ くれます 시점 (받는 쪽 = 나, 주는 쪽 강조):
+  ともだちは わたしに ほんを くれました。
+  (친구가 나에게 책을 주었습니다.) ✅ 자연스러움
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>실용 포인트</strong></p>
+<ul>
+<li>내가 받은 상황 → <code>もらいます</code> 또는 <code>くれます</code> 둘 다 자연스럽습니다.</li>
+<li>주는 사람을 주어로 강조하고 싶을 때 → <code>くれます</code></li>
+<li>받은 나를 주어로 표현하고 싶을 때 → <code>もらいます</code></li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="6-수수-동사-방향-다이어그램" tabindex="-1" data-src-line="165">6. 수수 동사 방향 다이어그램 <a class="header-anchor" href="#6-수수-동사-방향-다이어그램" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">         あげます
+나 ─────────────────→ 타인
+
+         あげます
+타인 ───────────────→ 다른 타인
+
+         くれます
+타인 ───────────────→ 나(·내 주변)
+
+         もらいます
+나 ←────────────────  타인
+(받는 내가 주어)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-정중도별-수수-동사-변형" tabindex="-1" data-src-line="184">7. 정중도별 수수 동사 변형 <a class="header-anchor" href="#7-정중도별-수수-동사-변형" aria-hidden="true">#</a></h2>
+<p>상대방에 따라 동사를 바꿔 정중도를 조절할 수 있습니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">방향</th>
+<th scope="col">보통체</th>
+<th scope="col">정중체(です·ます)</th>
+<th scope="col">겸양어·존경어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>내가 줄 때</td>
+<td>あげる</td>
+<td>あげます</td>
+<td>さしあげます</td>
+</tr>
+<tr>
+<td>내가 받을 때</td>
+<td>もらう</td>
+<td>もらいます</td>
+<td>いただきます</td>
+</tr>
+<tr>
+<td>상대가 줄 때</td>
+<td>くれる</td>
+<td>くれます</td>
+<td>くださいます</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="예문-비교" tabindex="-1" data-src-line="194">예문 비교 <a class="header-anchor" href="#예문-비교" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【보통】
+ともだちに ほんを あげた。
+친구에게 책을 줬어.
+
+【정중】
+ともだちに ほんを あげました。
+친구에게 책을 주었습니다.
+
+【겸양 - 윗사람에게 줄 때】
+せんせいに ほんを さしあげました。
+선생님께 책을 드렸습니다.
+
+【존경 - 윗사람이 줄 때】
+せんせいが わたしに ほんを くださいました。
+선생님이 저에게 책을 주셨습니다.
+
+【겸양 - 윗사람에게 받을 때】
+せんせいから ほんを いただきました。
+선생님으로부터 책을 받았습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-수수-동사--형--은혜-표현" tabindex="-1" data-src-line="220">8. 수수 동사 + て형 — 은혜 표현 <a class="header-anchor" href="#8-수수-동사--형--은혜-표현" aria-hidden="true">#</a></h2>
+<p>수수 동사는 て형과 결합하면 <strong>“~해 줍니다/받습니다”</strong> 는 은혜 표현이 됩니다.<br>
+(て형은 11강에서 자세히 다루므로, 여기서는 패턴으로 먼저 익혀둡니다.)</p>
+<h3 id="--내가-해줍니다" tabindex="-1" data-src-line="225">～てあげます — 내가 해줍니다 <a class="header-anchor" href="#--내가-해줍니다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは ともだちに にほんごを おしえてあげます。
+나는 친구에게 일본어를 가르쳐 줍니다.
+
+にもつを もってあげましょうか。
+짐을 들어드릴까요?
+</code></pre></div></code></pre>
+<h3 id="--해-받습니다-부탁해서-해-받음" tabindex="-1" data-src-line="235">～てもらいます — 해 받습니다 (부탁해서 해 받음) <a class="header-anchor" href="#--해-받습니다-부탁해서-해-받음" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは ともだちに にほんごを おしえてもらいました。
+나는 친구에게 일본어를 가르쳐 받았습니다. (친구가 가르쳐 줬습니다.)
+
+しゃしんを とってもらいました。
+사진을 찍어 받았습니다. (찍어달라고 해서 찍혔습니다.)
+</code></pre></div></code></pre>
+<h3 id="--상대가-나를-위해-해줍니다" tabindex="-1" data-src-line="245">～てくれます — 상대가 나를 위해 해줍니다 <a class="header-anchor" href="#--상대가-나를-위해-해줍니다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ともだちが にほんごを おしえてくれました。
+친구가 (나에게) 일본어를 가르쳐 주었습니다.
+
+かれが てつだってくれました。
+그가 도와주었습니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>てもらいます vs てくれます</strong><br>
+둘 다 &quot;~해 줬다&quot;는 의미지만:</p>
+<ul>
+<li><code>てもらいました</code> → &quot;내가 부탁해서 해줬다&quot;는 뉘앙스</li>
+<li><code>てくれました</code> → &quot;상대방이 자발적으로 해줬다&quot;는 뉘앙스</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="9-수수-표현-한눈에-정리" tabindex="-1" data-src-line="262">9. 수수 표현 한눈에 정리 <a class="header-anchor" href="#9-수수-표현-한눈에-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">상황</th>
+<th scope="col">사용 동사</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>내가 친구에게 준다</td>
+<td>あげます</td>
+<td>わたしは ともだちに ～を あげます</td>
+</tr>
+<tr>
+<td>내가 선생님께 드린다</td>
+<td>さしあげます</td>
+<td>せんせいに ～を さしあげます</td>
+</tr>
+<tr>
+<td>내가 친구에게 받는다</td>
+<td>もらいます</td>
+<td>わたしは ともだちに ～を もらいます</td>
+</tr>
+<tr>
+<td>내가 선생님께 받는다</td>
+<td>いただきます</td>
+<td>せんせいから ～を いただきます</td>
+</tr>
+<tr>
+<td>친구가 나에게 준다</td>
+<td>くれます</td>
+<td>ともだちは わたしに ～を くれます</td>
+</tr>
+<tr>
+<td>선생님이 나에게 주신다</td>
+<td>くださいます</td>
+<td>せんせいは わたしに ～を くださいます</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="10-실전-회화--선물-주고받기" tabindex="-1" data-src-line="275">10. 실전 회화 — 선물 주고받기 <a class="header-anchor" href="#10-실전-회화--선물-주고받기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: これ、どうぞ。たんじょうびの プレゼントです。
+   코레、도우조。탄죠우비노 푸레젠토데스。
+   (자, 받으세요. 생일 선물입니다.)
+
+B: わあ、ありがとう！なにを くれたの？
+   와아、아리가토우！나니오 쿠레타노?
+   (와, 고마워! 뭘 줬어?)
+
+A: あけてみて。
+   아케테미테。
+   (열어봐.)
+
+B: わあ、かわいい！ずっと ほしかったんだ。
+   와아、카와이이！줏토 호시캇탄다。
+   (와, 귀여워! 오래전부터 갖고 싶었어.)
+
+A: よかった。でも、もう もっているかと おもって…。
+   요카타。데모、모우 못테이루카토 오못테...。
+   (다행이야. 그런데, 이미 갖고 있을까봐...)
+
+B: ぜんぜん！ほんとうに ありがとう。
+   젠젠！혼토우니 아리가토우。
+   (전혀! 정말 고마워.)
+
+---
+
+[나중에 친구에게 설명하는 상황]
+
+C: たんじょうびに なにを もらいましたか。
+   탄죠우비니 나니오 모라이마시타카?
+   (생일에 무엇을 받았습니까?)
+
+B: ともだちが かわいい ぬいぐるみを くれました。
+   토모다치가 카와이이 누이구루미오 쿠레마시타。
+   (친구가 귀여운 봉제인형을 주었습니다.)
+   
+   それから、かぞくから りょこうけんを もらいました！
+   소레카라、카조쿠카라 료코우켄오 모라이마시타!
+   (그리고, 가족으로부터 여행권을 받았습니다!)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-문형-정리" tabindex="-1" data-src-line="321">11. 문형 정리 <a class="header-anchor" href="#11-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">의미</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AはBに ～を あげます</td>
+<td>A가 B에게 ~을 줍니다</td>
+<td>わたしは ともだちに ほんを あげます</td>
+</tr>
+<tr>
+<td>AはBに/から ～を もらいます</td>
+<td>A가 B에게서 ~을 받습니다</td>
+<td>わたしは ともだちに ほんを もらいます</td>
+</tr>
+<tr>
+<td>AはBに ～を くれます</td>
+<td>A가 B(나)에게 ~을 줍니다</td>
+<td>ともだちは わたしに ほんを くれます</td>
+</tr>
+<tr>
+<td>～てあげます</td>
+<td>~해 줍니다 (내가)</td>
+<td>おしえてあげます</td>
+</tr>
+<tr>
+<td>～てもらいます</td>
+<td>~해 받습니다 (부탁)</td>
+<td>おしえてもらいます</td>
+</tr>
+<tr>
+<td>～てくれます</td>
+<td>~해 줍니다 (상대가 나에게)</td>
+<td>おしえてくれます</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="334">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>수수 표현의 핵심은 <strong>“나를 기준으로 물건이 오는가, 가는가”</strong> 입니다.<br>
+처음에는 어색하게 느껴지더라도, 실제 대화에서 여러 번 사용하다 보면 자연스럽게 몸에 배게 됩니다.</p>
+<p>특히 <code>くれます</code>와 <code>あげます</code>의 혼동은 일본인이 들었을 때 어색함을 느끼는 대표적인 실수이므로, 이번 강의 내용을 충분히 반복 연습하는 것을 권장합니다.</p>
+<p>다음 강에서는 <strong>형용사(い형용사·な형용사)</strong> 를 배우며 문장을 더 풍부하게 표현하는 방법을 익혀봅니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨]</strong></p>
+<ul>
+<li>1강: 히라가나 · 가타카나 완전 정복</li>
+<li>2강: 발음 규칙 — 탁음 · 반탁음 · 요음 · 촉음 · 장음</li>
+<li>3강: 자기소개 — ～は～です · じゃありません · ですか</li>
+<li>4강: 지시대명사 — これ · それ · あれ · どれ</li>
+<li>5강: 숫자와 시간 표현 — ～時 · ～分 · ～円</li>
+<li>6강: 동사 기초 — ます형 · 이동 표현 (～へ行きます)</li>
+<li>7강: 조사 — を · で · と · に · へ · が</li>
+<li><strong>8강</strong>: 수수 표현 — あげます · もらいます · くれます ← 현재 글</li>
+<li>9강: 형용사 — い형용사 · な형용사 활용</li>
+<li>10강: 존재 표현 — います · あります · 위치 표현</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현 — 동사 가능형 · ～ことができます</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li>16강: 조건 표현 — ～たら · ～ば · ～と · ～なら</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$La",null,{"content":"$b"}]}]}]
+7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-07-particles","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-07-particles",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-07-particles","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}]}],["$","li","japanese/japanese-lesson-06-verb-basics",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-06-verb-basics","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현"}]}],["$","li","japanese/japanese-lesson-05-numbers-time",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]}]]}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

@@ -19,6 +19,7 @@
 <url><loc>https://rxnovx.github.io/post/japanese/japanese-lesson-05-numbers-time/</loc><lastmod>2026-04-28T18:13:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/japanese/japanese-lesson-06-verb-basics/</loc><lastmod>2026-04-29T09:13:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles/</loc><lastmod>2026-04-29T12:35:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/post/japanese/japanese-lesson-08-giving-receiving/</loc><lastmod>2026-04-29T14:34:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/linux/rocky-linux-series-1-install/</loc><lastmod>2026-01-22T13:13:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/linux/rocky-linux-series-10-configure-secure-openssh/</loc><lastmod>2026-01-28T11:48:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/linux/rocky-linux-series-11-analyzing-and-storing-logs/</loc><lastmod>2026-01-28T12:01:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -52,6 +53,7 @@
 <url><loc>https://rxnovx.github.io/posts/page/4/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/posts/page/5/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/agemasu/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/allow/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/anacron/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/analysis/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -93,6 +95,7 @@
 <url><loc>https://rxnovx.github.io/tags/firewalld/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/firewalld-zone/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/fstab/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/giving-receiving/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/grammar/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/grep/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/group/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -109,6 +112,7 @@
 <url><loc>https://rxnovx.github.io/tags/kernel/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/koko-soko-asoko/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/kore-sore-are/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/kuremasu/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/language/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/language-learning/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/linux/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -148,6 +152,7 @@
 <url><loc>https://rxnovx.github.io/tags/memory/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/mind/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/mode/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/moraimasu/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/mount/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/movement/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/nas/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -258,9 +263,9 @@
 <url><loc>https://rxnovx.github.io/tags/linux/page/3/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/rocky-linux/page/2/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/chat/</loc><lastmod>2026-04-29T12:49:23.944Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/design-guide-pro/</loc><lastmod>2026-04-29T12:49:23.944Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/seojun/</loc><lastmod>2026-04-29T12:49:23.944Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/static/privacy/bt-shutter-remote-privacy-policy-admob/</loc><lastmod>2026-04-29T12:49:23.944Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/chat/</loc><lastmod>2026-04-29T23:02:53.019Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/design-guide-pro/</loc><lastmod>2026-04-29T23:02:53.019Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/seojun/</loc><lastmod>2026-04-29T23:02:53.019Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/static/privacy/bt-shutter-remote-privacy-policy-admob/</loc><lastmod>2026-04-29T23:02:53.019Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/about/</loc></url>
 </urlset>
