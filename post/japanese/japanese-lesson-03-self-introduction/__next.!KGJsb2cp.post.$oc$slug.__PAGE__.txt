@@ -1,0 +1,328 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+d:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+f:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/css/7e7e938f3d35cc7c.css","style"]
+0:{"buildId":"iUSudSC3zLDccwavwZm6d","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-03-self-introduction\"},\"headline\":\"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか\",\"description\":\"일본어 첫 문장! 명사문의 긍정·부정·의문 형태와 자기소개 표현을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-27T12:55:00.000Z\",\"dateModified\":\"2026-04-27T12:55:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-03-self-introduction\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"self-introduction\",\"desu\",\"noun-sentence\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか","slugPath":"japanese/japanese-lesson-03-self-introduction","headings":[{"id":"일본어-3강-자기소개------","text":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-기본-문형-","text":"1. 기본 문형: ～は～です","level":2},{"id":"예문","text":"예문","level":3},{"id":"2-부정문-","text":"2. 부정문: ～は～じゃありません","level":2},{"id":"예문","text":"예문","level":3},{"id":"3-의문문-","text":"3. 의문문: ～は～ですか","level":2},{"id":"예문-및-대답","text":"예문 및 대답","level":3},{"id":"4-조사---소속소유-표현","text":"4. 조사 の — 소속·소유 표현","level":2},{"id":"예문","text":"예문","level":3},{"id":"5-조사---도-표현","text":"5. 조사 も — '~도' 표현","level":2},{"id":"6-자주-쓰는-자기소개-어휘","text":"6. 자주 쓰는 자기소개 어휘","level":2},{"id":"국적","text":"국적","level":3},{"id":"직업","text":"직업","level":3},{"id":"소속-표현","text":"소속 표현","level":3},{"id":"7-자기소개-실전-예문","text":"7. 자기소개 실전 예문","level":2},{"id":"8-문형-정리","text":"8. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-03-self-introduction"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 첫 문장! 명사문의 긍정·부정·의문 형태와 자기소개 표현을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-27T12:55:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 27일"]}],["$","time",null,{"dateTime":"2026-04-27T12:55:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 27일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],"$L3","$L4","$L5","$L6","$L7"]}]]}],"$L8"]}],"$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span","self-introduction",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","self-introduction"]}]
+4:["$","span","desu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","desu"]}]
+5:["$","span","noun-sentence",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","noun-sentence"]}]
+6:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
+7:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
+8:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+e:T3aa8,<h1 id="일본어-3강-자기소개------" tabindex="-1" data-src-line="1">일본어 3강: 자기소개 — ～は～です · じゃありません · ですか <a class="header-anchor" href="#일본어-3강-자기소개------" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#일본어-3강-자기소개------">일본어 3강: 자기소개 — ～は～です · じゃありません · ですか </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-기본-문형-">1. 기본 문형: ～は～です </a><ul><li><a href="#예문">예문 </a></li></ul></li><li><a href="#2-부정문-">2. 부정문: ～は～じゃありません </a><ul><li><a href="#예문-1">예문 </a></li></ul></li><li><a href="#3-의문문-">3. 의문문: ～は～ですか </a><ul><li><a href="#예문-및-대답">예문 및 대답 </a></li></ul></li><li><a href="#4-조사---소속소유-표현">4. 조사 の — 소속·소유 표현 </a><ul><li><a href="#예문-2">예문 </a></li></ul></li><li><a href="#5-조사---도-표현">5. 조사 も — ‘~도’ 표현 </a></li><li><a href="#6-자주-쓰는-자기소개-어휘">6. 자주 쓰는 자기소개 어휘 </a><ul><li><a href="#국적">국적 </a></li><li><a href="#직업">직업 </a></li><li><a href="#소속-표현">소속 표현 </a></li></ul></li><li><a href="#7-자기소개-실전-예문">7. 자기소개 실전 예문 </a></li><li><a href="#8-문형-정리">8. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>드디어 문장입니다!<br>
+3강에서는 일본어에서 가장 먼저 배우는 문형인 <strong>명사문</strong>을 다룹니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li><code>～は～です</code> 로 긍정 문장을 만들 수 있습니다.</li>
+<li><code>～は～じゃありません</code> 으로 부정 문장을 만들 수 있습니다.</li>
+<li><code>～は～ですか</code> 로 의문 문장을 만들 수 있습니다.</li>
+<li>조사 <code>は</code> · <code>も</code> · <code>の</code> 의 기본 쓰임을 이해할 수 있습니다.</li>
+<li>간단한 자기소개를 일본어로 할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-기본-문형-" tabindex="-1" data-src-line="19">1. 기본 문형: ～は～です <a class="header-anchor" href="#1-기본-문형-" aria-hidden="true">#</a></h2>
+<p>일본어 명사문의 기본 구조는 다음과 같습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] は [명사] です。
+</code></pre></div></code></pre>
+<table>
+<thead>
+<tr>
+<th>요소</th>
+<th>역할</th>
+<th>비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>は</td>
+<td>주제 조사</td>
+<td>한국어 '은/는’에 해당, <strong>'와’로 발음</strong></td>
+</tr>
+<tr>
+<td>です</td>
+<td>정중한 서술어</td>
+<td>'~입니다’에 해당</td>
+</tr>
+</tbody>
+</table>
+<h3 id="예문" tabindex="-1" data-src-line="32">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは キム・チョルスです。
+와타시와 키무 쵸루스데스。
+(저는 김철수입니다.)
+
+わたしは かんこくじんです。
+와타시와 칸코쿠진데스。
+(저는 한국인입니다.)
+
+わたしは かいしゃいんです。
+와타시와 카이샤인데스。
+(저는 회사원입니다.)
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>주의</strong>: <code>は</code> 는 조사로 쓰일 때 <strong>‘와(wa)’</strong> 로 읽습니다. 문자 그대로 '하(ha)'로 읽지 않도록 주의하세요.</p>
+</blockquote>
+<hr>
+<h2 id="2-부정문-" tabindex="-1" data-src-line="52">2. 부정문: ～は～じゃありません <a class="header-anchor" href="#2-부정문-" aria-hidden="true">#</a></h2>
+<p>긍정문의 <code>です</code> 를 부정으로 바꾸면 됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] は [명사] じゃありません。
+</code></pre></div></code></pre>
+<table>
+<thead>
+<tr>
+<th>표현</th>
+<th>뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>じゃありません</td>
+<td>일반적인 정중 부정 (회화체)</td>
+</tr>
+<tr>
+<td>ではありません</td>
+<td>보다 격식 있는 부정 (문어체·공식석상)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="예문-1" tabindex="-1" data-src-line="65">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは にほんじんじゃありません。
+와타시와 니혼진쟈아리마셍。
+(저는 일본인이 아닙니다.)
+
+かれは せんせいじゃありません。
+카레와 센세이쟈아리마셍。
+(그는 선생님이 아닙니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-의문문-" tabindex="-1" data-src-line="79">3. 의문문: ～は～ですか <a class="header-anchor" href="#3-의문문-" aria-hidden="true">#</a></h2>
+<p>일본어 의문문은 문장 끝에 <code>か</code> 를 붙이기만 하면 됩니다.<br>
+어순 변화가 없고, 억양을 올릴 필요도 없습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] は [명사] ですか。
+</code></pre></div></code></pre>
+<h3 id="예문-및-대답" tabindex="-1" data-src-line="88">예문 및 대답 <a class="header-anchor" href="#예문-및-대답" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: あなたは がくせいですか。
+   아나타와 가쿠세이데스카?
+   (당신은 학생입니까?)
+
+A: はい、がくせいです。
+   하이、가쿠세이데스。
+   (네, 학생입니다.)
+
+A: いいえ、がくせいじゃありません。
+   이이에、가쿠세이쟈아리마셍。
+   (아니요, 학생이 아닙니다.)
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>팁</strong>: 일본어에서 <code>あなた(당신)</code> 는 직접 사용하면 다소 어색할 수 있습니다. 실제 회화에서는 상대방의 이름이나 직함을 사용하는 것이 자연스럽습니다.</p>
+</blockquote>
+<hr>
+<h2 id="4-조사---소속소유-표현" tabindex="-1" data-src-line="108">4. 조사 の — 소속·소유 표현 <a class="header-anchor" href="#4-조사---소속소유-표현" aria-hidden="true">#</a></h2>
+<p><code>の</code> 는 한국어의 <code>~의</code> 에 해당하는 조사입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[명사A] の [명사B]
+→ A의 B
+</code></pre></div></code></pre>
+<h3 id="예문-2" tabindex="-1" data-src-line="117">예문 <a class="header-anchor" href="#예문-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは スマートフォンかいしゃの キムです。
+(저는 스마트폰 회사의 김입니다.)
+
+これは わたしの ほんです。
+(이것은 제 책입니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-조사---도-표현" tabindex="-1" data-src-line="129">5. 조사 も — ‘~도’ 표현 <a class="header-anchor" href="#5-조사---도-표현" aria-hidden="true">#</a></h2>
+<p><code>も</code> 는 한국어의 <code>~도</code> 에 해당합니다. <code>は</code> 대신 사용합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしも かんこくじんです。
+(저도 한국인입니다.)
+
+かれも がくせいです。
+(그도 학생입니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-자주-쓰는-자기소개-어휘" tabindex="-1" data-src-line="143">6. 자주 쓰는 자기소개 어휘 <a class="header-anchor" href="#6-자주-쓰는-자기소개-어휘" aria-hidden="true">#</a></h2>
+<h3 id="국적" tabindex="-1" data-src-line="145">국적 <a class="header-anchor" href="#국적" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>한국어</th>
+<th>일본어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>한국인</td>
+<td>かんこくじん</td>
+</tr>
+<tr>
+<td>일본인</td>
+<td>にほんじん</td>
+</tr>
+<tr>
+<td>미국인</td>
+<td>アメリカじん</td>
+</tr>
+<tr>
+<td>중국인</td>
+<td>ちゅうごくじん</td>
+</tr>
+</tbody>
+</table>
+<h3 id="직업" tabindex="-1" data-src-line="154">직업 <a class="header-anchor" href="#직업" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>한국어</th>
+<th>일본어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>학생</td>
+<td>がくせい</td>
+</tr>
+<tr>
+<td>회사원</td>
+<td>かいしゃいん</td>
+</tr>
+<tr>
+<td>선생님</td>
+<td>せんせい</td>
+</tr>
+<tr>
+<td>의사</td>
+<td>いしゃ</td>
+</tr>
+<tr>
+<td>엔지니어</td>
+<td>エンジニア</td>
+</tr>
+<tr>
+<td>프리랜서</td>
+<td>フリーランサー</td>
+</tr>
+</tbody>
+</table>
+<h3 id="소속-표현" tabindex="-1" data-src-line="165">소속 표현 <a class="header-anchor" href="#소속-표현" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>한국어</th>
+<th>일본어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>~대학교의 학생</td>
+<td>～だいがくの がくせい</td>
+</tr>
+<tr>
+<td>~회사의 사원</td>
+<td>～かいしゃの しゃいん</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="7-자기소개-실전-예문" tabindex="-1" data-src-line="174">7. 자기소개 실전 예문 <a class="header-anchor" href="#7-자기소개-실전-예문" aria-hidden="true">#</a></h2>
+<p>아래는 실제 자기소개 흐름입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">はじめまして。
+하지메마시테。
+(처음 뵙겠습니다.)
+
+わたしは パク・ジウンです。
+와타시와 파쿠 지운데스。
+(저는 박지은입니다.)
+
+かんこくじんです。
+칸코쿠진데스。
+(한국인입니다.)
+
+ソウルだいがくの がくせいです。
+소우루다이가쿠노 가쿠세이데스。
+(서울대학교 학생입니다.)
+
+どうぞ よろしく おねがいします。
+도우조 요로시쿠 오네가이시마스。
+(잘 부탁드립니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-문형-정리" tabindex="-1" data-src-line="202">8. 문형 정리 <a class="header-anchor" href="#8-문형-정리" aria-hidden="true">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>문형</th>
+<th>의미</th>
+<th>예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>～は～です</td>
+<td>~은/는 ~입니다</td>
+<td>わたしは がくせいです</td>
+</tr>
+<tr>
+<td>～は～じゃありません</td>
+<td>~은/는 ~이 아닙니다</td>
+<td>わたしは せんせいじゃありません</td>
+</tr>
+<tr>
+<td>～は～ですか</td>
+<td>~은/는 ~입니까?</td>
+<td>あなたは にほんじんですか</td>
+</tr>
+<tr>
+<td>～も～です</td>
+<td>~도 ~입니다</td>
+<td>かれも かいしゃいんです</td>
+</tr>
+<tr>
+<td>AのB</td>
+<td>A의 B</td>
+<td>わたしの ほん</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="214">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>이제 일본어로 <strong>간단한 자기소개</strong>를 할 수 있게 되었습니다.<br>
+<code>は・も・の</code> 세 조사는 앞으로도 모든 문장에서 계속 등장하므로 확실히 익혀두는 것이 중요합니다.</p>
+<p>다음 강에서는 <strong>지시대명사(これ·それ·あれ·どれ)</strong> 를 배우며 주변 사물을 일본어로 표현해 봅니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨]</strong></p>
+<ul>
+<li>1강: 히라가나 · 가타카나 완전 정복</li>
+<li>2강: 발음 규칙 — 탁음 · 반탁음 · 요음 · 촉음 · 장음</li>
+<li><strong>3강</strong>: 자기소개 — ～は～です · じゃありません · ですか ← 현재 글</li>
+<li>4강: 지시대명사 — これ · それ · あれ · どれ</li>
+<li>5강: 숫자와 시간 표현 — ～時 · ～分 · ～円</li>
+<li>6강: 동사 기초 — ます형 · 이동 표현 (～へ行きます)</li>
+<li>7강: 조사 — を · で · と · に</li>
+<li>8강: 수수 표현 — あげます · もらいます · くれます</li>
+<li>9강: 형용사 — い형용사 · な형용사 활용</li>
+<li>10강: 존재 표현 — います · あります · 위치 표현</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현 — 동사 가능형 · ～ことができます</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li>16강: 조건 표현 — ～たら · ～ば · ～と · ～なら</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+9:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Ld",null,{"content":"$e"}]}]}]
+a:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-02-pronunciation","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-04-demonstratives","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-05-numbers-time",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]}],["$","li","japanese/japanese-lesson-04-demonstratives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-04-demonstratives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}]}],["$","li","japanese/japanese-lesson-02-pronunciation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-02-pronunciation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}]}]]}]]}]]}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e7e938f3d35cc7c.css","precedence":"next"}]
+c:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

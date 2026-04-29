@@ -1,0 +1,356 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+b:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+d:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+e:I[484,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/css/7e7e938f3d35cc7c.css","style"]
+0:{"buildId":"iUSudSC3zLDccwavwZm6d","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-01-hiragana-katakana\"},\"headline\":\"일본어 1강: 히라가나와 가타카나 완전 정복\",\"description\":\"일본어의 첫걸음, 히라가나와 가타카나를 체계적으로 익혀봅니다.\",\"datePublished\":\"2026-04-25T11:32:00.000Z\",\"dateModified\":\"2026-04-25T11:32:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-01-hiragana-katakana\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"hiragana\",\"katakana\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 1강: 히라가나와 가타카나 완전 정복","slugPath":"japanese/japanese-lesson-01-hiragana-katakana","headings":[{"id":"일본어-1강-히라가나와-가타카나-완전-정복","text":"일본어 1강: 히라가나와 가타카나 완전 정복","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-일본어-문자-체계-개요","text":"1. 일본어 문자 체계 개요","level":2},{"id":"2-히라가나-","text":"2. 히라가나 (ひらがな)","level":2},{"id":"오십음도","text":"오십음도","level":3},{"id":"3-가타카나-","text":"3. 가타카나 (カタカナ)","level":2},{"id":"오십음도","text":"오십음도","level":3},{"id":"가타카나-예시","text":"가타카나 예시","level":3},{"id":"4-히라가나-vs-가타카나-언제-쓰나","text":"4. 히라가나 vs 가타카나, 언제 쓰나?","level":2},{"id":"5-학습-추천-순서","text":"5. 학습 추천 순서","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-01-hiragana-katakana"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 1강: 히라가나와 가타카나 완전 정복"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어의 첫걸음, 히라가나와 가타카나를 체계적으로 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-25T11:32:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 25일"]}],["$","time",null,{"dateTime":"2026-04-25T11:32:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 25일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","hiragana",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","hiragana"]}],"$L3","$L4","$L5"]}]]}],"$L6"]}],"$L7","$L8"]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+3:["$","span","katakana",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","katakana"]}]
+4:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
+5:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+c:T2723,<h1 id="일본어-1강-히라가나와-가타카나-완전-정복" tabindex="-1" data-src-line="1">일본어 1강: 히라가나와 가타카나 완전 정복 <a class="header-anchor" href="#일본어-1강-히라가나와-가타카나-완전-정복" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#일본어-1강-히라가나와-가타카나-완전-정복">일본어 1강: 히라가나와 가타카나 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-일본어-문자-체계-개요">1. 일본어 문자 체계 개요 </a></li><li><a href="#2-히라가나-">2. 히라가나 (ひらがな) </a><ul><li><a href="#오십음도">오십음도 </a></li></ul></li><li><a href="#3-가타카나-">3. 가타카나 (カタカナ) </a><ul><li><a href="#오십음도-1">오십음도 </a></li><li><a href="#가타카나-예시">가타카나 예시 </a></li></ul></li><li><a href="#4-히라가나-vs-가타카나-언제-쓰나">4. 히라가나 vs 가타카나, 언제 쓰나? </a></li><li><a href="#5-학습-추천-순서">5. 학습 추천 순서 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>이 시리즈는 일본어를 처음 배우는 분들을 위한 단계별 강의입니다.<br>
+1강에서는 일본어의 두 가지 기본 문자 체계인 <strong>히라가나</strong>와 <strong>가타카나</strong>를 다룹니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>히라가나 46자를 읽고 쓸 수 있습니다.</li>
+<li>가타카나 46자를 읽고 쓸 수 있습니다.</li>
+<li>두 문자의 쓰임새 차이를 이해할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-일본어-문자-체계-개요" tabindex="-1" data-src-line="17">1. 일본어 문자 체계 개요 <a class="header-anchor" href="#1-일본어-문자-체계-개요" aria-hidden="true">#</a></h2>
+<p>일본어는 세 가지 문자를 혼용합니다.</p>
+<table>
+<thead>
+<tr>
+<th>문자</th>
+<th>종류</th>
+<th>쓰임새</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ひらがな (히라가나)</td>
+<td>표음문자</td>
+<td>일본 고유어, 문법 요소</td>
+</tr>
+<tr>
+<td>カタカナ (가타카나)</td>
+<td>표음문자</td>
+<td>외래어, 의성어, 강조</td>
+</tr>
+<tr>
+<td>漢字 (한자)</td>
+<td>표의문자</td>
+<td>명사, 동사 어간 등</td>
+</tr>
+</tbody>
+</table>
+<p>이 중 히라가나와 가타카나는 각각 <strong>46자</strong>로 구성되어 있으며,<br>
+일본어 학습의 가장 첫 번째 목표입니다.</p>
+<hr>
+<h2 id="2-히라가나-" tabindex="-1" data-src-line="32">2. 히라가나 (ひらがな) <a class="header-anchor" href="#2-히라가나-" aria-hidden="true">#</a></h2>
+<p>히라가나는 일본어의 기본 문자로, 모든 문장에 등장합니다.<br>
+아래 오십음도(五十音図)를 기준으로 익히는 것이 일반적입니다.</p>
+<h3 id="오십음도" tabindex="-1" data-src-line="37">오십음도 <a class="header-anchor" href="#오십음도" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>あ단</th>
+<th>い단</th>
+<th>う단</th>
+<th>え단</th>
+<th>お단</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>あ행</td>
+<td>あ</td>
+<td>い</td>
+<td>う</td>
+<td>え</td>
+<td>お</td>
+</tr>
+<tr>
+<td>か행</td>
+<td>か</td>
+<td>き</td>
+<td>く</td>
+<td>け</td>
+<td>こ</td>
+</tr>
+<tr>
+<td>さ행</td>
+<td>さ</td>
+<td>し</td>
+<td>す</td>
+<td>せ</td>
+<td>そ</td>
+</tr>
+<tr>
+<td>た행</td>
+<td>た</td>
+<td>ち</td>
+<td>つ</td>
+<td>て</td>
+<td>と</td>
+</tr>
+<tr>
+<td>な행</td>
+<td>な</td>
+<td>に</td>
+<td>ぬ</td>
+<td>ね</td>
+<td>の</td>
+</tr>
+<tr>
+<td>は행</td>
+<td>は</td>
+<td>ひ</td>
+<td>ふ</td>
+<td>へ</td>
+<td>ほ</td>
+</tr>
+<tr>
+<td>ま행</td>
+<td>ま</td>
+<td>み</td>
+<td>む</td>
+<td>め</td>
+<td>も</td>
+</tr>
+<tr>
+<td>や행</td>
+<td>や</td>
+<td>—</td>
+<td>ゆ</td>
+<td>—</td>
+<td>よ</td>
+</tr>
+<tr>
+<td>ら행</td>
+<td>ら</td>
+<td>り</td>
+<td>る</td>
+<td>れ</td>
+<td>ろ</td>
+</tr>
+<tr>
+<td>わ행</td>
+<td>わ</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>を</td>
+</tr>
+<tr>
+<td>ん</td>
+<td>ん</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>학습 팁</strong>: 한 번에 다 외우려 하지 말고, 행(行) 단위로 나눠서 하루에 2~3행씩 익히는 것을 권장합니다.</p>
+</blockquote>
+<hr>
+<h2 id="3-가타카나-" tabindex="-1" data-src-line="57">3. 가타카나 (カタカナ) <a class="header-anchor" href="#3-가타카나-" aria-hidden="true">#</a></h2>
+<p>가타카나는 히라가나와 발음이 동일하지만 <strong>외래어·외국 고유명사</strong>를 표기할 때 주로 사용합니다.</p>
+<h3 id="오십음도-1" tabindex="-1" data-src-line="61">오십음도 <a class="header-anchor" href="#오십음도-1" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>ア단</th>
+<th>イ단</th>
+<th>ウ단</th>
+<th>エ단</th>
+<th>オ단</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ア행</td>
+<td>ア</td>
+<td>イ</td>
+<td>ウ</td>
+<td>エ</td>
+<td>オ</td>
+</tr>
+<tr>
+<td>カ행</td>
+<td>カ</td>
+<td>キ</td>
+<td>ク</td>
+<td>ケ</td>
+<td>コ</td>
+</tr>
+<tr>
+<td>サ행</td>
+<td>サ</td>
+<td>シ</td>
+<td>ス</td>
+<td>セ</td>
+<td>ソ</td>
+</tr>
+<tr>
+<td>タ행</td>
+<td>タ</td>
+<td>チ</td>
+<td>ツ</td>
+<td>テ</td>
+<td>ト</td>
+</tr>
+<tr>
+<td>ナ행</td>
+<td>ナ</td>
+<td>ニ</td>
+<td>ヌ</td>
+<td>ネ</td>
+<td>ノ</td>
+</tr>
+<tr>
+<td>ハ행</td>
+<td>ハ</td>
+<td>ヒ</td>
+<td>フ</td>
+<td>ヘ</td>
+<td>ホ</td>
+</tr>
+<tr>
+<td>マ행</td>
+<td>マ</td>
+<td>ミ</td>
+<td>ム</td>
+<td>メ</td>
+<td>モ</td>
+</tr>
+<tr>
+<td>ヤ행</td>
+<td>ヤ</td>
+<td>—</td>
+<td>ユ</td>
+<td>—</td>
+<td>ヨ</td>
+</tr>
+<tr>
+<td>ラ행</td>
+<td>ラ</td>
+<td>リ</td>
+<td>ル</td>
+<td>レ</td>
+<td>ロ</td>
+</tr>
+<tr>
+<td>ワ행</td>
+<td>ワ</td>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>ヲ</td>
+</tr>
+<tr>
+<td>ン</td>
+<td>ン</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h3 id="가타카나-예시" tabindex="-1" data-src-line="77">가타카나 예시 <a class="header-anchor" href="#가타카나-예시" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>외래어</th>
+<th>가타카나</th>
+<th>원어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>커피</td>
+<td>コーヒー</td>
+<td>coffee</td>
+</tr>
+<tr>
+<td>스마트폰</td>
+<td>スマートフォン</td>
+<td>smartphone</td>
+</tr>
+<tr>
+<td>아이스크림</td>
+<td>アイスクリーム</td>
+<td>ice cream</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="4-히라가나-vs-가타카나-언제-쓰나" tabindex="-1" data-src-line="87">4. 히라가나 vs 가타카나, 언제 쓰나? <a class="header-anchor" href="#4-히라가나-vs-가타카나-언제-쓰나" aria-hidden="true">#</a></h2>
+<p>예문으로 확인해봅시다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">私はコーヒーが好きです。
+와타시와 코히가 스키데스。
+(나는 커피를 좋아합니다.)
+</code></pre></div></code></pre>
+<ul>
+<li><code>私</code> → 한자</li>
+<li><code>は</code>, <code>が</code>, <code>す</code>, <code>き</code>, <code>で</code>, <code>す</code> → 히라가나 (문법 요소)</li>
+<li><code>コーヒー</code> → 가타카나 (외래어)</li>
+</ul>
+<hr>
+<h2 id="5-학습-추천-순서" tabindex="-1" data-src-line="103">5. 학습 추천 순서 <a class="header-anchor" href="#5-학습-추천-순서" aria-hidden="true">#</a></h2>
+<ol>
+<li>히라가나 오십음도 암기</li>
+<li>가타카나 오십음도 암기</li>
+<li>탁음(゛), 반탁음(゜), 요음(ゃゅょ) 익히기</li>
+<li>간단한 단어로 읽기 연습</li>
+</ol>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="112">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>히라가나와 가타카나만 익혀도 일본어의 <strong>약 90% 이상의 문장을 소리 내어 읽을 수 있습니다</strong>.<br>
+한자를 몰라도 발음은 할 수 있다는 뜻이죠.</p>
+<p>다음 강에서는 일본어의 기본 문장 구조와 <strong>인사 표현</strong>을 다룹니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨]</strong></p>
+<ul>
+<li><strong>1강</strong>: 히라가나 · 가타카나 완전 정복 ← 현재 글</li>
+<li>2강: 발음 규칙 — 탁음 · 반탁음 · 요음 · 촉음 · 장음</li>
+<li>3강: 자기소개 — ～は～です · じゃありません · ですか</li>
+<li>4강: 지시대명사 — これ · それ · あれ · どれ</li>
+<li>5강: 숫자와 시간 표현 — ～時 · ～分 · ～円</li>
+<li>6강: 동사 기초 — ます형 · 이동 표현 (～へ行きます)</li>
+<li>7강: 조사 — を · で · と · に</li>
+<li>8강: 수수 표현 — あげます · もらいます · くれます</li>
+<li>9강: 형용사 — い형용사 · な형용사 활용</li>
+<li>10강: 존재 표현 — います · あります · 위치 표현</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현 — 동사 가능형 · ～ことができます</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li>16강: 조건 표현 — ～たら · ～ば · ～と · ～なら</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lb",null,{"content":"$c"}]}]}]
+8:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Ld",null,{"href":"/post/it/termux-fastapi-pydantic-install-summary","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"Termux에서 FastAPI 설치 실패 해결하기 (Pydantic-core/Rust 오류)"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Ld",null,{"href":"/post/japanese/japanese-lesson-02-pronunciation","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-05-numbers-time",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]}],["$","li","japanese/japanese-lesson-04-demonstratives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/japanese/japanese-lesson-04-demonstratives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}]}],["$","li","japanese/japanese-lesson-03-self-introduction",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/japanese/japanese-lesson-03-self-introduction","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}]}]]}]]}]]}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e7e938f3d35cc7c.css","precedence":"next"}]
+a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

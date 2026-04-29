@@ -1,0 +1,816 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-a1aaef3226a8c400.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/3fb4651c5bb94ef3.css","style"]
+:HL["/_next/static/css/7e7e938f3d35cc7c.css","style"]
+0:{"P":null,"b":"iUSudSC3zLDccwavwZm6d","c":["","post","japanese","japanese-lesson-05-numbers-time",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-05-numbers-time","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3fb4651c5bb94ef3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}]
+a:["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e7e938f3d35cc7c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-05-numbers-time\"},\"headline\":\"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복\",\"description\":\"일본어 숫자 읽기부터 시간·날짜·가격 표현까지, 일상생활에서 바로 쓰이는 수 표현을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-28T18:13:00.000Z\",\"dateModified\":\"2026-04-28T18:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-05-numbers-time\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"numbers\",\"time\",\"date\",\"price\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복","slugPath":"japanese/japanese-lesson-05-numbers-time","headings":[{"id":"일본어-5강-숫자시간날짜가격-표현-완전-정복","text":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-기본-숫자--010","text":"1. 기본 숫자 — 0~10","level":2},{"id":"2-1199-읽기","text":"2. 11~99 읽기","level":2},{"id":"3-100-이상의-숫자","text":"3. 100 이상의 숫자","level":2},{"id":"큰-숫자-읽기-연습","text":"큰 숫자 읽기 연습","level":3},{"id":"4-시간-표현----","text":"4. 시간 표현 — ～時 · ～分","level":2},{"id":"시-읽기","text":"시(時) 읽기","level":3},{"id":"분-읽기","text":"분(分) 읽기","level":3},{"id":"오전오후","text":"오전·오후","level":3},{"id":"시간-표현-예문","text":"시간 표현 예문","level":3},{"id":"시간-묻기","text":"시간 묻기","level":3},{"id":"5-날짜-표현----","text":"5. 날짜 표현 — ～月 · ～日","level":2},{"id":"월-읽기","text":"월(月) 읽기","level":3},{"id":"일-읽기--불규칙-주의","text":"일(日) 읽기 — 불규칙 주의!","level":3},{"id":"요일-표현","text":"요일 표현","level":3},{"id":"날짜-묻기","text":"날짜 묻기","level":3},{"id":"6-가격-표현--","text":"6. 가격 표현 — ～円","level":2},{"id":"가격-묻기","text":"가격 묻기","level":3},{"id":"7-기간-표현--","text":"7. 기간 표현 — から·まで","level":2},{"id":"8-실전-회화--약속-잡기","text":"8. 실전 회화 — 약속 잡기","level":2},{"id":"9-문형-정리","text":"9. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-05-numbers-time"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 숫자 읽기부터 시간·날짜·가격 표현까지, 일상생활에서 바로 쓰이는 수 표현을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-28T18:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 29일"]}],["$","time",null,{"dateTime":"2026-04-28T18:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 29일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],"$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}],"$L23"]}],"$L24","$L25"]}]
+26:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+1d:["$","span","numbers",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","numbers"]}]
+1e:["$","span","time",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","time"]}]
+1f:["$","span","date",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","date"]}]
+20:["$","span","price",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","price"]}]
+21:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
+22:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
+23:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+27:T5fb1,<h1 id="일본어-5강-숫자시간날짜가격-표현-완전-정복" tabindex="-1" data-src-line="1">일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복 <a class="header-anchor" href="#일본어-5강-숫자시간날짜가격-표현-완전-정복" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#일본어-5강-숫자시간날짜가격-표현-완전-정복">일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-기본-숫자--010">1. 기본 숫자 — 0~10 </a></li><li><a href="#2-1199-읽기">2. 11~99 읽기 </a></li><li><a href="#3-100-이상의-숫자">3. 100 이상의 숫자 </a><ul><li><a href="#큰-숫자-읽기-연습">큰 숫자 읽기 연습 </a></li></ul></li><li><a href="#4-시간-표현----">4. 시간 표현 — ～時 · ～分 </a><ul><li><a href="#시-읽기">시(時) 읽기 </a></li><li><a href="#분-읽기">분(分) 읽기 </a></li><li><a href="#오전오후">오전·오후 </a></li><li><a href="#시간-표현-예문">시간 표현 예문 </a></li><li><a href="#시간-묻기">시간 묻기 </a></li></ul></li><li><a href="#5-날짜-표현----">5. 날짜 표현 — ～月 · ～日 </a><ul><li><a href="#월-읽기">월(月) 읽기 </a></li><li><a href="#일-읽기--불규칙-주의">일(日) 읽기 — 불규칙 주의! </a></li><li><a href="#요일-표현">요일 표현 </a></li><li><a href="#날짜-묻기">날짜 묻기 </a></li></ul></li><li><a href="#6-가격-표현--">6. 가격 표현 — ～円 </a><ul><li><a href="#가격-묻기">가격 묻기 </a></li></ul></li><li><a href="#7-기간-표현--">7. 기간 표현 — から·まで </a></li><li><a href="#8-실전-회화--약속-잡기">8. 실전 회화 — 약속 잡기 </a></li><li><a href="#9-문형-정리">9. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>숫자는 일상생활에서 가장 자주 쓰이는 표현 중 하나입니다.<br>
+시간을 묻고, 날짜를 확인하고, 가격을 이야기할 때 모두 숫자가 필요합니다.<br>
+이번 강에서는 일본어 숫자의 기초부터 실용 표현까지 완전히 익혀봅니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>0~99,999까지 일본어로 읽고 말할 수 있습니다.</li>
+<li>시간(～時·～分)을 묻고 답할 수 있습니다.</li>
+<li>날짜(～月·～日)와 요일을 말할 수 있습니다.</li>
+<li>가격(～円)을 묻고 답할 수 있습니다.</li>
+<li>불규칙 발음 변화 포인트를 파악할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-기본-숫자--010" tabindex="-1" data-src-line="20">1. 기본 숫자 — 0~10 <a class="header-anchor" href="#1-기본-숫자--010" aria-hidden="true">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>숫자</th>
+<th>히라가나</th>
+<th>읽기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>ぜろ / れい</td>
+<td>제로 / 레이</td>
+</tr>
+<tr>
+<td>1</td>
+<td>いち</td>
+<td>이치</td>
+</tr>
+<tr>
+<td>2</td>
+<td>に</td>
+<td>니</td>
+</tr>
+<tr>
+<td>3</td>
+<td>さん</td>
+<td>산</td>
+</tr>
+<tr>
+<td>4</td>
+<td>し / よん</td>
+<td>시 / 욘</td>
+</tr>
+<tr>
+<td>5</td>
+<td>ご</td>
+<td>고</td>
+</tr>
+<tr>
+<td>6</td>
+<td>ろく</td>
+<td>로쿠</td>
+</tr>
+<tr>
+<td>7</td>
+<td>しち / なな</td>
+<td>시치 / 나나</td>
+</tr>
+<tr>
+<td>8</td>
+<td>はち</td>
+<td>하치</td>
+</tr>
+<tr>
+<td>9</td>
+<td>く / きゅう</td>
+<td>쿠 / 큐우</td>
+</tr>
+<tr>
+<td>10</td>
+<td>じゅう</td>
+<td>쥬우</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>4·7·9는 두 가지 읽기가 있습니다</strong></p>
+<ul>
+<li><strong>4</strong>: <code>し</code>는 死(죽음)와 발음이 같아 불길하게 여겨지므로, 시간·날짜 외에는 주로 <code>よん</code>을 사용합니다.</li>
+<li><strong>7</strong>: <code>しち</code>는 1(いち)·4(し)와 혼동될 수 있어, 일상에서는 <code>なな</code>를 많이 씁니다.</li>
+<li><strong>9</strong>: <code>く</code>는 苦(고통)와 발음이 같아, <code>きゅう</code>를 선호하는 경우가 많습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="2-1199-읽기" tabindex="-1" data-src-line="43">2. 11~99 읽기 <a class="header-anchor" href="#2-1199-읽기" aria-hidden="true">#</a></h2>
+<p>일본어 숫자는 <strong>자릿값 × 단위</strong> 구조입니다. 한국어와 동일한 방식입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">11 = じゅう + いち = じゅういち
+20 = に + じゅう = にじゅう
+25 = に + じゅう + ご = にじゅうご
+99 = きゅう + じゅう + きゅう = きゅうじゅうきゅう
+</code></pre></div></code></pre>
+<table>
+<thead>
+<tr>
+<th>숫자</th>
+<th>읽기</th>
+<th>숫자</th>
+<th>읽기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>じゅういち</td>
+<td>12</td>
+<td>じゅうに</td>
+</tr>
+<tr>
+<td>20</td>
+<td>にじゅう</td>
+<td>21</td>
+<td>にじゅういち</td>
+</tr>
+<tr>
+<td>30</td>
+<td>さんじゅう</td>
+<td>40</td>
+<td>よんじゅう</td>
+</tr>
+<tr>
+<td>50</td>
+<td>ごじゅう</td>
+<td>60</td>
+<td>ろくじゅう</td>
+</tr>
+<tr>
+<td>70</td>
+<td>ななじゅう</td>
+<td>80</td>
+<td>はちじゅう</td>
+</tr>
+<tr>
+<td>90</td>
+<td>きゅうじゅう</td>
+<td>99</td>
+<td>きゅうじゅうきゅう</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="3-100-이상의-숫자" tabindex="-1" data-src-line="65">3. 100 이상의 숫자 <a class="header-anchor" href="#3-100-이상의-숫자" aria-hidden="true">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>숫자</th>
+<th>읽기</th>
+<th>비고</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>100</td>
+<td>ひゃく</td>
+<td></td>
+</tr>
+<tr>
+<td>200</td>
+<td>にひゃく</td>
+<td></td>
+</tr>
+<tr>
+<td>300</td>
+<td>さんびゃく</td>
+<td>⚠️ びゃく로 탁음 변화</td>
+</tr>
+<tr>
+<td>400</td>
+<td>よんひゃく</td>
+<td></td>
+</tr>
+<tr>
+<td>500</td>
+<td>ごひゃく</td>
+<td></td>
+</tr>
+<tr>
+<td>600</td>
+<td>ろっぴゃく</td>
+<td>⚠️ っぴゃく로 촉음+반탁음 변화</td>
+</tr>
+<tr>
+<td>700</td>
+<td>ななひゃく</td>
+<td></td>
+</tr>
+<tr>
+<td>800</td>
+<td>はっぴゃく</td>
+<td>⚠️ っぴゃく로 촉음+반탁음 변화</td>
+</tr>
+<tr>
+<td>900</td>
+<td>きゅうひゃく</td>
+<td></td>
+</tr>
+<tr>
+<td>1,000</td>
+<td>せん</td>
+<td></td>
+</tr>
+<tr>
+<td>2,000</td>
+<td>にせん</td>
+<td></td>
+</tr>
+<tr>
+<td>3,000</td>
+<td>さんぜん</td>
+<td>⚠️ ぜん으로 탁음 변화</td>
+</tr>
+<tr>
+<td>8,000</td>
+<td>はっせん</td>
+<td>⚠️ っせん으로 촉음 변화</td>
+</tr>
+<tr>
+<td>10,000</td>
+<td>いちまん</td>
+<td></td>
+</tr>
+<tr>
+<td>100,000</td>
+<td>じゅうまん</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>발음 변화 주의</strong>: 300(さんびゃく), 600(ろっぴゃく), 800(はっぴゃく), 3000(さんぜん), 8000(はっせん)은 불규칙 발음 변화가 있습니다. 통째로 외워두는 것이 좋습니다.</p>
+</blockquote>
+<h3 id="큰-숫자-읽기-연습" tabindex="-1" data-src-line="87">큰 숫자 읽기 연습 <a class="header-anchor" href="#큰-숫자-읽기-연습" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1,250  → せんにひゃくごじゅう
+3,800  → さんぜんはっぴゃく
+12,000 → いちまんにせん
+98,765 → きゅうまんはっせんななひゃくろくじゅうご
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-시간-표현----" tabindex="-1" data-src-line="98">4. 시간 표현 — ～時 · ～分 <a class="header-anchor" href="#4-시간-표현----" aria-hidden="true">#</a></h2>
+<h3 id="시-읽기" tabindex="-1" data-src-line="100">시(時) 읽기 <a class="header-anchor" href="#시-읽기" aria-hidden="true">#</a></h3>
+<p>시간은 숫자 뒤에 <code>じ(時)</code> 를 붙입니다.</p>
+<table>
+<thead>
+<tr>
+<th>시간</th>
+<th>읽기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1시</td>
+<td>いちじ</td>
+</tr>
+<tr>
+<td>2시</td>
+<td>にじ</td>
+</tr>
+<tr>
+<td>3시</td>
+<td>さんじ</td>
+</tr>
+<tr>
+<td>4시</td>
+<td>よじ</td>
+</tr>
+<tr>
+<td>5시</td>
+<td>ごじ</td>
+</tr>
+<tr>
+<td>6시</td>
+<td>ろくじ</td>
+</tr>
+<tr>
+<td>7시</td>
+<td>しちじ</td>
+</tr>
+<tr>
+<td>8시</td>
+<td>はちじ</td>
+</tr>
+<tr>
+<td>9시</td>
+<td>くじ</td>
+</tr>
+<tr>
+<td>10시</td>
+<td>じゅうじ</td>
+</tr>
+<tr>
+<td>11시</td>
+<td>じゅういちじ</td>
+</tr>
+<tr>
+<td>12시</td>
+<td>じゅうにじ</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>4시는 よじ, 9시는 くじ</strong> — 이 두 가지는 특히 헷갈리기 쉬운 불규칙 읽기입니다.</p>
+</blockquote>
+<h3 id="분-읽기" tabindex="-1" data-src-line="121">분(分) 읽기 <a class="header-anchor" href="#분-읽기" aria-hidden="true">#</a></h3>
+<p>분은 숫자 뒤에 <code>ふん</code> 또는 <code>ぷん</code> 을 붙입니다.</p>
+<table>
+<thead>
+<tr>
+<th>분</th>
+<th>읽기</th>
+<th>분</th>
+<th>읽기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1분</td>
+<td>いっぷん</td>
+<td>2분</td>
+<td>にふん</td>
+</tr>
+<tr>
+<td>3분</td>
+<td>さんぷん</td>
+<td>4분</td>
+<td>よんぷん</td>
+</tr>
+<tr>
+<td>5분</td>
+<td>ごふん</td>
+<td>6분</td>
+<td>ろっぷん</td>
+</tr>
+<tr>
+<td>7분</td>
+<td>ななふん</td>
+<td>8분</td>
+<td>はっぷん</td>
+</tr>
+<tr>
+<td>9분</td>
+<td>きゅうふん</td>
+<td>10분</td>
+<td>じゅっぷん</td>
+</tr>
+<tr>
+<td>15분</td>
+<td>じゅうごふん</td>
+<td>30분</td>
+<td>さんじゅっぷん</td>
+</tr>
+<tr>
+<td>45분</td>
+<td>よんじゅうごふん</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>ふん vs ぷん</strong>: 1·3·4·6·8·10 뒤에서는 <code>ぷん</code>, 나머지는 <code>ふん</code>으로 읽는 경우가 많습니다. 외우기보다 자주 접하면서 자연스럽게 익히는 것이 효과적입니다.</p>
+</blockquote>
+<h3 id="오전오후" tabindex="-1" data-src-line="137">오전·오후 <a class="header-anchor" href="#오전오후" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ごぜん (午前) — 오전
+ごご (午後) — 오후
+</code></pre></div></code></pre>
+<h3 id="시간-표현-예문" tabindex="-1" data-src-line="144">시간 표현 예문 <a class="header-anchor" href="#시간-표현-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">いまは ごぜん くじ じゅうごふんです。
+이마와 고젠 쿠지 쥬우고훈데스。
+(지금은 오전 9시 15분입니다.)
+
+ぎんこうは ごご よじに しまります。
+긴코우와 고고 요지니 시마리마스。
+(은행은 오후 4시에 닫습니다.)
+</code></pre></div></code></pre>
+<h3 id="시간-묻기" tabindex="-1" data-src-line="156">시간 묻기 <a class="header-anchor" href="#시간-묻기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: いまは なんじですか。
+   이마와 난지데스카?
+   (지금은 몇 시입니까?)
+
+A: ごぜん じゅういちじ はんです。
+   고젠 쥬우이치지 한데스。
+   (오전 11시 반입니다.)
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>はん(半)</strong>: 30분을 <code>さんじゅっぷん</code> 대신 <strong>はん</strong> 으로 표현할 수 있습니다.<br>
+<code>にじはん</code> = 2시 30분</p>
+</blockquote>
+<hr>
+<h2 id="5-날짜-표현----" tabindex="-1" data-src-line="173">5. 날짜 표현 — ～月 · ～日 <a class="header-anchor" href="#5-날짜-표현----" aria-hidden="true">#</a></h2>
+<h3 id="월-읽기" tabindex="-1" data-src-line="175">월(月) 읽기 <a class="header-anchor" href="#월-읽기" aria-hidden="true">#</a></h3>
+<p>월은 숫자 뒤에 <code>がつ</code> 를 붙입니다.</p>
+<table>
+<thead>
+<tr>
+<th>월</th>
+<th>읽기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1월</td>
+<td>いちがつ</td>
+</tr>
+<tr>
+<td>2월</td>
+<td>にがつ</td>
+</tr>
+<tr>
+<td>3월</td>
+<td>さんがつ</td>
+</tr>
+<tr>
+<td>4월</td>
+<td>しがつ</td>
+</tr>
+<tr>
+<td>5월</td>
+<td>ごがつ</td>
+</tr>
+<tr>
+<td>6월</td>
+<td>ろくがつ</td>
+</tr>
+<tr>
+<td>7월</td>
+<td>しちがつ</td>
+</tr>
+<tr>
+<td>8월</td>
+<td>はちがつ</td>
+</tr>
+<tr>
+<td>9월</td>
+<td>くがつ</td>
+</tr>
+<tr>
+<td>10월</td>
+<td>じゅうがつ</td>
+</tr>
+<tr>
+<td>11월</td>
+<td>じゅういちがつ</td>
+</tr>
+<tr>
+<td>12월</td>
+<td>じゅうにがつ</td>
+</tr>
+</tbody>
+</table>
+<h3 id="일-읽기--불규칙-주의" tabindex="-1" data-src-line="194">일(日) 읽기 — 불규칙 주의! <a class="header-anchor" href="#일-읽기--불규칙-주의" aria-hidden="true">#</a></h3>
+<p>일(日) 읽기는 <strong>1일~10일, 14일, 20일, 24일</strong> 에 불규칙 발음이 있습니다. 일본어 학습에서 가장 암기가 필요한 부분 중 하나입니다.</p>
+<table>
+<thead>
+<tr>
+<th>날짜</th>
+<th>읽기</th>
+<th>날짜</th>
+<th>읽기</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1일</td>
+<td>ついたち</td>
+<td>2일</td>
+<td>ふつか</td>
+</tr>
+<tr>
+<td>3일</td>
+<td>みっか</td>
+<td>4일</td>
+<td>よっか</td>
+</tr>
+<tr>
+<td>5일</td>
+<td>いつか</td>
+<td>6일</td>
+<td>むいか</td>
+</tr>
+<tr>
+<td>7일</td>
+<td>なのか</td>
+<td>8일</td>
+<td>ようか</td>
+</tr>
+<tr>
+<td>9일</td>
+<td>ここのか</td>
+<td>10일</td>
+<td>とおか</td>
+</tr>
+<tr>
+<td>11일</td>
+<td>じゅういちにち</td>
+<td>12일</td>
+<td>じゅうににち</td>
+</tr>
+<tr>
+<td>13일</td>
+<td>じゅうさんにち</td>
+<td>14일</td>
+<td>じゅうよっか</td>
+</tr>
+<tr>
+<td>15일</td>
+<td>じゅうごにち</td>
+<td>16일</td>
+<td>じゅうろくにち</td>
+</tr>
+<tr>
+<td>17일</td>
+<td>じゅうしちにち</td>
+<td>18일</td>
+<td>じゅうはちにち</td>
+</tr>
+<tr>
+<td>19일</td>
+<td>じゅうくにち</td>
+<td>20일</td>
+<td>はつか</td>
+</tr>
+<tr>
+<td>21일</td>
+<td>にじゅういちにち</td>
+<td>24일</td>
+<td>にじゅうよっか</td>
+</tr>
+<tr>
+<td>25일</td>
+<td>にじゅうごにち</td>
+<td>30일</td>
+<td>さんじゅうにち</td>
+</tr>
+<tr>
+<td>31일</td>
+<td>さんじゅういちにち</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>반드시 외워야 할 불규칙</strong>: ついたち(1일), ふつか(2일), みっか(3일), よっか(4일), いつか(5일), むいか(6일), なのか(7일), ようか(8일), ここのか(9일), とおか(10일), はつか(20일)</p>
+</blockquote>
+<h3 id="요일-표현" tabindex="-1" data-src-line="216">요일 표현 <a class="header-anchor" href="#요일-표현" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>요일</th>
+<th>읽기</th>
+<th>한자 의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>월요일</td>
+<td>げつようび</td>
+<td>月 (달)</td>
+</tr>
+<tr>
+<td>화요일</td>
+<td>かようび</td>
+<td>火 (불)</td>
+</tr>
+<tr>
+<td>수요일</td>
+<td>すいようび</td>
+<td>水 (물)</td>
+</tr>
+<tr>
+<td>목요일</td>
+<td>もくようび</td>
+<td>木 (나무)</td>
+</tr>
+<tr>
+<td>금요일</td>
+<td>きんようび</td>
+<td>金 (금)</td>
+</tr>
+<tr>
+<td>토요일</td>
+<td>どようび</td>
+<td>土 (흙)</td>
+</tr>
+<tr>
+<td>일요일</td>
+<td>にちようび</td>
+<td>日 (해)</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>기억 팁</strong>: 월화수목금토일 — 달·불·물·나무·금·흙·해 순서로, 한자의 오행(五行) 개념에서 유래했습니다.</p>
+</blockquote>
+<h3 id="날짜-묻기" tabindex="-1" data-src-line="230">날짜 묻기 <a class="header-anchor" href="#날짜-묻기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: きょうは なんにちですか。
+   쿄우와 난니치데스카?
+   (오늘은 며칠입니까?)
+
+A: きょうは しがつ にじゅうくにちです。
+   쿄우와 시가츠 니쥬우쿠니치데스。
+   (오늘은 4월 29일입니다.)
+
+Q: たんじょうびは いつですか。
+   탄죠우비와 이츠데스카?
+   (생일은 언제입니까?)
+
+A: ごがつ みっかです。
+   고가츠 밋카데스。
+   (5월 3일입니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-가격-표현--" tabindex="-1" data-src-line="252">6. 가격 표현 — ～円 <a class="header-anchor" href="#6-가격-표현--" aria-hidden="true">#</a></h2>
+<p>가격은 숫자 뒤에 <code>えん(円)</code> 을 붙입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">100えん  — 백 엔
+500えん  — 오백 엔
+1,000えん — 천 엔
+3,800えん — 삼천팔백 엔
+</code></pre></div></code></pre>
+<h3 id="가격-묻기" tabindex="-1" data-src-line="263">가격 묻기 <a class="header-anchor" href="#가격-묻기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: これは いくらですか。
+   코레와 이쿠라데스카?
+   (이것은 얼마입니까?)
+
+A: にひゃくごじゅうえんです。
+   니햐쿠고쥬우엔데스。
+   (250엔입니다.)
+
+Q: ぜんぶで いくらですか。
+   젠부데 이쿠라데스카?
+   (전부 해서 얼마입니까?)
+
+A: さんびゃくえんです。
+   산뱌쿠엔데스。
+   (300엔입니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-기간-표현--" tabindex="-1" data-src-line="285">7. 기간 표현 — から·まで <a class="header-anchor" href="#7-기간-표현--" aria-hidden="true">#</a></h2>
+<p><code>から(~부터)</code>·<code>まで(~까지)</code> 를 사용하면 시간·날짜의 범위를 나타낼 수 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[시작] から [끝] まで
+
+ぎんこうは くじから よじまでです。
+긴코우와 쿠지카라 요지마데데스。
+(은행은 9시부터 4시까지입니다.)
+
+なつやすみは しちがつ にじゅうにちから
+はちがつ さんじゅういちにちまでです。
+(여름방학은 7월 22일부터 8월 31일까지입니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-실전-회화--약속-잡기" tabindex="-1" data-src-line="303">8. 실전 회화 — 약속 잡기 <a class="header-anchor" href="#8-실전-회화--약속-잡기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: こんど いつ ひまですか。
+   콘도 이츠 히마데스카?
+   (다음에 언제 한가하세요?)
+
+B: もくようびは どうですか。
+   모쿠요우비와 도우데스카?
+   (목요일은 어떠세요?)
+
+A: もくようびは ちょっと…。
+   수요일은 좀...。
+   すいようびは どうですか。
+   스이요우비와 도우데스카?
+   (수요일은 어떠세요?)
+
+B: すいようびは だいじょうぶです。
+   나쁘지 않아요。
+   なんじが いいですか。
+   난지가 이이데스카?
+   (몇 시가 좋으세요?)
+
+A: ごごさんじは どうですか。
+   고고 산지와 도우데스카?
+   (오후 3시는 어떠세요?)
+
+B: いいですよ。
+   좋아요。
+   じゃあ、すいようびの ごごさんじに。
+   쟈아、스이요우비노 고고 산지니。
+   (그럼, 수요일 오후 3시에.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-문형-정리" tabindex="-1" data-src-line="339">9. 문형 정리 <a class="header-anchor" href="#9-문형-정리" aria-hidden="true">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>문형</th>
+<th>의미</th>
+<th>예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>～時です</td>
+<td>~시입니다</td>
+<td>いまは くじです</td>
+</tr>
+<tr>
+<td>～時～分です</td>
+<td>~시 ~분입니다</td>
+<td>さんじごじゅっぷんです</td>
+</tr>
+<tr>
+<td>～時から～時まで</td>
+<td>~시부터 ~시까지</td>
+<td>くじから ごじまで</td>
+</tr>
+<tr>
+<td>～月～日です</td>
+<td>~월 ~일입니다</td>
+<td>ごがつ みっかです</td>
+</tr>
+<tr>
+<td>～曜日です</td>
+<td>~요일입니다</td>
+<td>きょうは もくようびです</td>
+</tr>
+<tr>
+<td>いくらですか</td>
+<td>얼마입니까?</td>
+<td>これは いくらですか</td>
+</tr>
+<tr>
+<td>～円です</td>
+<td>~엔입니다</td>
+<td>さんびゃくえんです</td>
+</tr>
+<tr>
+<td>なんじですか</td>
+<td>몇 시입니까?</td>
+<td>いまは なんじですか</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="354">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>숫자 표현은 반복 학습이 가장 효과적입니다.<br>
+특히 <strong>시간의 4시(よじ)·9시(くじ)</strong>, <strong>날짜의 1~10일 불규칙 읽기</strong>, <strong>300·600·800·3000·8000의 발음 변화</strong>는 의식적으로 반복 연습해두면 이후 회화에서 막힘 없이 쓸 수 있습니다.</p>
+<p>다음 강에서는 드디어 <strong>동사</strong>를 배웁니다. ます형 만들기와 이동 표현(～へ行きます)을 중심으로 다룹니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨]</strong></p>
+<ul>
+<li>1강: 히라가나 · 가타카나 완전 정복</li>
+<li>2강: 발음 규칙 — 탁음 · 반탁음 · 요음 · 촉음 · 장음</li>
+<li>3강: 자기소개 — ～は～です · じゃありません · ですか</li>
+<li>4강: 지시대명사 — これ · それ · あれ · どれ</li>
+<li><strong>5강</strong>: 숫자와 시간 표현 — ～時 · ～分 · ～円 ← 현재 글</li>
+<li>6강: 동사 기초 — ます형 · 이동 표현 (～へ行きます)</li>
+<li>7강: 조사 — を · で · と · に</li>
+<li>8강: 수수 표현 — あげます · もらいます · くれます</li>
+<li>9강: 형용사 — い형용사 · な형용사 활용</li>
+<li>10강: 존재 표현 — います · あります · 위치 표현</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현 — 동사 가능형 · ～ことができます</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li>16강: 조건 표현 — ～たら · ～ば · ～と · ～なら</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+24:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L26",null,{"content":"$27"}]}]}]
+25:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-04-demonstratives","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-04-demonstratives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-04-demonstratives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}]}],["$","li","japanese/japanese-lesson-03-self-introduction",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-03-self-introduction","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}]}],["$","li","japanese/japanese-lesson-02-pronunciation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-02-pronunciation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}]}]]}]]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+28:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"일본어 숫자 읽기부터 시간·날짜·가격 표현까지, 일상생활에서 바로 쓰이는 수 표현을 완전히 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/japanese/japanese-lesson-05-numbers-time/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}],["$","meta","11",{"property":"og:description","content":"일본어 숫자 읽기부터 시간·날짜·가격 표현까지, 일상생활에서 바로 쓰이는 수 표현을 완전히 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/japanese/japanese-lesson-05-numbers-time/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-04-28T18:13:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-04-28T18:13:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"japanese"}],["$","meta","22",{"property":"article:tag","content":"numbers"}],["$","meta","23",{"property":"article:tag","content":"time"}],["$","meta","24",{"property":"article:tag","content":"date"}],["$","meta","25",{"property":"article:tag","content":"price"}],["$","meta","26",{"property":"article:tag","content":"beginner"}],["$","meta","27",{"property":"article:tag","content":"language-learning"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}],["$","meta","30",{"name":"twitter:description","content":"일본어 숫자 읽기부터 시간·날짜·가격 표현까지, 일상생활에서 바로 쓰이는 수 표현을 완전히 익혀봅니다."}],["$","meta","31",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","32",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L28","33",{}]]
+16:null

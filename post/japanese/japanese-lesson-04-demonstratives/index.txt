@@ -1,0 +1,514 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-a1aaef3226a8c400.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/3fb4651c5bb94ef3.css","style"]
+:HL["/_next/static/css/7e7e938f3d35cc7c.css","style"]
+0:{"P":null,"b":"iUSudSC3zLDccwavwZm6d","c":["","post","japanese","japanese-lesson-04-demonstratives",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-04-demonstratives","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3fb4651c5bb94ef3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}]
+a:["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e7e938f3d35cc7c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives\"},\"headline\":\"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계\",\"description\":\"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다.\",\"datePublished\":\"2026-04-28T12:39:00.000Z\",\"dateModified\":\"2026-04-28T12:39:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"demonstratives\",\"kore-sore-are\",\"koko-soko-asoko\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계","slugPath":"japanese/japanese-lesson-04-demonstratives","headings":[{"id":"일본어-4강-지시대명사-완전-정복---체계","text":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1--체계란","text":"1. こそあど 체계란?","level":2},{"id":"2-사물-지시대명사--","text":"2. 사물 지시대명사 — これ·それ·あれ·どれ","level":2},{"id":"예문","text":"예문","level":3},{"id":"3-지시형용사--","text":"3. 지시형용사 — この·その·あの·どの","level":2},{"id":"예문","text":"예문","level":3},{"id":"-vs--비교","text":"これ vs この 비교","level":3},{"id":"4-장소-지시대명사--","text":"4. 장소 지시대명사 — ここ·そこ·あそこ·どこ","level":2},{"id":"예문","text":"예문","level":3},{"id":"장소----명사","text":"장소 + の + 명사","level":3},{"id":"5-정중한-지시어--","text":"5. 정중한 지시어 — こちら·そちら·あちら·どちら","level":2},{"id":"쓰임--방향장소-정중체","text":"쓰임 ①: 방향·장소 (정중체)","level":3},{"id":"쓰임--사람-소개-정중체","text":"쓰임 ②: 사람 소개 (정중체)","level":3},{"id":"쓰임----어느-쪽-2자-선택","text":"쓰임 ③: どちら = 어느 쪽 (2자 선택)","level":3},{"id":"6--전체-정리표","text":"6. こそあど 전체 정리표","level":2},{"id":"7-소유-표현과-결합-","text":"7. 소유 표현과 결합: ～は～のです","level":2},{"id":"8-실전-회화--쇼핑-상황","text":"8. 실전 회화 — 쇼핑 상황","level":2},{"id":"9-문형-정리","text":"9. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-04-demonstratives"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-28T12:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 28일"]}],["$","time",null,{"dateTime":"2026-04-28T12:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 28일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L1d","$L1e","$L1f","$L20","$L21","$L22"]}]]}],"$L23"]}],"$L24","$L25"]}]
+26:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+1d:["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}]
+1e:["$","span","demonstratives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","demonstratives"]}]
+1f:["$","span","kore-sore-are",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","kore-sore-are"]}]
+20:["$","span","koko-soko-asoko",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","koko-soko-asoko"]}]
+21:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
+22:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
+23:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+27:T4e64,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex="-1" data-src-line="1">일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계 <a class="header-anchor" href="#일본어-4강-지시대명사-완전-정복---체계" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#일본어-4강-지시대명사-완전-정복---체계">일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1--체계란">1. こそあど 체계란? </a></li><li><a href="#2-사물-지시대명사--">2. 사물 지시대명사 — これ·それ·あれ·どれ </a><ul><li><a href="#예문">예문 </a></li></ul></li><li><a href="#3-지시형용사--">3. 지시형용사 — この·その·あの·どの </a><ul><li><a href="#예문-1">예문 </a></li><li><a href="#-vs--비교">これ vs この 비교 </a></li></ul></li><li><a href="#4-장소-지시대명사--">4. 장소 지시대명사 — ここ·そこ·あそこ·どこ </a><ul><li><a href="#예문-2">예문 </a></li><li><a href="#장소----명사">장소 + の + 명사 </a></li></ul></li><li><a href="#5-정중한-지시어--">5. 정중한 지시어 — こちら·そちら·あちら·どちら </a><ul><li><a href="#쓰임--방향장소-정중체">쓰임 ①: 방향·장소 (정중체) </a></li><li><a href="#쓰임--사람-소개-정중체">쓰임 ②: 사람 소개 (정중체) </a></li><li><a href="#쓰임----어느-쪽-2자-선택">쓰임 ③: どちら = 어느 쪽 (2자 선택) </a></li></ul></li><li><a href="#6--전체-정리표">6. こそあど 전체 정리표 </a></li><li><a href="#7-소유-표현과-결합-">7. 소유 표현과 결합: ～は～のです </a></li><li><a href="#8-실전-회화--쇼핑-상황">8. 실전 회화 — 쇼핑 상황 </a></li><li><a href="#9-문형-정리">9. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>3강에서 <code>～は～です</code> 문형을 익혔다면, 이번 강에서는 그 문장의 주어를 채울 수 있는 <strong>지시어(指示語)</strong> 를 배웁니다.</p>
+<p>일본어의 지시어는 <strong>こ·そ·あ·ど</strong> 네 가지 계열로 나뉘며, 이 체계를 흔히 <strong>「こそあど」</strong> 라고 부릅니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>これ·それ·あれ·どれ로 사물을 지시할 수 있습니다.</li>
+<li>この·その·あの·どの로 명사를 수식할 수 있습니다.</li>
+<li>ここ·そこ·あそこ·どこ로 장소를 나타낼 수 있습니다.</li>
+<li>こちら·そちら·あちら·どちら의 정중한 표현을 이해할 수 있습니다.</li>
+<li>こそあど 체계 전체를 하나의 표로 정리할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1--체계란" tabindex="-1" data-src-line="20">1. こそあど 체계란? <a class="header-anchor" href="#1--체계란" aria-hidden="true">#</a></h2>
+<p>일본어 지시어는 <strong>화자와 청자, 그리고 대상의 거리 관계</strong>에 따라 계열이 정해집니다.</p>
+<table>
+<thead>
+<tr>
+<th>계열</th>
+<th>거리</th>
+<th>의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>こ (ko)</td>
+<td>화자에게 가까운 것</td>
+<td>이~</td>
+</tr>
+<tr>
+<td>そ (so)</td>
+<td>청자에게 가깝거나 화자에게서 먼 것</td>
+<td>그~</td>
+</tr>
+<tr>
+<td>あ (a)</td>
+<td>화자·청자 양쪽 모두에게서 먼 것</td>
+<td>저~</td>
+</tr>
+<tr>
+<td>ど (do)</td>
+<td>불명확·의문</td>
+<td>어느~</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>한국어와의 차이</strong>: 한국어는 ‘이·그·저’ 3계열이지만, 일본어는 여기에 <strong>의문 계열 ど</strong> 가 추가되어 4계열입니다.</p>
+</blockquote>
+<hr>
+<h2 id="2-사물-지시대명사--" tabindex="-1" data-src-line="35">2. 사물 지시대명사 — これ·それ·あれ·どれ <a class="header-anchor" href="#2-사물-지시대명사--" aria-hidden="true">#</a></h2>
+<p>사물 자체를 대신하는 대명사입니다. <code>～は～です</code> 문형과 바로 결합할 수 있습니다.</p>
+<table>
+<thead>
+<tr>
+<th>계열</th>
+<th>단어</th>
+<th>의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>こ</td>
+<td>これ</td>
+<td>이것</td>
+</tr>
+<tr>
+<td>そ</td>
+<td>それ</td>
+<td>그것</td>
+</tr>
+<tr>
+<td>あ</td>
+<td>あれ</td>
+<td>저것</td>
+</tr>
+<tr>
+<td>ど</td>
+<td>どれ</td>
+<td>어느 것</td>
+</tr>
+</tbody>
+</table>
+<h3 id="예문" tabindex="-1" data-src-line="46">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">これは わたしの かばんです。
+코레와 와타시노 카방데스。
+(이것은 제 가방입니다.)
+
+それは なんですか。
+소레와 난데스카?
+(그것은 무엇입니까?)
+
+あれは ゆうびんきょくです。
+아레와 유우빙쿄쿠데스。
+(저것은 우체국입니다.)
+
+どれが あなたの ほんですか。
+도레가 아나타노 혼데스카?
+(어느 것이 당신의 책입니까?)
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>주의</strong>: どれ는 3개 이상의 선택지가 있을 때 사용합니다. 2개 중 하나를 고를 때는 <strong>どちら</strong> 를 사용합니다.</p>
+</blockquote>
+<hr>
+<h2 id="3-지시형용사--" tabindex="-1" data-src-line="70">3. 지시형용사 — この·その·あの·どの <a class="header-anchor" href="#3-지시형용사--" aria-hidden="true">#</a></h2>
+<p>명사 앞에 직접 붙어 명사를 꾸며주는 형태입니다.<br>
+<code>これ/それ/あれ/どれ</code> 뒤에 <strong>の</strong> 를 붙인 형태라고 생각하면 쉽습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">これ → この + 명사
+それ → その + 명사
+あれ → あの + 명사
+どれ → どの + 명사
+</code></pre></div></code></pre>
+<table>
+<thead>
+<tr>
+<th>계열</th>
+<th>단어</th>
+<th>의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>こ</td>
+<td>この</td>
+<td>이 ~</td>
+</tr>
+<tr>
+<td>そ</td>
+<td>その</td>
+<td>그 ~</td>
+</tr>
+<tr>
+<td>あ</td>
+<td>あの</td>
+<td>저 ~</td>
+</tr>
+<tr>
+<td>ど</td>
+<td>どの</td>
+<td>어느 ~</td>
+</tr>
+</tbody>
+</table>
+<h3 id="예문-1" tabindex="-1" data-src-line="89">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">この ほんは おもしろいです。
+코노 혼와 오모시로이데스。
+(이 책은 재미있습니다.)
+
+その かばんは いくらですか。
+소노 카방와 이쿠라데스카?
+(그 가방은 얼마입니까?)
+
+あの たてものは なんですか。
+아노 타테모노와 난데스카?
+(저 건물은 무엇입니까?)
+
+どの でんしゃに のりますか。
+도노 덴샤니 노리마스카?
+(어느 전철을 타십니까?)
+</code></pre></div></code></pre>
+<h3 id="-vs--비교" tabindex="-1" data-src-line="109">これ vs この 비교 <a class="header-anchor" href="#-vs--비교" aria-hidden="true">#</a></h3>
+<table>
+<thead>
+<tr>
+<th>표현</th>
+<th>구조</th>
+<th>예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>これ</td>
+<td>독립적으로 사용 (명사 대체)</td>
+<td><strong>これは</strong> ほんです</td>
+</tr>
+<tr>
+<td>この</td>
+<td>명사 앞에 붙여서 사용</td>
+<td><strong>この</strong>ほんは～</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="4-장소-지시대명사--" tabindex="-1" data-src-line="118">4. 장소 지시대명사 — ここ·そこ·あそこ·どこ <a class="header-anchor" href="#4-장소-지시대명사--" aria-hidden="true">#</a></h2>
+<p>장소를 지시하는 표현입니다.</p>
+<table>
+<thead>
+<tr>
+<th>계열</th>
+<th>단어</th>
+<th>의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>こ</td>
+<td>ここ</td>
+<td>여기</td>
+</tr>
+<tr>
+<td>そ</td>
+<td>そこ</td>
+<td>거기</td>
+</tr>
+<tr>
+<td>あ</td>
+<td>あそこ</td>
+<td>저기</td>
+</tr>
+<tr>
+<td>ど</td>
+<td>どこ</td>
+<td>어디</td>
+</tr>
+</tbody>
+</table>
+<h3 id="예문-2" tabindex="-1" data-src-line="129">예문 <a class="header-anchor" href="#예문-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ここは どこですか。
+코코와 도코데스카?
+(여기는 어디입니까?)
+
+トイレは どこですか。
+토이레와 도코데스카?
+(화장실은 어디입니까?)
+
+― あそこです。
+  아소코데스。
+  (저기입니다.)
+
+わたしの かばんは そこに あります。
+와타시노 카방와 소코니 아리마스。
+(제 가방은 거기에 있습니다.)
+</code></pre></div></code></pre>
+<h3 id="장소----명사" tabindex="-1" data-src-line="149">장소 + の + 명사 <a class="header-anchor" href="#장소----명사" aria-hidden="true">#</a></h3>
+<p><code>ここ·そこ·あそこ</code> 뒤에 <code>の</code> 를 붙이면 장소의 소속을 나타냅니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ここの ラーメンは おいしいです。
+(여기 라면은 맛있습니다.)
+
+あそこの みせは ゆうめいです。
+(저기 가게는 유명합니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-정중한-지시어--" tabindex="-1" data-src-line="163">5. 정중한 지시어 — こちら·そちら·あちら·どちら <a class="header-anchor" href="#5-정중한-지시어--" aria-hidden="true">#</a></h2>
+<p><code>こ·そ·あ·ど</code> 계열 중 가장 정중한 표현으로,<br>
+방향·장소를 가리키거나 사람·사물을 부드럽게 지칭할 때 사용합니다.</p>
+<table>
+<thead>
+<tr>
+<th>계열</th>
+<th>단어</th>
+<th>의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>こ</td>
+<td>こちら</td>
+<td>이쪽</td>
+</tr>
+<tr>
+<td>そ</td>
+<td>そちら</td>
+<td>그쪽</td>
+</tr>
+<tr>
+<td>あ</td>
+<td>あちら</td>
+<td>저쪽</td>
+</tr>
+<tr>
+<td>ど</td>
+<td>どちら</td>
+<td>어느 쪽 / 어디</td>
+</tr>
+</tbody>
+</table>
+<h3 id="쓰임--방향장소-정중체" tabindex="-1" data-src-line="175">쓰임 ①: 방향·장소 (정중체) <a class="header-anchor" href="#쓰임--방향장소-정중체" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">エレベーターは こちらです。
+에레베에타아와 코치라데스。
+(엘리베이터는 이쪽입니다.)
+
+おてあらいは あちらに ございます。
+오테아라이와 아치라니 고자이마스。
+(화장실은 저쪽에 있습니다.)
+</code></pre></div></code></pre>
+<h3 id="쓰임--사람-소개-정중체" tabindex="-1" data-src-line="187">쓰임 ②: 사람 소개 (정중체) <a class="header-anchor" href="#쓰임--사람-소개-정중체" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">こちらは キム・チョルスさんです。
+코치라와 키무 쵸루스상데스。
+(이쪽은 김철수 씨입니다.)
+</code></pre></div></code></pre>
+<h3 id="쓰임----어느-쪽-2자-선택" tabindex="-1" data-src-line="195">쓰임 ③: どちら = 어느 쪽 (2자 선택) <a class="header-anchor" href="#쓰임----어느-쪽-2자-선택" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">コーヒーと こうちゃ、どちらに しますか。
+코히이토 코우챠、도치라니 시마스카?
+(커피와 홍차, 어느 쪽으로 하시겠습니까?)
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>どこ vs どちら</strong>: 두 곳 중 하나를 고를 때는 <code>どちら</code>가 자연스럽고, 불특정 장소를 물을 때는 <code>どこ</code>를 사용합니다.</p>
+</blockquote>
+<hr>
+<h2 id="6--전체-정리표" tabindex="-1" data-src-line="207">6. こそあど 전체 정리표 <a class="header-anchor" href="#6--전체-정리표" aria-hidden="true">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>종류</th>
+<th>こ계열</th>
+<th>そ계열</th>
+<th>あ계열</th>
+<th>ど계열</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>사물 대명사</td>
+<td>これ</td>
+<td>それ</td>
+<td>あれ</td>
+<td>どれ</td>
+</tr>
+<tr>
+<td>지시형용사</td>
+<td>この</td>
+<td>その</td>
+<td>あの</td>
+<td>どの</td>
+</tr>
+<tr>
+<td>장소 대명사</td>
+<td>ここ</td>
+<td>そこ</td>
+<td>あそこ</td>
+<td>どこ</td>
+</tr>
+<tr>
+<td>방향·정중</td>
+<td>こちら</td>
+<td>そちら</td>
+<td>あちら</td>
+<td>どちら</td>
+</tr>
+<tr>
+<td>방향·구어</td>
+<td>こっち</td>
+<td>そっち</td>
+<td>あっち</td>
+<td>どっち</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>こっち·そっち·あっち·どっち</strong> 는 <code>こちら</code> 계열의 구어(반말)형입니다. 친한 친구 사이나 캐주얼한 상황에서 사용합니다.</p>
+</blockquote>
+<hr>
+<h2 id="7-소유-표현과-결합-" tabindex="-1" data-src-line="221">7. 소유 표현과 결합: ～は～のです <a class="header-anchor" href="#7-소유-표현과-결합-" aria-hidden="true">#</a></h2>
+<p>3강에서 배운 <code>の</code> 와 지시어를 조합하면 소유를 물을 수 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: この かさは だれのですか。
+   코노 카사와 다레노데스카?
+   (이 우산은 누구 것입니까?)
+
+A: それは わたしのです。
+   소레와 와타시노데스。
+   (그것은 제 것입니다.)
+
+A: わたしのじゃありません。
+   와타시노쟈아리마셍。
+   (제 것이 아닙니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-실전-회화--쇼핑-상황" tabindex="-1" data-src-line="241">8. 실전 회화 — 쇼핑 상황 <a class="header-anchor" href="#8-실전-회화--쇼핑-상황" aria-hidden="true">#</a></h2>
+<p>지시어를 활용한 실전 회화입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">きゃく： すみません、これは なんですか。
+        스미마셍、코레와 난데스카?
+        (저기요, 이것은 무엇입니까?)
+
+てんいん：それは わがしです。にほんの おかしです。
+         소레와 와가시데스。니혼노 오카시데스。
+         (그것은 화과자입니다. 일본 과자입니다.)
+
+きゃく： あの、この わがしは いくらですか。
+        아노、코노 와가시와 이쿠라데스카?
+        (저기, 이 화과자는 얼마입니까?)
+
+てんいん：こちらは ひとつ ３００えんです。
+         코치라와 히토츠 산뱌쿠엔데스。
+         (이쪽은 하나에 300엔입니다.)
+
+きゃく： じゃあ、それを ください。
+        쟈아、소레오 쿠다사이。
+        (그럼, 그것을 주세요.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-문형-정리" tabindex="-1" data-src-line="269">9. 문형 정리 <a class="header-anchor" href="#9-문형-정리" aria-hidden="true">#</a></h2>
+<table>
+<thead>
+<tr>
+<th>문형</th>
+<th>의미</th>
+<th>예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>これ/それ/あれは～です</td>
+<td>이것/그것/저것은 ~입니다</td>
+<td>これは ほんです</td>
+</tr>
+<tr>
+<td>この/その/あの + 명사</td>
+<td>이/그/저 ~</td>
+<td>この ほんは～</td>
+</tr>
+<tr>
+<td>ここ/そこ/あそこです</td>
+<td>여기/거기/저기입니다</td>
+<td>トイレは あそこです</td>
+</tr>
+<tr>
+<td>どれですか</td>
+<td>어느 것입니까?</td>
+<td>どれが あなたのですか</td>
+</tr>
+<tr>
+<td>どこですか</td>
+<td>어디입니까?</td>
+<td>えきは どこですか</td>
+</tr>
+<tr>
+<td>どちらですか</td>
+<td>어느 쪽입니까?</td>
+<td>どちらに しますか</td>
+</tr>
+<tr>
+<td>～は ～のです</td>
+<td>~은 ~의 것입니다</td>
+<td>これは わたしのです</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="283">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>こそあど 체계는 처음에는 복잡해 보이지만, <strong>거리 관계(화자 기준)</strong> 라는 하나의 원리만 이해하면 모든 지시어에 일관되게 적용할 수 있습니다.</p>
+<p>특히 <code>この/その/あの</code> 지시형용사는 앞으로 배울 모든 문장에서 계속 등장하므로, 이번 강에서 확실히 다져두는 것이 중요합니다.</p>
+<p>다음 강에서는 <strong>숫자·시간·날짜 표현</strong> 을 배웁니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨]</strong></p>
+<ul>
+<li>1강: 히라가나 · 가타카나 완전 정복</li>
+<li>2강: 발음 규칙 — 탁음 · 반탁음 · 요음 · 촉음 · 장음</li>
+<li>3강: 자기소개 — ～は～です · じゃありません · ですか</li>
+<li><strong>4강</strong>: 지시대명사 — これ · それ · あれ · どれ ← 현재 글</li>
+<li>5강: 숫자와 시간 표현 — ～時 · ～分 · ～円</li>
+<li>6강: 동사 기초 — ます형 · 이동 표현 (～へ行きます)</li>
+<li>7강: 조사 — を · で · と · に</li>
+<li>8강: 수수 표현 — あげます · もらいます · くれます</li>
+<li>9강: 형용사 — い형용사 · な형용사 활용</li>
+<li>10강: 존재 표현 — います · あります · 위치 표현</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현 — 동사 가능형 · ～ことができます</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li>16강: 조건 표현 — ～たら · ～ば · ～と · ～なら</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+24:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L26",null,{"content":"$27"}]}]}]
+25:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-03-self-introduction","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-05-numbers-time",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]}],["$","li","japanese/japanese-lesson-03-self-introduction",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-03-self-introduction","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}]}],["$","li","japanese/japanese-lesson-02-pronunciation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-02-pronunciation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}]}]]}]]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+28:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}],["$","meta","11",{"property":"og:description","content":"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-04-28T12:39:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-04-28T12:39:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"japanese"}],["$","meta","22",{"property":"article:tag","content":"demonstratives"}],["$","meta","23",{"property":"article:tag","content":"kore-sore-are"}],["$","meta","24",{"property":"article:tag","content":"koko-soko-asoko"}],["$","meta","25",{"property":"article:tag","content":"beginner"}],["$","meta","26",{"property":"article:tag","content":"language-learning"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}],["$","meta","29",{"name":"twitter:description","content":"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L28","32",{}]]
+16:null
