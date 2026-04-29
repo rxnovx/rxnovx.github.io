@@ -4,13 +4,13 @@ b:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app
 d:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
 e:I[484,[],"OutletBoundary"]
 f:"$Sreact.suspense"
-:HL["/_next/static/css/7e7e938f3d35cc7c.css","style"]
-0:{"buildId":"iUSudSC3zLDccwavwZm6d","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/linux/rocky-linux-series-8-file-system-permissions\"},\"headline\":\"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)\",\"description\":\"리눅스 파일 시스템에서 소유자와 권한은 접근 제어의 출발점입니다.\\n이 글에서는 chown, chmod, 숫자 권한 표기법부터 SUID·SGID·Sticky Bit까지 파일 접근 권한의 동작 원리를 정리합니다.\",\"datePublished\":\"2026-01-27T13:17:00.000Z\",\"dateModified\":\"2026-01-27T13:17:00.000Z\",\"url\":\"https://rxnovx.github.io/post/linux/rocky-linux-series-8-file-system-permissions\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"linux\",\"permissions\",\"chmod\",\"chown\",\"suid\",\"sgid\",\"sticky\",\"bit\",\"file\",\"system\",\"rocky\"]}"}}],["$","$L2",null,{"title":"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)","slugPath":"linux/rocky-linux-series-8-file-system-permissions","headings":[{"id":"들어가기","text":"들어가기","level":2},{"id":"file-ownership","text":"File Ownership","level":2},{"id":"chown--파일의-소유자-및-그룹-변경","text":"chown : 파일의 소유자 및 그룹 변경","level":3},{"id":"기본-예제","text":"기본 예제","level":4},{"id":"소유자를-test-유저로-변경","text":"소유자를 test 유저로 변경","level":1},{"id":"그룹만-cloud로-변경","text":"그룹만 cloud로 변경","level":1},{"id":"소유자와-그룹을-동시에-변경","text":"소유자와 그룹을 동시에 변경","level":1},{"id":"재귀적-변경--r","text":"재귀적 변경 (-R)","level":4},{"id":"하위-파일과-디렉터리까지-모두-변경","text":"하위 파일과 디렉터리까지 모두 변경","level":1},{"id":"file-and-directory-permissions","text":"File and Directory Permissions","level":2},{"id":"파일-타입-첫-번째-문자","text":"파일 타입 (첫 번째 문자)","level":2},{"id":"보완-설명","text":"보완 설명","level":3},{"id":"rwx-권한-구조","text":"rwx 권한 구조","level":2},{"id":"r--w--x-권한-의미","text":"r / w / x 권한 의미","level":2},{"id":"permission-숫자-표기법-octal","text":"Permission 숫자 표기법 (Octal)","level":2},{"id":"기본-비트-값","text":"기본 비트 값","level":3},{"id":"조합-예시","text":"조합 예시","level":3},{"id":"3자리-권한-예시","text":"3자리 권한 예시","level":3},{"id":"chmod--권한-변경","text":"chmod : 권한 변경","level":2},{"id":"숫자-방식","text":"숫자 방식","level":3},{"id":"문자-방식","text":"문자 방식","level":3},{"id":"디렉터리-삭제-권한-실습-개념","text":"디렉터리 삭제 권한 실습 개념","level":2},{"id":"suid--sgid--sticky-bit","text":"SUID / SGID / Sticky Bit","level":2},{"id":"대표-예시","text":"대표 예시","level":3},{"id":"suid","text":"SUID","level":3},{"id":"sgid","text":"SGID","level":3},{"id":"sticky-bit","text":"Sticky Bit","level":3},{"id":"특수-퍼미션-설정-방법","text":"특수 퍼미션 설정 방법","level":2},{"id":"문자-방식","text":"문자 방식","level":3},{"id":"숫자-방식","text":"숫자 방식","level":3},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"linux › rocky-linux-series-8-file-system-permissions"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"리눅스 파일 시스템에서 소유자와 권한은 접근 제어의 출발점입니다.\n이 글에서는 chown, chmod, 숫자 권한 표기법부터 SUID·SGID·Sticky Bit까지 파일 접근 권한의 동작 원리를 정리합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":["$L3","$L4","$L5"]}],"$L6"]}],"$L7","$L8"]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"4MA2uu1wZeQ1Vx2mjRy7H","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/linux/rocky-linux-series-8-file-system-permissions\"},\"headline\":\"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)\",\"description\":\"리눅스 파일 시스템에서 소유자와 권한은 접근 제어의 출발점입니다.\\n이 글에서는 chown, chmod, 숫자 권한 표기법부터 SUID·SGID·Sticky Bit까지 파일 접근 권한의 동작 원리를 정리합니다.\",\"datePublished\":\"2026-01-27T13:17:00.000Z\",\"dateModified\":\"2026-01-27T13:17:00.000Z\",\"url\":\"https://rxnovx.github.io/post/linux/rocky-linux-series-8-file-system-permissions\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"linux\",\"permissions\",\"chmod\",\"chown\",\"suid\",\"sgid\",\"sticky\",\"bit\",\"file\",\"system\",\"rocky\"]}"}}],["$","$L2",null,{"title":"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)","slugPath":"linux/rocky-linux-series-8-file-system-permissions","headings":[{"id":"들어가기","text":"들어가기","level":2},{"id":"file-ownership","text":"File Ownership","level":2},{"id":"chown--파일의-소유자-및-그룹-변경","text":"chown : 파일의 소유자 및 그룹 변경","level":3},{"id":"기본-예제","text":"기본 예제","level":4},{"id":"소유자를-test-유저로-변경","text":"소유자를 test 유저로 변경","level":1},{"id":"그룹만-cloud로-변경","text":"그룹만 cloud로 변경","level":1},{"id":"소유자와-그룹을-동시에-변경","text":"소유자와 그룹을 동시에 변경","level":1},{"id":"재귀적-변경--r","text":"재귀적 변경 (-R)","level":4},{"id":"하위-파일과-디렉터리까지-모두-변경","text":"하위 파일과 디렉터리까지 모두 변경","level":1},{"id":"file-and-directory-permissions","text":"File and Directory Permissions","level":2},{"id":"파일-타입-첫-번째-문자","text":"파일 타입 (첫 번째 문자)","level":2},{"id":"보완-설명","text":"보완 설명","level":3},{"id":"rwx-권한-구조","text":"rwx 권한 구조","level":2},{"id":"r--w--x-권한-의미","text":"r / w / x 권한 의미","level":2},{"id":"permission-숫자-표기법-octal","text":"Permission 숫자 표기법 (Octal)","level":2},{"id":"기본-비트-값","text":"기본 비트 값","level":3},{"id":"조합-예시","text":"조합 예시","level":3},{"id":"3자리-권한-예시","text":"3자리 권한 예시","level":3},{"id":"chmod--권한-변경","text":"chmod : 권한 변경","level":2},{"id":"숫자-방식","text":"숫자 방식","level":3},{"id":"문자-방식","text":"문자 방식","level":3},{"id":"디렉터리-삭제-권한-실습-개념","text":"디렉터리 삭제 권한 실습 개념","level":2},{"id":"suid--sgid--sticky-bit","text":"SUID / SGID / Sticky Bit","level":2},{"id":"대표-예시","text":"대표 예시","level":3},{"id":"suid","text":"SUID","level":3},{"id":"sgid","text":"SGID","level":3},{"id":"sticky-bit","text":"Sticky Bit","level":3},{"id":"특수-퍼미션-설정-방법","text":"특수 퍼미션 설정 방법","level":2},{"id":"문자-방식","text":"문자 방식","level":3},{"id":"숫자-방식","text":"숫자 방식","level":3},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"linux › rocky-linux-series-8-file-system-permissions"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"리눅스 배우기 #8 - 리눅스 파일 시스템 권한 이해하기 (소유자, chmod, SUID/SGID)"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"리눅스 파일 시스템에서 소유자와 권한은 접근 제어의 출발점입니다.\n이 글에서는 chown, chmod, 숫자 권한 표기법부터 SUID·SGID·Sticky Bit까지 파일 접근 권한의 동작 원리를 정리합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":["$L3","$L4","$L5"]}],"$L6"]}],"$L7","$L8"]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
 3:["$","time",null,{"dateTime":"2026-01-27T13:17:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 1월 27일"]}]
 4:["$","time",null,{"dateTime":"2026-01-27T13:17:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 1월 27일"]}]
 5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","linux",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","linux"]}],["$","span","permissions",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","permissions"]}],["$","span","chmod",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","chmod"]}],["$","span","chown",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","chown"]}],["$","span","suid",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","suid"]}],["$","span","sgid",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","sgid"]}],["$","span","sticky",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","sticky"]}],["$","span","bit",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","bit"]}],["$","span","file",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","file"]}],["$","span","system",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","system"]}],["$","span","rocky",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","rocky"]}]]}]
 6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#file-ownership">File Ownership </a><ul><li><a href="#chown--파일의-소유자-및-그룹-변경">chown : 파일의 소유자 및 그룹 변경 </a><ul><li><a href="#기본-예제">기본 예제 </a></li><li><a href="#재귀적-변경--r">재귀적 변경 (-R) </a></li></ul></li></ul></li><li><a href="#file-and-directory-permissions">File and Directory Permissions </a></li><li><a href="#파일-타입-첫-번째-문자">파일 타입 (첫 번째 문자) </a><ul><li><a href="#보완-설명">보완 설명 </a></li></ul></li><li><a href="#rwx-권한-구조">rwx 권한 구조 </a></li><li><a href="#r--w--x-권한-의미">r / w / x 권한 의미 </a></li><li><a href="#permission-숫자-표기법-octal">Permission 숫자 표기법 (Octal) </a><ul><li><a href="#기본-비트-값">기본 비트 값 </a></li><li><a href="#조합-예시">조합 예시 </a></li><li><a href="#3자리-권한-예시">3자리 권한 예시 </a></li></ul></li><li><a href="#chmod--권한-변경">chmod : 권한 변경 </a><ul><li><a href="#숫자-방식">숫자 방식 </a></li><li><a href="#문자-방식">문자 방식 </a></li></ul></li><li><a href="#디렉터리-삭제-권한-실습-개념">디렉터리 삭제 권한 실습 개념 </a></li><li><a href="#suid--sgid--sticky-bit">SUID / SGID / Sticky Bit </a><ul><li><a href="#대표-예시">대표 예시 </a></li><li><a href="#suid">SUID </a></li><li><a href="#sgid">SGID </a></li><li><a href="#sticky-bit">Sticky Bit </a></li></ul></li><li><a href="#특수-퍼미션-설정-방법">특수 퍼미션 설정 방법 </a><ul><li><a href="#문자-방식-1">문자 방식 </a></li><li><a href="#숫자-방식-1">숫자 방식 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
+c:T48ad,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></li><li><a href="#file-ownership">File Ownership </a><ul><li><a href="#chown--파일의-소유자-및-그룹-변경">chown : 파일의 소유자 및 그룹 변경 </a><ul><li><a href="#기본-예제">기본 예제 </a></li><li><a href="#재귀적-변경--r">재귀적 변경 (-R) </a></li></ul></li></ul></li><li><a href="#file-and-directory-permissions">File and Directory Permissions </a></li><li><a href="#파일-타입-첫-번째-문자">파일 타입 (첫 번째 문자) </a><ul><li><a href="#보완-설명">보완 설명 </a></li></ul></li><li><a href="#rwx-권한-구조">rwx 권한 구조 </a></li><li><a href="#r--w--x-권한-의미">r / w / x 권한 의미 </a></li><li><a href="#permission-숫자-표기법-octal">Permission 숫자 표기법 (Octal) </a><ul><li><a href="#기본-비트-값">기본 비트 값 </a></li><li><a href="#조합-예시">조합 예시 </a></li><li><a href="#3자리-권한-예시">3자리 권한 예시 </a></li></ul></li><li><a href="#chmod--권한-변경">chmod : 권한 변경 </a><ul><li><a href="#숫자-방식">숫자 방식 </a></li><li><a href="#문자-방식">문자 방식 </a></li></ul></li><li><a href="#디렉터리-삭제-권한-실습-개념">디렉터리 삭제 권한 실습 개념 </a></li><li><a href="#suid--sgid--sticky-bit">SUID / SGID / Sticky Bit </a><ul><li><a href="#대표-예시">대표 예시 </a></li><li><a href="#suid">SUID </a></li><li><a href="#sgid">SGID </a></li><li><a href="#sticky-bit">Sticky Bit </a></li></ul></li><li><a href="#특수-퍼미션-설정-방법">특수 퍼미션 설정 방법 </a><ul><li><a href="#문자-방식-1">문자 방식 </a></li><li><a href="#숫자-방식-1">숫자 방식 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기" tabindex="-1" data-src-line="2">들어가기 <a class="header-anchor" href="#들어가기" aria-hidden="true">#</a></h2>
 <p>이전 글들에서는 리눅스에서 파일과 디렉터리를 다루는 방법을 중심으로 살펴봤습니다.<br>
 이번 글에서는 그 파일과 디렉터리에 <strong>누가, 무엇을, 어디까지 할 수 있는지</strong>를 제어하는 핵심 개념인 <strong>파일 시스템 권한(File System Permissions)</strong> 을 정리합니다.</p>
 <p>리눅스는 기본적으로 멀티 유저 시스템입니다.<br>
@@ -49,11 +49,11 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 <p>이 문자열 안에 파일 타입과 권한 정보가 모두 들어 있습니다.</p>
 <hr>
 <h2 id="파일-타입-첫-번째-문자" tabindex="-1" data-src-line="64">파일 타입 (첫 번째 문자) <a class="header-anchor" href="#파일-타입-첫-번째-문자" aria-hidden="true">#</a></h2>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>문자</th>
-<th>의미</th>
+<th scope="col">문자</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -87,7 +87,7 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<h3 id="보완-설명" tabindex="-1" data-src-line="76">보완 설명 <a class="header-anchor" href="#보완-설명" aria-hidden="true">#</a></h3>
+</div><h3 id="보완-설명" tabindex="-1" data-src-line="76">보완 설명 <a class="header-anchor" href="#보완-설명" aria-hidden="true">#</a></h3>
 <ul>
 <li>
 <p><strong>디렉터리(d)</strong></p>
@@ -128,11 +128,11 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 │ └──── group
 └──────── owner
 </code></pre></div></code></pre>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>위치</th>
-<th>의미</th>
+<th scope="col">위치</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -154,14 +154,14 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<hr>
+</div><hr>
 <h2 id="r--w--x-권한-의미" tabindex="-1" data-src-line="115">r / w / x 권한 의미 <a class="header-anchor" href="#r--w--x-권한-의미" aria-hidden="true">#</a></h2>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>권한</th>
-<th>파일(File)</th>
-<th>디렉터리(Directory)</th>
+<th scope="col">권한</th>
+<th scope="col">파일(File)</th>
+<th scope="col">디렉터리(Directory)</th>
 </tr>
 </thead>
 <tbody>
@@ -182,17 +182,17 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<p>디렉터리에서 <strong>삭제 권한은 파일이 아니라 상위 디렉터리의 w 권한</strong>으로 결정된다는 점이 중요합니다.</p>
+</div><p>디렉터리에서 <strong>삭제 권한은 파일이 아니라 상위 디렉터리의 w 권한</strong>으로 결정된다는 점이 중요합니다.</p>
 <hr>
 <h2 id="permission-숫자-표기법-octal" tabindex="-1" data-src-line="127">Permission 숫자 표기법 (Octal) <a class="header-anchor" href="#permission-숫자-표기법-octal" aria-hidden="true">#</a></h2>
 <p>리눅스 권한은 8진수로 표현할 수 있습니다.<br>
 실무에서는 이 방식이 가장 많이 사용됩니다.</p>
 <h3 id="기본-비트-값" tabindex="-1" data-src-line="132">기본 비트 값 <a class="header-anchor" href="#기본-비트-값" aria-hidden="true">#</a></h3>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>값</th>
-<th>의미</th>
+<th scope="col">값</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -210,13 +210,13 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<h3 id="조합-예시" tabindex="-1" data-src-line="140">조합 예시 <a class="header-anchor" href="#조합-예시" aria-hidden="true">#</a></h3>
-<table>
+</div><h3 id="조합-예시" tabindex="-1" data-src-line="140">조합 예시 <a class="header-anchor" href="#조합-예시" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>숫자</th>
-<th>권한</th>
-<th>의미</th>
+<th scope="col">숫자</th>
+<th scope="col">권한</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -247,12 +247,12 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<h3 id="3자리-권한-예시" tabindex="-1" data-src-line="150">3자리 권한 예시 <a class="header-anchor" href="#3자리-권한-예시" aria-hidden="true">#</a></h3>
-<table>
+</div><h3 id="3자리-권한-예시" tabindex="-1" data-src-line="150">3자리 권한 예시 <a class="header-anchor" href="#3자리-권한-예시" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>숫자</th>
-<th>의미</th>
+<th scope="col">숫자</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -274,7 +274,7 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<hr>
+</div><hr>
 <h2 id="chmod--권한-변경" tabindex="-1" data-src-line="161">chmod : 권한 변경 <a class="header-anchor" href="#chmod--권한-변경" aria-hidden="true">#</a></h2>
 <h3 id="숫자-방식" tabindex="-1" data-src-line="163">숫자 방식 <a class="header-anchor" href="#숫자-방식" aria-hidden="true">#</a></h3>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">chmod</span> 644 file.txt
@@ -286,11 +286,11 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 <span class="hljs-built_in">chmod</span> o=r file
 <span class="hljs-built_in">chmod</span> a+rx file
 </code></pre></div></code></pre>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>대상</th>
-<th>의미</th>
+<th scope="col">대상</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -312,7 +312,7 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<hr>
+</div><hr>
 <h2 id="디렉터리-삭제-권한-실습-개념" tabindex="-1" data-src-line="188">디렉터리 삭제 권한 실습 개념 <a class="header-anchor" href="#디렉터리-삭제-권한-실습-개념" aria-hidden="true">#</a></h2>
 <p>파일을 삭제할 수 있는지는 <strong>파일 권한이 아니라 디렉터리 권한</strong>으로 판단됩니다.</p>
 <p>쓰기(w) 권한이 없는 디렉터리에서는 파일을 생성하거나 삭제할 수 없습니다.<br>
@@ -320,11 +320,11 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 <hr>
 <h2 id="suid--sgid--sticky-bit" tabindex="-1" data-src-line="197">SUID / SGID / Sticky Bit <a class="header-anchor" href="#suid--sgid--sticky-bit" aria-hidden="true">#</a></h2>
 <p>일반적인 rwx 권한 외에, <strong>권한 동작 자체를 변경하는 특수 퍼미션</strong>이 존재합니다.</p>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>비트</th>
-<th>의미</th>
+<th scope="col">비트</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -342,7 +342,7 @@ c:T449c,<nav class="md-toc"><ul><li><a href="#들어가기">들어가기 </a></l
 </tr>
 </tbody>
 </table>
-<h3 id="대표-예시" tabindex="-1" data-src-line="207">대표 예시 <a class="header-anchor" href="#대표-예시" aria-hidden="true">#</a></h3>
+</div><h3 id="대표-예시" tabindex="-1" data-src-line="207">대표 예시 <a class="header-anchor" href="#대표-예시" aria-hidden="true">#</a></h3>
 <pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">-rwsr-xr-x /bin/passwd
 drwxrwxrwt /tmp
 </code></pre></div></code></pre>
@@ -369,11 +369,11 @@ drwxrwxrwt /tmp
 <span class="hljs-built_in">chmod</span> o+t <span class="hljs-built_in">dir</span>    <span class="hljs-comment"># Sticky Bit</span>
 </code></pre></div></code></pre>
 <h3 id="숫자-방식-1" tabindex="-1" data-src-line="241">숫자 방식 <a class="header-anchor" href="#숫자-방식-1" aria-hidden="true">#</a></h3>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>값</th>
-<th>의미</th>
+<th scope="col">값</th>
+<th scope="col">의미</th>
 </tr>
 </thead>
 <tbody>
@@ -391,7 +391,7 @@ drwxrwxrwt /tmp
 </tr>
 </tbody>
 </table>
-<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">chmod</span> 4755 file
+</div><pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">chmod</span> 4755 file
 <span class="hljs-built_in">chmod</span> 2770 <span class="hljs-built_in">dir</span>
 <span class="hljs-built_in">chmod</span> 1777 /tmp
 </code></pre></div></code></pre>
@@ -401,6 +401,6 @@ drwxrwxrwt /tmp
 이 개념을 정확히 이해하지 못하면 사용자 관리, 서비스 운영, 보안 설정 모두 흔들릴 수 있습니다.</p>
 7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lb",null,{"content":"$c"}]}]}]
 8:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Ld",null,{"href":"/post/linux/rocky-linux-series-7-manage-users-and-groups","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"리눅스 배우기 #7 – 로컬 유저와 그룹 관리"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Ld",null,{"href":"/post/linux/rocky-linux-series-9-process-management","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"리눅스 배우기 #9 – 프로세스 이해와 제어"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","linux/rocky-linux-series-17-nfs-network-file-system",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/linux/rocky-linux-series-17-nfs-network-file-system","className":"text-sm font-medium hover:text-[var(--primary)]","children":"리눅스 배우기 #17 – NFS(Network File System)로 네트워크 스토리지 사용하기"}]}],["$","li","linux/rocky-linux-series-11-analyzing-and-storing-logs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/linux/rocky-linux-series-11-analyzing-and-storing-logs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"리눅스 배우기 #11 - 리눅스 로그 분석과 저장 방식 정리 (journalctl · rsyslog · 시간 동기화)"}]}],["$","li","linux/rocky-linux-series-16-manage-logical-volume-management-lvm",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/linux/rocky-linux-series-16-manage-logical-volume-management-lvm","className":"text-sm font-medium hover:text-[var(--primary)]","children":"리눅스 배우기 #16 – LVM(Logical Volume Management) 스토리지 관리"}]}]]}]]}]]}]
-9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e7e938f3d35cc7c.css","precedence":"next"}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
 a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
 10:null

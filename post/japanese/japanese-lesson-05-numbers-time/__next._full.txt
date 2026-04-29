@@ -6,9 +6,9 @@
 6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-a1aaef3226a8c400.js"],"default"]
 7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
 12:I[7123,[],""]
-:HL["/_next/static/css/3fb4651c5bb94ef3.css","style"]
-:HL["/_next/static/css/7e7e938f3d35cc7c.css","style"]
-0:{"P":null,"b":"iUSudSC3zLDccwavwZm6d","c":["","post","japanese","japanese-lesson-05-numbers-time",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-05-numbers-time","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/3fb4651c5bb94ef3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+:HL["/_next/static/css/a76c8667eee01c4d.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"4MA2uu1wZeQ1Vx2mjRy7H","c":["","post","japanese","japanese-lesson-05-numbers-time",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-05-numbers-time","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a76c8667eee01c4d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
 17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
@@ -21,7 +21,7 @@ b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
 c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
 d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
 e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
-f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/7e7e938f3d35cc7c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
 1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
@@ -34,7 +34,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 21:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
 22:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
 23:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-27:T5fb1,<h1 id="일본어-5강-숫자시간날짜가격-표현-완전-정복" tabindex="-1" data-src-line="1">일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복 <a class="header-anchor" href="#일본어-5강-숫자시간날짜가격-표현-완전-정복" aria-hidden="true">#</a></h1>
+27:T6422,<h1 id="일본어-5강-숫자시간날짜가격-표현-완전-정복" tabindex="-1" data-src-line="1">일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복 <a class="header-anchor" href="#일본어-5강-숫자시간날짜가격-표현-완전-정복" aria-hidden="true">#</a></h1>
 <nav class="md-toc"><ul><li><a href="#일본어-5강-숫자시간날짜가격-표현-완전-정복">일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-기본-숫자--010">1. 기본 숫자 — 0~10 </a></li><li><a href="#2-1199-읽기">2. 11~99 읽기 </a></li><li><a href="#3-100-이상의-숫자">3. 100 이상의 숫자 </a><ul><li><a href="#큰-숫자-읽기-연습">큰 숫자 읽기 연습 </a></li></ul></li><li><a href="#4-시간-표현----">4. 시간 표현 — ～時 · ～分 </a><ul><li><a href="#시-읽기">시(時) 읽기 </a></li><li><a href="#분-읽기">분(分) 읽기 </a></li><li><a href="#오전오후">오전·오후 </a></li><li><a href="#시간-표현-예문">시간 표현 예문 </a></li><li><a href="#시간-묻기">시간 묻기 </a></li></ul></li><li><a href="#5-날짜-표현----">5. 날짜 표현 — ～月 · ～日 </a><ul><li><a href="#월-읽기">월(月) 읽기 </a></li><li><a href="#일-읽기--불규칙-주의">일(日) 읽기 — 불규칙 주의! </a></li><li><a href="#요일-표현">요일 표현 </a></li><li><a href="#날짜-묻기">날짜 묻기 </a></li></ul></li><li><a href="#6-가격-표현--">6. 가격 표현 — ～円 </a><ul><li><a href="#가격-묻기">가격 묻기 </a></li></ul></li><li><a href="#7-기간-표현--">7. 기간 표현 — から·まで </a></li><li><a href="#8-실전-회화--약속-잡기">8. 실전 회화 — 약속 잡기 </a></li><li><a href="#9-문형-정리">9. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>숫자는 일상생활에서 가장 자주 쓰이는 표현 중 하나입니다.<br>
 시간을 묻고, 날짜를 확인하고, 가격을 이야기할 때 모두 숫자가 필요합니다.<br>
@@ -51,12 +51,12 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </blockquote>
 <hr>
 <h2 id="1-기본-숫자--010" tabindex="-1" data-src-line="20">1. 기본 숫자 — 0~10 <a class="header-anchor" href="#1-기본-숫자--010" aria-hidden="true">#</a></h2>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>숫자</th>
-<th>히라가나</th>
-<th>읽기</th>
+<th scope="col">숫자</th>
+<th scope="col">히라가나</th>
+<th scope="col">읽기</th>
 </tr>
 </thead>
 <tbody>
@@ -117,7 +117,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </tr>
 </tbody>
 </table>
-<blockquote>
+</div><blockquote>
 <p>⚠️ <strong>4·7·9는 두 가지 읽기가 있습니다</strong></p>
 <ul>
 <li><strong>4</strong>: <code>し</code>는 死(죽음)와 발음이 같아 불길하게 여겨지므로, 시간·날짜 외에는 주로 <code>よん</code>을 사용합니다.</li>
@@ -133,13 +133,13 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 25 = に + じゅう + ご = にじゅうご
 99 = きゅう + じゅう + きゅう = きゅうじゅうきゅう
 </code></pre></div></code></pre>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>숫자</th>
-<th>읽기</th>
-<th>숫자</th>
-<th>읽기</th>
+<th scope="col">숫자</th>
+<th scope="col">읽기</th>
+<th scope="col">숫자</th>
+<th scope="col">읽기</th>
 </tr>
 </thead>
 <tbody>
@@ -181,14 +181,14 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </tr>
 </tbody>
 </table>
-<hr>
+</div><hr>
 <h2 id="3-100-이상의-숫자" tabindex="-1" data-src-line="65">3. 100 이상의 숫자 <a class="header-anchor" href="#3-100-이상의-숫자" aria-hidden="true">#</a></h2>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>숫자</th>
-<th>읽기</th>
-<th>비고</th>
+<th scope="col">숫자</th>
+<th scope="col">읽기</th>
+<th scope="col">비고</th>
 </tr>
 </thead>
 <tbody>
@@ -269,7 +269,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </tr>
 </tbody>
 </table>
-<blockquote>
+</div><blockquote>
 <p>⚠️ <strong>발음 변화 주의</strong>: 300(さんびゃく), 600(ろっぴゃく), 800(はっぴゃく), 3000(さんぜん), 8000(はっせん)은 불규칙 발음 변화가 있습니다. 통째로 외워두는 것이 좋습니다.</p>
 </blockquote>
 <h3 id="큰-숫자-읽기-연습" tabindex="-1" data-src-line="87">큰 숫자 읽기 연습 <a class="header-anchor" href="#큰-숫자-읽기-연습" aria-hidden="true">#</a></h3>
@@ -282,11 +282,11 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 <h2 id="4-시간-표현----" tabindex="-1" data-src-line="98">4. 시간 표현 — ～時 · ～分 <a class="header-anchor" href="#4-시간-표현----" aria-hidden="true">#</a></h2>
 <h3 id="시-읽기" tabindex="-1" data-src-line="100">시(時) 읽기 <a class="header-anchor" href="#시-읽기" aria-hidden="true">#</a></h3>
 <p>시간은 숫자 뒤에 <code>じ(時)</code> 를 붙입니다.</p>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>시간</th>
-<th>읽기</th>
+<th scope="col">시간</th>
+<th scope="col">읽기</th>
 </tr>
 </thead>
 <tbody>
@@ -340,18 +340,18 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </tr>
 </tbody>
 </table>
-<blockquote>
+</div><blockquote>
 <p>⚠️ <strong>4시는 よじ, 9시는 くじ</strong> — 이 두 가지는 특히 헷갈리기 쉬운 불규칙 읽기입니다.</p>
 </blockquote>
 <h3 id="분-읽기" tabindex="-1" data-src-line="121">분(分) 읽기 <a class="header-anchor" href="#분-읽기" aria-hidden="true">#</a></h3>
 <p>분은 숫자 뒤에 <code>ふん</code> 또는 <code>ぷん</code> 을 붙입니다.</p>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>분</th>
-<th>읽기</th>
-<th>분</th>
-<th>읽기</th>
+<th scope="col">분</th>
+<th scope="col">읽기</th>
+<th scope="col">분</th>
+<th scope="col">읽기</th>
 </tr>
 </thead>
 <tbody>
@@ -399,7 +399,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </tr>
 </tbody>
 </table>
-<blockquote>
+</div><blockquote>
 <p>💡 <strong>ふん vs ぷん</strong>: 1·3·4·6·8·10 뒤에서는 <code>ぷん</code>, 나머지는 <code>ふん</code>으로 읽는 경우가 많습니다. 외우기보다 자주 접하면서 자연스럽게 익히는 것이 효과적입니다.</p>
 </blockquote>
 <h3 id="오전오후" tabindex="-1" data-src-line="137">오전·오후 <a class="header-anchor" href="#오전오후" aria-hidden="true">#</a></h3>
@@ -432,11 +432,11 @@ A: ごぜん じゅういちじ はんです。
 <h2 id="5-날짜-표현----" tabindex="-1" data-src-line="173">5. 날짜 표현 — ～月 · ～日 <a class="header-anchor" href="#5-날짜-표현----" aria-hidden="true">#</a></h2>
 <h3 id="월-읽기" tabindex="-1" data-src-line="175">월(月) 읽기 <a class="header-anchor" href="#월-읽기" aria-hidden="true">#</a></h3>
 <p>월은 숫자 뒤에 <code>がつ</code> 를 붙입니다.</p>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>월</th>
-<th>읽기</th>
+<th scope="col">월</th>
+<th scope="col">읽기</th>
 </tr>
 </thead>
 <tbody>
@@ -490,15 +490,15 @@ A: ごぜん じゅういちじ はんです。
 </tr>
 </tbody>
 </table>
-<h3 id="일-읽기--불규칙-주의" tabindex="-1" data-src-line="194">일(日) 읽기 — 불규칙 주의! <a class="header-anchor" href="#일-읽기--불규칙-주의" aria-hidden="true">#</a></h3>
+</div><h3 id="일-읽기--불규칙-주의" tabindex="-1" data-src-line="194">일(日) 읽기 — 불규칙 주의! <a class="header-anchor" href="#일-읽기--불규칙-주의" aria-hidden="true">#</a></h3>
 <p>일(日) 읽기는 <strong>1일~10일, 14일, 20일, 24일</strong> 에 불규칙 발음이 있습니다. 일본어 학습에서 가장 암기가 필요한 부분 중 하나입니다.</p>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>날짜</th>
-<th>읽기</th>
-<th>날짜</th>
-<th>읽기</th>
+<th scope="col">날짜</th>
+<th scope="col">읽기</th>
+<th scope="col">날짜</th>
+<th scope="col">읽기</th>
 </tr>
 </thead>
 <tbody>
@@ -582,16 +582,16 @@ A: ごぜん じゅういちじ はんです。
 </tr>
 </tbody>
 </table>
-<blockquote>
+</div><blockquote>
 <p>⚠️ <strong>반드시 외워야 할 불규칙</strong>: ついたち(1일), ふつか(2일), みっか(3일), よっか(4일), いつか(5일), むいか(6일), なのか(7일), ようか(8일), ここのか(9일), とおか(10일), はつか(20일)</p>
 </blockquote>
 <h3 id="요일-표현" tabindex="-1" data-src-line="216">요일 표현 <a class="header-anchor" href="#요일-표현" aria-hidden="true">#</a></h3>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>요일</th>
-<th>읽기</th>
-<th>한자 의미</th>
+<th scope="col">요일</th>
+<th scope="col">읽기</th>
+<th scope="col">한자 의미</th>
 </tr>
 </thead>
 <tbody>
@@ -632,7 +632,7 @@ A: ごぜん じゅういちじ はんです。
 </tr>
 </tbody>
 </table>
-<blockquote>
+</div><blockquote>
 <p>💡 <strong>기억 팁</strong>: 월화수목금토일 — 달·불·물·나무·금·흙·해 순서로, 한자의 오행(五行) 개념에서 유래했습니다.</p>
 </blockquote>
 <h3 id="날짜-묻기" tabindex="-1" data-src-line="230">날짜 묻기 <a class="header-anchor" href="#날짜-묻기" aria-hidden="true">#</a></h3>
@@ -724,12 +724,12 @@ B: いいですよ。
 </code></pre></div></code></pre>
 <hr>
 <h2 id="9-문형-정리" tabindex="-1" data-src-line="339">9. 문형 정리 <a class="header-anchor" href="#9-문형-정리" aria-hidden="true">#</a></h2>
-<table>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
-<th>문형</th>
-<th>의미</th>
-<th>예문</th>
+<th scope="col">문형</th>
+<th scope="col">의미</th>
+<th scope="col">예문</th>
 </tr>
 </thead>
 <tbody>
@@ -775,7 +775,7 @@ B: いいですよ。
 </tr>
 </tbody>
 </table>
-<hr>
+</div><hr>
 <h2 id="마무리" tabindex="-1" data-src-line="354">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>숫자 표현은 반복 학습이 가장 효과적입니다.<br>
 특히 <strong>시간의 4시(よじ)·9시(くじ)</strong>, <strong>날짜의 1~10일 불규칙 읽기</strong>, <strong>300·600·800·3000·8000의 발음 변화</strong>는 의식적으로 반복 연습해두면 이후 회화에서 막힘 없이 쓸 수 있습니다.</p>
