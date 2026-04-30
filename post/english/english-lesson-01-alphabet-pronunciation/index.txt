@@ -1,0 +1,777 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-a1aaef3226a8c400.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/e2ccc7c49c719db6.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"zhRBuOVe1lOCVOzBBR2EU","c":["","post","english","english-lesson-01-alphabet-pronunciation",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english/english-lesson-01-alphabet-pronunciation","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/e2ccc7c49c719db6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}]
+a:["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-01-alphabet-pronunciation\"},\"headline\":\"영어 1강: 알파벳 · 발음 기호 · 소리의 원리\",\"description\":\"영어의 첫걸음, 알파벳 26자부터 발음 기호, 한국인이 자주 틀리는 발음까지 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-30T08:13:00.000Z\",\"dateModified\":\"2026-04-30T08:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-01-alphabet-pronunciation\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"alphabet\",\"pronunciation\",\"phonetics\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리","slugPath":"english/english-lesson-01-alphabet-pronunciation","headings":[{"id":"영어-1강-알파벳--발음-기호--소리의-원리","text":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-알파벳-26자","text":"1. 알파벳 26자","level":2},{"id":"2-모음-vs-자음","text":"2. 모음 vs 자음","level":2},{"id":"모음-vowel--5자","text":"모음 (Vowel) — 5자","level":3},{"id":"자음-consonant--21자","text":"자음 (Consonant) — 21자","level":3},{"id":"3-영어-발음-기호-ipa-기초","text":"3. 영어 발음 기호 (IPA) 기초","level":2},{"id":"주요-모음-발음-기호","text":"주요 모음 발음 기호","level":3},{"id":"주요-자음-발음-기호","text":"주요 자음 발음 기호","level":3},{"id":"4-한국인이-자주-틀리는-발음-top-10","text":"4. 한국인이 자주 틀리는 발음 TOP 10","level":2},{"id":"-r-vs-l","text":"① r vs l","level":3},{"id":"-f-vs-p","text":"② f vs p","level":3},{"id":"-v-vs-b","text":"③ v vs b","level":3},{"id":"-th-발음---vs-","text":"④ th 발음 — θ vs ð","level":3},{"id":"-단모음--cat의-a","text":"⑤ 단모음 æ (cat의 a)","level":3},{"id":"-장모음-vs-단모음-구분","text":"⑥ 장모음 vs 단모음 구분","level":3},{"id":"-어말-자음-발음","text":"⑦ 어말 자음 발음","level":3},{"id":"-w-발음","text":"⑧ w 발음","level":3},{"id":"-단어-연음-linking","text":"⑨ 단어 연음 (Linking)","level":3},{"id":"-묵음-silent-letters","text":"⑩ 묵음 (Silent Letters)","level":3},{"id":"5-강세-stress-기초","text":"5. 강세 (Stress) 기초","level":2},{"id":"강세-표시-방법","text":"강세 표시 방법","level":3},{"id":"명사-vs-동사-강세-변화","text":"명사 vs 동사 강세 변화","level":3},{"id":"6-억양-intonation-기초","text":"6. 억양 (Intonation) 기초","level":2},{"id":"올라가는-억양---의문문","text":"올라가는 억양 (↑) — 의문문","level":3},{"id":"내려가는-억양---평서문명령문wh-의문문","text":"내려가는 억양 (↓) — 평서문·명령문·wh 의문문","level":3},{"id":"올라갔다-내려오는-억양---나열미완성","text":"올라갔다 내려오는 억양 (↑↓) — 나열·미완성","level":3},{"id":"7-발음-연습에-도움이-되는-팁","text":"7. 발음 연습에 도움이 되는 팁","level":2},{"id":"8-문형-정리","text":"8. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-01-alphabet-pronunciation"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어의 첫걸음, 알파벳 26자부터 발음 기호, 한국인이 자주 틀리는 발음까지 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T08:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L1d","게시일 ","2026년 4월 30일"]}],"$L1e","$L1f"]}],"$L20"]}],"$L21","$L22"]}]
+23:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+1d:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}]
+1e:["$","time",null,{"dateTime":"2026-04-30T08:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 30일"]}]
+1f:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","alphabet",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","alphabet"]}],["$","span","pronunciation",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","pronunciation"]}],["$","span","phonetics",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","phonetics"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+20:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+24:T75d5,<h1 id="영어-1강-알파벳--발음-기호--소리의-원리" tabindex="-1" data-src-line="1">영어 1강: 알파벳 · 발음 기호 · 소리의 원리 <a class="header-anchor" href="#영어-1강-알파벳--발음-기호--소리의-원리" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#영어-1강-알파벳--발음-기호--소리의-원리">영어 1강: 알파벳 · 발음 기호 · 소리의 원리 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-알파벳-26자">1. 알파벳 26자 </a></li><li><a href="#2-모음-vs-자음">2. 모음 vs 자음 </a><ul><li><a href="#모음-vowel--5자">모음 (Vowel) — 5자 </a></li><li><a href="#자음-consonant--21자">자음 (Consonant) — 21자 </a></li></ul></li><li><a href="#3-영어-발음-기호-ipa-기초">3. 영어 발음 기호 (IPA) 기초 </a><ul><li><a href="#주요-모음-발음-기호">주요 모음 발음 기호 </a></li><li><a href="#주요-자음-발음-기호">주요 자음 발음 기호 </a></li></ul></li><li><a href="#4-한국인이-자주-틀리는-발음-top-10">4. 한국인이 자주 틀리는 발음 TOP 10 </a><ul><li><a href="#-r-vs-l">① r vs l </a></li><li><a href="#-f-vs-p">② f vs p </a></li><li><a href="#-v-vs-b">③ v vs b </a></li><li><a href="#-th-발음---vs-">④ th 발음 — θ vs ð </a></li><li><a href="#-단모음--cat의-a">⑤ 단모음 æ (cat의 a) </a></li><li><a href="#-장모음-vs-단모음-구분">⑥ 장모음 vs 단모음 구분 </a></li><li><a href="#-어말-자음-발음">⑦ 어말 자음 발음 </a></li><li><a href="#-w-발음">⑧ w 발음 </a></li><li><a href="#-단어-연음-linking">⑨ 단어 연음 (Linking) </a></li><li><a href="#-묵음-silent-letters">⑩ 묵음 (Silent Letters) </a></li></ul></li><li><a href="#5-강세-stress-기초">5. 강세 (Stress) 기초 </a><ul><li><a href="#강세-표시-방법">강세 표시 방법 </a></li><li><a href="#명사-vs-동사-강세-변화">명사 vs 동사 강세 변화 </a></li></ul></li><li><a href="#6-억양-intonation-기초">6. 억양 (Intonation) 기초 </a><ul><li><a href="#올라가는-억양---의문문">올라가는 억양 (↑) — 의문문 </a></li><li><a href="#내려가는-억양---평서문명령문wh-의문문">내려가는 억양 (↓) — 평서문·명령문·wh 의문문 </a></li><li><a href="#올라갔다-내려오는-억양---나열미완성">올라갔다 내려오는 억양 (↑↓) — 나열·미완성 </a></li></ul></li><li><a href="#7-발음-연습에-도움이-되는-팁">7. 발음 연습에 도움이 되는 팁 </a></li><li><a href="#8-문형-정리">8. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>이 시리즈는 영어를 처음 배우거나 기초부터 다시 잡고 싶은 분들을 위한 단계별 강의입니다.<br>
+1강에서는 영어의 가장 기본인 <strong>알파벳과 발음 원리</strong>를 다룹니다.<br>
+발음을 제대로 잡아두면 이후 모든 학습이 훨씬 수월해집니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>알파벳 26자를 정확히 읽고 쓸 수 있습니다.</li>
+<li>모음과 자음의 차이를 이해할 수 있습니다.</li>
+<li>기초 발음 기호(IPA)를 읽을 수 있습니다.</li>
+<li>한국인이 자주 틀리는 발음 TOP 10을 교정할 수 있습니다.</li>
+<li>강세와 억양의 기본 원리를 이해할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-알파벳-26자" tabindex="-1" data-src-line="20">1. 알파벳 26자 <a class="header-anchor" href="#1-알파벳-26자" aria-hidden="true">#</a></h2>
+<p>영어 알파벳은 총 <strong>26자</strong>로 구성되어 있습니다.<br>
+대문자(Uppercase)와 소문자(Lowercase)가 각각 존재합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">대문자</th>
+<th scope="col">소문자</th>
+<th scope="col">발음</th>
+<th scope="col">대문자</th>
+<th scope="col">소문자</th>
+<th scope="col">발음</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>a</td>
+<td>에이</td>
+<td>N</td>
+<td>n</td>
+<td>엔</td>
+</tr>
+<tr>
+<td>B</td>
+<td>b</td>
+<td>비</td>
+<td>O</td>
+<td>o</td>
+<td>오우</td>
+</tr>
+<tr>
+<td>C</td>
+<td>c</td>
+<td>씨</td>
+<td>P</td>
+<td>p</td>
+<td>피</td>
+</tr>
+<tr>
+<td>D</td>
+<td>d</td>
+<td>디</td>
+<td>Q</td>
+<td>q</td>
+<td>큐</td>
+</tr>
+<tr>
+<td>E</td>
+<td>e</td>
+<td>이</td>
+<td>R</td>
+<td>r</td>
+<td>아르</td>
+</tr>
+<tr>
+<td>F</td>
+<td>f</td>
+<td>에프</td>
+<td>S</td>
+<td>s</td>
+<td>에스</td>
+</tr>
+<tr>
+<td>G</td>
+<td>g</td>
+<td>지</td>
+<td>T</td>
+<td>t</td>
+<td>티</td>
+</tr>
+<tr>
+<td>H</td>
+<td>h</td>
+<td>에이치</td>
+<td>U</td>
+<td>u</td>
+<td>유</td>
+</tr>
+<tr>
+<td>I</td>
+<td>i</td>
+<td>아이</td>
+<td>V</td>
+<td>v</td>
+<td>브이</td>
+</tr>
+<tr>
+<td>J</td>
+<td>j</td>
+<td>제이</td>
+<td>W</td>
+<td>w</td>
+<td>더블유</td>
+</tr>
+<tr>
+<td>K</td>
+<td>k</td>
+<td>케이</td>
+<td>X</td>
+<td>x</td>
+<td>엑스</td>
+</tr>
+<tr>
+<td>L</td>
+<td>l</td>
+<td>엘</td>
+<td>Y</td>
+<td>y</td>
+<td>와이</td>
+</tr>
+<tr>
+<td>M</td>
+<td>m</td>
+<td>엠</td>
+<td>Z</td>
+<td>z</td>
+<td>지(미국)/제드(영국)</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>💡 <strong>알파벳 이름 vs 실제 발음</strong><br>
+알파벳의 이름과 단어 안에서의 실제 발음은 다릅니다.<br>
+예를 들어 <code>C</code>의 이름은 &quot;씨&quot;이지만, <code>cat</code>에서는 “ㅋ” 소리가 납니다.<br>
+<code>G</code>의 이름은 &quot;지&quot;이지만, <code>go</code>에서는 “ㄱ” 소리가 납니다.</p>
+</blockquote>
+<hr>
+<h2 id="2-모음-vs-자음" tabindex="-1" data-src-line="48">2. 모음 vs 자음 <a class="header-anchor" href="#2-모음-vs-자음" aria-hidden="true">#</a></h2>
+<p>알파벳 26자는 <strong>모음(Vowel) 5자</strong>와 <strong>자음(Consonant) 21자</strong>로 나뉩니다.</p>
+<h3 id="모음-vowel--5자" tabindex="-1" data-src-line="52">모음 (Vowel) — 5자 <a class="header-anchor" href="#모음-vowel--5자" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A, E, I, O, U
+</code></pre></div></code></pre>
+<p>모음은 공기가 막힘 없이 자유롭게 흘러나오며 소리를 만듭니다.<br>
+영어의 모든 음절에는 반드시 모음이 하나 이상 포함됩니다.</p>
+<h3 id="자음-consonant--21자" tabindex="-1" data-src-line="61">자음 (Consonant) — 21자 <a class="header-anchor" href="#자음-consonant--21자" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y, Z
+</code></pre></div></code></pre>
+<p>자음은 입술·혀·이·목구멍 등을 이용해 공기 흐름을 막거나 좁혀서 소리를 만듭니다.</p>
+<blockquote>
+<p>💡 <strong>관사 a vs an 선택 기준</strong><br>
+모음 소리로 시작하는 단어 앞에는 <code>an</code>, 자음 소리로 시작하는 단어 앞에는 <code>a</code>를 씁니다.<br>
+철자가 아닌 <strong>소리</strong> 기준임을 주의하세요.</p>
+<ul>
+<li>an apple (a로 시작 → 모음 소리 → an)</li>
+<li>an hour (h로 시작하지만 h 무음 → 모음 소리 → an)</li>
+<li>a university (u로 시작하지만 “유” 소리 → 자음 소리 → a)</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="3-영어-발음-기호-ipa-기초" tabindex="-1" data-src-line="78">3. 영어 발음 기호 (IPA) 기초 <a class="header-anchor" href="#3-영어-발음-기호-ipa-기초" aria-hidden="true">#</a></h2>
+<p>영어 발음 기호는 <strong>IPA(International Phonetic Alphabet)</strong> 를 기반으로 합니다.<br>
+사전에서 단어 발음을 확인할 때 반드시 필요합니다.</p>
+<h3 id="주요-모음-발음-기호" tabindex="-1" data-src-line="83">주요 모음 발음 기호 <a class="header-anchor" href="#주요-모음-발음-기호" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기호</th>
+<th scope="col">예시 단어</th>
+<th scope="col">한국어 근사 발음</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>æ</td>
+<td>cat, apple, bad</td>
+<td>'애’와 '에’의 중간</td>
+</tr>
+<tr>
+<td>ʌ</td>
+<td>cup, but, love</td>
+<td>짧은 ‘어’</td>
+</tr>
+<tr>
+<td>ɑː</td>
+<td>car, father, far</td>
+<td>길고 낮은 ‘아’</td>
+</tr>
+<tr>
+<td>ɔː</td>
+<td>call, ball, saw</td>
+<td>길고 둥근 ‘오’</td>
+</tr>
+<tr>
+<td>iː</td>
+<td>see, eat, meet</td>
+<td>길고 강한 ‘이’</td>
+</tr>
+<tr>
+<td>ɪ</td>
+<td>sit, big, it</td>
+<td>짧고 약한 ‘이’</td>
+</tr>
+<tr>
+<td>uː</td>
+<td>food, blue, moon</td>
+<td>길고 강한 ‘우’</td>
+</tr>
+<tr>
+<td>ʊ</td>
+<td>book, look, put</td>
+<td>짧고 약한 ‘우’</td>
+</tr>
+<tr>
+<td>eɪ</td>
+<td>cake, name, say</td>
+<td>‘에이’</td>
+</tr>
+<tr>
+<td>aɪ</td>
+<td>bike, time, my</td>
+<td>‘아이’</td>
+</tr>
+<tr>
+<td>ɔɪ</td>
+<td>boy, coin, toy</td>
+<td>‘오이’</td>
+</tr>
+<tr>
+<td>aʊ</td>
+<td>now, cloud, out</td>
+<td>‘아우’</td>
+</tr>
+<tr>
+<td>oʊ</td>
+<td>go, home, know</td>
+<td>‘오우’</td>
+</tr>
+<tr>
+<td>ə</td>
+<td>about, sofa, the</td>
+<td>약한 ‘어’ (슈와)</td>
+</tr>
+<tr>
+<td>ɜː</td>
+<td>bird, word, her</td>
+<td>'얼’과 '어’의 중간</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>💡 <strong>슈와(schwa, ə)</strong> 는 영어에서 가장 많이 등장하는 모음 소리입니다.<br>
+강세가 없는 음절에서 자주 나타나며 “약한 어” 소리입니다.</p>
+<ul>
+<li>about → /əˈbaʊt/ (a가 슈와 발음)</li>
+<li>banana → /bəˈnænə/ (첫 음절과 마지막 a가 슈와)</li>
+</ul>
+</blockquote>
+<h3 id="주요-자음-발음-기호" tabindex="-1" data-src-line="108">주요 자음 발음 기호 <a class="header-anchor" href="#주요-자음-발음-기호" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기호</th>
+<th scope="col">예시 단어</th>
+<th scope="col">설명</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>p</td>
+<td>pen, cup</td>
+<td>무성 양순 파열음</td>
+</tr>
+<tr>
+<td>b</td>
+<td>bat, club</td>
+<td>유성 양순 파열음</td>
+</tr>
+<tr>
+<td>t</td>
+<td>ten, cat</td>
+<td>무성 치경 파열음</td>
+</tr>
+<tr>
+<td>d</td>
+<td>dog, bed</td>
+<td>유성 치경 파열음</td>
+</tr>
+<tr>
+<td>k</td>
+<td>key, back</td>
+<td>무성 연구개 파열음</td>
+</tr>
+<tr>
+<td>g</td>
+<td>go, big</td>
+<td>유성 연구개 파열음</td>
+</tr>
+<tr>
+<td>f</td>
+<td>fan, leaf</td>
+<td>무성 순치 마찰음</td>
+</tr>
+<tr>
+<td>v</td>
+<td>van, love</td>
+<td>유성 순치 마찰음</td>
+</tr>
+<tr>
+<td>θ</td>
+<td>think, bath</td>
+<td>무성 치간 마찰음 (th)</td>
+</tr>
+<tr>
+<td>ð</td>
+<td>this, bathe</td>
+<td>유성 치간 마찰음 (th)</td>
+</tr>
+<tr>
+<td>s</td>
+<td>sun, bus</td>
+<td>무성 치경 마찰음</td>
+</tr>
+<tr>
+<td>z</td>
+<td>zoo, buzz</td>
+<td>유성 치경 마찰음</td>
+</tr>
+<tr>
+<td>ʃ</td>
+<td>she, fish</td>
+<td>무성 후치경 마찰음 (sh)</td>
+</tr>
+<tr>
+<td>ʒ</td>
+<td>measure, vision</td>
+<td>유성 후치경 마찰음</td>
+</tr>
+<tr>
+<td>tʃ</td>
+<td>chair, watch</td>
+<td>무성 파찰음 (ch)</td>
+</tr>
+<tr>
+<td>dʒ</td>
+<td>jump, bridge</td>
+<td>유성 파찰음 (j)</td>
+</tr>
+<tr>
+<td>m</td>
+<td>man, swim</td>
+<td>비음</td>
+</tr>
+<tr>
+<td>n</td>
+<td>no, sun</td>
+<td>비음</td>
+</tr>
+<tr>
+<td>ŋ</td>
+<td>sing, ring</td>
+<td>연구개 비음 (ng)</td>
+</tr>
+<tr>
+<td>l</td>
+<td>leg, ball</td>
+<td>유음</td>
+</tr>
+<tr>
+<td>r</td>
+<td>red, car</td>
+<td>미국식 r 발음</td>
+</tr>
+<tr>
+<td>w</td>
+<td>wet, away</td>
+<td>반모음</td>
+</tr>
+<tr>
+<td>j</td>
+<td>yes, yellow</td>
+<td>반모음</td>
+</tr>
+<tr>
+<td>h</td>
+<td>hat, ahead</td>
+<td>무성 성문 마찰음</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="4-한국인이-자주-틀리는-발음-top-10" tabindex="-1" data-src-line="139">4. 한국인이 자주 틀리는 발음 TOP 10 <a class="header-anchor" href="#4-한국인이-자주-틀리는-발음-top-10" aria-hidden="true">#</a></h2>
+<h3 id="-r-vs-l" tabindex="-1" data-src-line="141">① r vs l <a class="header-anchor" href="#-r-vs-l" aria-hidden="true">#</a></h3>
+<p>한국어에는 r과 l의 구분이 없어 가장 많이 혼동됩니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">발음</th>
+<th scope="col">방법</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>r</td>
+<td>혀를 어디에도 닿지 않게 들어올리며 소리냄</td>
+<td>red, right, room</td>
+</tr>
+<tr>
+<td>l</td>
+<td>혀끝을 윗니 뒤 잇몸에 붙이며 소리냄</td>
+<td>leg, love, light</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">rice (쌀) vs lice (이)
+road (도로) vs load (짐)
+right (오른쪽) vs light (빛)
+</code></pre></div></code></pre>
+<h3 id="-f-vs-p" tabindex="-1" data-src-line="156">② f vs p <a class="header-anchor" href="#-f-vs-p" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">발음</th>
+<th scope="col">방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>f</td>
+<td>윗니를 아랫입술에 살짝 대고 공기를 마찰시킴</td>
+</tr>
+<tr>
+<td>p</td>
+<td>두 입술을 붙였다 터뜨림</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">fan (선풍기) vs pan (냄비)
+fat (뚱뚱한) vs pat (토닥이다)
+feel (느끼다) vs peel (껍질 벗기다)
+</code></pre></div></code></pre>
+<h3 id="-v-vs-b" tabindex="-1" data-src-line="169">③ v vs b <a class="header-anchor" href="#-v-vs-b" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">발음</th>
+<th scope="col">방법</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>v</td>
+<td>윗니를 아랫입술에 대고 진동시킴 (f의 유성음)</td>
+</tr>
+<tr>
+<td>b</td>
+<td>두 입술을 붙였다 터뜨림 (p의 유성음)</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">very (매우) vs berry (베리)
+van (밴) vs ban (금지)
+vest (조끼) vs best (최고)
+</code></pre></div></code></pre>
+<h3 id="-th-발음---vs-" tabindex="-1" data-src-line="182">④ th 발음 — θ vs ð <a class="header-anchor" href="#-th-발음---vs-" aria-hidden="true">#</a></h3>
+<p>영어 고유의 발음으로 한국어에 없습니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기호</th>
+<th scope="col">발음 방법</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>θ (무성)</td>
+<td>혀끝을 윗니와 아랫니 사이에 살짝 끼우고 공기를 내보냄</td>
+<td>think, three, bath</td>
+</tr>
+<tr>
+<td>ð (유성)</td>
+<td>θ와 동일하지만 목을 울림</td>
+<td>this, the, brother</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">think (생각하다) — 혀를 이 사이에 끼우고 &quot;씽크&quot;가 아닌 부드러운 소리
+this (이것) — &quot;디스&quot;가 아닌 혀를 이 사이에 끼우는 소리
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>흔한 실수</strong>: th를 “ㅅ” 또는 &quot;ㄷ&quot;으로 발음하는 경우가 많습니다.<br>
+<code>think</code>를 &quot;씽크&quot;로, <code>this</code>를 &quot;디스&quot;로 발음하면 원어민에게 어색하게 들립니다.</p>
+</blockquote>
+<h3 id="-단모음--cat의-a" tabindex="-1" data-src-line="199">⑤ 단모음 æ (cat의 a) <a class="header-anchor" href="#-단모음--cat의-a" aria-hidden="true">#</a></h3>
+<p>한국어 '애’보다 입을 더 크게 벌리고 아래턱을 내리며 발음합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">cat /kæt/ — &quot;캣&quot;이 아닌 입을 크게 벌린 &quot;캐앳&quot;
+man /mæn/ — &quot;맨&quot;이 아닌 &quot;매앤&quot;
+bad /bæd/ — 아래턱을 내리며 발음
+</code></pre></div></code></pre>
+<h3 id="-장모음-vs-단모음-구분" tabindex="-1" data-src-line="209">⑥ 장모음 vs 단모음 구분 <a class="header-anchor" href="#-장모음-vs-단모음-구분" aria-hidden="true">#</a></h3>
+<p>영어는 모음의 길이에 따라 단어 의미가 달라집니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">sheep /ʃiːp/ (양) vs ship /ʃɪp/ (배)
+feet /fiːt/ (발들) vs fit /fɪt/ (맞다)
+fool /fuːl/ (바보) vs full /fʊl/ (가득 찬)
+</code></pre></div></code></pre>
+<h3 id="-어말-자음-발음" tabindex="-1" data-src-line="219">⑦ 어말 자음 발음 <a class="header-anchor" href="#-어말-자음-발음" aria-hidden="true">#</a></h3>
+<p>한국어는 받침 소리가 약하지만, 영어는 단어 끝 자음을 명확히 발음합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">bus → 버스 ❌ → &quot;버s&quot; (s 소리를 끝까지)
+book → 북 ❌ → &quot;북k&quot; (k 소리를 끝까지)
+need → 니드 ❌ → &quot;니id&quot; (d 소리를 끝까지)
+</code></pre></div></code></pre>
+<h3 id="-w-발음" tabindex="-1" data-src-line="229">⑧ w 발음 <a class="header-anchor" href="#-w-발음" aria-hidden="true">#</a></h3>
+<p>한국어 &quot;우&quot;와 다르게, w는 <strong>입술을 강하게 앞으로 모아</strong> 발음합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">water — &quot;워터&quot;가 아닌 입술을 동그랗게 모아 &quot;우-어터&quot;
+world — &quot;월드&quot;가 아닌 입술을 모아 &quot;우-얼드&quot;
+want — &quot;원트&quot;가 아닌 입술을 모아 발음
+</code></pre></div></code></pre>
+<h3 id="-단어-연음-linking" tabindex="-1" data-src-line="239">⑨ 단어 연음 (Linking) <a class="header-anchor" href="#-단어-연음-linking" aria-hidden="true">#</a></h3>
+<p>원어민은 단어를 따로따로 발음하지 않고 이어서 발음합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">pick it up → &quot;픽 잇 업&quot;이 아닌 &quot;피킷업&quot;
+an apple → &quot;앤 애플&quot;이 아닌 &quot;어내플&quot;
+turn it off → &quot;턴 잇 오프&quot;가 아닌 &quot;터닛오프&quot;
+</code></pre></div></code></pre>
+<h3 id="-묵음-silent-letters" tabindex="-1" data-src-line="249">⑩ 묵음 (Silent Letters) <a class="header-anchor" href="#-묵음-silent-letters" aria-hidden="true">#</a></h3>
+<p>영어에는 쓰지만 발음하지 않는 글자들이 있습니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">단어</th>
+<th scope="col">묵음</th>
+<th scope="col">발음</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>know</td>
+<td>k</td>
+<td>/noʊ/</td>
+</tr>
+<tr>
+<td>write</td>
+<td>w</td>
+<td>/raɪt/</td>
+</tr>
+<tr>
+<td>hour</td>
+<td>h</td>
+<td>/aʊər/</td>
+</tr>
+<tr>
+<td>knife</td>
+<td>k</td>
+<td>/naɪf/</td>
+</tr>
+<tr>
+<td>island</td>
+<td>s</td>
+<td>/ˈaɪlənd/</td>
+</tr>
+<tr>
+<td>calm</td>
+<td>l</td>
+<td>/kɑːm/</td>
+</tr>
+<tr>
+<td>debt</td>
+<td>b</td>
+<td>/det/</td>
+</tr>
+<tr>
+<td>psychology</td>
+<td>p</td>
+<td>/saɪˈkɒlədʒi/</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="5-강세-stress-기초" tabindex="-1" data-src-line="266">5. 강세 (Stress) 기초 <a class="header-anchor" href="#5-강세-stress-기초" aria-hidden="true">#</a></h2>
+<p>영어는 <strong>강세(Stress)</strong> 가 매우 중요합니다.<br>
+같은 단어라도 강세 위치에 따라 의미나 품사가 달라지기도 합니다.</p>
+<h3 id="강세-표시-방법" tabindex="-1" data-src-line="271">강세 표시 방법 <a class="header-anchor" href="#강세-표시-방법" aria-hidden="true">#</a></h3>
+<p>발음 기호에서 강세는 <code>ˈ</code> 기호로 표시합니다.<br>
+<code>ˈ</code> 바로 뒤에 오는 음절이 가장 강하게 발음됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">banana /bəˈnænə/ → 두 번째 음절 강세 (ba-NA-na)
+computer /kəmˈpjuːtər/ → 두 번째 음절 강세 (com-PU-ter)
+photograph /ˈfoʊtəɡræf/ → 첫 번째 음절 강세 (PHO-to-graph)
+</code></pre></div></code></pre>
+<h3 id="명사-vs-동사-강세-변화" tabindex="-1" data-src-line="282">명사 vs 동사 강세 변화 <a class="header-anchor" href="#명사-vs-동사-강세-변화" aria-hidden="true">#</a></h3>
+<p>일부 단어는 <strong>품사에 따라 강세 위치가 달라집니다.</strong></p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">단어</th>
+<th scope="col">명사 (앞 강세)</th>
+<th scope="col">동사 (뒤 강세)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>record</td>
+<td>RE-cord (기록)</td>
+<td>re-CORD (녹음하다)</td>
+</tr>
+<tr>
+<td>present</td>
+<td>PRE-sent (선물)</td>
+<td>pre-SENT (발표하다)</td>
+</tr>
+<tr>
+<td>permit</td>
+<td>PER-mit (허가증)</td>
+<td>per-MIT (허락하다)</td>
+</tr>
+<tr>
+<td>increase</td>
+<td>IN-crease (증가)</td>
+<td>in-CREASE (증가하다)</td>
+</tr>
+<tr>
+<td>object</td>
+<td>OB-ject (물체)</td>
+<td>ob-JECT (반대하다)</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="6-억양-intonation-기초" tabindex="-1" data-src-line="296">6. 억양 (Intonation) 기초 <a class="header-anchor" href="#6-억양-intonation-기초" aria-hidden="true">#</a></h2>
+<p>억양은 문장의 <strong>음높이 변화</strong>입니다.<br>
+같은 문장도 억양에 따라 의미가 달라질 수 있습니다.</p>
+<h3 id="올라가는-억양---의문문" tabindex="-1" data-src-line="301">올라가는 억양 (↑) — 의문문 <a class="header-anchor" href="#올라가는-억양---의문문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are you okay? ↑
+Is this yours? ↑
+</code></pre></div></code></pre>
+<h3 id="내려가는-억양---평서문명령문wh-의문문" tabindex="-1" data-src-line="308">내려가는 억양 (↓) — 평서문·명령문·wh 의문문 <a class="header-anchor" href="#내려가는-억양---평서문명령문wh-의문문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m fine. ↓
+Where do you live? ↓ (wh 의문문)
+Come here. ↓
+</code></pre></div></code></pre>
+<h3 id="올라갔다-내려오는-억양---나열미완성" tabindex="-1" data-src-line="316">올라갔다 내려오는 억양 (↑↓) — 나열·미완성 <a class="header-anchor" href="#올라갔다-내려오는-억양---나열미완성" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I like coffee ↑, tea ↑, and juice ↓.
+(나열할 때 마지막 항목 전까지는 올라가고, 마지막에 내려옴)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-발음-연습에-도움이-되는-팁" tabindex="-1" data-src-line="325">7. 발음 연습에 도움이 되는 팁 <a class="header-anchor" href="#7-발음-연습에-도움이-되는-팁" aria-hidden="true">#</a></h2>
+<ol>
+<li><strong>소리 내어 읽기</strong>: 눈으로만 보지 말고 반드시 입으로 소리 내어 연습합니다.</li>
+<li><strong>사전 발음 기능 활용</strong>: Google 사전, Cambridge Dictionary, Merriam-Webster에서 원어민 발음을 들을 수 있습니다.</li>
+<li><strong>Minimal Pairs 연습</strong>: r/l, f/p, v/b처럼 비슷한 소리를 쌍으로 연습합니다.</li>
+<li><strong>거울 보며 연습</strong>: 입 모양을 확인하며 연습하면 교정에 효과적입니다.</li>
+<li><strong>영어 영상 따라 말하기 (Shadowing)</strong>: 원어민의 말을 그대로 따라 말하는 연습이 억양·연음 교정에 매우 효과적입니다.</li>
+</ol>
+<hr>
+<h2 id="8-문형-정리" tabindex="-1" data-src-line="335">8. 문형 정리 <a class="header-anchor" href="#8-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>모음</td>
+<td>A, E, I, O, U (5자)</td>
+</tr>
+<tr>
+<td>자음</td>
+<td>나머지 21자</td>
+</tr>
+<tr>
+<td>장모음 기호</td>
+<td>ː (iː, uː, ɑː 등)</td>
+</tr>
+<tr>
+<td>강세 기호</td>
+<td>ˈ (강세 음절 앞에 표시)</td>
+</tr>
+<tr>
+<td>슈와</td>
+<td>ə (강세 없는 음절의 약한 ‘어’)</td>
+</tr>
+<tr>
+<td>th 무성음</td>
+<td>θ (think, three)</td>
+</tr>
+<tr>
+<td>th 유성음</td>
+<td>ð (this, the)</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="349">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>알파벳과 발음은 영어의 가장 기본적인 토대입니다.<br>
+처음에는 생소하게 느껴지는 발음들도 꾸준히 소리 내어 연습하면 반드시 교정됩니다.</p>
+<p>특히 <strong>r vs l, f vs p, v vs b, th 발음</strong> 이 네 가지는 한국인 학습자가 가장 많이 틀리는 부분이므로 의식적으로 반복 연습하는 것을 추천합니다.</p>
+<p>다음 강에서는 드디어 영어로 <strong>자기소개</strong>를 해봅니다. <code>My name is ~</code>, <code>I'm from ~</code> 패턴으로 첫 영어 문장을 만들어봅시다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — A1 레벨]</strong></p>
+<ul>
+<li><strong>1강</strong>: 알파벳 · 발음 기호 · 소리의 원리 ← 현재 글</li>
+<li>2강: 인사 · 자기소개 — My name is · I’m from</li>
+<li>3강: Be동사 완전 정복 — am · is · are</li>
+<li>4강: 일반동사 기초 — 현재시제와 3인칭 단수</li>
+<li>5강: 명사 · 관사 · 복수형 — a/an/the의 원리</li>
+<li>6강: 형용사 · 부사 — 묘사하는 표현</li>
+<li>7강: 의문사 완전 정복 — What · Who · Where · When · Why · How</li>
+<li>8강: 현재진행형 — I am -ing</li>
+<li>9강: 과거시제 — 규칙 동사 · 불규칙 동사</li>
+<li>10강: 미래 표현 — will · be going to</li>
+</ul>
+<p><strong>[초급 후반 — A2 레벨]</strong></p>
+<ul>
+<li>11강: 조동사 완전 정복 — can · must · should · may</li>
+<li>12강: 전치사 완전 정복 — in · on · at · to · for · with</li>
+<li>13강: 비교 표현 — 비교급 · 최상급</li>
+<li>14강: 현재완료 — have + p.p.</li>
+<li>15강: 수동태 — be동사 + p.p.</li>
+<li>16강: to부정사 · 동명사 — to do / doing</li>
+<li>17강: 관계대명사 — who · which · that</li>
+<li>18강: 가정법 — If + 현재 · 과거 · 과거완료</li>
+</ul>
+<p><strong>[실용 영어 — B1 레벨 진입]</strong></p>
+<ul>
+<li>19강: 비즈니스 · 일상 이메일 영어</li>
+<li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
+</ul>
+</blockquote>
+21:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L23",null,{"content":"$24"}]}]}]
+22:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english/english-lesson-02-greetings-introduction","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 2강: 인사 · 자기소개 — My name is · I'm from"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-02-greetings-introduction",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-02-greetings-introduction","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 2강: 인사 · 자기소개 — My name is · I'm from"}]}],["$","li","japanese/japanese-lesson-02-pronunciation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-02-pronunciation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}]}],["$","li","japanese/japanese-lesson-08-giving-receiving",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]}]]}]]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+25:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"영어의 첫걸음, 알파벳 26자부터 발음 기호, 한국인이 자주 틀리는 발음까지 완전히 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english/english-lesson-01-alphabet-pronunciation/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리"}],["$","meta","11",{"property":"og:description","content":"영어의 첫걸음, 알파벳 26자부터 발음 기호, 한국인이 자주 틀리는 발음까지 완전히 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english/english-lesson-01-alphabet-pronunciation/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-04-30T08:13:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-04-30T08:13:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"alphabet"}],["$","meta","23",{"property":"article:tag","content":"pronunciation"}],["$","meta","24",{"property":"article:tag","content":"phonetics"}],["$","meta","25",{"property":"article:tag","content":"beginner"}],["$","meta","26",{"property":"article:tag","content":"language-learning"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리"}],["$","meta","29",{"name":"twitter:description","content":"영어의 첫걸음, 알파벳 26자부터 발음 기호, 한국인이 자주 틀리는 발음까지 완전히 익혀봅니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L25","32",{}]]
+16:null
