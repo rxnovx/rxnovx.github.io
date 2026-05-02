@@ -1,0 +1,1151 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+c:I[484,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"Ut0fcwO6P3aVa-YvRbnfC","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-04-present-simple\"},\"headline\":\"영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문\",\"description\":\"영어 동사의 핵심, 일반동사 현재시제를 긍정·부정·의문문과 3인칭 단수 규칙까지 교과서 수준으로 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-01T02:13:00.000Z\",\"dateModified\":\"2026-05-01T02:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-04-present-simple\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"present-simple\",\"general-verbs\",\"third-person\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문","slugPath":"english/english-lesson-04-present-simple","headings":[{"id":"영어-4강-일반동사-완전-정복--현재시제--3인칭-단수--부정문--의문문","text":"영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-일반동사-vs-be동사","text":"1. 일반동사 vs Be동사","level":2},{"id":"2-현재시제의-4가지-용법","text":"2. 현재시제의 4가지 용법","level":2},{"id":"용법--습관반복적인-행동","text":"용법 ① 습관·반복적인 행동","level":3},{"id":"용법--일반적-사실진리","text":"용법 ② 일반적 사실·진리","level":3},{"id":"용법--감정상태-상태동사","text":"용법 ③ 감정·상태 (상태동사)","level":3},{"id":"용법--확정된-미래-일정-시간표공식-일정","text":"용법 ④ 확정된 미래 일정 (시간표·공식 일정)","level":3},{"id":"3-일반동사-현재시제-긍정문","text":"3. 일반동사 현재시제 긍정문","level":2},{"id":"4-3인칭-단수-현재형---s-es-ies-규칙","text":"4. 3인칭 단수 현재형 — -s/-es/-ies 규칙","level":2},{"id":"규칙--대부분의-동사---s-추가","text":"규칙 ① 대부분의 동사 → -s 추가","level":3},{"id":"규칙---s--sh--ch--x--o로-끝나는-동사---es-추가","text":"규칙 ② -s, -sh, -ch, -x, -o로 끝나는 동사 → -es 추가","level":3},{"id":"규칙--자음--y로-끝나는-동사--y를-i로-바꾸고--es-추가","text":"규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 바꾸고 -es 추가","level":3},{"id":"규칙--불규칙--have--has","text":"규칙 ④ 불규칙 — have → has","level":3},{"id":"3인칭-단수-규칙-총정리표","text":"3인칭 단수 규칙 총정리표","level":3},{"id":"5-발음-규칙---s-es의-세-가지-발음","text":"5. 발음 규칙 — -s/-es의 세 가지 발음","level":2},{"id":"6-부정문--dont--doesnt","text":"6. 부정문 — don't / doesn't","level":2},{"id":"부정문-예문","text":"부정문 예문","level":3},{"id":"7-의문문--do--does","text":"7. 의문문 — Do / Does","level":2},{"id":"의문문-만들기","text":"의문문 만들기","level":3},{"id":"짧은-대답-short-answers","text":"짧은 대답 (Short Answers)","level":3},{"id":"8-의문사--dodoes--정보를-묻는-의문문","text":"8. 의문사 + Do/Does — 정보를 묻는 의문문","level":2},{"id":"9-자주-쓰이는-일반동사-50개","text":"9. 자주 쓰이는 일반동사 50개","level":2},{"id":"일상생활-동사","text":"일상생활 동사","level":3},{"id":"감정생각-동사","text":"감정·생각 동사","level":3},{"id":"직업활동-동사","text":"직업·활동 동사","level":3},{"id":"사회적-동사","text":"사회적 동사","level":3},{"id":"일상-루틴-동사","text":"일상 루틴 동사","level":3},{"id":"10-be동사-vs-일반동사--완전-비교","text":"10. Be동사 vs 일반동사 — 완전 비교","level":2},{"id":"11-현재시제-심화--상태동사-stative-verbs","text":"11. 현재시제 심화 — 상태동사 (Stative Verbs)","level":2},{"id":"주요-상태동사-카테고리","text":"주요 상태동사 카테고리","level":3},{"id":"상태동사-예문","text":"상태동사 예문","level":3},{"id":"12-자주-쓰이는-표현-패턴","text":"12. 자주 쓰이는 표현 패턴","level":2},{"id":"-좋아하는-것-말하기","text":"① 좋아하는 것 말하기","level":3},{"id":"-하는-일-말하기","text":"② 하는 일 말하기","level":3},{"id":"-사는-곳-말하기","text":"③ 사는 곳 말하기","level":3},{"id":"-루틴-이야기하기","text":"④ 루틴 이야기하기","level":3},{"id":"13-실전-회화--일상과-직업-이야기","text":"13. 실전 회화 — 일상과 직업 이야기","level":2},{"id":"상황--새-직장-동료와-대화","text":"상황 ① 새 직장 동료와 대화","level":3},{"id":"상황--하루-일과-묻고-답하기","text":"상황 ② 하루 일과 묻고 답하기","level":3},{"id":"상황--취미-이야기하기","text":"상황 ③ 취미 이야기하기","level":3},{"id":"14-자주-틀리는-실수-정리","text":"14. 자주 틀리는 실수 정리","level":2},{"id":"실수--does-뒤에--s-붙이기","text":"실수 ① Does 뒤에 -s 붙이기","level":3},{"id":"실수--dodoes-없이-부정문-만들기","text":"실수 ② Do/Does 없이 부정문 만들기","level":3},{"id":"실수--be동사와-일반동사-혼용","text":"실수 ③ Be동사와 일반동사 혼용","level":3},{"id":"실수--3인칭-단수에--s-빠트리기","text":"실수 ④ 3인칭 단수에 -s 빠트리기","level":3},{"id":"실수--상태동사에-진행형-사용","text":"실수 ⑤ 상태동사에 진행형 사용","level":3},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-04-present-simple"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 동사의 핵심, 일반동사 현재시제를 긍정·부정·의문문과 3인칭 단수 규칙까지 교과서 수준으로 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T02:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T02:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","present-simple",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","present-simple"]}],["$","span","general-verbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","general-verbs"]}],["$","span","third-person",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","third-person"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}],"$L8"]}]
+a:Tcc9f,<h1 id="영어-4강-일반동사-완전-정복--현재시제--3인칭-단수--부정문--의문문" tabindex="-1" data-src-line="1">영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문 <a class="header-anchor" href="#영어-4강-일반동사-완전-정복--현재시제--3인칭-단수--부정문--의문문" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#영어-4강-일반동사-완전-정복--현재시제--3인칭-단수--부정문--의문문">영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-일반동사-vs-be동사">1. 일반동사 vs Be동사 </a></li><li><a href="#2-현재시제의-4가지-용법">2. 현재시제의 4가지 용법 </a><ul><li><a href="#용법--습관반복적인-행동">용법 ① 습관·반복적인 행동 </a></li><li><a href="#용법--일반적-사실진리">용법 ② 일반적 사실·진리 </a></li><li><a href="#용법--감정상태-상태동사">용법 ③ 감정·상태 (상태동사) </a></li><li><a href="#용법--확정된-미래-일정-시간표공식-일정">용법 ④ 확정된 미래 일정 (시간표·공식 일정) </a></li></ul></li><li><a href="#3-일반동사-현재시제-긍정문">3. 일반동사 현재시제 긍정문 </a></li><li><a href="#4-3인칭-단수-현재형---s-es-ies-규칙">4. 3인칭 단수 현재형 — -s/-es/-ies 규칙 </a><ul><li><a href="#규칙--대부분의-동사---s-추가">규칙 ① 대부분의 동사 → -s 추가 </a></li><li><a href="#규칙---s--sh--ch--x--o로-끝나는-동사---es-추가">규칙 ② -s, -sh, -ch, -x, -o로 끝나는 동사 → -es 추가 </a></li><li><a href="#규칙--자음--y로-끝나는-동사--y를-i로-바꾸고--es-추가">규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 바꾸고 -es 추가 </a></li><li><a href="#규칙--불규칙--have--has">규칙 ④ 불규칙 — have → has </a></li><li><a href="#3인칭-단수-규칙-총정리표">3인칭 단수 규칙 총정리표 </a></li></ul></li><li><a href="#5-발음-규칙---s-es의-세-가지-발음">5. 발음 규칙 — -s/-es의 세 가지 발음 </a></li><li><a href="#6-부정문--dont--doesnt">6. 부정문 — don’t / doesn’t </a><ul><li><a href="#부정문-예문">부정문 예문 </a></li></ul></li><li><a href="#7-의문문--do--does">7. 의문문 — Do / Does </a><ul><li><a href="#의문문-만들기">의문문 만들기 </a></li><li><a href="#짧은-대답-short-answers">짧은 대답 (Short Answers) </a></li></ul></li><li><a href="#8-의문사--dodoes--정보를-묻는-의문문">8. 의문사 + Do/Does — 정보를 묻는 의문문 </a></li><li><a href="#9-자주-쓰이는-일반동사-50개">9. 자주 쓰이는 일반동사 50개 </a><ul><li><a href="#일상생활-동사">일상생활 동사 </a></li><li><a href="#감정생각-동사">감정·생각 동사 </a></li><li><a href="#직업활동-동사">직업·활동 동사 </a></li><li><a href="#사회적-동사">사회적 동사 </a></li><li><a href="#일상-루틴-동사">일상 루틴 동사 </a></li></ul></li><li><a href="#10-be동사-vs-일반동사--완전-비교">10. Be동사 vs 일반동사 — 완전 비교 </a></li><li><a href="#11-현재시제-심화--상태동사-stative-verbs">11. 현재시제 심화 — 상태동사 (Stative Verbs) </a><ul><li><a href="#주요-상태동사-카테고리">주요 상태동사 카테고리 </a></li><li><a href="#상태동사-예문">상태동사 예문 </a></li></ul></li><li><a href="#12-자주-쓰이는-표현-패턴">12. 자주 쓰이는 표현 패턴 </a><ul><li><a href="#-좋아하는-것-말하기">① 좋아하는 것 말하기 </a></li><li><a href="#-하는-일-말하기">② 하는 일 말하기 </a></li><li><a href="#-사는-곳-말하기">③ 사는 곳 말하기 </a></li><li><a href="#-루틴-이야기하기">④ 루틴 이야기하기 </a></li></ul></li><li><a href="#13-실전-회화--일상과-직업-이야기">13. 실전 회화 — 일상과 직업 이야기 </a><ul><li><a href="#상황--새-직장-동료와-대화">상황 ① 새 직장 동료와 대화 </a></li><li><a href="#상황--하루-일과-묻고-답하기">상황 ② 하루 일과 묻고 답하기 </a></li><li><a href="#상황--취미-이야기하기">상황 ③ 취미 이야기하기 </a></li></ul></li><li><a href="#14-자주-틀리는-실수-정리">14. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--does-뒤에--s-붙이기">실수 ① Does 뒤에 -s 붙이기 </a></li><li><a href="#실수--dodoes-없이-부정문-만들기">실수 ② Do/Does 없이 부정문 만들기 </a></li><li><a href="#실수--be동사와-일반동사-혼용">실수 ③ Be동사와 일반동사 혼용 </a></li><li><a href="#실수--3인칭-단수에--s-빠트리기">실수 ④ 3인칭 단수에 -s 빠트리기 </a></li><li><a href="#실수--상태동사에-진행형-사용">실수 ⑤ 상태동사에 진행형 사용 </a></li></ul></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>3강에서 Be동사(am/is/are)를 익혔다면, 이번 강에서는 영어 동사의 주인공인 <strong>일반동사</strong>를 완전히 다룹니다.</p>
+<p>“먹다, 마시다, 가다, 공부하다” — 동작을 나타내는 이 모든 동사가 일반동사입니다.<br>
+Be동사와 달리 일반동사는 <strong>3인칭 단수</strong>에서 형태가 바뀌고, 부정문과 의문문을 만들 때 <strong>do/does</strong>라는 조동사가 필요합니다.</p>
+<p>이 강 하나만 완벽히 익혀도 영어 현재시제 문장의 대부분을 만들 수 있습니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>일반동사와 Be동사의 차이를 명확히 구분할 수 있습니다.</li>
+<li>3인칭 단수(-s/-es/-ies) 변환 규칙을 완벽히 적용할 수 있습니다.</li>
+<li>do/does를 이용한 부정문·의문문을 자유롭게 만들 수 있습니다.</li>
+<li>현재시제의 4가지 용법(습관·반복·사실·감정)을 구분할 수 있습니다.</li>
+<li>자주 쓰이는 일반동사 50개를 익힐 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-일반동사-vs-be동사" tabindex="-1" data-src-line="23">1. 일반동사 vs Be동사 <a class="header-anchor" href="#1-일반동사-vs-be동사" aria-hidden="true">#</a></h2>
+<p>먼저 두 동사의 차이를 명확히 구분합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">Be동사</th>
+<th scope="col">일반동사</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>종류</td>
+<td>am / is / are</td>
+<td>go, eat, study, work 등 수천 개</td>
+</tr>
+<tr>
+<td>의미</td>
+<td>~이다 / ~있다 (상태)</td>
+<td>동작·행위를 나타냄</td>
+</tr>
+<tr>
+<td>부정 만들기</td>
+<td>be동사 + not</td>
+<td>do/does + not + 동사원형</td>
+</tr>
+<tr>
+<td>의문문 만들기</td>
+<td>be동사를 앞으로</td>
+<td>Do/Does + 주어 + 동사원형</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【Be동사】
+She is a teacher. (그녀는 선생님이다. — 상태)
+
+【일반동사】
+She teaches English. (그녀는 영어를 가르친다. — 동작)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-현재시제의-4가지-용법" tabindex="-1" data-src-line="44">2. 현재시제의 4가지 용법 <a class="header-anchor" href="#2-현재시제의-4가지-용법" aria-hidden="true">#</a></h2>
+<p>영어 현재시제는 단순히 &quot;지금 하는 일&quot;만 표현하는 것이 아닙니다.<br>
+아래 4가지 상황에서 모두 현재시제를 사용합니다.</p>
+<h3 id="용법--습관반복적인-행동" tabindex="-1" data-src-line="49">용법 ① 습관·반복적인 행동 <a class="header-anchor" href="#용법--습관반복적인-행동" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I drink coffee every morning.
+나는 매일 아침 커피를 마십니다.
+
+She goes to the gym three times a week.
+그녀는 일주일에 세 번 헬스장에 갑니다.
+
+He always reads before bed.
+그는 항상 자기 전에 책을 읽습니다.
+</code></pre></div></code></pre>
+<h3 id="용법--일반적-사실진리" tabindex="-1" data-src-line="62">용법 ② 일반적 사실·진리 <a class="header-anchor" href="#용법--일반적-사실진리" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The sun rises in the east.
+태양은 동쪽에서 떠오릅니다.
+
+Water boils at 100 degrees Celsius.
+물은 섭씨 100도에서 끓습니다.
+
+Dogs are loyal animals.
+개는 충성스러운 동물입니다.
+</code></pre></div></code></pre>
+<h3 id="용법--감정상태-상태동사" tabindex="-1" data-src-line="75">용법 ③ 감정·상태 (상태동사) <a class="header-anchor" href="#용법--감정상태-상태동사" aria-hidden="true">#</a></h3>
+<p>특정 동사는 현재진행형 대신 현재시제를 씁니다. (8강에서 더 자세히 다룸)</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I love Korean food.
+나는 한국 음식을 사랑합니다.
+
+She knows the answer.
+그녀는 답을 알고 있습니다.
+
+He believes in himself.
+그는 자신을 믿습니다.
+</code></pre></div></code></pre>
+<h3 id="용법--확정된-미래-일정-시간표공식-일정" tabindex="-1" data-src-line="90">용법 ④ 확정된 미래 일정 (시간표·공식 일정) <a class="header-anchor" href="#용법--확정된-미래-일정-시간표공식-일정" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The train leaves at 9 AM.
+기차가 오전 9시에 출발합니다.
+
+The movie starts at 7 PM.
+영화가 오후 7시에 시작합니다.
+
+School begins on March 2nd.
+개학은 3월 2일입니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>현재시제와 함께 자주 쓰이는 빈도 부사</strong><br>
+<code>always(항상) → usually(보통) → often(자주) → sometimes(가끔) → rarely(드물게) → never(절대 안)</code><br>
+빈도 부사는 일반동사 <strong>앞</strong>, Be동사 <strong>뒤</strong>에 위치합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I always drink coffee. (일반동사 앞)
+She is always late. (Be동사 뒤)
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="3-일반동사-현재시제-긍정문" tabindex="-1" data-src-line="113">3. 일반동사 현재시제 긍정문 <a class="header-anchor" href="#3-일반동사-현재시제-긍정문" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [동사원형] + [목적어/보어]
+</code></pre></div></code></pre>
+<p>1인칭·2인칭·복수 주어일 때는 <strong>동사원형</strong>을 그대로 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I work at a café.
+나는 카페에서 일합니다.
+
+You speak English very well.
+당신은 영어를 정말 잘합니다.
+
+We eat lunch together.
+우리는 함께 점심을 먹습니다.
+
+They live in Seoul.
+그들은 서울에 삽니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-3인칭-단수-현재형---s-es-ies-규칙" tabindex="-1" data-src-line="137">4. 3인칭 단수 현재형 — -s/-es/-ies 규칙 <a class="header-anchor" href="#4-3인칭-단수-현재형---s-es-ies-규칙" aria-hidden="true">#</a></h2>
+<p>He / She / It (3인칭 단수) 주어일 때는 동사 끝에 <strong>-s 또는 -es</strong>를 붙여야 합니다.<br>
+이것이 일반동사 현재시제에서 가장 중요한 규칙입니다.</p>
+<h3 id="규칙--대부분의-동사---s-추가" tabindex="-1" data-src-line="142">규칙 ① 대부분의 동사 → -s 추가 <a class="header-anchor" href="#규칙--대부분의-동사---s-추가" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">work → works
+eat → eats
+drink → drinks
+live → lives
+read → reads
+sleep → sleeps
+walk → walks
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He works at a bank.
+그는 은행에서 일합니다.
+
+She eats breakfast every day.
+그녀는 매일 아침을 먹습니다.
+
+It rains a lot in summer.
+여름에는 비가 많이 옵니다.
+</code></pre></div></code></pre>
+<h3 id="규칙---s--sh--ch--x--o로-끝나는-동사---es-추가" tabindex="-1" data-src-line="165">규칙 ② -s, -sh, -ch, -x, -o로 끝나는 동사 → -es 추가 <a class="header-anchor" href="#규칙---s--sh--ch--x--o로-끝나는-동사---es-추가" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">원형</th>
+<th scope="col">3인칭 단수형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pass</td>
+<td>passes</td>
+</tr>
+<tr>
+<td>wash</td>
+<td>washes</td>
+</tr>
+<tr>
+<td>watch</td>
+<td>watches</td>
+</tr>
+<tr>
+<td>fix</td>
+<td>fixes</td>
+</tr>
+<tr>
+<td>go</td>
+<td>goes</td>
+</tr>
+<tr>
+<td>do</td>
+<td>does</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She watches TV every night.
+그녀는 매일 밤 TV를 봅니다.
+
+He goes to school by bus.
+그는 버스로 학교에 갑니다.
+
+She does yoga in the morning.
+그녀는 아침에 요가를 합니다.
+</code></pre></div></code></pre>
+<h3 id="규칙--자음--y로-끝나는-동사--y를-i로-바꾸고--es-추가" tabindex="-1" data-src-line="187">규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 바꾸고 -es 추가 <a class="header-anchor" href="#규칙--자음--y로-끝나는-동사--y를-i로-바꾸고--es-추가" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">원형</th>
+<th scope="col">3인칭 단수형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>study</td>
+<td>studies</td>
+</tr>
+<tr>
+<td>carry</td>
+<td>carries</td>
+</tr>
+<tr>
+<td>try</td>
+<td>tries</td>
+</tr>
+<tr>
+<td>fly</td>
+<td>flies</td>
+</tr>
+<tr>
+<td>cry</td>
+<td>cries</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <strong>모음 + y는 그냥 -s만 추가!</strong><br>
+<code>play → plays</code> (a + y → 모음 + y → 그냥 -s)<br>
+<code>buy → buys</code> (u + y → 모음 + y → 그냥 -s)<br>
+<code>say → says</code> (a + y → 모음 + y → 그냥 -s)</p>
+</blockquote>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She studies Korean every day.
+그녀는 매일 한국어를 공부합니다.
+
+The bird flies south in winter.
+새는 겨울에 남쪽으로 납니다.
+</code></pre></div></code></pre>
+<h3 id="규칙--불규칙--have--has" tabindex="-1" data-src-line="210">규칙 ④ 불규칙 — have → has <a class="header-anchor" href="#규칙--불규칙--have--has" aria-hidden="true">#</a></h3>
+<p><code>have(가지다)</code>는 3인칭 단수에서 완전히 형태가 바뀝니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">have → has
+
+I have a dog. → She has a dog.
+나는 개가 있습니다. → 그녀는 개가 있습니다.
+
+We have a meeting. → He has a meeting.
+우리는 회의가 있습니다. → 그는 회의가 있습니다.
+</code></pre></div></code></pre>
+<h3 id="3인칭-단수-규칙-총정리표" tabindex="-1" data-src-line="224">3인칭 단수 규칙 총정리표 <a class="header-anchor" href="#3인칭-단수-규칙-총정리표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사 어미</th>
+<th scope="col">변환 규칙</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>대부분</td>
+<td>+ s</td>
+<td>eat → eats</td>
+</tr>
+<tr>
+<td>s, sh, ch, x, o</td>
+<td>+ es</td>
+<td>watch → watches</td>
+</tr>
+<tr>
+<td>자음 + y</td>
+<td>y → i + es</td>
+<td>study → studies</td>
+</tr>
+<tr>
+<td>모음 + y</td>
+<td>+ s</td>
+<td>play → plays</td>
+</tr>
+<tr>
+<td>have</td>
+<td>불규칙</td>
+<td>have → has</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="5-발음-규칙---s-es의-세-가지-발음" tabindex="-1" data-src-line="236">5. 발음 규칙 — -s/-es의 세 가지 발음 <a class="header-anchor" href="#5-발음-규칙---s-es의-세-가지-발음" aria-hidden="true">#</a></h2>
+<p>동사 끝에 붙는 -s/-es는 앞 소리에 따라 세 가지로 발음됩니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">발음</th>
+<th scope="col">조건</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>/s/</td>
+<td>무성음(p, t, k, f, θ) 뒤</td>
+<td>eats /iːts/, works /wɜːrks/</td>
+</tr>
+<tr>
+<td>/z/</td>
+<td>유성음(b, d, g, v, l, m, n 등) 뒤</td>
+<td>lives /lɪvz/, reads /riːdz/</td>
+</tr>
+<tr>
+<td>/ɪz/</td>
+<td>s, z, sh, ch, dʒ 소리 뒤</td>
+<td>watches /ˈwɒtʃɪz/, washes /ˈwɒʃɪz/</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">stops /stɒps/ — /s/ 발음
+runs /rʌnz/ — /z/ 발음
+passes /ˈpɑːsɪz/ — /ɪz/ 발음
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-부정문--dont--doesnt" tabindex="-1" data-src-line="254">6. 부정문 — don’t / doesn’t <a class="header-anchor" href="#6-부정문--dont--doesnt" aria-hidden="true">#</a></h2>
+<p>일반동사 부정문은 <strong>do not(don’t) / does not(doesn’t)</strong> 을 동사 앞에 붙입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + don&#039;t/doesn&#039;t + [동사원형]
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">주어</th>
+<th scope="col">부정 조동사</th>
+<th scope="col">축약형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I / You / We / They</td>
+<td>do not</td>
+<td>don’t</td>
+</tr>
+<tr>
+<td>He / She / It</td>
+<td>does not</td>
+<td>doesn’t</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <strong>doesn’t 뒤에는 반드시 동사원형!</strong><br>
+<code>doesn't</code>를 쓰면 이미 3인칭 단수를 표시한 것이므로 동사에 -s를 붙이지 않습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She doesn&#039;t likes coffee.
+✅ She doesn&#039;t like coffee.
+</code></pre></div></code></pre>
+</blockquote>
+<h3 id="부정문-예문" tabindex="-1" data-src-line="274">부정문 예문 <a class="header-anchor" href="#부정문-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I don&#039;t like spicy food.
+나는 매운 음식을 좋아하지 않습니다.
+
+You don&#039;t need to worry.
+당신은 걱정할 필요가 없습니다.
+
+He doesn&#039;t speak Chinese.
+그는 중국어를 하지 않습니다.
+
+She doesn&#039;t live in Seoul anymore.
+그녀는 더 이상 서울에 살지 않습니다.
+
+It doesn&#039;t rain much here in winter.
+여기는 겨울에 비가 많이 오지 않습니다.
+
+We don&#039;t work on weekends.
+우리는 주말에 일하지 않습니다.
+
+They don&#039;t eat meat.
+그들은 고기를 먹지 않습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-의문문--do--does" tabindex="-1" data-src-line="301">7. 의문문 — Do / Does <a class="header-anchor" href="#7-의문문--do--does" aria-hidden="true">#</a></h2>
+<p>일반동사 의문문은 문장 앞에 <strong>Do / Does</strong>를 붙입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Do/Does + [주어] + [동사원형] + ~?
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">주어</th>
+<th scope="col">의문 조동사</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I / You / We / They</td>
+<td>Do</td>
+</tr>
+<tr>
+<td>He / She / It</td>
+<td>Does</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="의문문-만들기" tabindex="-1" data-src-line="314">의문문 만들기 <a class="header-anchor" href="#의문문-만들기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You like coffee.
+→ Do you like coffee?
+커피 좋아하세요?
+
+She works here.
+→ Does she work here?
+그녀가 여기서 일하나요?
+
+They speak English.
+→ Do they speak English?
+그들은 영어를 하나요?
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>Does 뒤에도 반드시 동사원형!</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Does she works here?
+✅ Does she work here?
+</code></pre></div></code></pre>
+</blockquote>
+<h3 id="짧은-대답-short-answers" tabindex="-1" data-src-line="336">짧은 대답 (Short Answers) <a class="header-anchor" href="#짧은-대답-short-answers" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Do you like sushi?
+초밥 좋아하세요?
+
+Yes, I do. / No, I don&#039;t.
+네, 좋아해요. / 아니요, 안 좋아해요.
+
+---
+
+Does he play soccer?
+그는 축구를 하나요?
+
+Yes, he does. / No, he doesn&#039;t.
+네, 해요. / 아니요, 안 해요.
+
+---
+
+Do they live nearby?
+그들이 근처에 사나요?
+
+Yes, they do. / No, they don&#039;t.
+네, 살아요. / 아니요, 안 살아요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-의문사--dodoes--정보를-묻는-의문문" tabindex="-1" data-src-line="364">8. 의문사 + Do/Does — 정보를 묻는 의문문 <a class="header-anchor" href="#8-의문사--dodoes--정보를-묻는-의문문" aria-hidden="true">#</a></h2>
+<p>&quot;예/아니오&quot;가 아닌 <strong>구체적인 정보</strong>를 물을 때는 의문사를 문장 앞에 추가합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[의문사] + do/does + [주어] + [동사원형] + ~?
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What do you do for a living?
+직업이 무엇인가요?
+
+Where does she live?
+그녀는 어디에 사나요?
+
+When do they usually eat dinner?
+그들은 보통 언제 저녁을 먹나요?
+
+Why does he study so hard?
+그는 왜 그렇게 열심히 공부하나요?
+
+How do you get to work?
+출근할 때 어떻게 가나요?
+
+How often do you exercise?
+얼마나 자주 운동하나요?
+
+How much does it cost?
+얼마예요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-자주-쓰이는-일반동사-50개" tabindex="-1" data-src-line="397">9. 자주 쓰이는 일반동사 50개 <a class="header-anchor" href="#9-자주-쓰이는-일반동사-50개" aria-hidden="true">#</a></h2>
+<h3 id="일상생활-동사" tabindex="-1" data-src-line="399">일상생활 동사 <a class="header-anchor" href="#일상생활-동사" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">3인칭 단수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>eat</td>
+<td>먹다</td>
+<td>eats</td>
+</tr>
+<tr>
+<td>drink</td>
+<td>마시다</td>
+<td>drinks</td>
+</tr>
+<tr>
+<td>sleep</td>
+<td>자다</td>
+<td>sleeps</td>
+</tr>
+<tr>
+<td>wake up</td>
+<td>일어나다</td>
+<td>wakes up</td>
+</tr>
+<tr>
+<td>go</td>
+<td>가다</td>
+<td>goes</td>
+</tr>
+<tr>
+<td>come</td>
+<td>오다</td>
+<td>comes</td>
+</tr>
+<tr>
+<td>walk</td>
+<td>걷다</td>
+<td>walks</td>
+</tr>
+<tr>
+<td>run</td>
+<td>달리다</td>
+<td>runs</td>
+</tr>
+<tr>
+<td>drive</td>
+<td>운전하다</td>
+<td>drives</td>
+</tr>
+<tr>
+<td>take</td>
+<td>타다/가져가다</td>
+<td>takes</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="감정생각-동사" tabindex="-1" data-src-line="414">감정·생각 동사 <a class="header-anchor" href="#감정생각-동사" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">3인칭 단수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>like</td>
+<td>좋아하다</td>
+<td>likes</td>
+</tr>
+<tr>
+<td>love</td>
+<td>사랑하다</td>
+<td>loves</td>
+</tr>
+<tr>
+<td>hate</td>
+<td>싫어하다</td>
+<td>hates</td>
+</tr>
+<tr>
+<td>want</td>
+<td>원하다</td>
+<td>wants</td>
+</tr>
+<tr>
+<td>need</td>
+<td>필요하다</td>
+<td>needs</td>
+</tr>
+<tr>
+<td>know</td>
+<td>알다</td>
+<td>knows</td>
+</tr>
+<tr>
+<td>think</td>
+<td>생각하다</td>
+<td>thinks</td>
+</tr>
+<tr>
+<td>believe</td>
+<td>믿다</td>
+<td>believes</td>
+</tr>
+<tr>
+<td>understand</td>
+<td>이해하다</td>
+<td>understands</td>
+</tr>
+<tr>
+<td>remember</td>
+<td>기억하다</td>
+<td>remembers</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="직업활동-동사" tabindex="-1" data-src-line="429">직업·활동 동사 <a class="header-anchor" href="#직업활동-동사" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">3인칭 단수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>work</td>
+<td>일하다</td>
+<td>works</td>
+</tr>
+<tr>
+<td>study</td>
+<td>공부하다</td>
+<td>studies</td>
+</tr>
+<tr>
+<td>teach</td>
+<td>가르치다</td>
+<td>teaches</td>
+</tr>
+<tr>
+<td>learn</td>
+<td>배우다</td>
+<td>learns</td>
+</tr>
+<tr>
+<td>read</td>
+<td>읽다</td>
+<td>reads</td>
+</tr>
+<tr>
+<td>write</td>
+<td>쓰다</td>
+<td>writes</td>
+</tr>
+<tr>
+<td>speak</td>
+<td>말하다</td>
+<td>speaks</td>
+</tr>
+<tr>
+<td>listen</td>
+<td>듣다</td>
+<td>listens</td>
+</tr>
+<tr>
+<td>watch</td>
+<td>보다</td>
+<td>watches</td>
+</tr>
+<tr>
+<td>play</td>
+<td>놀다/연주하다</td>
+<td>plays</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="사회적-동사" tabindex="-1" data-src-line="444">사회적 동사 <a class="header-anchor" href="#사회적-동사" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">3인칭 단수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>meet</td>
+<td>만나다</td>
+<td>meets</td>
+</tr>
+<tr>
+<td>help</td>
+<td>돕다</td>
+<td>helps</td>
+</tr>
+<tr>
+<td>call</td>
+<td>전화하다</td>
+<td>calls</td>
+</tr>
+<tr>
+<td>send</td>
+<td>보내다</td>
+<td>sends</td>
+</tr>
+<tr>
+<td>give</td>
+<td>주다</td>
+<td>gives</td>
+</tr>
+<tr>
+<td>buy</td>
+<td>사다</td>
+<td>buys</td>
+</tr>
+<tr>
+<td>sell</td>
+<td>팔다</td>
+<td>sells</td>
+</tr>
+<tr>
+<td>pay</td>
+<td>지불하다</td>
+<td>pays</td>
+</tr>
+<tr>
+<td>use</td>
+<td>사용하다</td>
+<td>uses</td>
+</tr>
+<tr>
+<td>try</td>
+<td>시도하다</td>
+<td>tries</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="일상-루틴-동사" tabindex="-1" data-src-line="459">일상 루틴 동사 <a class="header-anchor" href="#일상-루틴-동사" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">3인칭 단수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>cook</td>
+<td>요리하다</td>
+<td>cooks</td>
+</tr>
+<tr>
+<td>clean</td>
+<td>청소하다</td>
+<td>cleans</td>
+</tr>
+<tr>
+<td>wash</td>
+<td>씻다/빨다</td>
+<td>washes</td>
+</tr>
+<tr>
+<td>open</td>
+<td>열다</td>
+<td>opens</td>
+</tr>
+<tr>
+<td>close</td>
+<td>닫다</td>
+<td>closes</td>
+</tr>
+<tr>
+<td>start</td>
+<td>시작하다</td>
+<td>starts</td>
+</tr>
+<tr>
+<td>finish</td>
+<td>끝내다</td>
+<td>finishes</td>
+</tr>
+<tr>
+<td>live</td>
+<td>살다</td>
+<td>lives</td>
+</tr>
+<tr>
+<td>have</td>
+<td>가지다</td>
+<td>has</td>
+</tr>
+<tr>
+<td>make</td>
+<td>만들다</td>
+<td>makes</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="10-be동사-vs-일반동사--완전-비교" tabindex="-1" data-src-line="476">10. Be동사 vs 일반동사 — 완전 비교 <a class="header-anchor" href="#10-be동사-vs-일반동사--완전-비교" aria-hidden="true">#</a></h2>
+<p>학습자들이 자주 혼동하는 부분을 한눈에 정리합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">구분</th>
+<th scope="col">Be동사</th>
+<th scope="col">일반동사</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>긍정문</td>
+<td>I <strong>am</strong> a teacher.</td>
+<td>I <strong>teach</strong> English.</td>
+</tr>
+<tr>
+<td>부정문</td>
+<td>I <strong>am not</strong> busy.</td>
+<td>I <strong>don’t work</strong> today.</td>
+</tr>
+<tr>
+<td>의문문</td>
+<td><strong>Are</strong> you busy?</td>
+<td><strong>Do</strong> you work here?</td>
+</tr>
+<tr>
+<td>3인칭 단수 긍정</td>
+<td>She <strong>is</strong> smart.</td>
+<td>She <strong>teaches</strong> well.</td>
+</tr>
+<tr>
+<td>3인칭 단수 부정</td>
+<td>She <strong>isn’t</strong> busy.</td>
+<td>She <strong>doesn’t teach</strong> today.</td>
+</tr>
+<tr>
+<td>3인칭 단수 의문</td>
+<td><strong>Is</strong> she busy?</td>
+<td><strong>Does</strong> she teach here?</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <strong>절대 섞어 쓰지 말 것!</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She doesn&#039;t is a teacher. (Be동사에 doesn&#039;t 사용 금지)
+❌ Does she is busy? (Be동사에 Does 사용 금지)
+✅ She isn&#039;t a teacher.
+✅ Is she busy?
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="11-현재시제-심화--상태동사-stative-verbs" tabindex="-1" data-src-line="499">11. 현재시제 심화 — 상태동사 (Stative Verbs) <a class="header-anchor" href="#11-현재시제-심화--상태동사-stative-verbs" aria-hidden="true">#</a></h2>
+<p>상태동사는 <strong>현재진행형을 쓰지 않고</strong> 현재시제를 씁니다.</p>
+<h3 id="주요-상태동사-카테고리" tabindex="-1" data-src-line="503">주요 상태동사 카테고리 <a class="header-anchor" href="#주요-상태동사-카테고리" aria-hidden="true">#</a></h3>
+<p><strong>감정·감각</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">love, like, hate, want, need, prefer, wish
+</code></pre></div></code></pre>
+<p><strong>인지·생각</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">know, understand, believe, think (생각하다), remember, forget, mean
+</code></pre></div></code></pre>
+<p><strong>소유</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">have, own, possess, belong
+</code></pre></div></code></pre>
+<p><strong>감각</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">see, hear, smell, taste, feel (느끼다)
+</code></pre></div></code></pre>
+<h3 id="상태동사-예문" tabindex="-1" data-src-line="525">상태동사 예문 <a class="header-anchor" href="#상태동사-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【올바른 표현 — 현재시제 사용】
+I love this movie. ✅
+I know the answer. ✅
+She owns a car. ✅
+
+【잘못된 표현 — 상태동사에 진행형 사용 금지】
+I am loving this movie. ❌ (광고 문구 등에서 예외적으로 쓰이지만 기본 문법은 아님)
+I am knowing the answer. ❌
+She is owning a car. ❌
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>think의 두 가지 쓰임</strong></p>
+<ul>
+<li>의견을 나타낼 때 (상태동사) → 현재시제<br>
+<code>I think he's right.</code> (나는 그가 맞다고 생각한다.)</li>
+<li>적극적으로 생각하는 동작 → 진행형 가능<br>
+<code>I'm thinking about the problem.</code> (나는 그 문제에 대해 생각 중이다.)</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="12-자주-쓰이는-표현-패턴" tabindex="-1" data-src-line="547">12. 자주 쓰이는 표현 패턴 <a class="header-anchor" href="#12-자주-쓰이는-표현-패턴" aria-hidden="true">#</a></h2>
+<h3 id="-좋아하는-것-말하기" tabindex="-1" data-src-line="549">① 좋아하는 것 말하기 <a class="header-anchor" href="#-좋아하는-것-말하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I like + 명사 / 동명사(-ing)
+
+I like coffee.
+I like watching movies.
+I like going for walks.
+
+She likes reading books.
+He likes playing soccer.
+</code></pre></div></code></pre>
+<h3 id="-하는-일-말하기" tabindex="-1" data-src-line="562">② 하는 일 말하기 <a class="header-anchor" href="#-하는-일-말하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I work as a + 직업
+I work for + 회사
+I work in + 분야/지역
+
+I work as a nurse.
+I work for a tech company.
+I work in marketing.
+</code></pre></div></code></pre>
+<h3 id="-사는-곳-말하기" tabindex="-1" data-src-line="574">③ 사는 곳 말하기 <a class="header-anchor" href="#-사는-곳-말하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I live in + 도시/나라
+I live near + 장소
+I live with + 사람
+
+I live in Seoul.
+I live near the station.
+I live with my family.
+</code></pre></div></code></pre>
+<h3 id="-루틴-이야기하기" tabindex="-1" data-src-line="586">④ 루틴 이야기하기 <a class="header-anchor" href="#-루틴-이야기하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I usually + 동사
+I always + 동사
+I never + 동사
+I sometimes + 동사
+
+I usually wake up at 7 AM.
+I always have coffee in the morning.
+I never skip breakfast.
+I sometimes work late.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="13-실전-회화--일상과-직업-이야기" tabindex="-1" data-src-line="602">13. 실전 회화 — 일상과 직업 이야기 <a class="header-anchor" href="#13-실전-회화--일상과-직업-이야기" aria-hidden="true">#</a></h2>
+<h3 id="상황--새-직장-동료와-대화" tabindex="-1" data-src-line="604">상황 ① 새 직장 동료와 대화 <a class="header-anchor" href="#상황--새-직장-동료와-대화" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: So, what exactly do you do here?
+   그래서, 여기서 정확히 어떤 일을 하세요?
+
+B: I work as a product designer.
+   I mostly design mobile apps.
+   What about you?
+   저는 제품 디자이너로 일해요.
+   주로 모바일 앱을 디자인해요. 당신은요?
+
+A: I&#039;m in the marketing team.
+   I manage our social media accounts.
+   저는 마케팅 팀에 있어요.
+   소셜 미디어 계정을 관리해요.
+
+B: Oh nice! Do you enjoy it?
+   오 좋겠네요! 즐거워요?
+
+A: Yeah, I really do.
+   It&#039;s creative and I get to meet a lot of people.
+   Do you usually work from home or in the office?
+   네, 정말 좋아요.
+   창의적이고 많은 사람들을 만날 수 있거든요.
+   보통 재택근무 하세요, 아니면 사무실 출근하세요?
+
+B: I usually come to the office,
+   but I work from home on Fridays.
+   보통은 사무실에 오는데,
+   금요일에는 재택근무해요.
+</code></pre></div></code></pre>
+<h3 id="상황--하루-일과-묻고-답하기" tabindex="-1" data-src-line="637">상황 ② 하루 일과 묻고 답하기 <a class="header-anchor" href="#상황--하루-일과-묻고-답하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: What time do you usually wake up?
+   보통 몇 시에 일어나세요?
+
+B: I wake up at 6:30 every day.
+   I like to have time in the morning.
+   매일 6시 30분에 일어나요.
+   아침 시간이 좋더라고요.
+
+A: Really? What do you do in the morning?
+   정말요? 아침에 뭘 하세요?
+
+B: I exercise for about 30 minutes,
+   then I make breakfast and read the news.
+   30분 정도 운동하고,
+   아침을 만들어서 뉴스를 읽어요.
+
+A: That sounds really disciplined!
+   Do you drink coffee?
+   정말 자기 관리를 잘하시네요!
+   커피 드세요?
+
+B: Yes, I drink two cups every morning.
+   I can&#039;t function without it.
+   네, 매일 아침 두 잔 마셔요.
+   없으면 못 살 것 같아요.
+
+A: Ha, me too! Does your company have
+   flexible working hours?
+   하하, 저도요! 회사가 유연근무제인가요?
+
+B: Yes, it does. I usually start at 9,
+   but sometimes I come in later.
+   네. 보통 9시에 시작하는데,
+   가끔 늦게 오기도 해요.
+</code></pre></div></code></pre>
+<h3 id="상황--취미-이야기하기" tabindex="-1" data-src-line="676">상황 ③ 취미 이야기하기 <a class="header-anchor" href="#상황--취미-이야기하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Do you have any hobbies?
+   취미가 있으세요?
+
+B: Yes! I play the guitar and I also
+   go hiking on weekends.
+   What about you?
+   네! 기타를 치고, 주말에는 등산도 해요.
+   당신은요?
+
+A: I love cooking.
+   I try new recipes every weekend.
+   저는 요리를 좋아해요.
+   매주 주말에 새 레시피를 시도해요.
+
+B: Oh, that&#039;s so cool!
+   Do you cook Korean food?
+   오, 멋지다!
+   한국 음식을 만드세요?
+
+A: I do, but I also love making Italian food.
+   I make pasta from scratch.
+   Does your family like cooking too?
+   네, 하지만 이탈리아 음식도 좋아해요.
+   파스타를 처음부터 직접 만들어요.
+   가족도 요리를 좋아하나요?
+
+B: My sister does, but my brother doesn&#039;t.
+   He just eats!
+   언니/여동생은 좋아하는데, 남동생은 안 좋아해요.
+   그냥 먹기만 해요!
+</code></pre></div></code></pre>
+<hr>
+<h2 id="14-자주-틀리는-실수-정리" tabindex="-1" data-src-line="713">14. 자주 틀리는 실수 정리 <a class="header-anchor" href="#14-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--does-뒤에--s-붙이기" tabindex="-1" data-src-line="715">실수 ① Does 뒤에 -s 붙이기 <a class="header-anchor" href="#실수--does-뒤에--s-붙이기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She doesn&#039;t likes pizza.
+✅ She doesn&#039;t like pizza.
+→ doesn&#039;t가 이미 3인칭 단수를 표현하므로 동사원형 사용
+</code></pre></div></code></pre>
+<h3 id="실수--dodoes-없이-부정문-만들기" tabindex="-1" data-src-line="723">실수 ② Do/Does 없이 부정문 만들기 <a class="header-anchor" href="#실수--dodoes-없이-부정문-만들기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She not like coffee.
+✅ She doesn&#039;t like coffee.
+→ 일반동사 부정문에는 반드시 don&#039;t/doesn&#039;t 필요
+</code></pre></div></code></pre>
+<h3 id="실수--be동사와-일반동사-혼용" tabindex="-1" data-src-line="731">실수 ③ Be동사와 일반동사 혼용 <a class="header-anchor" href="#실수--be동사와-일반동사-혼용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Do you a student?
+✅ Are you a student?
+→ Be동사 의문문에는 Do 사용 금지
+
+❌ She doesn&#039;t is tired.
+✅ She isn&#039;t tired.
+→ Be동사 부정문에는 doesn&#039;t 사용 금지
+</code></pre></div></code></pre>
+<h3 id="실수--3인칭-단수에--s-빠트리기" tabindex="-1" data-src-line="743">실수 ④ 3인칭 단수에 -s 빠트리기 <a class="header-anchor" href="#실수--3인칭-단수에--s-빠트리기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She work at a hospital.
+✅ She works at a hospital.
+→ 3인칭 단수 주어에는 반드시 -s/-es 추가
+</code></pre></div></code></pre>
+<h3 id="실수--상태동사에-진행형-사용" tabindex="-1" data-src-line="751">실수 ⑤ 상태동사에 진행형 사용 <a class="header-anchor" href="#실수--상태동사에-진행형-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I am wanting a coffee.
+✅ I want a coffee.
+
+❌ She is knowing the answer.
+✅ She knows the answer.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="15-문형-정리" tabindex="-1" data-src-line="763">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">구조</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>긍정 (1·2인칭·복수)</td>
+<td>주어 + 동사원형</td>
+<td>I work here.</td>
+</tr>
+<tr>
+<td>긍정 (3인칭 단수)</td>
+<td>주어 + 동사-s/es</td>
+<td>She works here.</td>
+</tr>
+<tr>
+<td>부정 (1·2인칭·복수)</td>
+<td>주어 + don’t + 동사원형</td>
+<td>I don’t work here.</td>
+</tr>
+<tr>
+<td>부정 (3인칭 단수)</td>
+<td>주어 + doesn’t + 동사원형</td>
+<td>She doesn’t work here.</td>
+</tr>
+<tr>
+<td>의문 (1·2인칭·복수)</td>
+<td>Do + 주어 + 동사원형?</td>
+<td>Do you work here?</td>
+</tr>
+<tr>
+<td>의문 (3인칭 단수)</td>
+<td>Does + 주어 + 동사원형?</td>
+<td>Does she work here?</td>
+</tr>
+<tr>
+<td>의문사 의문문</td>
+<td>의문사 + do/does + 주어 + 동사원형?</td>
+<td>Where does she work?</td>
+</tr>
+<tr>
+<td>짧은 긍정 답</td>
+<td>Yes, 주어 + do/does.</td>
+<td>Yes, she does.</td>
+</tr>
+<tr>
+<td>짧은 부정 답</td>
+<td>No, 주어 + don’t/doesn’t.</td>
+<td>No, she doesn’t.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="779">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>일반동사 현재시제의 핵심을 세 줄로 정리합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 3인칭 단수(He/She/It) → 동사에 -s/-es/-ies 추가 (have → has 불규칙)
+② 부정문 → don&#039;t / doesn&#039;t + 동사원형
+③ 의문문 → Do / Does + 주어 + 동사원형?
+</code></pre></div></code></pre>
+<p>특히 <strong>“doesn’t 뒤에는 반드시 동사원형”</strong> 이 규칙은 영어 학습자가 가장 많이 틀리는 부분이므로, 완전히 익숙해질 때까지 반복 연습하는 것이 중요합니다.</p>
+<p>다음 강에서는 <strong>명사·관사·복수형</strong> 을 완전히 파고듭니다.<br>
+<code>a vs an vs the</code>, 셀 수 있는 명사 vs 셀 수 없는 명사, 불규칙 복수형까지 교과서 수준으로 정리해드립니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — A1 레벨]</strong></p>
+<ul>
+<li>1강: 알파벳 · 발음 기호 · 소리의 원리</li>
+<li>2강: 인사 · 자기소개 — My name is · I’m from</li>
+<li>3강: Be동사 완전 정복 — am · is · are</li>
+<li><strong>4강</strong>: 일반동사 기초 — 현재시제와 3인칭 단수 ← 현재 글</li>
+<li>5강: 명사 · 관사 · 복수형 — a/an/the의 원리</li>
+<li>6강: 형용사 · 부사 — 묘사하는 표현</li>
+<li>7강: 의문사 완전 정복 — What · Who · Where · When · Why · How</li>
+<li>8강: 현재진행형 — I am -ing</li>
+<li>9강: 과거시제 — 규칙 동사 · 불규칙 동사</li>
+<li>10강: 미래 표현 — will · be going to</li>
+</ul>
+<p><strong>[초급 후반 — A2 레벨]</strong></p>
+<ul>
+<li>11강: 조동사 완전 정복 — can · must · should · may</li>
+<li>12강: 전치사 완전 정복 — in · on · at · to · for · with</li>
+<li>13강: 비교 표현 — 비교급 · 최상급</li>
+<li>14강: 현재완료 — have + p.p.</li>
+<li>15강: 수동태 — be동사 + p.p.</li>
+<li>16강: to부정사 · 동명사 — to do / doing</li>
+<li>17강: 관계대명사 — who · which · that</li>
+<li>18강: 가정법 — If + 현재 · 과거 · 과거완료</li>
+</ul>
+<p><strong>[실용 영어 — B1 레벨 진입]</strong></p>
+<ul>
+<li>19강: 비즈니스 · 일상 이메일 영어</li>
+<li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
+</ul>
+</blockquote>
+4:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L9",null,{"content":"$a"}]}]}]
+5:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lb",null,{"href":"/post/english/english-lesson-03-be-verbs","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 3강: Be동사 완전 정복 — am · is · are"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lb",null,{"href":"/post/english/english-lesson-05-nouns-articles","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}]]}]]}]]}]
+6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+7:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+8:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+e:null

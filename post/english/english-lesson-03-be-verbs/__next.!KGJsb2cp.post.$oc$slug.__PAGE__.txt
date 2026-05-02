@@ -1,0 +1,752 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"Ut0fcwO6P3aVa-YvRbnfC","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-03-be-verbs\"},\"headline\":\"영어 3강: Be동사 완전 정복 — am · is · are\",\"description\":\"영어 문장의 핵심 Be동사! am·is·are의 긍정·부정·의문문과 인칭대명사를 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-30T22:16:00.000Z\",\"dateModified\":\"2026-04-30T22:16:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-03-be-verbs\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"be-verbs\",\"am-is-are\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 3강: Be동사 완전 정복 — am · is · are","slugPath":"english/english-lesson-03-be-verbs","headings":[{"id":"영어-3강-be동사-완전-정복--am--is--are","text":"영어 3강: Be동사 완전 정복 — am · is · are","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-주격-인칭대명사","text":"1. 주격 인칭대명사","level":2},{"id":"2-be동사-현재형--am--is--are","text":"2. Be동사 현재형 — am · is · are","level":2},{"id":"암기-포인트","text":"암기 포인트","level":3},{"id":"3-be동사-긍정문","text":"3. Be동사 긍정문","level":2},{"id":"명사-문장-이다","text":"명사 문장 (~이다)","level":3},{"id":"형용사-문장-하다","text":"형용사 문장 (~하다)","level":3},{"id":"장소-문장-에-있다","text":"장소 문장 (~에 있다)","level":3},{"id":"4-축약형-사용","text":"4. 축약형 사용","level":2},{"id":"5-be동사-부정문","text":"5. Be동사 부정문","level":2},{"id":"부정문-예문","text":"부정문 예문","level":3},{"id":"6-be동사-의문문","text":"6. Be동사 의문문","level":2},{"id":"의문문-예문","text":"의문문 예문","level":3},{"id":"의문문-답하기","text":"의문문 답하기","level":3},{"id":"7-be동사의-다양한-쓰임","text":"7. Be동사의 다양한 쓰임","level":2},{"id":"-직업신분-표현","text":"① 직업·신분 표현","level":3},{"id":"-감정상태-표현","text":"② 감정·상태 표현","level":3},{"id":"-나이외모-표현","text":"③ 나이·외모 표현","level":3},{"id":"-위치-표현","text":"④ 위치 표현","level":3},{"id":"-날씨시간온도-표현","text":"⑤ 날씨·시간·온도 표현","level":3},{"id":"8-there-is--there-are--존재-표현","text":"8. There is / There are — 존재 표현","level":2},{"id":"there-isare-부정문의문문","text":"There is/are 부정문·의문문","level":3},{"id":"9-be동사-과거형--was--were","text":"9. Be동사 과거형 — was · were","level":2},{"id":"10-자주-쓰이는-감정상태-형용사","text":"10. 자주 쓰이는 감정·상태 형용사","level":2},{"id":"11-실전-회화--일상-상황","text":"11. 실전 회화 — 일상 상황","level":2},{"id":"상황--친구와-만남","text":"상황 ① 친구와 만남","level":3},{"id":"상황--호텔-체크인","text":"상황 ② 호텔 체크인","level":3},{"id":"12-문형-정리","text":"12. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-03-be-verbs"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 3강: Be동사 완전 정복 — am · is · are"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 문장의 핵심 Be동사! am·is·are의 긍정·부정·의문문과 인칭대명사를 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T22:16:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],"$L3","$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","time",null,{"dateTime":"2026-04-30T22:16:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}]
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","be-verbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","be-verbs"]}],["$","span","am-is-are",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","am-is-are"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+b:T78ea,<h1 id="영어-3강-be동사-완전-정복--am--is--are" tabindex="-1" data-src-line="1">영어 3강: Be동사 완전 정복 — am · is · are <a class="header-anchor" href="#영어-3강-be동사-완전-정복--am--is--are" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#영어-3강-be동사-완전-정복--am--is--are">영어 3강: Be동사 완전 정복 — am · is · are </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-주격-인칭대명사">1. 주격 인칭대명사 </a></li><li><a href="#2-be동사-현재형--am--is--are">2. Be동사 현재형 — am · is · are </a><ul><li><a href="#암기-포인트">암기 포인트 </a></li></ul></li><li><a href="#3-be동사-긍정문">3. Be동사 긍정문 </a><ul><li><a href="#명사-문장-이다">명사 문장 (~이다) </a></li><li><a href="#형용사-문장-하다">형용사 문장 (~하다) </a></li><li><a href="#장소-문장-에-있다">장소 문장 (~에 있다) </a></li></ul></li><li><a href="#4-축약형-사용">4. 축약형 사용 </a></li><li><a href="#5-be동사-부정문">5. Be동사 부정문 </a><ul><li><a href="#부정문-예문">부정문 예문 </a></li></ul></li><li><a href="#6-be동사-의문문">6. Be동사 의문문 </a><ul><li><a href="#의문문-예문">의문문 예문 </a></li><li><a href="#의문문-답하기">의문문 답하기 </a></li></ul></li><li><a href="#7-be동사의-다양한-쓰임">7. Be동사의 다양한 쓰임 </a><ul><li><a href="#-직업신분-표현">① 직업·신분 표현 </a></li><li><a href="#-감정상태-표현">② 감정·상태 표현 </a></li><li><a href="#-나이외모-표현">③ 나이·외모 표현 </a></li><li><a href="#-위치-표현">④ 위치 표현 </a></li><li><a href="#-날씨시간온도-표현">⑤ 날씨·시간·온도 표현 </a></li></ul></li><li><a href="#8-there-is--there-are--존재-표현">8. There is / There are — 존재 표현 </a><ul><li><a href="#there-isare-부정문의문문">There is/are 부정문·의문문 </a></li></ul></li><li><a href="#9-be동사-과거형--was--were">9. Be동사 과거형 — was · were </a></li><li><a href="#10-자주-쓰이는-감정상태-형용사">10. 자주 쓰이는 감정·상태 형용사 </a></li><li><a href="#11-실전-회화--일상-상황">11. 실전 회화 — 일상 상황 </a><ul><li><a href="#상황--친구와-만남">상황 ① 친구와 만남 </a></li><li><a href="#상황--호텔-체크인">상황 ② 호텔 체크인 </a></li></ul></li><li><a href="#12-문형-정리">12. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>영어에서 가장 자주 쓰이는 동사는 무엇일까요?<br>
+바로 <strong>Be동사(am · is · are)</strong> 입니다.<br>
+“나는 학생이다”, “그녀는 예쁘다”, “우리는 친구다” — 이 모든 문장이 Be동사를 사용합니다.<br>
+Be동사를 완벽히 익히면 영어 문장의 절반을 정복한 것이나 다름없습니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>주격 인칭대명사(I / You / He / She 등)를 완전히 익힐 수 있습니다.</li>
+<li>주어에 따라 am / is / are를 정확히 선택할 수 있습니다.</li>
+<li>Be동사 긍정문·부정문·의문문을 자유롭게 만들 수 있습니다.</li>
+<li>축약형(I’m / She’s / They’re 등)을 자연스럽게 사용할 수 있습니다.</li>
+<li>상태·감정·직업·위치를 Be동사로 표현할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-주격-인칭대명사" tabindex="-1" data-src-line="21">1. 주격 인칭대명사 <a class="header-anchor" href="#1-주격-인칭대명사" aria-hidden="true">#</a></h2>
+<p>Be동사를 배우기 전에, 주어로 쓰이는 <strong>인칭대명사</strong>를 먼저 익혀야 합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">인칭</th>
+<th scope="col">단수</th>
+<th scope="col">복수</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1인칭</td>
+<td>I (나)</td>
+<td>We (우리)</td>
+</tr>
+<tr>
+<td>2인칭</td>
+<td>You (당신)</td>
+<td>You (당신들)</td>
+</tr>
+<tr>
+<td>3인칭 남</td>
+<td>He (그)</td>
+<td>They (그들)</td>
+</tr>
+<tr>
+<td>3인칭 여</td>
+<td>She (그녀)</td>
+<td>They (그들)</td>
+</tr>
+<tr>
+<td>3인칭 사물·동물</td>
+<td>It (그것)</td>
+<td>They (그것들)</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>💡 <strong>영어 인칭대명사의 특징</strong></p>
+<ul>
+<li><code>I</code>는 항상 대문자로 씁니다.</li>
+<li>한국어와 달리 영어에서는 주어를 반드시 표현해야 합니다.</li>
+<li>성별이 불명확한 사람을 가리킬 때 요즘은 <code>they</code>를 단수로 쓰기도 합니다.</li>
+<li><code>You</code>는 단수·복수 모두 같은 형태입니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="2-be동사-현재형--am--is--are" tabindex="-1" data-src-line="41">2. Be동사 현재형 — am · is · are <a class="header-anchor" href="#2-be동사-현재형--am--is--are" aria-hidden="true">#</a></h2>
+<p>주어에 따라 Be동사의 형태가 달라집니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">주어</th>
+<th scope="col">Be동사</th>
+<th scope="col">축약형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I</td>
+<td>am</td>
+<td>I’m</td>
+</tr>
+<tr>
+<td>You</td>
+<td>are</td>
+<td>You’re</td>
+</tr>
+<tr>
+<td>He</td>
+<td>is</td>
+<td>He’s</td>
+</tr>
+<tr>
+<td>She</td>
+<td>is</td>
+<td>She’s</td>
+</tr>
+<tr>
+<td>It</td>
+<td>is</td>
+<td>It’s</td>
+</tr>
+<tr>
+<td>We</td>
+<td>are</td>
+<td>We’re</td>
+</tr>
+<tr>
+<td>You (복수)</td>
+<td>are</td>
+<td>You’re</td>
+</tr>
+<tr>
+<td>They</td>
+<td>are</td>
+<td>They’re</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="암기-포인트" tabindex="-1" data-src-line="56">암기 포인트 <a class="header-anchor" href="#암기-포인트" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I → am (I am → I&#039;m)
+He / She / It → is (단수 3인칭)
+You / We / They → are (나머지 전부)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-be동사-긍정문" tabindex="-1" data-src-line="66">3. Be동사 긍정문 <a class="header-anchor" href="#3-be동사-긍정문" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [be동사] + [명사 / 형용사 / 장소]
+</code></pre></div></code></pre>
+<h3 id="명사-문장-이다" tabindex="-1" data-src-line="72">명사 문장 (~이다) <a class="header-anchor" href="#명사-문장-이다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I am a student.
+나는 학생입니다.
+
+She is a doctor.
+그녀는 의사입니다.
+
+They are friends.
+그들은 친구입니다.
+
+It is a cat.
+그것은 고양이입니다.
+</code></pre></div></code></pre>
+<h3 id="형용사-문장-하다" tabindex="-1" data-src-line="88">형용사 문장 (~하다) <a class="header-anchor" href="#형용사-문장-하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I am tired.
+나는 피곤합니다.
+
+He is tall.
+그는 키가 큽니다.
+
+The weather is nice.
+날씨가 좋습니다.
+
+We are happy.
+우리는 행복합니다.
+</code></pre></div></code></pre>
+<h3 id="장소-문장-에-있다" tabindex="-1" data-src-line="104">장소 문장 (~에 있다) <a class="header-anchor" href="#장소-문장-에-있다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She is at home.
+그녀는 집에 있습니다.
+
+We are in Seoul.
+우리는 서울에 있습니다.
+
+The keys are on the table.
+열쇠들은 테이블 위에 있습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-축약형-사용" tabindex="-1" data-src-line="119">4. 축약형 사용 <a class="header-anchor" href="#4-축약형-사용" aria-hidden="true">#</a></h2>
+<p>일상 회화에서는 축약형을 훨씬 많이 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I am → I&#039;m
+I&#039;m hungry.
+나는 배고파요.
+
+You are → You&#039;re
+You&#039;re so kind!
+당신은 정말 친절해요!
+
+He is → He&#039;s
+He&#039;s my brother.
+그는 제 남동생/오빠입니다.
+
+She is → She&#039;s
+She&#039;s a great singer.
+그녀는 훌륭한 가수입니다.
+
+It is → It&#039;s
+It&#039;s cold today.
+오늘 춥네요.
+
+We are → We&#039;re
+We&#039;re late!
+우리 늦었어요!
+
+They are → They&#039;re
+They&#039;re from Japan.
+그들은 일본에서 왔습니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>It’s vs Its 주의!</strong></p>
+<ul>
+<li><code>It's</code> = It is의 축약형 (It’s cold. = It is cold.)</li>
+<li><code>Its</code> = 소유격 (Its tail is long. = 그것의 꼬리는 깁니다.)<br>
+이 두 표현은 발음은 같지만 철자와 의미가 완전히 다릅니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="5-be동사-부정문" tabindex="-1" data-src-line="160">5. Be동사 부정문 <a class="header-anchor" href="#5-be동사-부정문" aria-hidden="true">#</a></h2>
+<p>부정문은 Be동사 뒤에 <strong>not</strong>을 붙이면 됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [be동사] + not + [명사 / 형용사]
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">긍정</th>
+<th scope="col">부정</th>
+<th scope="col">부정 축약형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I am</td>
+<td>I am not</td>
+<td>I’m not</td>
+</tr>
+<tr>
+<td>You are</td>
+<td>You are not</td>
+<td>You aren’t / You’re not</td>
+</tr>
+<tr>
+<td>He is</td>
+<td>He is not</td>
+<td>He isn’t / He’s not</td>
+</tr>
+<tr>
+<td>She is</td>
+<td>She is not</td>
+<td>She isn’t / She’s not</td>
+</tr>
+<tr>
+<td>It is</td>
+<td>It is not</td>
+<td>It isn’t / It’s not</td>
+</tr>
+<tr>
+<td>We are</td>
+<td>We are not</td>
+<td>We aren’t / We’re not</td>
+</tr>
+<tr>
+<td>They are</td>
+<td>They are not</td>
+<td>They aren’t / They’re not</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>💡 <strong>I’m not의 특별한 점</strong><br>
+<code>I am not</code>의 축약형은 <code>I'm not</code>입니다.<br>
+<code>I amn't</code>라는 표현은 존재하지 않으니 주의하세요.</p>
+</blockquote>
+<h3 id="부정문-예문" tabindex="-1" data-src-line="182">부정문 예문 <a class="header-anchor" href="#부정문-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m not tired.
+나는 피곤하지 않습니다.
+
+He isn&#039;t a teacher.
+그는 선생님이 아닙니다.
+
+They aren&#039;t at home.
+그들은 집에 없습니다.
+
+It&#039;s not cold today.
+오늘은 춥지 않습니다.
+
+We&#039;re not ready yet.
+우리는 아직 준비가 안 됐습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-be동사-의문문" tabindex="-1" data-src-line="203">6. Be동사 의문문 <a class="header-anchor" href="#6-be동사-의문문" aria-hidden="true">#</a></h2>
+<p>의문문은 Be동사를 주어 <strong>앞으로 이동</strong>시키면 됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[Be동사] + [주어] + [명사 / 형용사]?
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">평서문</th>
+<th scope="col">의문문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>You are a student.</td>
+<td>Are you a student?</td>
+</tr>
+<tr>
+<td>He is busy.</td>
+<td>Is he busy?</td>
+</tr>
+<tr>
+<td>They are at home.</td>
+<td>Are they at home?</td>
+</tr>
+<tr>
+<td>It is expensive.</td>
+<td>Is it expensive?</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="의문문-예문" tabindex="-1" data-src-line="218">의문문 예문 <a class="header-anchor" href="#의문문-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are you okay?
+괜찮으세요?
+
+Is she your sister?
+그녀가 당신 여동생/언니인가요?
+
+Is it raining outside?
+밖에 비가 오나요?
+
+Are they coming to the party?
+그들이 파티에 오나요?
+
+Am I late?
+제가 늦었나요?
+</code></pre></div></code></pre>
+<h3 id="의문문-답하기" tabindex="-1" data-src-line="237">의문문 답하기 <a class="header-anchor" href="#의문문-답하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are you a student?
+학생입니까?
+
+Yes, I am. / No, I&#039;m not.
+네, 맞아요. / 아니요, 아니에요.
+
+---
+
+Is he your friend?
+그가 당신 친구인가요?
+
+Yes, he is. / No, he isn&#039;t.
+네, 맞아요. / 아니요, 아니에요.
+
+---
+
+Are they Korean?
+그들이 한국인인가요?
+
+Yes, they are. / No, they aren&#039;t.
+네, 맞아요. / 아니요, 아니에요.
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>짧은 대답(Short Answer) 주의</strong><br>
+영어에서 의문문에 대한 짧은 대답은 반드시 <strong>주어 + Be동사</strong>를 포함해야 합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are you tired?
+✅ Yes, I am. / No, I&#039;m not.
+❌ Yes, I&#039;m. (축약형은 긍정 짧은 대답에 쓸 수 없음!)
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="7-be동사의-다양한-쓰임" tabindex="-1" data-src-line="273">7. Be동사의 다양한 쓰임 <a class="header-anchor" href="#7-be동사의-다양한-쓰임" aria-hidden="true">#</a></h2>
+<h3 id="-직업신분-표현" tabindex="-1" data-src-line="275">① 직업·신분 표현 <a class="header-anchor" href="#-직업신분-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m a teacher.
+나는 선생님입니다.
+
+She&#039;s an engineer.
+그녀는 엔지니어입니다.
+
+They&#039;re students.
+그들은 학생들입니다.
+</code></pre></div></code></pre>
+<h3 id="-감정상태-표현" tabindex="-1" data-src-line="288">② 감정·상태 표현 <a class="header-anchor" href="#-감정상태-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m happy / sad / angry / excited / bored / nervous.
+나는 행복해요 / 슬퍼요 / 화났어요 / 신나요 / 지루해요 / 긴장돼요.
+
+He&#039;s hungry / thirsty / tired / sick.
+그는 배고파요 / 목말라요 / 피곤해요 / 아파요.
+
+She&#039;s busy right now.
+그녀는 지금 바빠요.
+</code></pre></div></code></pre>
+<h3 id="-나이외모-표현" tabindex="-1" data-src-line="301">③ 나이·외모 표현 <a class="header-anchor" href="#-나이외모-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s 30 years old.
+그는 30살입니다.
+
+She&#039;s tall and slim.
+그녀는 키가 크고 날씬합니다.
+
+They&#039;re young.
+그들은 젊습니다.
+</code></pre></div></code></pre>
+<h3 id="-위치-표현" tabindex="-1" data-src-line="314">④ 위치 표현 <a class="header-anchor" href="#-위치-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m at the office.
+나는 사무실에 있습니다.
+
+She&#039;s in the kitchen.
+그녀는 부엌에 있습니다.
+
+The book is on the desk.
+책은 책상 위에 있습니다.
+</code></pre></div></code></pre>
+<h3 id="-날씨시간온도-표현" tabindex="-1" data-src-line="327">⑤ 날씨·시간·온도 표현 <a class="header-anchor" href="#-날씨시간온도-표현" aria-hidden="true">#</a></h3>
+<p>It을 주어로 날씨·시간·온도를 표현할 때도 Be동사를 사용합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s sunny today.
+오늘은 맑습니다.
+
+It&#039;s 3 o&#039;clock.
+3시입니다.
+
+It&#039;s cold outside.
+밖이 춥습니다.
+
+It&#039;s Monday.
+오늘은 월요일입니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-there-is--there-are--존재-표현" tabindex="-1" data-src-line="347">8. There is / There are — 존재 표현 <a class="header-anchor" href="#8-there-is--there-are--존재-표현" aria-hidden="true">#</a></h2>
+<p><code>There is/are</code>는 &quot;~이 있다&quot;는 존재를 나타내는 특별한 Be동사 구조입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">There is + 단수 명사 (~이 있습니다)
+There are + 복수 명사 (~들이 있습니다)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">There is a cat on the sofa.
+소파 위에 고양이 한 마리가 있습니다.
+
+There are three apples on the table.
+테이블 위에 사과 세 개가 있습니다.
+
+There is a problem.
+문제가 있습니다.
+
+There are many people in the park.
+공원에 많은 사람들이 있습니다.
+</code></pre></div></code></pre>
+<h3 id="there-isare-부정문의문문" tabindex="-1" data-src-line="370">There is/are 부정문·의문문 <a class="header-anchor" href="#there-isare-부정문의문문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">There isn&#039;t a parking lot nearby.
+근처에 주차장이 없습니다.
+
+There aren&#039;t any seats available.
+빈 자리가 없습니다.
+
+Is there a pharmacy near here?
+근처에 약국이 있나요?
+
+Are there any questions?
+질문 있으신가요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-be동사-과거형--was--were" tabindex="-1" data-src-line="388">9. Be동사 과거형 — was · were <a class="header-anchor" href="#9-be동사-과거형--was--were" aria-hidden="true">#</a></h2>
+<p>과거 Be동사도 함께 익혀둡니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">주어</th>
+<th scope="col">현재</th>
+<th scope="col">과거</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I</td>
+<td>am</td>
+<td>was</td>
+</tr>
+<tr>
+<td>He / She / It</td>
+<td>is</td>
+<td>was</td>
+</tr>
+<tr>
+<td>You / We / They</td>
+<td>are</td>
+<td>were</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was tired yesterday.
+어제 피곤했습니다.
+
+She was at school this morning.
+그녀는 오늘 아침 학교에 있었습니다.
+
+We were happy.
+우리는 행복했습니다.
+
+They weren&#039;t ready.
+그들은 준비가 안 됐었습니다.
+
+Was he at the meeting?
+그가 회의에 있었나요?
+
+Were you at home last night?
+어젯밤에 집에 있었나요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-자주-쓰이는-감정상태-형용사" tabindex="-1" data-src-line="420">10. 자주 쓰이는 감정·상태 형용사 <a class="header-anchor" href="#10-자주-쓰이는-감정상태-형용사" aria-hidden="true">#</a></h2>
+<p>Be동사와 함께 자주 쓰이는 형용사입니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">한국어</th>
+<th scope="col">영어</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>행복한</td>
+<td>happy</td>
+<td>I’m so happy!</td>
+</tr>
+<tr>
+<td>슬픈</td>
+<td>sad</td>
+<td>She’s a little sad.</td>
+</tr>
+<tr>
+<td>피곤한</td>
+<td>tired</td>
+<td>I’m really tired.</td>
+</tr>
+<tr>
+<td>배고픈</td>
+<td>hungry</td>
+<td>Are you hungry?</td>
+</tr>
+<tr>
+<td>목마른</td>
+<td>thirsty</td>
+<td>I’m so thirsty.</td>
+</tr>
+<tr>
+<td>바쁜</td>
+<td>busy</td>
+<td>He’s busy right now.</td>
+</tr>
+<tr>
+<td>준비된</td>
+<td>ready</td>
+<td>Are you ready?</td>
+</tr>
+<tr>
+<td>괜찮은</td>
+<td>okay / fine</td>
+<td>I’m okay, thanks.</td>
+</tr>
+<tr>
+<td>아픈</td>
+<td>sick / ill</td>
+<td>She’s sick today.</td>
+</tr>
+<tr>
+<td>긴장된</td>
+<td>nervous</td>
+<td>I’m a bit nervous.</td>
+</tr>
+<tr>
+<td>신난</td>
+<td>excited</td>
+<td>We’re so excited!</td>
+</tr>
+<tr>
+<td>지루한</td>
+<td>bored</td>
+<td>I’m bored.</td>
+</tr>
+<tr>
+<td>무서운</td>
+<td>scared</td>
+<td>Is she scared?</td>
+</tr>
+<tr>
+<td>화난</td>
+<td>angry</td>
+<td>He’s angry.</td>
+</tr>
+<tr>
+<td>걱정되는</td>
+<td>worried</td>
+<td>I’m worried about you.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="11-실전-회화--일상-상황" tabindex="-1" data-src-line="444">11. 실전 회화 — 일상 상황 <a class="header-anchor" href="#11-실전-회화--일상-상황" aria-hidden="true">#</a></h2>
+<h3 id="상황--친구와-만남" tabindex="-1" data-src-line="446">상황 ① 친구와 만남 <a class="header-anchor" href="#상황--친구와-만남" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Hey! How are you?
+   야! 어떻게 지내?
+
+B: I&#039;m good! A little tired though.
+   It&#039;s been a long week.
+   잘 지내! 근데 좀 피곤해.
+   한 주가 길었거든.
+
+A: I know what you mean.
+   Is your new job okay?
+   무슨 말인지 알아.
+   새 직장은 괜찮아?
+
+B: Yeah, it&#039;s great actually.
+   My coworkers are really nice.
+   응, 사실 좋아.
+   동료들이 정말 친절해.
+
+A: That&#039;s awesome!
+   Where is the office?
+   대박이다!
+   사무실이 어디야?
+
+B: It&#039;s in Gangnam.
+   It&#039;s a bit far from my place,
+   but the company is really good.
+   강남이야.
+   집에서 좀 멀긴 한데,
+   회사가 정말 좋아.
+</code></pre></div></code></pre>
+<h3 id="상황--호텔-체크인" tabindex="-1" data-src-line="480">상황 ② 호텔 체크인 <a class="header-anchor" href="#상황--호텔-체크인" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Staff: Good evening! Are you checking in?
+       안녕하세요! 체크인 하시나요?
+
+Guest: Yes, I am. My name is Jiwon Park.
+       네. 제 이름은 박지원입니다.
+
+Staff: Is it just for one night?
+       하룻밤만이신가요?
+
+Guest: No, it&#039;s for three nights.
+       아니요, 3박입니다.
+
+Staff: Perfect. Your room is on the 12th floor.
+       It&#039;s a great view!
+       완벽합니다. 방이 12층에 있어요.
+       전망이 정말 좋아요!
+
+Guest: Oh, that&#039;s great!
+       Is breakfast included?
+       오, 좋네요!
+       조식이 포함되어 있나요?
+
+Staff: Yes, it is. The restaurant is on the 2nd floor.
+       It&#039;s open from 7 to 10 AM.
+       네, 포함되어 있습니다. 레스토랑이 2층에 있어요.
+       오전 7시부터 10시까지 운영합니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="12-문형-정리" tabindex="-1" data-src-line="513">12. 문형 정리 <a class="header-anchor" href="#12-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">구조</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>긍정문</td>
+<td>주어 + am/is/are + ~</td>
+<td>I am a student.</td>
+</tr>
+<tr>
+<td>부정문</td>
+<td>주어 + am/is/are + not + ~</td>
+<td>She isn’t busy.</td>
+</tr>
+<tr>
+<td>의문문</td>
+<td>Am/Is/Are + 주어 + ~?</td>
+<td>Are you ready?</td>
+</tr>
+<tr>
+<td>짧은 긍정 답</td>
+<td>Yes, 주어 + am/is/are.</td>
+<td>Yes, I am.</td>
+</tr>
+<tr>
+<td>짧은 부정 답</td>
+<td>No, 주어 + am/is/are + not.</td>
+<td>No, she isn’t.</td>
+</tr>
+<tr>
+<td>존재 표현</td>
+<td>There is/are + 명사</td>
+<td>There is a cat.</td>
+</tr>
+<tr>
+<td>과거 긍정</td>
+<td>주어 + was/were + ~</td>
+<td>I was tired.</td>
+</tr>
+<tr>
+<td>과거 부정</td>
+<td>주어 + wasn’t/weren’t + ~</td>
+<td>They weren’t ready.</td>
+</tr>
+<tr>
+<td>과거 의문</td>
+<td>Was/Were + 주어 + ~?</td>
+<td>Was he at home?</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="529">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>Be동사는 암기해야 할 규칙이 많아 보이지만, 사실 단 하나의 원칙만 기억하면 됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I → am
+He / She / It → is
+나머지 전부 (You / We / They) → are
+</code></pre></div></code></pre>
+<p>그리고 부정은 <strong>not 추가</strong>, 의문문은 <strong>Be동사를 앞으로</strong> — 이 두 가지 규칙만으로 모든 Be동사 문장을 만들 수 있습니다.</p>
+<p>다음 강에서는 <strong>일반동사 현재시제</strong>를 배웁니다. Be동사와 달리 일반동사는 어떻게 쓰는지, 까다로운 3인칭 단수 규칙까지 완전히 익혀봅니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — A1 레벨]</strong></p>
+<ul>
+<li>1강: 알파벳 · 발음 기호 · 소리의 원리</li>
+<li>2강: 인사 · 자기소개 — My name is · I’m from</li>
+<li><strong>3강</strong>: Be동사 완전 정복 — am · is · are ← 현재 글</li>
+<li>4강: 일반동사 기초 — 현재시제와 3인칭 단수</li>
+<li>5강: 명사 · 관사 · 복수형 — a/an/the의 원리</li>
+<li>6강: 형용사 · 부사 — 묘사하는 표현</li>
+<li>7강: 의문사 완전 정복 — What · Who · Where · When · Why · How</li>
+<li>8강: 현재진행형 — I am -ing</li>
+<li>9강: 과거시제 — 규칙 동사 · 불규칙 동사</li>
+<li>10강: 미래 표현 — will · be going to</li>
+</ul>
+<p><strong>[초급 후반 — A2 레벨]</strong></p>
+<ul>
+<li>11강: 조동사 완전 정복 — can · must · should · may</li>
+<li>12강: 전치사 완전 정복 — in · on · at · to · for · with</li>
+<li>13강: 비교 표현 — 비교급 · 최상급</li>
+<li>14강: 현재완료 — have + p.p.</li>
+<li>15강: 수동태 — be동사 + p.p.</li>
+<li>16강: to부정사 · 동명사 — to do / doing</li>
+<li>17강: 관계대명사 — who · which · that</li>
+<li>18강: 가정법 — If + 현재 · 과거 · 과거완료</li>
+</ul>
+<p><strong>[실용 영어 — B1 레벨 진입]</strong></p>
+<ul>
+<li>19강: 비즈니스 · 일상 이메일 영어</li>
+<li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
+</ul>
+</blockquote>
+6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$La",null,{"content":"$b"}]}]}]
+7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-11-te-form","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 11강: て형 완전 정복 — 동사 그룹별 활용"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lc",null,{"href":"/post/english/english-lesson-04-present-simple","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 4강: 일반동사 완전 정복 — 현재시제 · 3인칭 단수 · 부정문 · 의문문"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}]]}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null

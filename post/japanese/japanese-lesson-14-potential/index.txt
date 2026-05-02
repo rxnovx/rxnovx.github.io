@@ -1,0 +1,694 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-a1aaef3226a8c400.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/14fe0f083043dbad.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"Ut0fcwO6P3aVa-YvRbnfC","c":["","post","japanese","japanese-lesson-14-potential",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-14-potential","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}]]}]}],["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":["$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}]
+9:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}]
+a:["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-14-potential\"},\"headline\":\"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます\",\"description\":\"할 수 있다\\\"를 일본어로 표현하는 두 가지 방법, 동사 가능형과 ことができます를 그룹별로 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-02T14:15:00.000Z\",\"dateModified\":\"2026-05-02T14:15:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-14-potential\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"potential-form\",\"koto-ga-dekimasu\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます","slugPath":"japanese/japanese-lesson-14-potential","headings":[{"id":"일본어-14강-가능-표현-완전-정복--동사-가능형--","text":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-가능-표현의-두-가지-방법","text":"1. 가능 표현의 두 가지 방법","level":2},{"id":"2-가능형-만들기--2그룹","text":"2. 가능형 만들기 — 2그룹","level":2},{"id":"3-가능형-만들기--3그룹","text":"3. 가능형 만들기 — 3그룹","level":2},{"id":"4-가능형-만들기--1그룹","text":"4. 가능형 만들기 — 1그룹","level":2},{"id":"5-자주-쓰이는-동사-가능형-30개","text":"5. 자주 쓰이는 동사 가능형 30개","level":2},{"id":"6-가능형의-조사-변화----","text":"6. 가능형의 조사 변화 — を → が","level":2},{"id":"조사-변화-예시","text":"조사 변화 예시","level":3},{"id":"7-가능형-활용표","text":"7. 가능형 활용표","level":2},{"id":"8-","text":"8. ～ことができます","level":2},{"id":"예문","text":"예문","level":3},{"id":"부정형","text":"부정형","level":3},{"id":"9-가능형-vs---뉘앙스-차이","text":"9. 가능형 vs ことができます — 뉘앙스 차이","level":2},{"id":"10-가능-표현-응용","text":"10. 가능 표현 응용","level":2},{"id":"---할-수-있게-되었습니다-변화","text":"① ~ことができるようになりました — ~할 수 있게 되었습니다 (변화)","level":3},{"id":"---할-수-없게-되었습니다-상실","text":"② ~ことができなくなりました — ~할 수 없게 되었습니다 (상실)","level":3},{"id":"----어느-정도-할-수-있습니까","text":"③ どのくらい ~ことができますか — 어느 정도 ~할 수 있습니까?","level":3},{"id":"11-실전-회화--취업-면접","text":"11. 실전 회화 — 취업 면접","level":2},{"id":"12-문형-정리","text":"12. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-14-potential"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"할 수 있다\"를 일본어로 표현하는 두 가지 방법, 동사 가능형과 ことができます를 그룹별로 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-02T14:15:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 2일"]}],["$","time",null,{"dateTime":"2026-05-02T14:15:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L1d","수정일 ","2026년 5월 2일"]}],"$L1e"]}],"$L1f"]}],"$L20","$L21"]}]
+22:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+1d:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+1e:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","potential-form",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","potential-form"]}],["$","span","koto-ga-dekimasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","koto-ga-dekimasu"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+1f:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+23:T6d0c,<h1 id="일본어-14강-가능-표현-완전-정복--동사-가능형--" tabindex="-1" data-src-line="1">일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます <a class="header-anchor" href="#일본어-14강-가능-표현-완전-정복--동사-가능형--" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#일본어-14강-가능-표현-완전-정복--동사-가능형--">일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-가능-표현의-두-가지-방법">1. 가능 표현의 두 가지 방법 </a></li><li><a href="#2-가능형-만들기--2그룹">2. 가능형 만들기 — 2그룹 </a></li><li><a href="#3-가능형-만들기--3그룹">3. 가능형 만들기 — 3그룹 </a></li><li><a href="#4-가능형-만들기--1그룹">4. 가능형 만들기 — 1그룹 </a></li><li><a href="#5-자주-쓰이는-동사-가능형-30개">5. 자주 쓰이는 동사 가능형 30개 </a></li><li><a href="#6-가능형의-조사-변화----">6. 가능형의 조사 변화 — を → が </a><ul><li><a href="#조사-변화-예시">조사 변화 예시 </a></li></ul></li><li><a href="#7-가능형-활용표">7. 가능형 활용표 </a></li><li><a href="#8-">8. ～ことができます </a><ul><li><a href="#예문">예문 </a></li><li><a href="#부정형">부정형 </a></li></ul></li><li><a href="#9-가능형-vs---뉘앙스-차이">9. 가능형 vs ことができます — 뉘앙스 차이 </a></li><li><a href="#10-가능-표현-응용">10. 가능 표현 응용 </a><ul><li><a href="#---할-수-있게-되었습니다-변화">① ~ことができるようになりました — ~할 수 있게 되었습니다 (변화) </a></li><li><a href="#---할-수-없게-되었습니다-상실">② ~ことができなくなりました — ~할 수 없게 되었습니다 (상실) </a></li><li><a href="#----어느-정도-할-수-있습니까">③ どのくらい ~ことができますか — 어느 정도 ~할 수 있습니까? </a></li></ul></li><li><a href="#11-실전-회화--취업-면접">11. 실전 회화 — 취업 면접 </a></li><li><a href="#12-문형-정리">12. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>“일본어를 말할 수 있습니다”, “수영을 할 수 없습니다” —<br>
+능력과 가능성을 나타내는 표현은 자기소개나 일상 대화에서 정말 자주 쓰입니다.<br>
+일본어에서는 가능 표현을 만드는 방법이 크게 두 가지입니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>1·2·3그룹 동사의 가능형을 모두 만들 수 있습니다.</li>
+<li>～ことができます와 가능형의 차이·뉘앙스를 구분할 수 있습니다.</li>
+<li>가능 표현에서 쓰이는 조사(を→が)의 변화를 이해할 수 있습니다.</li>
+<li>가능·불가능을 다양한 정중도로 표현할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-가능-표현의-두-가지-방법" tabindex="-1" data-src-line="19">1. 가능 표현의 두 가지 방법 <a class="header-anchor" href="#1-가능-표현의-두-가지-방법" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">방법</th>
+<th scope="col">형태</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>① 가능형</td>
+<td>동사를 가능형으로 변환</td>
+<td>にほんごが はなせます</td>
+</tr>
+<tr>
+<td>② ことができます</td>
+<td>동사 기본형 + ことができます</td>
+<td>にほんごを はなすことができます</td>
+</tr>
+</tbody>
+</table>
+</div><p>두 방법 모두 &quot;~할 수 있다&quot;는 뜻이지만, 뉘앙스와 사용 상황이 약간 다릅니다.<br>
+먼저 가능형 만드는 법부터 익혀봅니다.</p>
+<hr>
+<h2 id="2-가능형-만들기--2그룹" tabindex="-1" data-src-line="31">2. 가능형 만들기 — 2그룹 <a class="header-anchor" href="#2-가능형-만들기--2그룹" aria-hidden="true">#</a></h2>
+<p>2그룹은 가장 단순합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">2그룹: 어미 る 제거 + られる (→ られます)
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">사전형</th>
+<th scope="col">가능형</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>たべる</td>
+<td>たべられる</td>
+<td>먹을 수 있다</td>
+</tr>
+<tr>
+<td>みる</td>
+<td>みられる</td>
+<td>볼 수 있다</td>
+</tr>
+<tr>
+<td>おきる</td>
+<td>おきられる</td>
+<td>일어날 수 있다</td>
+</tr>
+<tr>
+<td>ねる</td>
+<td>ねられる</td>
+<td>잘 수 있다</td>
+</tr>
+<tr>
+<td>おしえる</td>
+<td>おしえられる</td>
+<td>가르칠 수 있다</td>
+</tr>
+<tr>
+<td>でる</td>
+<td>でられる</td>
+<td>나갈 수 있다</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>💡 <strong>구어체 축약</strong>: 회화에서는 <code>られる</code>의 <code>ら</code>를 빼고 <code>れる</code>만 쓰는 경우가 많습니다.<br>
+(ら抜き言葉 — 「ら」빠진 말)</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">たべられる → たべれる (구어체)
+みられる  → みれる  (구어체)
+</code></pre></div></code></pre>
+<p>문어체·공식 문서에서는 <code>られる</code>가 정확한 표현입니다.</p>
+</blockquote>
+<hr>
+<h2 id="3-가능형-만들기--3그룹" tabindex="-1" data-src-line="58">3. 가능형 만들기 — 3그룹 <a class="header-anchor" href="#3-가능형-만들기--3그룹" aria-hidden="true">#</a></h2>
+<p>3그룹은 불규칙이므로 통째로 암기합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">する → できる
+くる → こられる
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">사전형</th>
+<th scope="col">가능형</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>する</td>
+<td>できる</td>
+<td>할 수 있다</td>
+</tr>
+<tr>
+<td>くる</td>
+<td>こられる</td>
+<td>올 수 있다</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="4-가능형-만들기--1그룹" tabindex="-1" data-src-line="74">4. 가능형 만들기 — 1그룹 <a class="header-anchor" href="#4-가능형-만들기--1그룹" aria-hidden="true">#</a></h2>
+<p>1그룹은 <strong>어미의 う단 → え단 + る</strong> 로 변환합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1그룹: 어미 う단 → え단 + る (→ ます)
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">う단 어미</th>
+<th scope="col">え단 변환</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>く → け</td>
+<td>かく → かける</td>
+<td>쓸 수 있다</td>
+</tr>
+<tr>
+<td>ぐ → げ</td>
+<td>およぐ → およげる</td>
+<td>수영할 수 있다</td>
+</tr>
+<tr>
+<td>す → せ</td>
+<td>はなす → はなせる</td>
+<td>말할 수 있다</td>
+</tr>
+<tr>
+<td>つ → て</td>
+<td>まつ → まてる</td>
+<td>기다릴 수 있다</td>
+</tr>
+<tr>
+<td>ぬ → ね</td>
+<td>しぬ → しねる</td>
+<td>죽을 수 있다</td>
+</tr>
+<tr>
+<td>ぶ → べ</td>
+<td>あそぶ → あそべる</td>
+<td>놀 수 있다</td>
+</tr>
+<tr>
+<td>む → め</td>
+<td>のむ → のめる</td>
+<td>마실 수 있다</td>
+</tr>
+<tr>
+<td>る → れ</td>
+<td>かえる → かえれる</td>
+<td>돌아갈 수 있다</td>
+</tr>
+<tr>
+<td>う → え</td>
+<td>かう → かえる ※</td>
+<td>살 수 있다</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <code>かう(사다)</code> 가능형 <code>かえる</code>는 <code>かえる(돌아가다)</code>와 발음이 같습니다. 문맥으로 구분합니다.</p>
+</blockquote>
+<hr>
+<h2 id="5-자주-쓰이는-동사-가능형-30개" tabindex="-1" data-src-line="98">5. 자주 쓰이는 동사 가능형 30개 <a class="header-anchor" href="#5-자주-쓰이는-동사-가능형-30개" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">사전형</th>
+<th scope="col">가능형 (정중)</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>いく</td>
+<td>いけます</td>
+<td>갈 수 있다</td>
+</tr>
+<tr>
+<td>くる</td>
+<td>こられます</td>
+<td>올 수 있다</td>
+</tr>
+<tr>
+<td>かえる</td>
+<td>かえれます</td>
+<td>돌아갈 수 있다</td>
+</tr>
+<tr>
+<td>たべる</td>
+<td>たべられます</td>
+<td>먹을 수 있다</td>
+</tr>
+<tr>
+<td>のむ</td>
+<td>のめます</td>
+<td>마실 수 있다</td>
+</tr>
+<tr>
+<td>みる</td>
+<td>みられます</td>
+<td>볼 수 있다</td>
+</tr>
+<tr>
+<td>きく</td>
+<td>きけます</td>
+<td>들을 수 있다</td>
+</tr>
+<tr>
+<td>はなす</td>
+<td>はなせます</td>
+<td>말할 수 있다</td>
+</tr>
+<tr>
+<td>かく</td>
+<td>かけます</td>
+<td>쓸 수 있다</td>
+</tr>
+<tr>
+<td>よむ</td>
+<td>よめます</td>
+<td>읽을 수 있다</td>
+</tr>
+<tr>
+<td>かう</td>
+<td>かえます</td>
+<td>살 수 있다</td>
+</tr>
+<tr>
+<td>する</td>
+<td>できます</td>
+<td>할 수 있다</td>
+</tr>
+<tr>
+<td>おきる</td>
+<td>おきられます</td>
+<td>일어날 수 있다</td>
+</tr>
+<tr>
+<td>ねる</td>
+<td>ねられます</td>
+<td>잘 수 있다</td>
+</tr>
+<tr>
+<td>あう</td>
+<td>あえます</td>
+<td>만날 수 있다</td>
+</tr>
+<tr>
+<td>まつ</td>
+<td>まてます</td>
+<td>기다릴 수 있다</td>
+</tr>
+<tr>
+<td>とる</td>
+<td>とれます</td>
+<td>잡을 수 있다</td>
+</tr>
+<tr>
+<td>のる</td>
+<td>のれます</td>
+<td>탈 수 있다</td>
+</tr>
+<tr>
+<td>はたらく</td>
+<td>はたらけます</td>
+<td>일할 수 있다</td>
+</tr>
+<tr>
+<td>およぐ</td>
+<td>およげます</td>
+<td>수영할 수 있다</td>
+</tr>
+<tr>
+<td>あそぶ</td>
+<td>あそべます</td>
+<td>놀 수 있다</td>
+</tr>
+<tr>
+<td>おしえる</td>
+<td>おしえられます</td>
+<td>가르칠 수 있다</td>
+</tr>
+<tr>
+<td>おぼえる</td>
+<td>おぼえられます</td>
+<td>외울 수 있다</td>
+</tr>
+<tr>
+<td>わかる</td>
+<td>わかれます</td>
+<td>알 수 있다</td>
+</tr>
+<tr>
+<td>はじめる</td>
+<td>はじめられます</td>
+<td>시작할 수 있다</td>
+</tr>
+<tr>
+<td>つかう</td>
+<td>つかえます</td>
+<td>사용할 수 있다</td>
+</tr>
+<tr>
+<td>でる</td>
+<td>でられます</td>
+<td>나갈 수 있다</td>
+</tr>
+<tr>
+<td>はいる</td>
+<td>はいれます</td>
+<td>들어갈 수 있다</td>
+</tr>
+<tr>
+<td>うたう</td>
+<td>うたえます</td>
+<td>노래할 수 있다</td>
+</tr>
+<tr>
+<td>りょうりする</td>
+<td>りょうりできます</td>
+<td>요리할 수 있다</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="6-가능형의-조사-변화----" tabindex="-1" data-src-line="135">6. 가능형의 조사 변화 — を → が <a class="header-anchor" href="#6-가능형의-조사-변화----" aria-hidden="true">#</a></h2>
+<p>가능 표현에서는 목적어 조사 <code>を</code>가 <code>が</code>로 바뀌는 경우가 많습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【일반 동사】
+にほんごを はなします。
+일본어를 말합니다.
+
+【가능형】
+にほんごが はなせます。
+일본어를 말할 수 있습니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>を도 틀리지는 않습니다</strong><br>
+현대 일본어 회화에서는 가능형에 <code>を</code>를 쓰는 경우도 많습니다.<br>
+<code>にほんごを はなせます</code>도 자연스럽습니다. 단, <code>が</code>가 더 전형적인 표현입니다.</p>
+</blockquote>
+<h3 id="조사-변화-예시" tabindex="-1" data-src-line="153">조사 변화 예시 <a class="header-anchor" href="#조사-변화-예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">さけを のむ → さけが のめます
+(술을 마신다 → 술을 마실 수 있습니다)
+
+かんじを かく → かんじが かけます
+(한자를 쓴다 → 한자를 쓸 수 있습니다)
+
+くるまを うんてんする → くるまが うんてんできます
+(차를 운전한다 → 차를 운전할 수 있습니다)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-가능형-활용표" tabindex="-1" data-src-line="168">7. 가능형 활용표 <a class="header-anchor" href="#7-가능형-활용표" aria-hidden="true">#</a></h2>
+<p>가능형 자체가 2그룹 동사처럼 활용됩니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">형태</th>
+<th scope="col">만드는 법</th>
+<th scope="col">たべる 예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>현재 긍정</td>
+<td>가능형 기본</td>
+<td>たべられます</td>
+</tr>
+<tr>
+<td>현재 부정</td>
+<td>られる → られない</td>
+<td>たべられません</td>
+</tr>
+<tr>
+<td>과거 긍정</td>
+<td>られる → られた</td>
+<td>たべられました</td>
+</tr>
+<tr>
+<td>과거 부정</td>
+<td>られる → られなかった</td>
+<td>たべられませんでした</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">むかしは からい ものが たべられませんでした。
+예전에는 매운 것을 먹을 수 없었습니다.
+
+こどものころ、はやく おきられませんでした。
+어릴 때, 일찍 일어날 수 없었습니다.
+
+いちじかんで ここまで こられました。
+1시간 만에 여기까지 올 수 있었습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-" tabindex="-1" data-src-line="192">8. ～ことができます <a class="header-anchor" href="#8-" aria-hidden="true">#</a></h2>
+<p>두 번째 가능 표현 방법입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">동사 기본형(사전형) + ことができます
+(~할 수 있습니다)
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">사전형</th>
+<th scope="col">ことができます형</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>はなす</td>
+<td>はなすことができます</td>
+<td>말할 수 있습니다</td>
+</tr>
+<tr>
+<td>よむ</td>
+<td>よむことができます</td>
+<td>읽을 수 있습니다</td>
+</tr>
+<tr>
+<td>する</td>
+<td>することができます</td>
+<td>할 수 있습니다</td>
+</tr>
+<tr>
+<td>いく</td>
+<td>いくことができます</td>
+<td>갈 수 있습니다</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="예문" tabindex="-1" data-src-line="208">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは にほんごと えいごを はなすことができます。
+나는 일본어와 영어를 말할 수 있습니다.
+
+このアプリで かんたんに やくすことができます。
+이 앱으로 간단하게 번역할 수 있습니다.
+
+ここでは クレジットカードを つかうことができます。
+여기서는 신용카드를 사용할 수 있습니다.
+</code></pre></div></code></pre>
+<h3 id="부정형" tabindex="-1" data-src-line="221">부정형 <a class="header-anchor" href="#부정형" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">동사 기본형 + ことができません
+(~할 수 없습니다)
+
+じかんが なくて、いくことができませんでした。
+시간이 없어서, 갈 수 없었습니다.
+
+からだの ぐあいが わるくて、しごとに いくことができません。
+몸 상태가 좋지 않아서, 일을 하러 갈 수 없습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-가능형-vs---뉘앙스-차이" tabindex="-1" data-src-line="236">9. 가능형 vs ことができます — 뉘앙스 차이 <a class="header-anchor" href="#9-가능형-vs---뉘앙스-차이" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">항목</th>
+<th scope="col">가능형</th>
+<th scope="col">ことができます</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>문체</td>
+<td>회화체·구어체</td>
+<td>격식체·문어체</td>
+</tr>
+<tr>
+<td>자연스러움</td>
+<td>일상 대화에 자연스러움</td>
+<td>공식 문서·자기소개서에 적합</td>
+</tr>
+<tr>
+<td>길이</td>
+<td>짧고 간결</td>
+<td>길고 정중한 느낌</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【일상 회화 — 가능형이 더 자연스러움】
+にほんごが はなせます。
+일본어를 말할 수 있습니다.
+
+【자기소개서·공식 문서 — ことができます가 더 적합】
+にほんごを はなすことができます。
+일본어를 말할 수 있습니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>실용 포인트</strong>: 일상 회화에서는 가능형을, 이력서·자기소개·공식 장면에서는 <code>ことができます</code>를 쓰는 것이 자연스럽습니다.</p>
+</blockquote>
+<hr>
+<h2 id="10-가능-표현-응용" tabindex="-1" data-src-line="258">10. 가능 표현 응용 <a class="header-anchor" href="#10-가능-표현-응용" aria-hidden="true">#</a></h2>
+<h3 id="---할-수-있게-되었습니다-변화" tabindex="-1" data-src-line="260">① ~ことができるようになりました — ~할 수 있게 되었습니다 (변화) <a class="header-anchor" href="#---할-수-있게-되었습니다-변화" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">べんきょうして、かんじが よめるようになりました。
+공부해서, 한자를 읽을 수 있게 되었습니다.
+
+にほんに きてから、にほんごが はなせるようになりました。
+일본에 온 후, 일본어를 말할 수 있게 되었습니다.
+</code></pre></div></code></pre>
+<h3 id="---할-수-없게-되었습니다-상실" tabindex="-1" data-src-line="270">② ~ことができなくなりました — ~할 수 없게 되었습니다 (상실) <a class="header-anchor" href="#---할-수-없게-되었습니다-상실" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">けがで、しばらく はしることができなくなりました。
+부상으로, 당분간 달릴 수 없게 되었습니다.
+</code></pre></div></code></pre>
+<h3 id="----어느-정도-할-수-있습니까" tabindex="-1" data-src-line="277">③ どのくらい ~ことができますか — 어느 정도 ~할 수 있습니까? <a class="header-anchor" href="#----어느-정도-할-수-있습니까" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">にほんごは どのくらい はなせますか。
+일본어는 어느 정도 말할 수 있습니까?
+
+どんな りょうりが つくれますか。
+어떤 요리를 만들 수 있습니까?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-실전-회화--취업-면접" tabindex="-1" data-src-line="289">11. 실전 회화 — 취업 면접 <a class="header-anchor" href="#11-실전-회화--취업-면접" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">めんせつかん：どんな げんごが はなせますか。
+             도나 겐고가 하나세마스카?
+             (어떤 언어를 말할 수 있습니까?)
+
+おうぼしゃ：にほんごと えいごを はなすことができます。
+           니혼고토 에이고오 하나스코토가 데키마스。
+           (일본어와 영어를 말할 수 있습니다.)
+           
+           かんこくごも すこし はなせます。
+           칸코쿠고모 스코시 하나세마스。
+           (한국어도 조금 말할 수 있습니다.)
+
+めんせつかん：パソコンは つかえますか。
+             파소콘와 츠카에마스카?
+             (컴퓨터는 사용할 수 있습니까?)
+
+おうぼしゃ：はい、ワードや エクセルは もちろん、
+           하이、와아도야 에쿠세루와 모치론、
+           (네, 워드나 엑셀은 물론이고,)
+           
+           プログラミングも することができます。
+           프로그라밍구모 스루코토가 데키마스。
+           (프로그래밍도 할 수 있습니다.)
+
+めんせつかん：しゅっちょうは できますか。
+             슛쵸우와 데키마스카?
+             (출장은 가능합니까?)
+
+おうぼしゃ：はい、こくないは もちろん、かいがいにも
+           いくことができます。
+           하이、코쿠나이와 모치론、카이가이니모
+           이쿠코토가 데키마스。
+           (네, 국내는 물론, 해외에도 갈 수 있습니다.)
+
+めんせつかん：いつから はたらくことが できますか。
+             이츠카라 하타라쿠코토가 데키마스카?
+             (언제부터 일할 수 있습니까?)
+
+おうぼしゃ：らいげつから すぐに はじめられます。
+           라이게츠카라 스구니 하지메라레마스。
+           (다음 달부터 바로 시작할 수 있습니다.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="12-문형-정리" tabindex="-1" data-src-line="337">12. 문형 정리 <a class="header-anchor" href="#12-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">의미</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>가능형 + ます</td>
+<td>~할 수 있습니다</td>
+<td>はなせます</td>
+</tr>
+<tr>
+<td>가능형 + ません</td>
+<td>~할 수 없습니다</td>
+<td>はなせません</td>
+</tr>
+<tr>
+<td>가능형 + ました</td>
+<td>~할 수 있었습니다</td>
+<td>はなせました</td>
+</tr>
+<tr>
+<td>가능형 + ませんでした</td>
+<td>~할 수 없었습니다</td>
+<td>はなせませんでした</td>
+</tr>
+<tr>
+<td>기본형 + ことができます</td>
+<td>~할 수 있습니다 (격식)</td>
+<td>はなすことができます</td>
+</tr>
+<tr>
+<td>기본형 + ことができません</td>
+<td>~할 수 없습니다 (격식)</td>
+<td>はなすことができません</td>
+</tr>
+<tr>
+<td>가능형 + ようになりました</td>
+<td>~할 수 있게 되었습니다</td>
+<td>はなせるようになりました</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="351">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>가능형 변환 규칙을 다시 한번 정리합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1그룹: 어미 う단 → え단 + る
+      かく → かける / はなす → はなせる / のむ → のめる
+
+2그룹: る 제거 + られる
+      たべる → たべられる / みる → みられる
+
+3그룹: する → できる / くる → こられる
+</code></pre></div></code></pre>
+<p>일상 회화에서는 <strong>가능형</strong>, 공식적인 자리·문서에서는 <strong>ことができます</strong>를 선택하면 자연스럽습니다.</p>
+<p>다음 강에서는 <strong>경험 표현</strong> — <code>～たことがあります</code>를 배우며 과거의 경험을 일본어로 표현하는 방법을 익혀봅니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨] ✅ 완료</strong></p>
+<ul>
+<li>1강 ~ 10강 완료</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 · 습관 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li><strong>14강</strong>: 가능 표현 — 동사 가능형 · ～ことができます ← 현재 글</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li>16강: 조건 표현 — ～たら · ～ば · ～と · ～なら</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+20:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L22",null,{"content":"$23"}]}]}]
+21:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-13-request-permission-prohibition","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 13강: 의뢰·허가·금지 표현 — ~てください · ~てもいいです · ~てはいけません"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english/english-lesson-10-future","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-12-te-iru",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-12-te-iru","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}]}],["$","li","japanese/japanese-lesson-13-request-permission-prohibition",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-13-request-permission-prohibition","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 13강: 의뢰·허가·금지 표현 — ~てください · ~てもいいです · ~てはいけません"}]}],["$","li","japanese/japanese-lesson-11-te-form",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-11-te-form","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 11강: て형 완전 정복 — 동사 그룹별 활용"}]}]]}]]}]]}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+24:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"할 수 있다\"를 일본어로 표현하는 두 가지 방법, 동사 가능형과 ことができます를 그룹별로 완전히 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/japanese/japanese-lesson-14-potential/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}],["$","meta","11",{"property":"og:description","content":"할 수 있다\"를 일본어로 표현하는 두 가지 방법, 동사 가능형과 ことができます를 그룹별로 완전히 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/japanese/japanese-lesson-14-potential/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/images/_posts/japanese/japanese-lesson-14-potential/og/1777506154271-ChatGPTImage202643008_41_346.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-02T14:15:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-02T14:15:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"japanese"}],["$","meta","22",{"property":"article:tag","content":"potential-form"}],["$","meta","23",{"property":"article:tag","content":"koto-ga-dekimasu"}],["$","meta","24",{"property":"article:tag","content":"grammar"}],["$","meta","25",{"property":"article:tag","content":"intermediate"}],["$","meta","26",{"property":"article:tag","content":"language-learning"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}],["$","meta","29",{"name":"twitter:description","content":"할 수 있다\"를 일본어로 표현하는 두 가지 방법, 동사 가능형과 ことができます를 그룹별로 완전히 익혀봅니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/images/_posts/japanese/japanese-lesson-14-potential/og/1777506154271-ChatGPTImage202643008_41_346.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L24","32",{}]]
+16:null
