@@ -1,0 +1,575 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+d:I[484,[],"OutletBoundary"]
+e:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"zRSkepkJLdJyBT044RT0C","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-16-conditionals\"},\"headline\":\"일본어 16강: 조건 표현 완전 정복 — ～たら · ～ば · ～と · ～なら\",\"description\":\"일본어 조건 표현의 4가지 형태를 뉘앙스 차이와 함께 완전히 정복합니다.\",\"datePublished\":\"2026-05-03T14:36:00.000Z\",\"dateModified\":\"2026-05-03T14:36:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-16-conditionals\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"conditionals\",\"tara\",\"ba\",\"to\",\"nara\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 16강: 조건 표현 완전 정복 — ～たら · ～ば · ～と · ～なら","slugPath":"japanese/japanese-lesson-16-conditionals","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-네-가지-조건-표현-개요","text":"1. 네 가지 조건 표현 개요","level":2},{"id":"2---가장-범용적인-조건-표현","text":"2. ～たら — 가장 범용적인 조건 표현","level":2},{"id":"형태-만들기","text":"형태 만들기","level":3},{"id":"용법---순서계기-하면-했더니","text":"용법 ① : 순서·계기 (~하면, ~했더니)","level":3},{"id":"용법---가정-했더니-하니까","text":"용법 ② : 가정 (~했더니, ~하니까)","level":3},{"id":"용법---반사실-가정-였다면","text":"용법 ③ : 반사실 가정 (~였다면)","level":3},{"id":"3---조건-충족-시-결과","text":"3. ～ば — 조건 충족 시 결과","level":2},{"id":"형태-만들기-1","text":"형태 만들기","level":3},{"id":"용법---가정-조건-하면-된다","text":"용법 ① : 가정 조건 (~하면 ~된다)","level":3},{"id":"용법---충고조언","text":"용법 ② : 충고·조언","level":3},{"id":"--했으면-좋았을-텐데-후회","text":"～ばよかった — ~했으면 좋았을 텐데 (후회)","level":3},{"id":"4---자동적필연적-결과","text":"4. ～と — 자동적·필연적 결과","level":2},{"id":"형태-만들기-2","text":"형태 만들기","level":3},{"id":"용법---자연법칙필연적-결과","text":"용법 ① : 자연법칙·필연적 결과","level":3},{"id":"용법---절차조작-기계길-안내","text":"용법 ② : 절차·조작 (기계·길 안내)","level":3},{"id":"용법---습관적-사실","text":"용법 ③ : 습관적 사실","level":3},{"id":"5---상대-말을-받아-조언제안","text":"5. ～なら — 상대 말을 받아 조언·제안","level":2},{"id":"형태-만들기-3","text":"형태 만들기","level":3},{"id":"핵심-뉘앙스","text":"핵심 뉘앙스","level":3},{"id":"6-네-가지-조건-표현-완전-비교","text":"6. 네 가지 조건 표현 완전 비교","level":2},{"id":"7-상황별-선택-가이드","text":"7. 상황별 선택 가이드","level":2},{"id":"8-와의-결합","text":"8. もし와의 결합","level":2},{"id":"9-조건-표현-형태-총정리","text":"9. 조건 표현 형태 총정리","level":2},{"id":"10-실전-회화--여행-계획-상담","text":"10. 실전 회화 — 여행 계획 상담","level":2},{"id":"11-문형-정리","text":"11. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-16-conditionals"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 16강: 조건 표현 완전 정복 — ～たら · ～ば · ～と · ～なら"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 조건 표현의 4가지 형태를 뉘앙스 차이와 함께 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-03T14:36:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 3일"]}],"$L3","$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","time",null,{"dateTime":"2026-05-03T14:36:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 3일"]}]
+4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","conditionals",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","conditionals"]}],["$","span","tara",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","tara"]}],["$","span","ba",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","ba"]}],["$","span","to",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","to"]}],["$","span","nara",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","nara"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+b:T74fe,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-네-가지-조건-표현-개요">1. 네 가지 조건 표현 개요 </a></li><li><a href="#2---가장-범용적인-조건-표현">2. ～たら — 가장 범용적인 조건 표현 </a><ul><li><a href="#형태-만들기">형태 만들기 </a></li><li><a href="#용법---순서계기-하면-했더니">용법 ① : 순서·계기 (~하면, ~했더니) </a></li><li><a href="#용법---가정-했더니-하니까">용법 ② : 가정 (~했더니, ~하니까) </a></li><li><a href="#용법---반사실-가정-였다면">용법 ③ : 반사실 가정 (~였다면) </a></li></ul></li><li><a href="#3---조건-충족-시-결과">3. ～ば — 조건 충족 시 결과 </a><ul><li><a href="#형태-만들기-1">형태 만들기 </a></li><li><a href="#용법---가정-조건-하면-된다">용법 ① : 가정 조건 (~하면 ~된다) </a></li><li><a href="#용법---충고조언">용법 ② : 충고·조언 </a></li><li><a href="#--했으면-좋았을-텐데-후회">～ばよかった — ~했으면 좋았을 텐데 (후회) </a></li></ul></li><li><a href="#4---자동적필연적-결과">4. ～と — 자동적·필연적 결과 </a><ul><li><a href="#형태-만들기-2">형태 만들기 </a></li><li><a href="#용법---자연법칙필연적-결과">용법 ① : 자연법칙·필연적 결과 </a></li><li><a href="#용법---절차조작-기계길-안내">용법 ② : 절차·조작 (기계·길 안내) </a></li><li><a href="#용법---습관적-사실">용법 ③ : 습관적 사실 </a></li></ul></li><li><a href="#5---상대-말을-받아-조언제안">5. ～なら — 상대 말을 받아 조언·제안 </a><ul><li><a href="#형태-만들기-3">형태 만들기 </a></li><li><a href="#핵심-뉘앙스">핵심 뉘앙스 </a></li></ul></li><li><a href="#6-네-가지-조건-표현-완전-비교">6. 네 가지 조건 표현 완전 비교 </a></li><li><a href="#7-상황별-선택-가이드">7. 상황별 선택 가이드 </a></li><li><a href="#8-와의-결합">8. もし와의 결합 </a></li><li><a href="#9-조건-표현-형태-총정리">9. 조건 표현 형태 총정리 </a></li><li><a href="#10-실전-회화--여행-계획-상담">10. 실전 회화 — 여행 계획 상담 </a></li><li><a href="#11-문형-정리">11. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>일본어 조건 표현은 학습자들이 가장 어려워하는 문법 중 하나입니다.<br>
+“~하면”, “~한다면” 이라는 한 가지 의미를 일본어는 <strong>たら·ば·と·なら</strong> 네 가지로 표현하며, 각각 쓰임새와 뉘앙스가 다릅니다.<br>
+이번 강에서는 네 가지를 <strong>비교하며</strong> 한꺼번에 정복합니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>たら·ば·と·なら 각각의 형태를 만들 수 있습니다.</li>
+<li>네 가지 조건 표현의 뉘앙스 차이를 구분할 수 있습니다.</li>
+<li>상황에 맞는 조건 표현을 자연스럽게 선택할 수 있습니다.</li>
+<li>각 표현을 활용한 실전 회화를 구사할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-네-가지-조건-표현-개요" tabindex="-1" data-src-line="17">1. 네 가지 조건 표현 개요 <a class="header-anchor" href="#1-네-가지-조건-표현-개요" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">표현</th>
+<th scope="col">핵심 뉘앙스</th>
+<th scope="col">주요 사용 상황</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>～たら</td>
+<td>~하면 (그때)</td>
+<td>가장 범용적, 순서·가정 모두 가능</td>
+</tr>
+<tr>
+<td>～ば</td>
+<td>~하면 (조건 충족 시)</td>
+<td>가정·충고, 주로 긍정적 조건</td>
+</tr>
+<tr>
+<td>～と</td>
+<td>~하면 (자동·필연)</td>
+<td>자연법칙, 습관, 기계적 절차</td>
+</tr>
+<tr>
+<td>～なら</td>
+<td>~라면 (주제·전제)</td>
+<td>상대의 말을 받아서 조언·제안</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="2---가장-범용적인-조건-표현" tabindex="-1" data-src-line="28">2. ～たら — 가장 범용적인 조건 표현 <a class="header-anchor" href="#2---가장-범용적인-조건-표현" aria-hidden="true">#</a></h2>
+<h3 id="형태-만들기" tabindex="-1" data-src-line="30">형태 만들기 <a class="header-anchor" href="#형태-만들기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">동사·형용사의 た형 + ら
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">품사</th>
+<th scope="col">た형</th>
+<th scope="col">たら형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>동사</td>
+<td>いった</td>
+<td>いったら</td>
+</tr>
+<tr>
+<td>い형용사</td>
+<td>たかかった</td>
+<td>たかかったら</td>
+</tr>
+<tr>
+<td>な형용사</td>
+<td>しずかだった</td>
+<td>しずかだったら</td>
+</tr>
+<tr>
+<td>명사</td>
+<td>がくせいだった</td>
+<td>がくせいだったら</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="용법---순서계기-하면-했더니" tabindex="-1" data-src-line="43">용법 ① : 순서·계기 (~하면, ~했더니) <a class="header-anchor" href="#용법---순서계기-하면-했더니" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">うちに かえったら、てを あらってください。
+집에 돌아오면, 손을 씻어 주세요.
+
+はるに なったら、さくらを みに いきましょう。
+봄이 되면, 벚꽃을 보러 갑시다.
+
+にほんに いったら、ラーメンを たべたいです。
+일본에 가면, 라멘을 먹고 싶습니다.
+</code></pre></div></code></pre>
+<h3 id="용법---가정-했더니-하니까" tabindex="-1" data-src-line="56">용법 ② : 가정 (~했더니, ~하니까) <a class="header-anchor" href="#용법---가정-했더니-하니까" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">まどを あけたら、きれいな けしきが みえました。
+창문을 열었더니, 아름다운 경치가 보였습니다.
+
+たなかさんに でんわしたら、るすでした。
+다나카 씨에게 전화했더니, 부재중이었습니다.
+</code></pre></div></code></pre>
+<h3 id="용법---반사실-가정-였다면" tabindex="-1" data-src-line="66">용법 ③ : 반사실 가정 (~였다면) <a class="header-anchor" href="#용법---반사실-가정-였다면" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">もっと はやく おきたら、でんしゃに のれたのに。
+좀 더 일찍 일어났다면, 전철을 탈 수 있었을 텐데.
+
+じかんが あったら、てつだいたいです。
+시간이 있다면, 도와드리고 싶습니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>たら의 강점</strong>: 과거·현재·미래, 사실·가정 모든 상황에 쓸 수 있어 가장 범용적입니다. 헷갈릴 때는 たら를 쓰면 대부분 자연스럽습니다.</p>
+</blockquote>
+<hr>
+<h2 id="3---조건-충족-시-결과" tabindex="-1" data-src-line="80">3. ～ば — 조건 충족 시 결과 <a class="header-anchor" href="#3---조건-충족-시-결과" aria-hidden="true">#</a></h2>
+<h3 id="형태-만들기-1" tabindex="-1" data-src-line="82">형태 만들기 <a class="header-anchor" href="#형태-만들기-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1그룹 동사: 어미 う단 → え단 + ば
+2그룹 동사: る 제거 + れば
+3그룹 동사: する → すれば / くる → くれば
+い형용사: い → ければ
+な형용사·명사: だ → であれば (또는 なら)
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">사전형</th>
+<th scope="col">ば형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>いく</td>
+<td>いけば</td>
+</tr>
+<tr>
+<td>かく</td>
+<td>かけば</td>
+</tr>
+<tr>
+<td>のむ</td>
+<td>のめば</td>
+</tr>
+<tr>
+<td>たべる</td>
+<td>たべれば</td>
+</tr>
+<tr>
+<td>する</td>
+<td>すれば</td>
+</tr>
+<tr>
+<td>くる</td>
+<td>くれば</td>
+</tr>
+<tr>
+<td>たかい</td>
+<td>たかければ</td>
+</tr>
+<tr>
+<td>しずかだ</td>
+<td>しずかであれば</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="용법---가정-조건-하면-된다" tabindex="-1" data-src-line="103">용법 ① : 가정 조건 (~하면 ~된다) <a class="header-anchor" href="#용법---가정-조건-하면-된다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">まいにち れんしゅうすれば、じょうずに なります。
+매일 연습하면, 능숙해집니다.
+
+はやく いけば、まにあいます。
+빨리 가면, 시간에 맞출 수 있습니다.
+
+やすければ、かいます。
+싸다면, 사겠습니다.
+</code></pre></div></code></pre>
+<h3 id="용법---충고조언" tabindex="-1" data-src-line="116">용법 ② : 충고·조언 <a class="header-anchor" href="#용법---충고조언" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わからなければ、きいてください。
+모르면, 물어봐 주세요.
+
+つかれたら やすめばいいです。
+피곤하면 쉬면 됩니다.
+</code></pre></div></code></pre>
+<h3 id="--했으면-좋았을-텐데-후회" tabindex="-1" data-src-line="126">～ばよかった — ~했으면 좋았을 텐데 (후회) <a class="header-anchor" href="#--했으면-좋았을-텐데-후회" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">もっと べんきょうすればよかった。
+더 공부했으면 좋았을 텐데.
+
+もっと はやく いえばよかった。
+더 일찍 말했으면 좋았을 텐데.
+
+あのとき、そうしなければよかった。
+그때, 그러지 않았으면 좋았을 텐데.
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>ば의 제약</strong>: ば는 뒷문장에 명령·의뢰·의지 표현이 오기 어렵습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ くれば、てを あらってください。(ば + 명령 → 어색)
+✅ きたら、てを あらってください。(たら + 명령 → 자연스러움)
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="4---자동적필연적-결과" tabindex="-1" data-src-line="147">4. ～と — 자동적·필연적 결과 <a class="header-anchor" href="#4---자동적필연적-결과" aria-hidden="true">#</a></h2>
+<h3 id="형태-만들기-2" tabindex="-1" data-src-line="149">형태 만들기 <a class="header-anchor" href="#형태-만들기-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">동사·형용사 기본형(사전형) + と
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">품사</th>
+<th scope="col">기본형</th>
+<th scope="col">と형</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>동사</td>
+<td>いく</td>
+<td>いくと</td>
+</tr>
+<tr>
+<td>い형용사</td>
+<td>たかい</td>
+<td>たかいと</td>
+</tr>
+<tr>
+<td>な형용사</td>
+<td>しずかだ</td>
+<td>しずかだと</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="용법---자연법칙필연적-결과" tabindex="-1" data-src-line="161">용법 ① : 자연법칙·필연적 결과 <a class="header-anchor" href="#용법---자연법칙필연적-결과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">はるに なると、さくらが さきます。
+봄이 되면, 벚꽃이 핍니다.
+
+みずを ひやすと、こおりに なります。
+물을 차갑게 하면, 얼음이 됩니다.
+
+このボタンを おすと、ドアが あきます。
+이 버튼을 누르면, 문이 열립니다.
+</code></pre></div></code></pre>
+<h3 id="용법---절차조작-기계길-안내" tabindex="-1" data-src-line="174">용법 ② : 절차·조작 (기계·길 안내) <a class="header-anchor" href="#용법---절차조작-기계길-안내" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">まっすぐ いくと、えきが みえます。
+직진하면, 역이 보입니다.
+
+このリンクを クリックすると、ページが ひらきます。
+이 링크를 클릭하면, 페이지가 열립니다。
+
+みぎに まがると、コンビニが あります。
+오른쪽으로 돌면, 편의점이 있습니다.
+</code></pre></div></code></pre>
+<h3 id="용법---습관적-사실" tabindex="-1" data-src-line="187">용법 ③ : 습관적 사실 <a class="header-anchor" href="#용법---습관적-사실" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">あのひとは おさけを のむと、うるさくなります。
+저 사람은 술을 마시면, 시끄러워집니다.
+
+わたしは コーヒーを のまないと、ねむくなります。
+나는 커피를 마시지 않으면, 졸립니다.
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>と의 제약</strong>: と 뒤에는 <strong>명령·의뢰·의지·권유</strong> 표현이 올 수 없습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ えきに つくと、れんらくしてください。
+✅ えきに ついたら、れんらくしてください。
+</code></pre></div></code></pre>
+<p>と는 자동적·기계적 결과에만 사용합니다.</p>
+</blockquote>
+<hr>
+<h2 id="5---상대-말을-받아-조언제안" tabindex="-1" data-src-line="206">5. ～なら — 상대 말을 받아 조언·제안 <a class="header-anchor" href="#5---상대-말을-받아-조언제안" aria-hidden="true">#</a></h2>
+<h3 id="형태-만들기-3" tabindex="-1" data-src-line="208">형태 만들기 <a class="header-anchor" href="#형태-만들기-3" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">동사·형용사 보통형 + なら
+명사 + なら
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">품사</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>동사</td>
+<td>いくなら / たべるなら</td>
+</tr>
+<tr>
+<td>い형용사</td>
+<td>たかいなら</td>
+</tr>
+<tr>
+<td>な형용사</td>
+<td>しずかなら</td>
+</tr>
+<tr>
+<td>명사</td>
+<td>がくせいなら / とうきょうなら</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="핵심-뉘앙스" tabindex="-1" data-src-line="222">핵심 뉘앙스 <a class="header-anchor" href="#핵심-뉘앙스" aria-hidden="true">#</a></h3>
+<p><code>なら</code>는 <strong>상대방의 말·상황을 전제로</strong> 조언이나 제안을 할 때 씁니다.<br>
+“그렇다면”, “그런 거라면” 이라는 뉘앙스가 강합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: かんこくに いきたいんです。
+   한국에 가고 싶어요.
+B: かんこくに いくなら、ソウルが おすすめですよ。
+   한국에 간다면, 서울이 추천이에요.
+
+A: あたまが いたいんです。
+   머리가 아파요.
+B: あたまが いたいなら、はやく ねたほうがいいですよ。
+   머리가 아프다면, 일찍 자는 편이 좋아요.
+
+A: にほんごを べんきょうしたいです。
+   일본어를 공부하고 싶어요.
+B: にほんごを べんきょうするなら、この アプリが べんりですよ。
+   일본어를 공부한다면, 이 앱이 편리해요.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>なら의 특징</strong>: なら는 항상 <strong>상대방이 먼저 언급한 내용</strong>을 전제로 합니다.<br>
+혼자서 먼저 조건을 제시할 때는 たら나 ば를 씁니다.</p>
+</blockquote>
+<hr>
+<h2 id="6-네-가지-조건-표현-완전-비교" tabindex="-1" data-src-line="249">6. 네 가지 조건 표현 완전 비교 <a class="header-anchor" href="#6-네-가지-조건-표현-완전-비교" aria-hidden="true">#</a></h2>
+<p>같은 상황을 네 가지로 표현해 비교합니다.</p>
+<p><strong>상황: “비가 오면 집에 있겠습니다.”</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① たら: あめが ふったら、うちに います。
+        (비가 오면, 집에 있겠습니다.) → 가장 자연스럽고 범용적
+
+② ば: あめが ふれば、うちに います。
+      (비가 오면, 집에 있겠습니다.) → 조건 충족 시 결과 강조
+
+③ と: あめが ふると、うちに います。
+      (비가 오면, 집에 있습니다.) → 습관·반복적 사실로 들림
+
+④ なら: あめなら、うちに います。
+        (비라면, 집에 있겠습니다.) → 상대방이 날씨에 대해 먼저 언급한 후
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-상황별-선택-가이드" tabindex="-1" data-src-line="271">7. 상황별 선택 가이드 <a class="header-anchor" href="#7-상황별-선택-가이드" aria-hidden="true">#</a></h2>
+<p>어떤 조건 표현을 써야 할지 헷갈릴 때 참고하세요.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">상황</th>
+<th scope="col">추천 표현</th>
+<th scope="col">이유</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>일반적인 조건·가정</td>
+<td>たら</td>
+<td>가장 범용적, 거의 모든 상황에 사용 가능</td>
+</tr>
+<tr>
+<td>뒤에 명령·의뢰가 올 때</td>
+<td>たら</td>
+<td>ば·と는 명령문과 잘 결합되지 않음</td>
+</tr>
+<tr>
+<td>자연법칙·기계 조작</td>
+<td>と</td>
+<td>자동적·필연적 결과 강조</td>
+</tr>
+<tr>
+<td>길 안내·절차 설명</td>
+<td>と</td>
+<td>“~하면 ~이 보입니다” 패턴</td>
+</tr>
+<tr>
+<td>충고·조언 (긍정 조건)</td>
+<td>ば</td>
+<td>“~하면 잘 됩니다” 패턴</td>
+</tr>
+<tr>
+<td>후회 표현</td>
+<td>ばよかった</td>
+<td>~했으면 좋았을 텐데</td>
+</tr>
+<tr>
+<td>상대 말 받아 제안·조언</td>
+<td>なら</td>
+<td>대화 중 상대 발언을 전제로 할 때</td>
+</tr>
+<tr>
+<td>반사실 가정</td>
+<td>たら·ば</td>
+<td>もし~たら·もし~ば</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="8-와의-결합" tabindex="-1" data-src-line="288">8. もし와의 결합 <a class="header-anchor" href="#8-와의-결합" aria-hidden="true">#</a></h2>
+<p>가정을 강조할 때 문두에 <code>もし(만약)</code>를 붙입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">もし + たら / ば / なら (と는 잘 어울리지 않음)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">もし じかんが あったら、てつだってください。
+만약 시간이 있다면, 도와주세요.
+
+もし わたしが とりだったら、そらを とびたいです。
+만약 내가 새라면, 하늘을 날고 싶습니다.
+
+もし にほんごが じょうずに なれば、つうやくに なれるかも。
+만약 일본어를 잘하게 된다면, 통역사가 될 수도 있을지도.
+
+もし にほんに いくなら、きょうとも いったほうがいいよ。
+만약 일본에 간다면, 교토도 가는 편이 좋아.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-조건-표현-형태-총정리" tabindex="-1" data-src-line="312">9. 조건 표현 형태 총정리 <a class="header-anchor" href="#9-조건-표현-형태-총정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">표현</th>
+<th scope="col">동사</th>
+<th scope="col">い형용사</th>
+<th scope="col">な형용사</th>
+<th scope="col">명사</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>たら</td>
+<td>た형 + ら</td>
+<td>たかかったら</td>
+<td>しずかだったら</td>
+<td>がくせいだったら</td>
+</tr>
+<tr>
+<td>ば</td>
+<td>え단 + ば</td>
+<td>たかければ</td>
+<td>しずかであれば</td>
+<td>がくせいであれば</td>
+</tr>
+<tr>
+<td>と</td>
+<td>기본형 + と</td>
+<td>たかいと</td>
+<td>しずかだと</td>
+<td>がくせいだと</td>
+</tr>
+<tr>
+<td>なら</td>
+<td>기본형 + なら</td>
+<td>たかいなら</td>
+<td>しずかなら</td>
+<td>がくせいなら</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="10-실전-회화--여행-계획-상담" tabindex="-1" data-src-line="323">10. 실전 회화 — 여행 계획 상담 <a class="header-anchor" href="#10-실전-회화--여행-계획-상담" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: らいねん にほんに いきたいんですが。
+   라이넨 니혼니 이키타인데스가。
+   (내년에 일본에 가고 싶은데요.)
+
+B: にほんに いくなら、どの きせつに いくか もう きめましたか。
+   니혼니 이쿠나라、도노 키세츠니 이쿠카 모우 키메마시타카?
+   (일본에 간다면, 어느 계절에 갈지 이미 정했습니까?)
+
+A: まだです。いつが いいでしょうか。
+   마다데스。이츠가 이이데쇼우카?
+   (아직요. 언제가 좋을까요?)
+
+B: さくらが みたければ、さんがつから しがつに いくといいですよ。
+   사쿠라가 미타케레바、산가츠카라 시가츠니 이쿠토 이이데스요。
+   (벚꽃을 보고 싶다면, 3월에서 4월에 가면 좋아요.)
+   
+   あきなら、こうようが とても きれいですよ。
+   아키나라、코우요우가 토테모 키레이데스요。
+   (가을이라면, 단풍이 정말 예뻐요.)
+
+A: そうですか！さくらを みたいので、はるに しようと おもいます。
+   소우데스카！사쿠라오 미타이노데、하루니 시요우토 오모이마스。
+   (그렇군요! 벚꽃을 보고 싶으니까, 봄으로 하려고 합니다.)
+
+B: はるに いくなら、はやめに ホテルを よやくしたほうがいいですよ。
+   하루니 이쿠나라、하야메니 호테루오 요야쿠시타 호우가 이이데스요。
+   (봄에 간다면, 일찍 호텔을 예약하는 편이 좋아요.)
+   
+   はるは こんでいるので、おそく なったら とれなくなりますよ。
+   하루와 콘데이루노데、오소쿠 낫타라 토레나쿠 나리마스요。
+   (봄은 붐비기 때문에, 늦어지면 잡을 수 없게 됩니다.)
+
+A: わかりました！さっそく しらべてみます。
+   와카리마시타！삿소쿠 시라베테미마스。
+   (알겠습니다! 바로 알아볼게요.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-문형-정리" tabindex="-1" data-src-line="365">11. 문형 정리 <a class="header-anchor" href="#11-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">의미</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>た형 + ら</td>
+<td>~하면 (범용)</td>
+<td>いったら</td>
+</tr>
+<tr>
+<td>た형 + らよかった</td>
+<td>~했으면 좋았을 텐데</td>
+<td>いったらよかった</td>
+</tr>
+<tr>
+<td>え단 + ば</td>
+<td>~하면 (조건 충족)</td>
+<td>いけば</td>
+</tr>
+<tr>
+<td>ば + よかった</td>
+<td>~했으면 좋았을 텐데</td>
+<td>いけばよかった</td>
+</tr>
+<tr>
+<td>기본형 + と</td>
+<td>~하면 (필연·자동)</td>
+<td>いくと</td>
+</tr>
+<tr>
+<td>기본형 + なら</td>
+<td>~라면 (전제·제안)</td>
+<td>いくなら</td>
+</tr>
+<tr>
+<td>もし + たら/ば/なら</td>
+<td>만약 ~한다면</td>
+<td>もし いったら</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="379">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>네 가지 조건 표현을 처음부터 완벽하게 구분하려 하면 오히려 막힙니다.<br>
+실용적인 접근법을 제안합니다:</p>
+<ol>
+<li><strong>먼저 たら 하나만 완전히 익히기</strong> — 거의 모든 상황에 쓸 수 있습니다.</li>
+<li><strong>길 안내·자연법칙은 と</strong> — “이쪽으로 가면 역이 보입니다”</li>
+<li><strong>상대방 말 받아서 조언할 때는 なら</strong> — “그렇다면 이게 좋아요”</li>
+<li><strong>후회 표현은 ばよかった</strong> — “~했으면 좋았을 텐데”</li>
+</ol>
+<p>이 네 가지 패턴만 먼저 익혀도 일상 회화에서 조건 표현을 자연스럽게 쓸 수 있습니다.</p>
+<p>다음 강에서는 <strong>수수 표현 심화</strong> — <code>～てあげる·もらう·くれる</code>를 て형과 결합하여 더 풍부하게 표현하는 방법을 익혀봅니다.</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — N5 레벨] ✅ 완료</strong></p>
+<ul>
+<li>1강 ~ 10강 완료</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨]</strong></p>
+<ul>
+<li>11강: て형 만들기 — 동사 그룹별 활용</li>
+<li>12강: ~ている — 진행 · 상태 · 습관 표현</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현 — 동사 가능형 · ～ことができます</li>
+<li>15강: 경험 표현 — ～たことがあります</li>
+<li><strong>16강</strong>: 조건 표현 — ～たら · ～ば · ～と · ～なら ← 현재 글</li>
+<li>17강: 수수 표현 심화 — ～てあげる · もらう · くれる</li>
+<li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
+</ul>
+</blockquote>
+6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$La",null,{"content":"$b"}]}]}]
+7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-15-experience","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 15강: 경험 표현 완전 정복 — ～たことがあります"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-15-experience",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-15-experience","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 15강: 경험 표현 완전 정복 — ～たことがあります"}]}],["$","li","japanese/japanese-lesson-14-potential",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-14-potential","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}]}],["$","li","japanese/japanese-lesson-12-te-iru",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-12-te-iru","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}]}]]}]]}]]}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
+f:null
