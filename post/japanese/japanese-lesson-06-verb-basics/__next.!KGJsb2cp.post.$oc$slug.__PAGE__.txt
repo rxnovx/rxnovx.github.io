@@ -1,16 +1,15 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 d:I[484,[],"OutletBoundary"]
 e:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-06-verb-basics\"},\"headline\":\"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현\",\"description\":\"일본어 동사의 3그룹 분류법, ます형 4가지 활용, 그리고 행く·来る·帰る 이동 표현까지 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-29T09:13:00.000Z\",\"dateModified\":\"2026-04-29T09:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-06-verb-basics\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"verb\",\"masu-form\",\"movement\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현","slugPath":"japanese/japanese-lesson-06-verb-basics","headings":[{"id":"일본어-6강-동사-기초--그룹-분류--형--이동-표현","text":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-일본어-동사의-3그룹-분류","text":"1. 일본어 동사의 3그룹 분류","level":2},{"id":"2-1그룹-동사-동사","text":"2. 1그룹 동사 (う동사)","level":2},{"id":"대표-1그룹-동사","text":"대표 1그룹 동사","level":3},{"id":"3-2그룹-동사-동사","text":"3. 2그룹 동사 (る동사)","level":2},{"id":"대표-2그룹-동사","text":"대표 2그룹 동사","level":3},{"id":"4-3그룹-동사-불규칙동사","text":"4. 3그룹 동사 (불규칙동사)","level":2},{"id":"5-형-만들기","text":"5. ます형 만들기","level":2},{"id":"1그룹-어미의-단--단--","text":"1그룹: 어미의 う단 → い단 + ます","level":3},{"id":"2그룹-를-제거--","text":"2그룹: る를 제거 + ます","level":3},{"id":"3그룹-불규칙-암기","text":"3그룹: 불규칙 암기","level":3},{"id":"6-형-4가지-활용","text":"6. ます형 4가지 활용","level":2},{"id":"예시--먹다","text":"예시: たべます (먹다)","level":3},{"id":"예시--가다","text":"예시: いきます (가다)","level":3},{"id":"7-이동-표현--","text":"7. 이동 표현 — ～へ行きます·来ます·帰ります","level":2},{"id":"조사---방향","text":"조사 へ — 방향","level":3},{"id":"조사---수단교통수단","text":"조사 で — 수단·교통수단","level":3},{"id":"조사---동반","text":"조사 と — 동반","level":3},{"id":"조사---시간","text":"조사 に — 시간","level":3},{"id":"8-이동-관련-필수-장소-어휘","text":"8. 이동 관련 필수 장소 어휘","level":2},{"id":"9-자주-쓰이는-기본-동사-30","text":"9. 자주 쓰이는 기본 동사 30","level":2},{"id":"10-실전-회화--주말-계획-이야기","text":"10. 실전 회화 — 주말 계획 이야기","level":2},{"id":"11-문형-정리","text":"11. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-06-verb-basics"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 동사의 3그룹 분류법, ます형 4가지 활용, 그리고 행く·来る·帰る 이동 표현까지 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-29T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 29일"]}],["$","time",null,{"dateTime":"2026-04-29T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 29일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-06-verb-basics\"},\"headline\":\"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현\",\"description\":\"일본어 동사의 3그룹 분류법, ます형 4가지 활용, 그리고 행く·来る·帰る 이동 표현까지 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-29T09:13:00.000Z\",\"dateModified\":\"2026-04-29T09:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-06-verb-basics\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"verb\",\"masu-form\",\"movement\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현","slugPath":"japanese/japanese-lesson-06-verb-basics","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-일본어-동사의-3그룹-분류","text":"1. 일본어 동사의 3그룹 분류","level":2},{"id":"2-1그룹-동사-동사","text":"2. 1그룹 동사 (う동사)","level":2},{"id":"대표-1그룹-동사","text":"대표 1그룹 동사","level":3},{"id":"3-2그룹-동사-동사","text":"3. 2그룹 동사 (る동사)","level":2},{"id":"대표-2그룹-동사","text":"대표 2그룹 동사","level":3},{"id":"4-3그룹-동사-불규칙동사","text":"4. 3그룹 동사 (불규칙동사)","level":2},{"id":"5-형-만들기","text":"5. ます형 만들기","level":2},{"id":"1그룹-어미의-단--단--","text":"1그룹: 어미의 う단 → い단 + ます","level":3},{"id":"2그룹-를-제거--","text":"2그룹: る를 제거 + ます","level":3},{"id":"3그룹-불규칙-암기","text":"3그룹: 불규칙 암기","level":3},{"id":"6-형-4가지-활용","text":"6. ます형 4가지 활용","level":2},{"id":"예시--먹다","text":"예시: たべます (먹다)","level":3},{"id":"예시--가다","text":"예시: いきます (가다)","level":3},{"id":"7-이동-표현--","text":"7. 이동 표현 — ～へ行きます·来ます·帰ります","level":2},{"id":"조사---방향","text":"조사 へ — 방향","level":3},{"id":"조사---수단교통수단","text":"조사 で — 수단·교통수단","level":3},{"id":"조사---동반","text":"조사 と — 동반","level":3},{"id":"조사---시간","text":"조사 に — 시간","level":3},{"id":"8-이동-관련-필수-장소-어휘","text":"8. 이동 관련 필수 장소 어휘","level":2},{"id":"9-자주-쓰이는-기본-동사-30","text":"9. 자주 쓰이는 기본 동사 30","level":2},{"id":"10-실전-회화--주말-계획-이야기","text":"10. 실전 회화 — 주말 계획 이야기","level":2},{"id":"11-문형-정리","text":"11. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-06-verb-basics"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 동사의 3그룹 분류법, ます형 4가지 활용, 그리고 행く·来る·帰る 이동 표현까지 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-29T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 29일"]}],["$","time",null,{"dateTime":"2026-04-29T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 29일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
 3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
 4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","verb",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","verb"]}],["$","span","masu-form",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","masu-form"]}],["$","span","movement",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","movement"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
 5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현" tabindex="-1" data-src-line="1">일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현 <a class="header-anchor" href="#일본어-6강-동사-기초--그룹-분류--형--이동-표현" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-6강-동사-기초--그룹-분류--형--이동-표현">일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-일본어-동사의-3그룹-분류">1. 일본어 동사의 3그룹 분류 </a></li><li><a href="#2-1그룹-동사-동사">2. 1그룹 동사 (う동사) </a><ul><li><a href="#대표-1그룹-동사">대표 1그룹 동사 </a></li></ul></li><li><a href="#3-2그룹-동사-동사">3. 2그룹 동사 (る동사) </a><ul><li><a href="#대표-2그룹-동사">대표 2그룹 동사 </a></li></ul></li><li><a href="#4-3그룹-동사-불규칙동사">4. 3그룹 동사 (불규칙동사) </a></li><li><a href="#5-형-만들기">5. ます형 만들기 </a><ul><li><a href="#1그룹-어미의-단--단--">1그룹: 어미의 う단 → い단 + ます </a></li><li><a href="#2그룹-를-제거--">2그룹: る를 제거 + ます </a></li><li><a href="#3그룹-불규칙-암기">3그룹: 불규칙 암기 </a></li></ul></li><li><a href="#6-형-4가지-활용">6. ます형 4가지 활용 </a><ul><li><a href="#예시--먹다">예시: たべます (먹다) </a></li><li><a href="#예시--가다">예시: いきます (가다) </a></li></ul></li><li><a href="#7-이동-표현--">7. 이동 표현 — ～へ行きます·来ます·帰ります </a><ul><li><a href="#조사---방향">조사 へ — 방향 </a></li><li><a href="#조사---수단교통수단">조사 で — 수단·교통수단 </a></li><li><a href="#조사---동반">조사 と — 동반 </a></li><li><a href="#조사---시간">조사 に — 시간 </a></li></ul></li><li><a href="#8-이동-관련-필수-장소-어휘">8. 이동 관련 필수 장소 어휘 </a></li><li><a href="#9-자주-쓰이는-기본-동사-30">9. 자주 쓰이는 기본 동사 30 </a></li><li><a href="#10-실전-회화--주말-계획-이야기">10. 실전 회화 — 주말 계획 이야기 </a></li><li><a href="#11-문형-정리">11. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+b:T65c7,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-일본어-동사의-3그룹-분류">1. 일본어 동사의 3그룹 분류 </a></li><li><a href="#2-1그룹-동사-동사">2. 1그룹 동사 (う동사) </a><ul><li><a href="#대표-1그룹-동사">대표 1그룹 동사 </a></li></ul></li><li><a href="#3-2그룹-동사-동사">3. 2그룹 동사 (る동사) </a><ul><li><a href="#대표-2그룹-동사">대표 2그룹 동사 </a></li></ul></li><li><a href="#4-3그룹-동사-불규칙동사">4. 3그룹 동사 (불규칙동사) </a></li><li><a href="#5-형-만들기">5. ます형 만들기 </a><ul><li><a href="#1그룹-어미의-단--단--">1그룹: 어미의 う단 → い단 + ます </a></li><li><a href="#2그룹-를-제거--">2그룹: る를 제거 + ます </a></li><li><a href="#3그룹-불규칙-암기">3그룹: 불규칙 암기 </a></li></ul></li><li><a href="#6-형-4가지-활용">6. ます형 4가지 활용 </a><ul><li><a href="#예시--먹다">예시: たべます (먹다) </a></li><li><a href="#예시--가다">예시: いきます (가다) </a></li></ul></li><li><a href="#7-이동-표현--">7. 이동 표현 — ～へ行きます·来ます·帰ります </a><ul><li><a href="#조사---방향">조사 へ — 방향 </a></li><li><a href="#조사---수단교통수단">조사 で — 수단·교통수단 </a></li><li><a href="#조사---동반">조사 と — 동반 </a></li><li><a href="#조사---시간">조사 に — 시간 </a></li></ul></li><li><a href="#8-이동-관련-필수-장소-어휘">8. 이동 관련 필수 장소 어휘 </a></li><li><a href="#9-자주-쓰이는-기본-동사-30">9. 자주 쓰이는 기본 동사 30 </a></li><li><a href="#10-실전-회화--주말-계획-이야기">10. 실전 회화 — 주말 계획 이야기 </a></li><li><a href="#11-문형-정리">11. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>지금까지 명사문 위주로 배웠다면, 이번 강부터는 드디어 <strong>동사</strong>를 다룹니다.<br>
 일본어 동사는 활용이 규칙적이지만, 그 전에 반드시 <strong>그룹 분류</strong>를 먼저 이해해야 합니다.<br>
 그룹을 모르면 이후 て형·た형·가능형 등 모든 활용이 흔들리기 때문입니다.</p>
@@ -25,7 +24,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-일본어-동사의-3그룹-분류" tabindex="-1" data-src-line="20">1. 일본어 동사의 3그룹 분류 <a class="header-anchor" href="#1-일본어-동사의-3그룹-분류" aria-hidden="true">#</a></h2>
+<h2 id="1-일본어-동사의-3그룹-분류" tabindex="-1" data-src-line="18">1. 일본어 동사의 3그룹 분류 <a class="header-anchor" href="#1-일본어-동사의-3그룹-분류" aria-hidden="true">#</a></h2>
 <p>일본어 동사는 활용 방식에 따라 세 그룹으로 나뉩니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -54,10 +53,10 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tbody>
 </table>
 </div><hr>
-<h2 id="2-1그룹-동사-동사" tabindex="-1" data-src-line="32">2. 1그룹 동사 (う동사) <a class="header-anchor" href="#2-1그룹-동사-동사" aria-hidden="true">#</a></h2>
+<h2 id="2-1그룹-동사-동사" tabindex="-1" data-src-line="30">2. 1그룹 동사 (う동사) <a class="header-anchor" href="#2-1그룹-동사-동사" aria-hidden="true">#</a></h2>
 <p>사전형(기본형)의 어미가 <strong>う·く·ぐ·す·つ·ぬ·ぶ·む·る</strong> 로 끝나는 동사입니다.<br>
 단, る로 끝나더라도 앞 음절이 あ·う·お단이면 1그룹입니다.</p>
-<h3 id="대표-1그룹-동사" tabindex="-1" data-src-line="37">대표 1그룹 동사 <a class="header-anchor" href="#대표-1그룹-동사" aria-hidden="true">#</a></h3>
+<h3 id="대표-1그룹-동사" tabindex="-1" data-src-line="35">대표 1그룹 동사 <a class="header-anchor" href="#대표-1그룹-동사" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -120,9 +119,9 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tbody>
 </table>
 </div><hr>
-<h2 id="3-2그룹-동사-동사" tabindex="-1" data-src-line="54">3. 2그룹 동사 (る동사) <a class="header-anchor" href="#3-2그룹-동사-동사" aria-hidden="true">#</a></h2>
+<h2 id="3-2그룹-동사-동사" tabindex="-1" data-src-line="52">3. 2그룹 동사 (る동사) <a class="header-anchor" href="#3-2그룹-동사-동사" aria-hidden="true">#</a></h2>
 <p>사전형의 어미가 <strong>る</strong> 이고, 바로 앞 음절이 <strong>い단 또는 え단</strong>인 동사입니다.</p>
-<h3 id="대표-2그룹-동사" tabindex="-1" data-src-line="58">대표 2그룹 동사 <a class="header-anchor" href="#대표-2그룹-동사" aria-hidden="true">#</a></h3>
+<h3 id="대표-2그룹-동사" tabindex="-1" data-src-line="56">대표 2그룹 동사 <a class="header-anchor" href="#대표-2그룹-동사" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -181,7 +180,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 같은 발음이라도 의미에 따라 그룹이 다른 경우가 있습니다.</p>
 </blockquote>
 <hr>
-<h2 id="4-3그룹-동사-불규칙동사" tabindex="-1" data-src-line="78">4. 3그룹 동사 (불규칙동사) <a class="header-anchor" href="#4-3그룹-동사-불규칙동사" aria-hidden="true">#</a></h2>
+<h2 id="4-3그룹-동사-불규칙동사" tabindex="-1" data-src-line="76">4. 3그룹 동사 (불규칙동사) <a class="header-anchor" href="#4-3그룹-동사-불규칙동사" aria-hidden="true">#</a></h2>
 <p>딱 두 개만 존재합니다. 통째로 외워야 합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -207,9 +206,9 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 りょこう + する → りょこうする (여행하다)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-형-만들기" tabindex="-1" data-src-line="97">5. ます형 만들기 <a class="header-anchor" href="#5-형-만들기" aria-hidden="true">#</a></h2>
+<h2 id="5-형-만들기" tabindex="-1" data-src-line="95">5. ます형 만들기 <a class="header-anchor" href="#5-형-만들기" aria-hidden="true">#</a></h2>
 <p>정중한 표현에 사용하는 ます형은 그룹마다 만드는 방법이 다릅니다.</p>
-<h3 id="1그룹-어미의-단--단--" tabindex="-1" data-src-line="101">1그룹: 어미의 う단 → い단 + ます <a class="header-anchor" href="#1그룹-어미의-단--단--" aria-hidden="true">#</a></h3>
+<h3 id="1그룹-어미의-단--단--" tabindex="-1" data-src-line="99">1그룹: 어미의 う단 → い단 + ます <a class="header-anchor" href="#1그룹-어미의-단--단--" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -256,17 +255,17 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tr>
 </tbody>
 </table>
-</div><h3 id="2그룹-를-제거--" tabindex="-1" data-src-line="115">2그룹: る를 제거 + ます <a class="header-anchor" href="#2그룹-를-제거--" aria-hidden="true">#</a></h3>
+</div><h3 id="2그룹-를-제거--" tabindex="-1" data-src-line="113">2그룹: る를 제거 + ます <a class="header-anchor" href="#2그룹-를-제거--" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">たべる → たべ + ます → たべます
 みる  → み   + ます → みます
 ねる  → ね   + ます → ねます
 </code></pre></div></code></pre>
-<h3 id="3그룹-불규칙-암기" tabindex="-1" data-src-line="123">3그룹: 불규칙 암기 <a class="header-anchor" href="#3그룹-불규칙-암기" aria-hidden="true">#</a></h3>
+<h3 id="3그룹-불규칙-암기" tabindex="-1" data-src-line="121">3그룹: 불규칙 암기 <a class="header-anchor" href="#3그룹-불규칙-암기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">する → します
 くる → きます
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-형-4가지-활용" tabindex="-1" data-src-line="132">6. ます형 4가지 활용 <a class="header-anchor" href="#6-형-4가지-활용" aria-hidden="true">#</a></h2>
+<h2 id="6-형-4가지-활용" tabindex="-1" data-src-line="130">6. ます형 4가지 활용 <a class="header-anchor" href="#6-형-4가지-활용" aria-hidden="true">#</a></h2>
 <p>ます형은 다음 4가지 형태로 활용됩니다. 이 4가지가 기본 중의 기본입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -299,7 +298,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tr>
 </tbody>
 </table>
-</div><h3 id="예시--먹다" tabindex="-1" data-src-line="143">예시: たべます (먹다) <a class="header-anchor" href="#예시--먹다" aria-hidden="true">#</a></h3>
+</div><h3 id="예시--먹다" tabindex="-1" data-src-line="141">예시: たべます (먹다) <a class="header-anchor" href="#예시--먹다" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -331,7 +330,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tr>
 </tbody>
 </table>
-</div><h3 id="예시--가다" tabindex="-1" data-src-line="152">예시: いきます (가다) <a class="header-anchor" href="#예시--가다" aria-hidden="true">#</a></h3>
+</div><h3 id="예시--가다" tabindex="-1" data-src-line="150">예시: いきます (가다) <a class="header-anchor" href="#예시--가다" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -364,7 +363,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tbody>
 </table>
 </div><hr>
-<h2 id="7-이동-표현--" tabindex="-1" data-src-line="163">7. 이동 표현 — ～へ行きます·来ます·帰ります <a class="header-anchor" href="#7-이동-표현--" aria-hidden="true">#</a></h2>
+<h2 id="7-이동-표현--" tabindex="-1" data-src-line="161">7. 이동 표현 — ～へ行きます·来ます·帰ります <a class="header-anchor" href="#7-이동-표현--" aria-hidden="true">#</a></h2>
 <p>이동을 나타내는 핵심 동사 세 가지입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -392,7 +391,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tr>
 </tbody>
 </table>
-</div><h3 id="조사---방향" tabindex="-1" data-src-line="173">조사 へ — 방향 <a class="header-anchor" href="#조사---방향" aria-hidden="true">#</a></h3>
+</div><h3 id="조사---방향" tabindex="-1" data-src-line="171">조사 へ — 방향 <a class="header-anchor" href="#조사---방향" aria-hidden="true">#</a></h3>
 <p><code>へ</code> 는 이동의 방향을 나타냅니다. 발음은 <code>え(e)</code>입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[장소] へ [이동동사]
 
@@ -412,7 +411,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 <p>💡 <strong>へ vs に</strong>: 방향·목적지를 나타낼 때 <code>へ</code> 와 <code>に</code> 는 거의 같은 뜻으로 쓰입니다.<br>
 <code>へ</code>는 방향성을 강조, <code>に</code>는 도달점을 강조하는 뉘앙스가 있지만 일상 회화에서는 혼용됩니다.</p>
 </blockquote>
-<h3 id="조사---수단교통수단" tabindex="-1" data-src-line="196">조사 で — 수단·교통수단 <a class="header-anchor" href="#조사---수단교통수단" aria-hidden="true">#</a></h3>
+<h3 id="조사---수단교통수단" tabindex="-1" data-src-line="194">조사 で — 수단·교통수단 <a class="header-anchor" href="#조사---수단교통수단" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[교통수단] で [이동동사]
 
 でんしゃで いきます。
@@ -427,7 +426,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 아루이테 이키마스。
 (걸어서 갑니다.) ※ 도보는 で 대신 あるいて를 사용
 </code></pre></div></code></pre>
-<h3 id="조사---동반" tabindex="-1" data-src-line="214">조사 と — 동반 <a class="header-anchor" href="#조사---동반" aria-hidden="true">#</a></h3>
+<h3 id="조사---동반" tabindex="-1" data-src-line="212">조사 と — 동반 <a class="header-anchor" href="#조사---동반" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[사람] と [이동동사]
 
 ともだちと えいがを みます。
@@ -438,7 +437,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 카조쿠토 오키나와에 이키마시타。
 (가족과 오키나와에 갔습니다.)
 </code></pre></div></code></pre>
-<h3 id="조사---시간" tabindex="-1" data-src-line="228">조사 に — 시간 <a class="header-anchor" href="#조사---시간" aria-hidden="true">#</a></h3>
+<h3 id="조사---시간" tabindex="-1" data-src-line="226">조사 に — 시간 <a class="header-anchor" href="#조사---시간" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[시간] に [동사]
 
 しちじに おきます。
@@ -450,7 +449,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 (토요일에 친구와 쇼핑을 합니다.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-이동-관련-필수-장소-어휘" tabindex="-1" data-src-line="244">8. 이동 관련 필수 장소 어휘 <a class="header-anchor" href="#8-이동-관련-필수-장소-어휘" aria-hidden="true">#</a></h2>
+<h2 id="8-이동-관련-필수-장소-어휘" tabindex="-1" data-src-line="242">8. 이동 관련 필수 장소 어휘 <a class="header-anchor" href="#8-이동-관련-필수-장소-어휘" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -510,7 +509,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tbody>
 </table>
 </div><hr>
-<h2 id="9-자주-쓰이는-기본-동사-30" tabindex="-1" data-src-line="263">9. 자주 쓰이는 기본 동사 30 <a class="header-anchor" href="#9-자주-쓰이는-기본-동사-30" aria-hidden="true">#</a></h2>
+<h2 id="9-자주-쓰이는-기본-동사-30" tabindex="-1" data-src-line="261">9. 자주 쓰이는 기본 동사 30 <a class="header-anchor" href="#9-자주-쓰이는-기본-동사-30" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -704,7 +703,7 @@ b:T67ad,<h1 id="일본어-6강-동사-기초--그룹-분류--형--이동-표현"
 </tbody>
 </table>
 </div><hr>
-<h2 id="10-실전-회화--주말-계획-이야기" tabindex="-1" data-src-line="300">10. 실전 회화 — 주말 계획 이야기 <a class="header-anchor" href="#10-실전-회화--주말-계획-이야기" aria-hidden="true">#</a></h2>
+<h2 id="10-실전-회화--주말-계획-이야기" tabindex="-1" data-src-line="298">10. 실전 회화 — 주말 계획 이야기 <a class="header-anchor" href="#10-실전-회화--주말-계획-이야기" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: しゅうまつ なにを しますか。
    슈우마츠 나니오 시마스카?
    (주말에 무엇을 하십니까?)
@@ -734,7 +733,7 @@ A: そうですか。
    (그렇군요.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-문형-정리" tabindex="-1" data-src-line="334">11. 문형 정리 <a class="header-anchor" href="#11-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="11-문형-정리" tabindex="-1" data-src-line="332">11. 문형 정리 <a class="header-anchor" href="#11-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -787,7 +786,7 @@ A: そうですか。
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="349">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="347">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>동사 그룹 분류는 처음에는 번거롭게 느껴질 수 있지만, 이후 배우는 <strong>て형·た형·가능형·조건형</strong> 이 모두 이 분류를 기반으로 하기 때문에 지금 확실히 익혀두는 것이 큰 자산이 됩니다.</p>
 <p>특히 <code>1그룹이지만 る로 끝나는 동사(かえる·わかる 등)</code> 와 <code>3그룹 する·くる</code> 는 반복해서 확인하는 것이 좋습니다.</p>
 <p>다음 강에서는 동사와 함께 쓰이는 핵심 조사 <strong>を·で·と·に</strong> 를 더 깊이 파고듭니다.</p>

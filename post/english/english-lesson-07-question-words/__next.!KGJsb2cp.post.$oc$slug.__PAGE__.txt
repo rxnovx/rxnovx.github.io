@@ -1,14 +1,17 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-8:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-a:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
-b:I[484,[],"OutletBoundary"]
-c:"$Sreact.suspense"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+c:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+e:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-07-question-words\"},\"headline\":\"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How\",\"description\":\"영어 6대 의문사의 모든 용법과 How 파생 표현, 간접의문문까지 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-01T14:54:00.000Z\",\"dateModified\":\"2026-05-01T14:54:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-07-question-words\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"question-words\",\"wh-questions\",\"how\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How","slugPath":"english/english-lesson-07-question-words","headings":[{"id":"영어-7강-의문사-완전-정복--what--who--where--when--why--how","text":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-의문사-의문문의-기본-어순","text":"1. 의문사 의문문의 기본 어순","level":2},{"id":"2-what--무엇","text":"2. What — 무엇","level":2},{"id":"기본-용법","text":"기본 용법","level":3},{"id":"what--명사--어떤-","text":"What + 명사 — \"어떤 ~\"","level":3},{"id":"what-자주-쓰이는-표현","text":"What 자주 쓰이는 표현","level":3},{"id":"3-who--누구","text":"3. Who — 누구","level":2},{"id":"주어로-쓰이는-who-주격","text":"주어로 쓰이는 Who (주격)","level":3},{"id":"목적어로-쓰이는-whowhom-목적격","text":"목적어로 쓰이는 Who/Whom (목적격)","level":3},{"id":"whose--누구의-소유격","text":"Whose — 누구의 (소유격)","level":3},{"id":"4-where--어디","text":"4. Where — 어디","level":2},{"id":"where-자주-쓰이는-표현","text":"Where 자주 쓰이는 표현","level":3},{"id":"5-when--언제","text":"5. When — 언제","level":2},{"id":"when-자주-쓰이는-표현","text":"When 자주 쓰이는 표현","level":3},{"id":"6-why--왜","text":"6. Why — 왜","level":2},{"id":"why의-대답--because--to--so-that","text":"Why의 대답 — Because / To / So that","level":3},{"id":"why-dont-you---why-not---제안-표현","text":"Why don't you ~ / Why not ~ — 제안 표현","level":3},{"id":"7-how--어떻게--어떤-상태","text":"7. How — 어떻게 / 어떤 상태","level":2},{"id":"기본-용법--방법상태","text":"기본 용법 — 방법·상태","level":3},{"id":"8-how-파생-표현-완전-정복","text":"8. How 파생 표현 완전 정복","level":2},{"id":"how-much--얼마나-많은-셀-수-없는-명사--가격","text":"How much — 얼마나 많은 (셀 수 없는 명사 / 가격)","level":3},{"id":"how-many--몇-개-셀-수-있는-명사","text":"How many — 몇 개 (셀 수 있는 명사)","level":3},{"id":"how-long--얼마나-긴-시간거리길이","text":"How long — 얼마나 긴 (시간·거리·길이)","level":3},{"id":"how-often--얼마나-자주","text":"How often — 얼마나 자주","level":3},{"id":"how-far--얼마나-먼","text":"How far — 얼마나 먼","level":3},{"id":"how-old--몇-살--얼마나-오래된","text":"How old — 몇 살 / 얼마나 오래된","level":3},{"id":"how-tall--how-big--how-deep-등","text":"How tall / How big / How deep 등","level":3},{"id":"how-come--왜-캐주얼-놀람의아함","text":"How come — 왜 (캐주얼, 놀람·의아함)","level":3},{"id":"how-파생-표현-총정리","text":"How 파생 표현 총정리","level":3},{"id":"9-which--어느-것-선택","text":"9. Which — 어느 것 (선택)","level":2},{"id":"what-vs-which","text":"What vs Which","level":3},{"id":"10-의문사-의문문-어순-완전-정리","text":"10. 의문사 의문문 어순 완전 정리","level":2},{"id":"11-간접의문문-indirect-questions","text":"11. 간접의문문 (Indirect Questions)","level":2},{"id":"구조","text":"구조","level":3},{"id":"간접의문문-시작-표현","text":"간접의문문 시작 표현","level":3},{"id":"직접의문문-vs-간접의문문-비교","text":"직접의문문 vs 간접의문문 비교","level":3},{"id":"12-실전-회화--의문사-총동원","text":"12. 실전 회화 — 의문사 총동원","level":2},{"id":"상황--새-동료와-대화","text":"상황 ① 새 동료와 대화","level":3},{"id":"상황--여행-정보-묻기","text":"상황 ② 여행 정보 묻기","level":3},{"id":"상황--레스토랑에서","text":"상황 ③ 레스토랑에서","level":3},{"id":"13-자주-틀리는-실수-정리","text":"13. 자주 틀리는 실수 정리","level":2},{"id":"실수--who가-주어일-때-do-사용","text":"실수 ① Who가 주어일 때 do 사용","level":3},{"id":"실수--간접의문문-어순-혼동","text":"실수 ② 간접의문문 어순 혼동","level":3},{"id":"실수--how-much-vs-how-many-혼동","text":"실수 ③ How much vs How many 혼동","level":3},{"id":"실수--what-vs-which-혼동","text":"실수 ④ What vs Which 혼동","level":3},{"id":"14-문형-정리","text":"14. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
-3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-07-question-words"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 6대 의문사의 모든 용법과 How 파생 표현, 간접의문문까지 교과서 수준으로 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T14:54:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T14:54:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","question-words",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","question-words"]}],["$","span","wh-questions",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","wh-questions"]}],["$","span","how",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","how"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]]}]
-9:Tb5d9,<h1 id="영어-7강-의문사-완전-정복--what--who--where--when--why--how" tabindex="-1" data-src-line="1">영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How <a class="header-anchor" href="#영어-7강-의문사-완전-정복--what--who--where--when--why--how" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-7강-의문사-완전-정복--what--who--where--when--why--how">영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-의문사-의문문의-기본-어순">1. 의문사 의문문의 기본 어순 </a></li><li><a href="#2-what--무엇">2. What — 무엇 </a><ul><li><a href="#기본-용법">기본 용법 </a></li><li><a href="#what--명사--어떤-">What + 명사 — “어떤 ~” </a></li><li><a href="#what-자주-쓰이는-표현">What 자주 쓰이는 표현 </a></li></ul></li><li><a href="#3-who--누구">3. Who — 누구 </a><ul><li><a href="#주어로-쓰이는-who-주격">주어로 쓰이는 Who (주격) </a></li><li><a href="#목적어로-쓰이는-whowhom-목적격">목적어로 쓰이는 Who/Whom (목적격) </a></li><li><a href="#whose--누구의-소유격">Whose — 누구의 (소유격) </a></li></ul></li><li><a href="#4-where--어디">4. Where — 어디 </a><ul><li><a href="#where-자주-쓰이는-표현">Where 자주 쓰이는 표현 </a></li></ul></li><li><a href="#5-when--언제">5. When — 언제 </a><ul><li><a href="#when-자주-쓰이는-표현">When 자주 쓰이는 표현 </a></li></ul></li><li><a href="#6-why--왜">6. Why — 왜 </a><ul><li><a href="#why의-대답--because--to--so-that">Why의 대답 — Because / To / So that </a></li><li><a href="#why-dont-you---why-not---제안-표현">Why don’t you ~ / Why not ~ — 제안 표현 </a></li></ul></li><li><a href="#7-how--어떻게--어떤-상태">7. How — 어떻게 / 어떤 상태 </a><ul><li><a href="#기본-용법--방법상태">기본 용법 — 방법·상태 </a></li></ul></li><li><a href="#8-how-파생-표현-완전-정복">8. How 파생 표현 완전 정복 </a><ul><li><a href="#how-much--얼마나-많은-셀-수-없는-명사--가격">How much — 얼마나 많은 (셀 수 없는 명사 / 가격) </a></li><li><a href="#how-many--몇-개-셀-수-있는-명사">How many — 몇 개 (셀 수 있는 명사) </a></li><li><a href="#how-long--얼마나-긴-시간거리길이">How long — 얼마나 긴 (시간·거리·길이) </a></li><li><a href="#how-often--얼마나-자주">How often — 얼마나 자주 </a></li><li><a href="#how-far--얼마나-먼">How far — 얼마나 먼 </a></li><li><a href="#how-old--몇-살--얼마나-오래된">How old — 몇 살 / 얼마나 오래된 </a></li><li><a href="#how-tall--how-big--how-deep-등">How tall / How big / How deep 등 </a></li><li><a href="#how-come--왜-캐주얼-놀람의아함">How come — 왜 (캐주얼, 놀람·의아함) </a></li><li><a href="#how-파생-표현-총정리">How 파생 표현 총정리 </a></li></ul></li><li><a href="#9-which--어느-것-선택">9. Which — 어느 것 (선택) </a><ul><li><a href="#what-vs-which">What vs Which </a></li></ul></li><li><a href="#10-의문사-의문문-어순-완전-정리">10. 의문사 의문문 어순 완전 정리 </a></li><li><a href="#11-간접의문문-indirect-questions">11. 간접의문문 (Indirect Questions) </a><ul><li><a href="#구조">구조 </a></li><li><a href="#간접의문문-시작-표현">간접의문문 시작 표현 </a></li><li><a href="#직접의문문-vs-간접의문문-비교">직접의문문 vs 간접의문문 비교 </a></li></ul></li><li><a href="#12-실전-회화--의문사-총동원">12. 실전 회화 — 의문사 총동원 </a><ul><li><a href="#상황--새-동료와-대화">상황 ① 새 동료와 대화 </a></li><li><a href="#상황--여행-정보-묻기">상황 ② 여행 정보 묻기 </a></li><li><a href="#상황--레스토랑에서">상황 ③ 레스토랑에서 </a></li></ul></li><li><a href="#13-자주-틀리는-실수-정리">13. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--who가-주어일-때-do-사용">실수 ① Who가 주어일 때 do 사용 </a></li><li><a href="#실수--간접의문문-어순-혼동">실수 ② 간접의문문 어순 혼동 </a></li><li><a href="#실수--how-much-vs-how-many-혼동">실수 ③ How much vs How many 혼동 </a></li><li><a href="#실수--what-vs-which-혼동">실수 ④ What vs Which 혼동 </a></li></ul></li><li><a href="#14-문형-정리">14. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-07-question-words\"},\"headline\":\"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How\",\"description\":\"영어 6대 의문사의 모든 용법과 How 파생 표현, 간접의문문까지 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-01T14:54:00.000Z\",\"dateModified\":\"2026-05-01T14:54:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-07-question-words\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"question-words\",\"wh-questions\",\"how\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How","slugPath":"english/english-lesson-07-question-words","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-의문사-의문문의-기본-어순","text":"1. 의문사 의문문의 기본 어순","level":2},{"id":"2-what--무엇","text":"2. What — 무엇","level":2},{"id":"기본-용법","text":"기본 용법","level":3},{"id":"what--명사--어떤-","text":"What + 명사 — \"어떤 ~\"","level":3},{"id":"what-자주-쓰이는-표현","text":"What 자주 쓰이는 표현","level":3},{"id":"3-who--누구","text":"3. Who — 누구","level":2},{"id":"주어로-쓰이는-who-주격","text":"주어로 쓰이는 Who (주격)","level":3},{"id":"목적어로-쓰이는-whowhom-목적격","text":"목적어로 쓰이는 Who/Whom (목적격)","level":3},{"id":"whose--누구의-소유격","text":"Whose — 누구의 (소유격)","level":3},{"id":"4-where--어디","text":"4. Where — 어디","level":2},{"id":"where-자주-쓰이는-표현","text":"Where 자주 쓰이는 표현","level":3},{"id":"5-when--언제","text":"5. When — 언제","level":2},{"id":"when-자주-쓰이는-표현","text":"When 자주 쓰이는 표현","level":3},{"id":"6-why--왜","text":"6. Why — 왜","level":2},{"id":"why의-대답--because--to--so-that","text":"Why의 대답 — Because / To / So that","level":3},{"id":"why-dont-you---why-not---제안-표현","text":"Why don't you ~ / Why not ~ — 제안 표현","level":3},{"id":"7-how--어떻게--어떤-상태","text":"7. How — 어떻게 / 어떤 상태","level":2},{"id":"기본-용법--방법상태","text":"기본 용법 — 방법·상태","level":3},{"id":"8-how-파생-표현-완전-정복","text":"8. How 파생 표현 완전 정복","level":2},{"id":"how-much--얼마나-많은-셀-수-없는-명사--가격","text":"How much — 얼마나 많은 (셀 수 없는 명사 / 가격)","level":3},{"id":"how-many--몇-개-셀-수-있는-명사","text":"How many — 몇 개 (셀 수 있는 명사)","level":3},{"id":"how-long--얼마나-긴-시간거리길이","text":"How long — 얼마나 긴 (시간·거리·길이)","level":3},{"id":"how-often--얼마나-자주","text":"How often — 얼마나 자주","level":3},{"id":"how-far--얼마나-먼","text":"How far — 얼마나 먼","level":3},{"id":"how-old--몇-살--얼마나-오래된","text":"How old — 몇 살 / 얼마나 오래된","level":3},{"id":"how-tall--how-big--how-deep-등","text":"How tall / How big / How deep 등","level":3},{"id":"how-come--왜-캐주얼-놀람의아함","text":"How come — 왜 (캐주얼, 놀람·의아함)","level":3},{"id":"how-파생-표현-총정리","text":"How 파생 표현 총정리","level":3},{"id":"9-which--어느-것-선택","text":"9. Which — 어느 것 (선택)","level":2},{"id":"what-vs-which","text":"What vs Which","level":3},{"id":"10-의문사-의문문-어순-완전-정리","text":"10. 의문사 의문문 어순 완전 정리","level":2},{"id":"11-간접의문문-indirect-questions","text":"11. 간접의문문 (Indirect Questions)","level":2},{"id":"구조","text":"구조","level":3},{"id":"간접의문문-시작-표현","text":"간접의문문 시작 표현","level":3},{"id":"직접의문문-vs-간접의문문-비교","text":"직접의문문 vs 간접의문문 비교","level":3},{"id":"12-실전-회화--의문사-총동원","text":"12. 실전 회화 — 의문사 총동원","level":2},{"id":"상황--새-동료와-대화","text":"상황 ① 새 동료와 대화","level":3},{"id":"상황--여행-정보-묻기","text":"상황 ② 여행 정보 묻기","level":3},{"id":"상황--레스토랑에서","text":"상황 ③ 레스토랑에서","level":3},{"id":"13-자주-틀리는-실수-정리","text":"13. 자주 틀리는 실수 정리","level":2},{"id":"실수--who가-주어일-때-do-사용","text":"실수 ① Who가 주어일 때 do 사용","level":3},{"id":"실수--간접의문문-어순-혼동","text":"실수 ② 간접의문문 어순 혼동","level":3},{"id":"실수--how-much-vs-how-many-혼동","text":"실수 ③ How much vs How many 혼동","level":3},{"id":"실수--what-vs-which-혼동","text":"실수 ④ What vs Which 혼동","level":3},{"id":"14-문형-정리","text":"14. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,"$L3","$L4","$L5","$L6","$L7"]}],"$L8","$L9"]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+3:["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-07-question-words"}]]}]
+4:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How"}]
+5:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 6대 의문사의 모든 용법과 How 파생 표현, 간접의문문까지 교과서 수준으로 완전히 정복합니다."}]
+6:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T14:54:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T14:54:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","question-words",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","question-words"]}],["$","span","wh-questions",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","wh-questions"]}],["$","span","how",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","how"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+7:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+d:Tb3d6,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-의문사-의문문의-기본-어순">1. 의문사 의문문의 기본 어순 </a></li><li><a href="#2-what--무엇">2. What — 무엇 </a><ul><li><a href="#기본-용법">기본 용법 </a></li><li><a href="#what--명사--어떤-">What + 명사 — “어떤 ~” </a></li><li><a href="#what-자주-쓰이는-표현">What 자주 쓰이는 표현 </a></li></ul></li><li><a href="#3-who--누구">3. Who — 누구 </a><ul><li><a href="#주어로-쓰이는-who-주격">주어로 쓰이는 Who (주격) </a></li><li><a href="#목적어로-쓰이는-whowhom-목적격">목적어로 쓰이는 Who/Whom (목적격) </a></li><li><a href="#whose--누구의-소유격">Whose — 누구의 (소유격) </a></li></ul></li><li><a href="#4-where--어디">4. Where — 어디 </a><ul><li><a href="#where-자주-쓰이는-표현">Where 자주 쓰이는 표현 </a></li></ul></li><li><a href="#5-when--언제">5. When — 언제 </a><ul><li><a href="#when-자주-쓰이는-표현">When 자주 쓰이는 표현 </a></li></ul></li><li><a href="#6-why--왜">6. Why — 왜 </a><ul><li><a href="#why의-대답--because--to--so-that">Why의 대답 — Because / To / So that </a></li><li><a href="#why-dont-you---why-not---제안-표현">Why don’t you ~ / Why not ~ — 제안 표현 </a></li></ul></li><li><a href="#7-how--어떻게--어떤-상태">7. How — 어떻게 / 어떤 상태 </a><ul><li><a href="#기본-용법--방법상태">기본 용법 — 방법·상태 </a></li></ul></li><li><a href="#8-how-파생-표현-완전-정복">8. How 파생 표현 완전 정복 </a><ul><li><a href="#how-much--얼마나-많은-셀-수-없는-명사--가격">How much — 얼마나 많은 (셀 수 없는 명사 / 가격) </a></li><li><a href="#how-many--몇-개-셀-수-있는-명사">How many — 몇 개 (셀 수 있는 명사) </a></li><li><a href="#how-long--얼마나-긴-시간거리길이">How long — 얼마나 긴 (시간·거리·길이) </a></li><li><a href="#how-often--얼마나-자주">How often — 얼마나 자주 </a></li><li><a href="#how-far--얼마나-먼">How far — 얼마나 먼 </a></li><li><a href="#how-old--몇-살--얼마나-오래된">How old — 몇 살 / 얼마나 오래된 </a></li><li><a href="#how-tall--how-big--how-deep-등">How tall / How big / How deep 등 </a></li><li><a href="#how-come--왜-캐주얼-놀람의아함">How come — 왜 (캐주얼, 놀람·의아함) </a></li><li><a href="#how-파생-표현-총정리">How 파생 표현 총정리 </a></li></ul></li><li><a href="#9-which--어느-것-선택">9. Which — 어느 것 (선택) </a><ul><li><a href="#what-vs-which">What vs Which </a></li></ul></li><li><a href="#10-의문사-의문문-어순-완전-정리">10. 의문사 의문문 어순 완전 정리 </a></li><li><a href="#11-간접의문문-indirect-questions">11. 간접의문문 (Indirect Questions) </a><ul><li><a href="#구조">구조 </a></li><li><a href="#간접의문문-시작-표현">간접의문문 시작 표현 </a></li><li><a href="#직접의문문-vs-간접의문문-비교">직접의문문 vs 간접의문문 비교 </a></li></ul></li><li><a href="#12-실전-회화--의문사-총동원">12. 실전 회화 — 의문사 총동원 </a><ul><li><a href="#상황--새-동료와-대화">상황 ① 새 동료와 대화 </a></li><li><a href="#상황--여행-정보-묻기">상황 ② 여행 정보 묻기 </a></li><li><a href="#상황--레스토랑에서">상황 ③ 레스토랑에서 </a></li></ul></li><li><a href="#13-자주-틀리는-실수-정리">13. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--who가-주어일-때-do-사용">실수 ① Who가 주어일 때 do 사용 </a></li><li><a href="#실수--간접의문문-어순-혼동">실수 ② 간접의문문 어순 혼동 </a></li><li><a href="#실수--how-much-vs-how-many-혼동">실수 ③ How much vs How many 혼동 </a></li><li><a href="#실수--what-vs-which-혼동">실수 ④ What vs Which 혼동 </a></li></ul></li><li><a href="#14-문형-정리">14. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>4강에서 Yes/No 의문문을 배웠다면, 이번 강에서는 <strong>구체적인 정보를 묻는 의문사 의문문</strong>을 완전히 정복합니다.</p>
 <p>“무엇을 먹을까요?”, “어디서 왔나요?”, “왜 늦었나요?” —<br>
 이 모든 질문이 의문사를 사용합니다. 의문사를 자유롭게 쓸 수 있게 되면 영어 대화의 폭이 크게 넓어집니다.</p>
@@ -23,7 +26,7 @@ c:"$Sreact.suspense"
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-의문사-의문문의-기본-어순" tabindex="-1" data-src-line="21">1. 의문사 의문문의 기본 어순 <a class="header-anchor" href="#1-의문사-의문문의-기본-어순" aria-hidden="true">#</a></h2>
+<h2 id="1-의문사-의문문의-기본-어순" tabindex="-1" data-src-line="19">1. 의문사 의문문의 기본 어순 <a class="header-anchor" href="#1-의문사-의문문의-기본-어순" aria-hidden="true">#</a></h2>
 <p>의문사가 있는 의문문은 아래 구조를 따릅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[의문사] + [조동사/Be동사] + [주어] + [동사원형/나머지]?
 </code></pre></div></code></pre>
@@ -69,8 +72,8 @@ c:"$Sreact.suspense"
 </tbody>
 </table>
 </div><hr>
-<h2 id="2-what--무엇" tabindex="-1" data-src-line="40">2. What — 무엇 <a class="header-anchor" href="#2-what--무엇" aria-hidden="true">#</a></h2>
-<h3 id="기본-용법" tabindex="-1" data-src-line="42">기본 용법 <a class="header-anchor" href="#기본-용법" aria-hidden="true">#</a></h3>
+<h2 id="2-what--무엇" tabindex="-1" data-src-line="38">2. What — 무엇 <a class="header-anchor" href="#2-what--무엇" aria-hidden="true">#</a></h2>
+<h3 id="기본-용법" tabindex="-1" data-src-line="40">기본 용법 <a class="header-anchor" href="#기본-용법" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What + do/does/did + 주어 + 동사원형?
 What + Be동사 + 주어?
 </code></pre></div></code></pre>
@@ -86,7 +89,7 @@ What is your name?
 What was the problem?
 문제가 무엇이었나요?
 </code></pre></div></code></pre>
-<h3 id="what--명사--어떤-" tabindex="-1" data-src-line="63">What + 명사 — “어떤 ~” <a class="header-anchor" href="#what--명사--어떤-" aria-hidden="true">#</a></h3>
+<h3 id="what--명사--어떤-" tabindex="-1" data-src-line="61">What + 명사 — “어떤 ~” <a class="header-anchor" href="#what--명사--어떤-" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What time is it?
 지금 몇 시예요?
 
@@ -102,7 +105,7 @@ What color is your car?
 What language do they speak?
 그들은 무슨 언어를 사용하나요?
 </code></pre></div></code></pre>
-<h3 id="what-자주-쓰이는-표현" tabindex="-1" data-src-line="82">What 자주 쓰이는 표현 <a class="header-anchor" href="#what-자주-쓰이는-표현" aria-hidden="true">#</a></h3>
+<h3 id="what-자주-쓰이는-표현" tabindex="-1" data-src-line="80">What 자주 쓰이는 표현 <a class="header-anchor" href="#what-자주-쓰이는-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What do you do (for a living)?
 직업이 뭐예요?
 
@@ -125,8 +128,8 @@ What are you up to?
 요즘 뭐 해요? (캐주얼 안부)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-who--누구" tabindex="-1" data-src-line="109">3. Who — 누구 <a class="header-anchor" href="#3-who--누구" aria-hidden="true">#</a></h2>
-<h3 id="주어로-쓰이는-who-주격" tabindex="-1" data-src-line="111">주어로 쓰이는 Who (주격) <a class="header-anchor" href="#주어로-쓰이는-who-주격" aria-hidden="true">#</a></h3>
+<h2 id="3-who--누구" tabindex="-1" data-src-line="107">3. Who — 누구 <a class="header-anchor" href="#3-who--누구" aria-hidden="true">#</a></h2>
+<h3 id="주어로-쓰이는-who-주격" tabindex="-1" data-src-line="109">주어로 쓰이는 Who (주격) <a class="header-anchor" href="#주어로-쓰이는-who-주격" aria-hidden="true">#</a></h3>
 <p><code>Who</code>가 주어 역할을 할 때는 <strong>do/does를 쓰지 않습니다.</strong></p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Who + 동사?
 
@@ -142,7 +145,7 @@ Who broke the window?
 Who is responsible for this?
 누가 이것에 대한 책임이 있나요?
 </code></pre></div></code></pre>
-<h3 id="목적어로-쓰이는-whowhom-목적격" tabindex="-1" data-src-line="131">목적어로 쓰이는 Who/Whom (목적격) <a class="header-anchor" href="#목적어로-쓰이는-whowhom-목적격" aria-hidden="true">#</a></h3>
+<h3 id="목적어로-쓰이는-whowhom-목적격" tabindex="-1" data-src-line="129">목적어로 쓰이는 Who/Whom (목적격) <a class="header-anchor" href="#목적어로-쓰이는-whowhom-목적격" aria-hidden="true">#</a></h3>
 <p><code>Who</code>가 목적어 역할을 할 때는 일반 의문문 어순을 따릅니다.<br>
 격식체에서는 <code>Whom</code>을 쓰지만 현대 회화에서는 <code>Who</code>가 일반적입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Who do you want to meet?
@@ -158,7 +161,7 @@ Whom did you invite? (격식체)
 = Who did you invite? (일반 회화)
 누구를 초대했나요?
 </code></pre></div></code></pre>
-<h3 id="whose--누구의-소유격" tabindex="-1" data-src-line="151">Whose — 누구의 (소유격) <a class="header-anchor" href="#whose--누구의-소유격" aria-hidden="true">#</a></h3>
+<h3 id="whose--누구의-소유격" tabindex="-1" data-src-line="149">Whose — 누구의 (소유격) <a class="header-anchor" href="#whose--누구의-소유격" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Whose + 명사 + Be동사/do?
 
 Whose bag is this?
@@ -171,7 +174,7 @@ Whose idea was that?
 그건 누구의 아이디어였나요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="4-where--어디" tabindex="-1" data-src-line="168">4. Where — 어디 <a class="header-anchor" href="#4-where--어디" aria-hidden="true">#</a></h2>
+<h2 id="4-where--어디" tabindex="-1" data-src-line="166">4. Where — 어디 <a class="header-anchor" href="#4-where--어디" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Where + Be동사 + 주어?
 Where + do/does/did + 주어 + 동사원형?
 </code></pre></div></code></pre>
@@ -190,7 +193,7 @@ Where did you go last weekend?
 Where does she work?
 그녀는 어디서 일하나요?
 </code></pre></div></code></pre>
-<h3 id="where-자주-쓰이는-표현" tabindex="-1" data-src-line="192">Where 자주 쓰이는 표현 <a class="header-anchor" href="#where-자주-쓰이는-표현" aria-hidden="true">#</a></h3>
+<h3 id="where-자주-쓰이는-표현" tabindex="-1" data-src-line="190">Where 자주 쓰이는 표현 <a class="header-anchor" href="#where-자주-쓰이는-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Where are you going?
 어디 가요?
 
@@ -207,7 +210,7 @@ Where did you get that?
 그거 어디서 났어요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-when--언제" tabindex="-1" data-src-line="213">5. When — 언제 <a class="header-anchor" href="#5-when--언제" aria-hidden="true">#</a></h2>
+<h2 id="5-when--언제" tabindex="-1" data-src-line="211">5. When — 언제 <a class="header-anchor" href="#5-when--언제" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">When + Be동사 + 주어?
 When + do/does/did + 주어 + 동사원형?
 </code></pre></div></code></pre>
@@ -226,7 +229,7 @@ When will the package be delivered?
 When are you free?
 언제 시간 있어요?
 </code></pre></div></code></pre>
-<h3 id="when-자주-쓰이는-표현" tabindex="-1" data-src-line="237">When 자주 쓰이는 표현 <a class="header-anchor" href="#when-자주-쓰이는-표현" aria-hidden="true">#</a></h3>
+<h3 id="when-자주-쓰이는-표현" tabindex="-1" data-src-line="235">When 자주 쓰이는 표현 <a class="header-anchor" href="#when-자주-쓰이는-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">When is a good time for you?
 언제가 좋으세요?
 
@@ -243,7 +246,7 @@ Until when?
 언제까지요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-why--왜" tabindex="-1" data-src-line="258">6. Why — 왜 <a class="header-anchor" href="#6-why--왜" aria-hidden="true">#</a></h2>
+<h2 id="6-why--왜" tabindex="-1" data-src-line="256">6. Why — 왜 <a class="header-anchor" href="#6-why--왜" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Why + Be동사 + 주어?
 Why + do/does/did + 주어 + 동사원형?
 </code></pre></div></code></pre>
@@ -259,7 +262,7 @@ Why did she leave early?
 Why is this so expensive?
 이게 왜 이렇게 비싸요?
 </code></pre></div></code></pre>
-<h3 id="why의-대답--because--to--so-that" tabindex="-1" data-src-line="279">Why의 대답 — Because / To / So that <a class="header-anchor" href="#why의-대답--because--to--so-that" aria-hidden="true">#</a></h3>
+<h3 id="why의-대답--because--to--so-that" tabindex="-1" data-src-line="277">Why의 대답 — Because / To / So that <a class="header-anchor" href="#why의-대답--because--to--so-that" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Why do you study English?
 왜 영어를 공부하나요?
 
@@ -272,7 +275,7 @@ To get a better job.
 So that I can communicate with more people.
 더 많은 사람들과 소통할 수 있도록요. (목적 — So that)
 </code></pre></div></code></pre>
-<h3 id="why-dont-you---why-not---제안-표현" tabindex="-1" data-src-line="295">Why don’t you ~ / Why not ~ — 제안 표현 <a class="header-anchor" href="#why-dont-you---why-not---제안-표현" aria-hidden="true">#</a></h3>
+<h3 id="why-dont-you---why-not---제안-표현" tabindex="-1" data-src-line="293">Why don’t you ~ / Why not ~ — 제안 표현 <a class="header-anchor" href="#why-dont-you---why-not---제안-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Why don&#039;t you take a break?
 좀 쉬는 게 어때요?
 
@@ -283,9 +286,9 @@ Why not try it?
 한번 해보는 게 어때요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-how--어떻게--어떤-상태" tabindex="-1" data-src-line="310">7. How — 어떻게 / 어떤 상태 <a class="header-anchor" href="#7-how--어떻게--어떤-상태" aria-hidden="true">#</a></h2>
+<h2 id="7-how--어떻게--어떤-상태" tabindex="-1" data-src-line="308">7. How — 어떻게 / 어떤 상태 <a class="header-anchor" href="#7-how--어떻게--어떤-상태" aria-hidden="true">#</a></h2>
 <p><code>How</code>는 영어에서 가장 다양하게 활용되는 의문사입니다.</p>
-<h3 id="기본-용법--방법상태" tabindex="-1" data-src-line="314">기본 용법 — 방법·상태 <a class="header-anchor" href="#기본-용법--방법상태" aria-hidden="true">#</a></h3>
+<h3 id="기본-용법--방법상태" tabindex="-1" data-src-line="312">기본 용법 — 방법·상태 <a class="header-anchor" href="#기본-용법--방법상태" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How + Be동사 + 주어?
 How + do/does/did + 주어 + 동사원형?
 </code></pre></div></code></pre>
@@ -305,9 +308,9 @@ How did you know?
 어떻게 알았어요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-how-파생-표현-완전-정복" tabindex="-1" data-src-line="340">8. How 파생 표현 완전 정복 <a class="header-anchor" href="#8-how-파생-표현-완전-정복" aria-hidden="true">#</a></h2>
+<h2 id="8-how-파생-표현-완전-정복" tabindex="-1" data-src-line="338">8. How 파생 표현 완전 정복 <a class="header-anchor" href="#8-how-파생-표현-완전-정복" aria-hidden="true">#</a></h2>
 <p><code>How</code>는 다양한 단어와 결합해 구체적인 정보를 묻습니다.</p>
-<h3 id="how-much--얼마나-많은-셀-수-없는-명사--가격" tabindex="-1" data-src-line="344">How much — 얼마나 많은 (셀 수 없는 명사 / 가격) <a class="header-anchor" href="#how-much--얼마나-많은-셀-수-없는-명사--가격" aria-hidden="true">#</a></h3>
+<h3 id="how-much--얼마나-많은-셀-수-없는-명사--가격" tabindex="-1" data-src-line="342">How much — 얼마나 많은 (셀 수 없는 명사 / 가격) <a class="header-anchor" href="#how-much--얼마나-많은-셀-수-없는-명사--가격" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How much does it cost?
 얼마예요?
 
@@ -320,7 +323,7 @@ How much time do we have?
 How much is the rent?
 월세가 얼마예요?
 </code></pre></div></code></pre>
-<h3 id="how-many--몇-개-셀-수-있는-명사" tabindex="-1" data-src-line="360">How many — 몇 개 (셀 수 있는 명사) <a class="header-anchor" href="#how-many--몇-개-셀-수-있는-명사" aria-hidden="true">#</a></h3>
+<h3 id="how-many--몇-개-셀-수-있는-명사" tabindex="-1" data-src-line="358">How many — 몇 개 (셀 수 있는 명사) <a class="header-anchor" href="#how-many--몇-개-셀-수-있는-명사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How many people are coming?
 몇 명이 오나요?
 
@@ -333,7 +336,7 @@ How many languages do you speak?
 How many cups of coffee do you drink a day?
 하루에 커피를 몇 잔 마셔요?
 </code></pre></div></code></pre>
-<h3 id="how-long--얼마나-긴-시간거리길이" tabindex="-1" data-src-line="376">How long — 얼마나 긴 (시간·거리·길이) <a class="header-anchor" href="#how-long--얼마나-긴-시간거리길이" aria-hidden="true">#</a></h3>
+<h3 id="how-long--얼마나-긴-시간거리길이" tabindex="-1" data-src-line="374">How long — 얼마나 긴 (시간·거리·길이) <a class="header-anchor" href="#how-long--얼마나-긴-시간거리길이" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How long does it take?
 얼마나 걸려요?
 
@@ -346,7 +349,7 @@ How long is the flight?
 How long is the waiting list?
 대기 줄이 얼마나 길어요?
 </code></pre></div></code></pre>
-<h3 id="how-often--얼마나-자주" tabindex="-1" data-src-line="392">How often — 얼마나 자주 <a class="header-anchor" href="#how-often--얼마나-자주" aria-hidden="true">#</a></h3>
+<h3 id="how-often--얼마나-자주" tabindex="-1" data-src-line="390">How often — 얼마나 자주 <a class="header-anchor" href="#how-often--얼마나-자주" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How often do you exercise?
 얼마나 자주 운동하세요?
 
@@ -356,7 +359,7 @@ How often does the bus come?
 How often do you eat out?
 외식을 얼마나 자주 하세요?
 </code></pre></div></code></pre>
-<h3 id="how-far--얼마나-먼" tabindex="-1" data-src-line="405">How far — 얼마나 먼 <a class="header-anchor" href="#how-far--얼마나-먼" aria-hidden="true">#</a></h3>
+<h3 id="how-far--얼마나-먼" tabindex="-1" data-src-line="403">How far — 얼마나 먼 <a class="header-anchor" href="#how-far--얼마나-먼" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How far is it from here?
 여기서 얼마나 멀어요?
 
@@ -366,7 +369,7 @@ How far is Seoul from Busan?
 How far can you run?
 얼마나 멀리 달릴 수 있어요?
 </code></pre></div></code></pre>
-<h3 id="how-old--몇-살--얼마나-오래된" tabindex="-1" data-src-line="418">How old — 몇 살 / 얼마나 오래된 <a class="header-anchor" href="#how-old--몇-살--얼마나-오래된" aria-hidden="true">#</a></h3>
+<h3 id="how-old--몇-살--얼마나-오래된" tabindex="-1" data-src-line="416">How old — 몇 살 / 얼마나 오래된 <a class="header-anchor" href="#how-old--몇-살--얼마나-오래된" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How old are you?
 몇 살이에요?
 
@@ -376,7 +379,7 @@ How old is this building?
 How old is your car?
 차가 몇 년이나 됐어요?
 </code></pre></div></code></pre>
-<h3 id="how-tall--how-big--how-deep-등" tabindex="-1" data-src-line="431">How tall / How big / How deep 등 <a class="header-anchor" href="#how-tall--how-big--how-deep-등" aria-hidden="true">#</a></h3>
+<h3 id="how-tall--how-big--how-deep-등" tabindex="-1" data-src-line="429">How tall / How big / How deep 등 <a class="header-anchor" href="#how-tall--how-big--how-deep-등" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How tall are you?
 키가 얼마나 돼요?
 
@@ -389,7 +392,7 @@ How deep is the lake?
 How wide is the road?
 도로가 얼마나 넓어요?
 </code></pre></div></code></pre>
-<h3 id="how-come--왜-캐주얼-놀람의아함" tabindex="-1" data-src-line="447">How come — 왜 (캐주얼, 놀람·의아함) <a class="header-anchor" href="#how-come--왜-캐주얼-놀람의아함" aria-hidden="true">#</a></h3>
+<h3 id="how-come--왜-캐주얼-놀람의아함" tabindex="-1" data-src-line="445">How come — 왜 (캐주얼, 놀람·의아함) <a class="header-anchor" href="#how-come--왜-캐주얼-놀람의아함" aria-hidden="true">#</a></h3>
 <p><code>How come</code>은 <code>Why</code>와 비슷하지만 더 캐주얼하고 약간 놀란 뉘앙스가 있습니다.<br>
 <code>How come</code>은 뒤에 <strong>일반 문장 어순</strong>이 옵니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How come you&#039;re so late?
@@ -403,7 +406,7 @@ How come she didn&#039;t come?
 How come it&#039;s so quiet here?
 여기 왜 이렇게 조용해요?
 </code></pre></div></code></pre>
-<h3 id="how-파생-표현-총정리" tabindex="-1" data-src-line="465">How 파생 표현 총정리 <a class="header-anchor" href="#how-파생-표현-총정리" aria-hidden="true">#</a></h3>
+<h3 id="how-파생-표현-총정리" tabindex="-1" data-src-line="463">How 파생 표현 총정리 <a class="header-anchor" href="#how-파생-표현-총정리" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -466,7 +469,7 @@ How come it&#039;s so quiet here?
 </tbody>
 </table>
 </div><hr>
-<h2 id="9-which--어느-것-선택" tabindex="-1" data-src-line="482">9. Which — 어느 것 (선택) <a class="header-anchor" href="#9-which--어느-것-선택" aria-hidden="true">#</a></h2>
+<h2 id="9-which--어느-것-선택" tabindex="-1" data-src-line="480">9. Which — 어느 것 (선택) <a class="header-anchor" href="#9-which--어느-것-선택" aria-hidden="true">#</a></h2>
 <p><code>Which</code>는 <strong>정해진 범위 안에서</strong> 선택을 물을 때 사용합니다.<br>
 <code>What</code>보다 범위가 좁고 선택지가 있는 상황에서 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Which + 명사 + do/Be + 주어?
@@ -484,7 +487,7 @@ Which one is yours?
 Which day works best for you?
 어떤 요일이 가장 좋으세요?
 </code></pre></div></code></pre>
-<h3 id="what-vs-which" tabindex="-1" data-src-line="506">What vs Which <a class="header-anchor" href="#what-vs-which" aria-hidden="true">#</a></h3>
+<h3 id="what-vs-which" tabindex="-1" data-src-line="504">What vs Which <a class="header-anchor" href="#what-vs-which" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -507,7 +510,7 @@ Which day works best for you?
 </tbody>
 </table>
 </div><hr>
-<h2 id="10-의문사-의문문-어순-완전-정리" tabindex="-1" data-src-line="515">10. 의문사 의문문 어순 완전 정리 <a class="header-anchor" href="#10-의문사-의문문-어순-완전-정리" aria-hidden="true">#</a></h2>
+<h2 id="10-의문사-의문문-어순-완전-정리" tabindex="-1" data-src-line="513">10. 의문사 의문문 어순 완전 정리 <a class="header-anchor" href="#10-의문사-의문문-어순-완전-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -545,17 +548,17 @@ Which day works best for you?
 </tbody>
 </table>
 </div><hr>
-<h2 id="11-간접의문문-indirect-questions" tabindex="-1" data-src-line="527">11. 간접의문문 (Indirect Questions) <a class="header-anchor" href="#11-간접의문문-indirect-questions" aria-hidden="true">#</a></h2>
+<h2 id="11-간접의문문-indirect-questions" tabindex="-1" data-src-line="525">11. 간접의문문 (Indirect Questions) <a class="header-anchor" href="#11-간접의문문-indirect-questions" aria-hidden="true">#</a></h2>
 <p>직접적으로 묻지 않고 <strong>문장 안에 의문문을 넣는</strong> 형태입니다.<br>
 더 정중하고 부드러운 표현이 됩니다.</p>
-<h3 id="구조" tabindex="-1" data-src-line="532">구조 <a class="header-anchor" href="#구조" aria-hidden="true">#</a></h3>
+<h3 id="구조" tabindex="-1" data-src-line="530">구조 <a class="header-anchor" href="#구조" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">직접의문문: Where is the station?
 간접의문문: Could you tell me where the station is?
 
 ⚠️ 간접의문문에서는 어순이 바뀝니다!
 의문사 + 주어 + 동사 (일반 문장 어순)
 </code></pre></div></code></pre>
-<h3 id="간접의문문-시작-표현" tabindex="-1" data-src-line="542">간접의문문 시작 표현 <a class="header-anchor" href="#간접의문문-시작-표현" aria-hidden="true">#</a></h3>
+<h3 id="간접의문문-시작-표현" tabindex="-1" data-src-line="540">간접의문문 시작 표현 <a class="header-anchor" href="#간접의문문-시작-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Could you tell me ~?
 ~을 말씀해 주시겠어요?
 
@@ -574,7 +577,7 @@ I&#039;d like to know ~
 I&#039;m not sure ~
 ~인지 잘 모르겠어요.
 </code></pre></div></code></pre>
-<h3 id="직접의문문-vs-간접의문문-비교" tabindex="-1" data-src-line="564">직접의문문 vs 간접의문문 비교 <a class="header-anchor" href="#직접의문문-vs-간접의문문-비교" aria-hidden="true">#</a></h3>
+<h3 id="직접의문문-vs-간접의문문-비교" tabindex="-1" data-src-line="562">직접의문문 vs 간접의문문 비교 <a class="header-anchor" href="#직접의문문-vs-간접의문문-비교" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【직접의문문】
 Where is the bathroom?
 화장실이 어디예요?
@@ -613,8 +616,8 @@ I&#039;d like to know how much it costs.
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="12-실전-회화--의문사-총동원" tabindex="-1" data-src-line="607">12. 실전 회화 — 의문사 총동원 <a class="header-anchor" href="#12-실전-회화--의문사-총동원" aria-hidden="true">#</a></h2>
-<h3 id="상황--새-동료와-대화" tabindex="-1" data-src-line="609">상황 ① 새 동료와 대화 <a class="header-anchor" href="#상황--새-동료와-대화" aria-hidden="true">#</a></h3>
+<h2 id="12-실전-회화--의문사-총동원" tabindex="-1" data-src-line="605">12. 실전 회화 — 의문사 총동원 <a class="header-anchor" href="#12-실전-회화--의문사-총동원" aria-hidden="true">#</a></h2>
+<h3 id="상황--새-동료와-대화" tabindex="-1" data-src-line="607">상황 ① 새 동료와 대화 <a class="header-anchor" href="#상황--새-동료와-대화" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: So, where are you from originally?
    원래 어디 출신이에요?
 
@@ -650,7 +653,7 @@ A: Because my family is here. And honestly,
    가족이 여기 있으니까요. 그리고 솔직히,
    어딜 가겠어요? 서울에는 모든 게 있잖아요!
 </code></pre></div></code></pre>
-<h3 id="상황--여행-정보-묻기" tabindex="-1" data-src-line="648">상황 ② 여행 정보 묻기 <a class="header-anchor" href="#상황--여행-정보-묻기" aria-hidden="true">#</a></h3>
+<h3 id="상황--여행-정보-묻기" tabindex="-1" data-src-line="646">상황 ② 여행 정보 묻기 <a class="header-anchor" href="#상황--여행-정보-묻기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Excuse me. Could you tell me where
    the nearest subway station is?
    실례합니다. 가장 가까운 지하철역이
@@ -689,7 +692,7 @@ B: It depends on how far you go, but it should
    얼마나 멀리 가느냐에 따라 다르지만,
    약 1,400원 정도일 거예요.
 </code></pre></div></code></pre>
-<h3 id="상황--레스토랑에서" tabindex="-1" data-src-line="690">상황 ③ 레스토랑에서 <a class="header-anchor" href="#상황--레스토랑에서" aria-hidden="true">#</a></h3>
+<h3 id="상황--레스토랑에서" tabindex="-1" data-src-line="688">상황 ③ 레스토랑에서 <a class="header-anchor" href="#상황--레스토랑에서" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Staff: Good evening! How many people is it for?
        안녕하세요! 몇 분이세요?
 
@@ -726,13 +729,13 @@ Staff: About 15 minutes.
        약 15분이요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="13-자주-틀리는-실수-정리" tabindex="-1" data-src-line="731">13. 자주 틀리는 실수 정리 <a class="header-anchor" href="#13-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
-<h3 id="실수--who가-주어일-때-do-사용" tabindex="-1" data-src-line="733">실수 ① Who가 주어일 때 do 사용 <a class="header-anchor" href="#실수--who가-주어일-때-do-사용" aria-hidden="true">#</a></h3>
+<h2 id="13-자주-틀리는-실수-정리" tabindex="-1" data-src-line="729">13. 자주 틀리는 실수 정리 <a class="header-anchor" href="#13-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--who가-주어일-때-do-사용" tabindex="-1" data-src-line="731">실수 ① Who가 주어일 때 do 사용 <a class="header-anchor" href="#실수--who가-주어일-때-do-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Who does know the answer?
 ✅ Who knows the answer?
 → Who가 주어 역할 → do/does 불필요
 </code></pre></div></code></pre>
-<h3 id="실수--간접의문문-어순-혼동" tabindex="-1" data-src-line="741">실수 ② 간접의문문 어순 혼동 <a class="header-anchor" href="#실수--간접의문문-어순-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--간접의문문-어순-혼동" tabindex="-1" data-src-line="739">실수 ② 간접의문문 어순 혼동 <a class="header-anchor" href="#실수--간접의문문-어순-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Could you tell me where is she?
 ✅ Could you tell me where she is?
 → 간접의문문은 일반 문장 어순(주어+동사)
@@ -741,7 +744,7 @@ Staff: About 15 minutes.
 ✅ Do you know what he does?
 → does 제거, 3인칭 단수 -s 복구
 </code></pre></div></code></pre>
-<h3 id="실수--how-much-vs-how-many-혼동" tabindex="-1" data-src-line="753">실수 ③ How much vs How many 혼동 <a class="header-anchor" href="#실수--how-much-vs-how-many-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--how-much-vs-how-many-혼동" tabindex="-1" data-src-line="751">실수 ③ How much vs How many 혼동 <a class="header-anchor" href="#실수--how-much-vs-how-many-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ How many water do you drink?
 ✅ How much water do you drink?
 → water는 셀 수 없는 명사 → How much
@@ -750,14 +753,14 @@ Staff: About 15 minutes.
 ✅ How many people came?
 → people은 셀 수 있는 명사 → How many
 </code></pre></div></code></pre>
-<h3 id="실수--what-vs-which-혼동" tabindex="-1" data-src-line="765">실수 ④ What vs Which 혼동 <a class="header-anchor" href="#실수--what-vs-which-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--what-vs-which-혼동" tabindex="-1" data-src-line="763">실수 ④ What vs Which 혼동 <a class="header-anchor" href="#실수--what-vs-which-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">선택지가 정해져 있을 때:
 ❌ What do you prefer, this or that?
 ✅ Which do you prefer, this or that?
 → 정해진 두 가지 중 선택 → Which
 </code></pre></div></code></pre>
 <hr>
-<h2 id="14-문형-정리" tabindex="-1" data-src-line="776">14. 문형 정리 <a class="header-anchor" href="#14-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="14-문형-정리" tabindex="-1" data-src-line="774">14. 문형 정리 <a class="header-anchor" href="#14-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -855,7 +858,7 @@ Staff: About 15 minutes.
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="800">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="798">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>의문사는 <strong>“무엇을 묻는지”</strong> 에 따라 자동으로 선택됩니다.<br>
 핵심 원칙 세 가지를 기억하세요.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① Who가 주어일 때 → do/does 없이 바로 동사
@@ -902,8 +905,8 @@ Staff: About 15 minutes.
 <li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
 </ul>
 </blockquote>
-4:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L8",null,{"content":"$9"}]}]}]
-5:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$La",null,{"href":"/post/japanese/japanese-lesson-12-te-iru","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$La",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$La",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$La",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$La",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}]]}]]}]]}]
-6:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
-7:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
-d:null
+8:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lc",null,{"content":"$d"}]}]}]
+9:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Le",null,{"href":"/post/japanese/japanese-lesson-12-te-iru","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Le",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}]]}]]}]]}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+b:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

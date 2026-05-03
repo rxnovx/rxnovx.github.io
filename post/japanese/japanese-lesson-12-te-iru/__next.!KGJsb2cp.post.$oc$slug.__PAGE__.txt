@@ -1,15 +1,19 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
-c:I[484,[],"OutletBoundary"]
-d:"$Sreact.suspense"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-12-te-iru\"},\"headline\":\"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현\",\"description\":\"て형의 첫 번째 응용, ~ている의 세 가지 용법(진행·상태·습관)을 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-01T12:57:00.000Z\",\"dateModified\":\"2026-05-01T12:57:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-12-te-iru\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"te-iru\",\"progressive\",\"state\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현","slugPath":"japanese/japanese-lesson-12-te-iru","headings":[{"id":"일본어-12강--완전-정복--진행--상태--습관-표현","text":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-의-기본-구조","text":"1. ~ている의 기본 구조","level":2},{"id":"2-용법---진행-동작이-지금-진행-중","text":"2. 용법 ① : 진행 (동작이 지금 진행 중)","level":2},{"id":"진행-표현에-자주-쓰이는-동사","text":"진행 표현에 자주 쓰이는 동사","level":3},{"id":"3-용법---상태-변화-후의-결과가-지속","text":"3. 용법 ② : 상태 (변화 후의 결과가 지속)","level":2},{"id":"대표적인-상태-표현","text":"대표적인 상태 표현","level":3},{"id":"예문","text":"예문","level":3},{"id":"4-용법---습관반복-동작","text":"4. 용법 ③ : 습관·반복 동작","level":2},{"id":"5-세-가지-용법-비교","text":"5. 세 가지 용법 비교","level":2},{"id":"6-의-부정형","text":"6. ~ている의 부정형","level":2},{"id":"7-의-과거형","text":"7. ~ている의 과거형","level":2},{"id":"8-축약형---","text":"8. 축약형 ~てる / ~でる","level":2},{"id":"9-외모상황-묘사에-활용","text":"9. 외모·상황 묘사에 활용","level":2},{"id":"복장-묘사","text":"복장 묘사","level":3},{"id":"직업소속-묘사","text":"직업·소속 묘사","level":3},{"id":"10--vs-형-비교","text":"10. ~ている vs ます형 비교","level":2},{"id":"11-실전-회화--근황-묻기","text":"11. 실전 회화 — 근황 묻기","level":2},{"id":"12-문형-정리","text":"12. 문형 정리","level":2},{"id":"section","text":"マとめ","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-12-te-iru"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"て형의 첫 번째 응용, ~ている의 세 가지 용법(진행·상태·습관)을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T12:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T12:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],"$L3"]}],"$L4"]}],"$L5","$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
-3:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","te-iru",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","te-iru"]}],["$","span","progressive",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","progressive"]}],["$","span","state",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","state"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
-4:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" tabindex="-1" data-src-line="1">일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현 <a class="header-anchor" href="#일본어-12강--완전-정복--진행--상태--습관-표현" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-12강--완전-정복--진행--상태--습관-표현">일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-의-기본-구조">1. ~ている의 기본 구조 </a></li><li><a href="#2-용법---진행-동작이-지금-진행-중">2. 용법 ① : 진행 (동작이 지금 진행 중) </a><ul><li><a href="#진행-표현에-자주-쓰이는-동사">진행 표현에 자주 쓰이는 동사 </a></li></ul></li><li><a href="#3-용법---상태-변화-후의-결과가-지속">3. 용법 ② : 상태 (변화 후의 결과가 지속) </a><ul><li><a href="#대표적인-상태-표현">대표적인 상태 표현 </a></li><li><a href="#예문">예문 </a></li></ul></li><li><a href="#4-용법---습관반복-동작">4. 용법 ③ : 습관·반복 동작 </a></li><li><a href="#5-세-가지-용법-비교">5. 세 가지 용법 비교 </a></li><li><a href="#6-의-부정형">6. ~ている의 부정형 </a></li><li><a href="#7-의-과거형">7. ~ている의 과거형 </a></li><li><a href="#8-축약형---">8. 축약형 ~てる / ~でる </a></li><li><a href="#9-외모상황-묘사에-활용">9. 외모·상황 묘사에 활용 </a><ul><li><a href="#복장-묘사">복장 묘사 </a></li><li><a href="#직업소속-묘사">직업·소속 묘사 </a></li></ul></li><li><a href="#10--vs-형-비교">10. ~ている vs ます형 비교 </a></li><li><a href="#11-실전-회화--근황-묻기">11. 실전 회화 — 근황 묻기 </a></li><li><a href="#12-문형-정리">12. 문형 정리 </a></li><li><a href="#">マとめ </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-12-te-iru\"},\"headline\":\"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현\",\"description\":\"て형의 첫 번째 응용, ~ている의 세 가지 용법(진행·상태·습관)을 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-01T12:57:00.000Z\",\"dateModified\":\"2026-05-01T12:57:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-12-te-iru\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"te-iru\",\"progressive\",\"state\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현","slugPath":"japanese/japanese-lesson-12-te-iru","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-의-기본-구조","text":"1. ~ている의 기본 구조","level":2},{"id":"2-용법---진행-동작이-지금-진행-중","text":"2. 용법 ① : 진행 (동작이 지금 진행 중)","level":2},{"id":"진행-표현에-자주-쓰이는-동사","text":"진행 표현에 자주 쓰이는 동사","level":3},{"id":"3-용법---상태-변화-후의-결과가-지속","text":"3. 용법 ② : 상태 (변화 후의 결과가 지속)","level":2},{"id":"대표적인-상태-표현","text":"대표적인 상태 표현","level":3},{"id":"예문","text":"예문","level":3},{"id":"4-용법---습관반복-동작","text":"4. 용법 ③ : 습관·반복 동작","level":2},{"id":"5-세-가지-용법-비교","text":"5. 세 가지 용법 비교","level":2},{"id":"6-의-부정형","text":"6. ~ている의 부정형","level":2},{"id":"7-의-과거형","text":"7. ~ている의 과거형","level":2},{"id":"8-축약형---","text":"8. 축약형 ~てる / ~でる","level":2},{"id":"9-외모상황-묘사에-활용","text":"9. 외모·상황 묘사에 활용","level":2},{"id":"복장-묘사","text":"복장 묘사","level":3},{"id":"직업소속-묘사","text":"직업·소속 묘사","level":3},{"id":"10--vs-형-비교","text":"10. ~ている vs ます형 비교","level":2},{"id":"11-실전-회화--근황-묻기","text":"11. 실전 회화 — 근황 묻기","level":2},{"id":"12-문형-정리","text":"12. 문형 정리","level":2},{"id":"section","text":"マとめ","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-12-te-iru"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"て형의 첫 번째 응용, ~ている의 세 가지 용법(진행·상태·습관)을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T12:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T12:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],"$L3","$L4","$L5","$L6","$L7","$L8"]}]]}],"$L9"]}],"$La","$Lb"]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+3:["$","span","te-iru",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","te-iru"]}]
+4:["$","span","progressive",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","progressive"]}]
+5:["$","span","state",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","state"]}]
+6:["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}]
+7:["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]
+8:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
+9:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T5f63,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-의-기본-구조">1. ~ている의 기본 구조 </a></li><li><a href="#2-용법---진행-동작이-지금-진행-중">2. 용법 ① : 진행 (동작이 지금 진행 중) </a><ul><li><a href="#진행-표현에-자주-쓰이는-동사">진행 표현에 자주 쓰이는 동사 </a></li></ul></li><li><a href="#3-용법---상태-변화-후의-결과가-지속">3. 용법 ② : 상태 (변화 후의 결과가 지속) </a><ul><li><a href="#대표적인-상태-표현">대표적인 상태 표현 </a></li><li><a href="#예문">예문 </a></li></ul></li><li><a href="#4-용법---습관반복-동작">4. 용법 ③ : 습관·반복 동작 </a></li><li><a href="#5-세-가지-용법-비교">5. 세 가지 용법 비교 </a></li><li><a href="#6-의-부정형">6. ~ている의 부정형 </a></li><li><a href="#7-의-과거형">7. ~ている의 과거형 </a></li><li><a href="#8-축약형---">8. 축약형 ~てる / ~でる </a></li><li><a href="#9-외모상황-묘사에-활용">9. 외모·상황 묘사에 활용 </a><ul><li><a href="#복장-묘사">복장 묘사 </a></li><li><a href="#직업소속-묘사">직업·소속 묘사 </a></li></ul></li><li><a href="#10--vs-형-비교">10. ~ている vs ます형 비교 </a></li><li><a href="#11-실전-회화--근황-묻기">11. 실전 회화 — 근황 묻기 </a></li><li><a href="#12-문형-정리">12. 문형 정리 </a></li><li><a href="#">マとめ </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>11강에서 て형을 익혔다면, 이번 강에서는 て형의 가장 핵심적인 응용인 <strong><code>~ている</code></strong> 를 완전히 파고듭니다.</p>
 <p><code>~ている</code>는 단순히 &quot;~하고 있다&quot;는 진행 표현만이 아닙니다.<br>
 동사의 종류에 따라 <strong>진행·상태·습관</strong> 세 가지 의미로 나뉘며, 이를 구분하지 못하면 자연스러운 일본어를 구사하기 어렵습니다.</p>
@@ -23,7 +27,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-의-기본-구조" tabindex="-1" data-src-line="20">1. ~ている의 기본 구조 <a class="header-anchor" href="#1-의-기본-구조" aria-hidden="true">#</a></h2>
+<h2 id="1-의-기본-구조" tabindex="-1" data-src-line="18">1. ~ている의 기본 구조 <a class="header-anchor" href="#1-의-기본-구조" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">동사 て형 + いる (반말)
 동사 て형 + います (정중)
 </code></pre></div></code></pre>
@@ -59,7 +63,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 </tbody>
 </table>
 </div><hr>
-<h2 id="2-용법---진행-동작이-지금-진행-중" tabindex="-1" data-src-line="36">2. 용법 ① : 진행 (동작이 지금 진행 중) <a class="header-anchor" href="#2-용법---진행-동작이-지금-진행-중" aria-hidden="true">#</a></h2>
+<h2 id="2-용법---진행-동작이-지금-진행-중" tabindex="-1" data-src-line="34">2. 용법 ① : 진행 (동작이 지금 진행 중) <a class="header-anchor" href="#2-용법---진행-동작이-지금-진행-중" aria-hidden="true">#</a></h2>
 <p><strong>동작 동사</strong> + ている = 지금 그 동작이 계속되고 있는 상태</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">いま ごはんを たべています。
 지금 밥을 먹고 있습니다.
@@ -73,7 +77,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 かれは いま でんわして います。
 그는 지금 전화하고 있습니다.
 </code></pre></div></code></pre>
-<h3 id="진행-표현에-자주-쓰이는-동사" tabindex="-1" data-src-line="54">진행 표현에 자주 쓰이는 동사 <a class="header-anchor" href="#진행-표현에-자주-쓰이는-동사" aria-hidden="true">#</a></h3>
+<h3 id="진행-표현에-자주-쓰이는-동사" tabindex="-1" data-src-line="52">진행 표현에 자주 쓰이는 동사 <a class="header-anchor" href="#진행-표현에-자주-쓰이는-동사" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -131,14 +135,14 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 </tbody>
 </table>
 </div><hr>
-<h2 id="3-용법---상태-변화-후의-결과가-지속" tabindex="-1" data-src-line="70">3. 용법 ② : 상태 (변화 후의 결과가 지속) <a class="header-anchor" href="#3-용법---상태-변화-후의-결과가-지속" aria-hidden="true">#</a></h2>
+<h2 id="3-용법---상태-변화-후의-결과가-지속" tabindex="-1" data-src-line="68">3. 용법 ② : 상태 (변화 후의 결과가 지속) <a class="header-anchor" href="#3-용법---상태-변화-후의-결과가-지속" aria-hidden="true">#</a></h2>
 <p><strong>변화 동사</strong> + ている = 변화가 일어난 후의 <strong>결과 상태</strong>가 지속됨</p>
 <p>이것이 한국어와 가장 다른 부분입니다.<br>
 한국어에서 &quot;결혼했습니다&quot;는 과거 동작이지만,<br>
 일본어에서는 <strong>“현재도 결혼 상태가 지속되고 있다”</strong> 는 의미로 <code>けっこんしています</code>를 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[변화 동작] → [결과 상태 지속] → ~ている
 </code></pre></div></code></pre>
-<h3 id="대표적인-상태-표현" tabindex="-1" data-src-line="82">대표적인 상태 표현 <a class="header-anchor" href="#대표적인-상태-표현" aria-hidden="true">#</a></h3>
+<h3 id="대표적인-상태-표현" tabindex="-1" data-src-line="80">대표적인 상태 표현 <a class="header-anchor" href="#대표적인-상태-표현" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -190,7 +194,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 </tr>
 </tbody>
 </table>
-</div><h3 id="예문" tabindex="-1" data-src-line="95">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+</div><h3 id="예문" tabindex="-1" data-src-line="93">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">かれは けっこんしています。
 그는 결혼해 있습니다. (기혼입니다.)
 
@@ -217,7 +221,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="4-용법---습관반복-동작" tabindex="-1" data-src-line="126">4. 용법 ③ : 습관·반복 동작 <a class="header-anchor" href="#4-용법---습관반복-동작" aria-hidden="true">#</a></h2>
+<h2 id="4-용법---습관반복-동작" tabindex="-1" data-src-line="124">4. 용법 ③ : 습관·반복 동작 <a class="header-anchor" href="#4-용법---습관반복-동작" aria-hidden="true">#</a></h2>
 <p><strong>반복되는 동작·습관</strong>을 나타낼 때도 <code>~ている</code>를 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">まいにち にほんごを べんきょうしています。
 매일 일본어를 공부하고 있습니다. (습관)
@@ -232,7 +236,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 그녀는 대학에서 일본어를 가르치고 있습니다. (직업)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-세-가지-용법-비교" tabindex="-1" data-src-line="146">5. 세 가지 용법 비교 <a class="header-anchor" href="#5-세-가지-용법-비교" aria-hidden="true">#</a></h2>
+<h2 id="5-세-가지-용법-비교" tabindex="-1" data-src-line="144">5. 세 가지 용법 비교 <a class="header-anchor" href="#5-세-가지-용법-비교" aria-hidden="true">#</a></h2>
 <p>같은 <code>~ている</code>라도 동사에 따라 의미가 달라집니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -261,7 +265,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 </tbody>
 </table>
 </div><hr>
-<h2 id="6-의-부정형" tabindex="-1" data-src-line="158">6. ~ている의 부정형 <a class="header-anchor" href="#6-의-부정형" aria-hidden="true">#</a></h2>
+<h2 id="6-의-부정형" tabindex="-1" data-src-line="156">6. ~ている의 부정형 <a class="header-anchor" href="#6-의-부정형" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -296,7 +300,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 옛날에는 여기에 살지 않았습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-의-과거형" tabindex="-1" data-src-line="181">7. ~ている의 과거형 <a class="header-anchor" href="#7-의-과거형" aria-hidden="true">#</a></h2>
+<h2 id="7-의-과거형" tabindex="-1" data-src-line="179">7. ~ている의 과거형 <a class="header-anchor" href="#7-의-과거형" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -323,7 +327,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 그는 예전에 은행에 근무하고 있었습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-축약형---" tabindex="-1" data-src-line="200">8. 축약형 ~てる / ~でる <a class="header-anchor" href="#8-축약형---" aria-hidden="true">#</a></h2>
+<h2 id="8-축약형---" tabindex="-1" data-src-line="198">8. 축약형 ~てる / ~でる <a class="header-anchor" href="#8-축약형---" aria-hidden="true">#</a></h2>
 <p>회화에서는 <code>~ている</code>의 <code>い</code>를 생략하는 경우가 매우 많습니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -373,9 +377,9 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 <p>💡 글이나 공식적인 자리에서는 <code>~ています</code> 를, 친한 친구 사이 회화에서는 <code>~てる</code>를 씁니다.</p>
 </blockquote>
 <hr>
-<h2 id="9-외모상황-묘사에-활용" tabindex="-1" data-src-line="232">9. 외모·상황 묘사에 활용 <a class="header-anchor" href="#9-외모상황-묘사에-활용" aria-hidden="true">#</a></h2>
+<h2 id="9-외모상황-묘사에-활용" tabindex="-1" data-src-line="230">9. 외모·상황 묘사에 활용 <a class="header-anchor" href="#9-외모상황-묘사에-활용" aria-hidden="true">#</a></h2>
 <p><code>~ている</code>는 사람의 외모나 현재 상황을 묘사할 때 매우 유용합니다.</p>
-<h3 id="복장-묘사" tabindex="-1" data-src-line="236">복장 묘사 <a class="header-anchor" href="#복장-묘사" aria-hidden="true">#</a></h3>
+<h3 id="복장-묘사" tabindex="-1" data-src-line="234">복장 묘사 <a class="header-anchor" href="#복장-묘사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">あのひとは あおい シャツを きています。
 저 사람은 파란 셔츠를 입고 있습니다.
 
@@ -388,7 +392,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 かわいい ぼうしを かぶっています。
 귀여운 모자를 쓰고 있습니다.
 </code></pre></div></code></pre>
-<h3 id="직업소속-묘사" tabindex="-1" data-src-line="252">직업·소속 묘사 <a class="header-anchor" href="#직업소속-묘사" aria-hidden="true">#</a></h3>
+<h3 id="직업소속-묘사" tabindex="-1" data-src-line="250">직업·소속 묘사 <a class="header-anchor" href="#직업소속-묘사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは IT かいしゃで はたらいています。
 나는 IT 회사에서 일하고 있습니다.
 
@@ -399,7 +403,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 그녀는 병원에서 간호사로 근무하고 있습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10--vs-형-비교" tabindex="-1" data-src-line="267">10. ~ている vs ます형 비교 <a class="header-anchor" href="#10--vs-형-비교" aria-hidden="true">#</a></h2>
+<h2 id="10--vs-형-비교" tabindex="-1" data-src-line="265">10. ~ている vs ます형 비교 <a class="header-anchor" href="#10--vs-형-비교" aria-hidden="true">#</a></h2>
 <p>헷갈리기 쉬운 두 형태를 비교합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -431,7 +435,7 @@ a:T6146,<h1 id="일본어-12강--완전-정복--진행--상태--습관-표현" t
 지금 일본에 와 있습니다. (현재 일본에 있는 상태)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-실전-회화--근황-묻기" tabindex="-1" data-src-line="288">11. 실전 회화 — 근황 묻기 <a class="header-anchor" href="#11-실전-회화--근황-묻기" aria-hidden="true">#</a></h2>
+<h2 id="11-실전-회화--근황-묻기" tabindex="-1" data-src-line="286">11. 실전 회화 — 근황 묻기 <a class="header-anchor" href="#11-실전-회화--근황-묻기" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: さいきん どうですか。
    사이킨 도우데스카?
    (요즘 어떠세요?)
@@ -477,7 +481,7 @@ B: はい、さんねんまえに けっこんしました。
    (지금 아이가 한 명 있습니다.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-문형-정리" tabindex="-1" data-src-line="338">12. 문형 정리 <a class="header-anchor" href="#12-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="12-문형-정리" tabindex="-1" data-src-line="336">12. 문형 정리 <a class="header-anchor" href="#12-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -525,7 +529,7 @@ B: はい、さんねんまえに けっこんしました。
 </tbody>
 </table>
 </div><hr>
-<h2 id="section" tabindex="-1" data-src-line="352">マとめ <a class="header-anchor" href="#section" aria-hidden="true">#</a></h2>
+<h2 id="section" tabindex="-1" data-src-line="350">マとめ <a class="header-anchor" href="#section" aria-hidden="true">#</a></h2>
 <p><code>~ている</code>의 의미는 <strong>동사의 종류</strong>에 따라 결정됩니다.</p>
 <ul>
 <li>
@@ -563,8 +567,8 @@ B: はい、さんねんまえに けっこんしました。
 <li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
 </ul>
 </blockquote>
-5:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L9",null,{"content":"$a"}]}]}]
-6:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lb",null,{"href":"/post/english/english-lesson-06-adjectives-adverbs","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lb",null,{"href":"/post/english/english-lesson-07-question-words","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-14-potential",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-14-potential","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}]}],["$","li","japanese/japanese-lesson-13-request-permission-prohibition",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-13-request-permission-prohibition","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 13강: 의뢰·허가·금지 표현 — ~てください · ~てもいいです · ~てはいけません"}]}],["$","li","japanese/japanese-lesson-11-te-form",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-11-te-form","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 11강: て형 완전 정복 — 동사 그룹별 활용"}]}]]}]]}]]}]
-7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
-8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
-e:null
+a:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+b:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english/english-lesson-06-adjectives-adverbs","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english/english-lesson-07-question-words","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-15-experience",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/japanese/japanese-lesson-15-experience","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 15강: 경험 표현 완전 정복 — ～たことがあります"}]}],["$","li","japanese/japanese-lesson-14-potential",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/japanese/japanese-lesson-14-potential","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}]}],["$","li","english/english-lesson-12-prepositions",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english/english-lesson-12-prepositions","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 12강: 전치사 완전 정복 — in · on · at · to · for · with"}]}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+d:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

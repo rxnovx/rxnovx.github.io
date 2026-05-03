@@ -1,14 +1,13 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 c:I[484,[],"OutletBoundary"]
 d:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-09-past-simple\"},\"headline\":\"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사\",\"description\":\"규칙 동사(-ed)부터 불규칙 동사 60개, 과거 부정문·의문문, Be동사 과거형까지 과거시제의 모든 것을 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-02T08:23:00.000Z\",\"dateModified\":\"2026-05-02T08:23:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-09-past-simple\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"past-simple\",\"past-tense\",\"irregular-verbs\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사","slugPath":"english/english-lesson-09-past-simple","headings":[{"id":"영어-9강-과거시제-완전-정복--규칙-동사--불규칙-동사","text":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-과거시제란","text":"1. 과거시제란?","level":2},{"id":"과거시제와-함께-자주-쓰이는-시간-표현","text":"과거시제와 함께 자주 쓰이는 시간 표현","level":3},{"id":"2-규칙-동사-과거형---ed-붙이기","text":"2. 규칙 동사 과거형 — -ed 붙이기","level":2},{"id":"규칙--대부분의-동사---ed","text":"규칙 ① 대부분의 동사 → + ed","level":3},{"id":"규칙--e로-끝나는-동사---d만-추가","text":"규칙 ② e로 끝나는 동사 → + d만 추가","level":3},{"id":"규칙--자음--y로-끝나는-동사--y를-i로--ed","text":"규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 + ed","level":3},{"id":"규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed","text":"규칙 ④ 단모음 + 단자음으로 끝나는 동사 → 자음 중복 + ed","level":3},{"id":"규칙-동사-과거형-총정리","text":"규칙 동사 과거형 총정리","level":3},{"id":"3--ed-발음-3가지-규칙","text":"3. -ed 발음 3가지 규칙","level":2},{"id":"4-불규칙-동사-과거형-60개--완전-암기","text":"4. 불규칙 동사 과거형 60개 — 완전 암기","level":2},{"id":"그룹--aaa형--원형과거과거분사-모두-동일","text":"그룹 ① AAA형 — 원형·과거·과거분사 모두 동일","level":3},{"id":"그룹--aba형--과거와-과거분사가-동일-원형과-다름","text":"그룹 ② ABA형 — 과거와 과거분사가 동일 (원형과 다름)","level":3},{"id":"그룹--abc형--원형과거과거분사-모두-다름","text":"그룹 ③ ABC형 — 원형·과거·과거분사 모두 다름","level":3},{"id":"5-특히-주의해야-할-불규칙-동사","text":"5. 특히 주의해야 할 불규칙 동사","level":2},{"id":"-go--went-went는-완전히-다른-형태","text":"① go → went (went는 완전히 다른 형태)","level":3},{"id":"-do--did-조동사로도-쓰이므로-중요","text":"② do → did (조동사로도 쓰이므로 중요)","level":3},{"id":"-have--had","text":"③ have → had","level":3},{"id":"-say--said--tell--told","text":"④ say → said / tell → told","level":3},{"id":"-come--came-과거분사는-come으로-복귀","text":"⑤ come → came (과거분사는 come으로 복귀)","level":3},{"id":"6-과거시제-부정문--didnt","text":"6. 과거시제 부정문 — didn't","level":2},{"id":"7-과거시제-의문문--did","text":"7. 과거시제 의문문 — Did","level":2},{"id":"짧은-대답","text":"짧은 대답","level":3},{"id":"의문사--did","text":"의문사 + Did","level":3},{"id":"8-be동사-과거형--was--were","text":"8. Be동사 과거형 — was / were","level":2},{"id":"was--were-긍정문","text":"was / were 긍정문","level":3},{"id":"was--were-부정문","text":"was / were 부정문","level":3},{"id":"was--were-의문문","text":"was / were 의문문","level":3},{"id":"의문사--was--were","text":"의문사 + was / were","level":3},{"id":"9-there-was--there-were","text":"9. There was / There were","level":2},{"id":"10-과거시제-vs-현재완료--미리-알아두기","text":"10. 과거시제 vs 현재완료 — 미리 알아두기","level":2},{"id":"11-자주-쓰이는-과거-표현-패턴","text":"11. 자주 쓰이는 과거 표현 패턴","level":2},{"id":"-어제-한-일-말하기","text":"① 어제 한 일 말하기","level":3},{"id":"-지난-여행경험-이야기하기","text":"② 지난 여행/경험 이야기하기","level":3},{"id":"-과거의-습관--used-to","text":"③ 과거의 습관 — used to","level":3},{"id":"12-실전-회화--과거-이야기하기","text":"12. 실전 회화 — 과거 이야기하기","level":2},{"id":"상황--주말-이야기","text":"상황 ① 주말 이야기","level":3},{"id":"상황--첫-만남-스토리","text":"상황 ② 첫 만남 스토리","level":3},{"id":"상황--과거-직업-이야기","text":"상황 ③ 과거 직업 이야기","level":3},{"id":"13-자주-틀리는-실수-정리","text":"13. 자주 틀리는 실수 정리","level":2},{"id":"실수--didnt-뒤에-과거형-사용","text":"실수 ① didn't 뒤에 과거형 사용","level":3},{"id":"실수--did-의문문에-과거형-사용","text":"실수 ② Did 의문문에 과거형 사용","level":3},{"id":"실수--불규칙-동사를-규칙형으로-쓰기","text":"실수 ③ 불규칙 동사를 규칙형으로 쓰기","level":3},{"id":"실수--waswere-혼동","text":"실수 ④ was/were 혼동","level":3},{"id":"실수--used-to-뒤에-과거형-사용","text":"실수 ⑤ used to 뒤에 과거형 사용","level":3},{"id":"14-불규칙-동사-암기-팁","text":"14. 불규칙 동사 암기 팁","level":2},{"id":"소리-패턴으로-묶어서-외우기","text":"소리 패턴으로 묶어서 외우기","level":3},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-09-past-simple\"},\"headline\":\"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사\",\"description\":\"규칙 동사(-ed)부터 불규칙 동사 60개, 과거 부정문·의문문, Be동사 과거형까지 과거시제의 모든 것을 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-02T08:23:00.000Z\",\"dateModified\":\"2026-05-02T08:23:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-09-past-simple\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"past-simple\",\"past-tense\",\"irregular-verbs\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사","slugPath":"english/english-lesson-09-past-simple","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-과거시제란","text":"1. 과거시제란?","level":2},{"id":"과거시제와-함께-자주-쓰이는-시간-표현","text":"과거시제와 함께 자주 쓰이는 시간 표현","level":3},{"id":"2-규칙-동사-과거형---ed-붙이기","text":"2. 규칙 동사 과거형 — -ed 붙이기","level":2},{"id":"규칙--대부분의-동사---ed","text":"규칙 ① 대부분의 동사 → + ed","level":3},{"id":"규칙--e로-끝나는-동사---d만-추가","text":"규칙 ② e로 끝나는 동사 → + d만 추가","level":3},{"id":"규칙--자음--y로-끝나는-동사--y를-i로--ed","text":"규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 + ed","level":3},{"id":"규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed","text":"규칙 ④ 단모음 + 단자음으로 끝나는 동사 → 자음 중복 + ed","level":3},{"id":"규칙-동사-과거형-총정리","text":"규칙 동사 과거형 총정리","level":3},{"id":"3--ed-발음-3가지-규칙","text":"3. -ed 발음 3가지 규칙","level":2},{"id":"4-불규칙-동사-과거형-60개--완전-암기","text":"4. 불규칙 동사 과거형 60개 — 완전 암기","level":2},{"id":"그룹--aaa형--원형과거과거분사-모두-동일","text":"그룹 ① AAA형 — 원형·과거·과거분사 모두 동일","level":3},{"id":"그룹--aba형--과거와-과거분사가-동일-원형과-다름","text":"그룹 ② ABA형 — 과거와 과거분사가 동일 (원형과 다름)","level":3},{"id":"그룹--abc형--원형과거과거분사-모두-다름","text":"그룹 ③ ABC형 — 원형·과거·과거분사 모두 다름","level":3},{"id":"5-특히-주의해야-할-불규칙-동사","text":"5. 특히 주의해야 할 불규칙 동사","level":2},{"id":"-go--went-went는-완전히-다른-형태","text":"① go → went (went는 완전히 다른 형태)","level":3},{"id":"-do--did-조동사로도-쓰이므로-중요","text":"② do → did (조동사로도 쓰이므로 중요)","level":3},{"id":"-have--had","text":"③ have → had","level":3},{"id":"-say--said--tell--told","text":"④ say → said / tell → told","level":3},{"id":"-come--came-과거분사는-come으로-복귀","text":"⑤ come → came (과거분사는 come으로 복귀)","level":3},{"id":"6-과거시제-부정문--didnt","text":"6. 과거시제 부정문 — didn't","level":2},{"id":"7-과거시제-의문문--did","text":"7. 과거시제 의문문 — Did","level":2},{"id":"짧은-대답","text":"짧은 대답","level":3},{"id":"의문사--did","text":"의문사 + Did","level":3},{"id":"8-be동사-과거형--was--were","text":"8. Be동사 과거형 — was / were","level":2},{"id":"was--were-긍정문","text":"was / were 긍정문","level":3},{"id":"was--were-부정문","text":"was / were 부정문","level":3},{"id":"was--were-의문문","text":"was / were 의문문","level":3},{"id":"의문사--was--were","text":"의문사 + was / were","level":3},{"id":"9-there-was--there-were","text":"9. There was / There were","level":2},{"id":"10-과거시제-vs-현재완료--미리-알아두기","text":"10. 과거시제 vs 현재완료 — 미리 알아두기","level":2},{"id":"11-자주-쓰이는-과거-표현-패턴","text":"11. 자주 쓰이는 과거 표현 패턴","level":2},{"id":"-어제-한-일-말하기","text":"① 어제 한 일 말하기","level":3},{"id":"-지난-여행경험-이야기하기","text":"② 지난 여행/경험 이야기하기","level":3},{"id":"-과거의-습관--used-to","text":"③ 과거의 습관 — used to","level":3},{"id":"12-실전-회화--과거-이야기하기","text":"12. 실전 회화 — 과거 이야기하기","level":2},{"id":"상황--주말-이야기","text":"상황 ① 주말 이야기","level":3},{"id":"상황--첫-만남-스토리","text":"상황 ② 첫 만남 스토리","level":3},{"id":"상황--과거-직업-이야기","text":"상황 ③ 과거 직업 이야기","level":3},{"id":"13-자주-틀리는-실수-정리","text":"13. 자주 틀리는 실수 정리","level":2},{"id":"실수--didnt-뒤에-과거형-사용","text":"실수 ① didn't 뒤에 과거형 사용","level":3},{"id":"실수--did-의문문에-과거형-사용","text":"실수 ② Did 의문문에 과거형 사용","level":3},{"id":"실수--불규칙-동사를-규칙형으로-쓰기","text":"실수 ③ 불규칙 동사를 규칙형으로 쓰기","level":3},{"id":"실수--waswere-혼동","text":"실수 ④ was/were 혼동","level":3},{"id":"실수--used-to-뒤에-과거형-사용","text":"실수 ⑤ used to 뒤에 과거형 사용","level":3},{"id":"14-불규칙-동사-암기-팁","text":"14. 불규칙 동사 암기 팁","level":2},{"id":"소리-패턴으로-묶어서-외우기","text":"소리 패턴으로 묶어서 외우기","level":3},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
 3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-09-past-simple"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"규칙 동사(-ed)부터 불규칙 동사 60개, 과거 부정문·의문문, Be동사 과거형까지 과거시제의 모든 것을 교과서 수준으로 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-02T08:23:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 2일"]}],["$","time",null,{"dateTime":"2026-05-02T08:23:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 2일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","past-simple",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","past-simple"]}],["$","span","past-tense",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","past-tense"]}],["$","span","irregular-verbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","irregular-verbs"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}],"$L8"]}]
-a:Tceb1,<h1 id="영어-9강-과거시제-완전-정복--규칙-동사--불규칙-동사" tabindex="-1" data-src-line="1">영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사 <a class="header-anchor" href="#영어-9강-과거시제-완전-정복--규칙-동사--불규칙-동사" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-9강-과거시제-완전-정복--규칙-동사--불규칙-동사">영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-과거시제란">1. 과거시제란? </a><ul><li><a href="#과거시제와-함께-자주-쓰이는-시간-표현">과거시제와 함께 자주 쓰이는 시간 표현 </a></li></ul></li><li><a href="#2-규칙-동사-과거형---ed-붙이기">2. 규칙 동사 과거형 — -ed 붙이기 </a><ul><li><a href="#규칙--대부분의-동사---ed">규칙 ① 대부분의 동사 → + ed </a></li><li><a href="#규칙--e로-끝나는-동사---d만-추가">규칙 ② e로 끝나는 동사 → + d만 추가 </a></li><li><a href="#규칙--자음--y로-끝나는-동사--y를-i로--ed">규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 + ed </a></li><li><a href="#규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed">규칙 ④ 단모음 + 단자음으로 끝나는 동사 → 자음 중복 + ed </a></li><li><a href="#규칙-동사-과거형-총정리">규칙 동사 과거형 총정리 </a></li></ul></li><li><a href="#3--ed-발음-3가지-규칙">3. -ed 발음 3가지 규칙 </a></li><li><a href="#4-불규칙-동사-과거형-60개--완전-암기">4. 불규칙 동사 과거형 60개 — 완전 암기 </a><ul><li><a href="#그룹--aaa형--원형과거과거분사-모두-동일">그룹 ① AAA형 — 원형·과거·과거분사 모두 동일 </a></li><li><a href="#그룹--aba형--과거와-과거분사가-동일-원형과-다름">그룹 ② ABA형 — 과거와 과거분사가 동일 (원형과 다름) </a></li><li><a href="#그룹--abc형--원형과거과거분사-모두-다름">그룹 ③ ABC형 — 원형·과거·과거분사 모두 다름 </a></li></ul></li><li><a href="#5-특히-주의해야-할-불규칙-동사">5. 특히 주의해야 할 불규칙 동사 </a><ul><li><a href="#-go--went-went는-완전히-다른-형태">① go → went (went는 완전히 다른 형태) </a></li><li><a href="#-do--did-조동사로도-쓰이므로-중요">② do → did (조동사로도 쓰이므로 중요) </a></li><li><a href="#-have--had">③ have → had </a></li><li><a href="#-say--said--tell--told">④ say → said / tell → told </a></li><li><a href="#-come--came-과거분사는-come으로-복귀">⑤ come → came (과거분사는 come으로 복귀) </a></li></ul></li><li><a href="#6-과거시제-부정문--didnt">6. 과거시제 부정문 — didn’t </a></li><li><a href="#7-과거시제-의문문--did">7. 과거시제 의문문 — Did </a><ul><li><a href="#짧은-대답">짧은 대답 </a></li><li><a href="#의문사--did">의문사 + Did </a></li></ul></li><li><a href="#8-be동사-과거형--was--were">8. Be동사 과거형 — was / were </a><ul><li><a href="#was--were-긍정문">was / were 긍정문 </a></li><li><a href="#was--were-부정문">was / were 부정문 </a></li><li><a href="#was--were-의문문">was / were 의문문 </a></li><li><a href="#의문사--was--were">의문사 + was / were </a></li></ul></li><li><a href="#9-there-was--there-were">9. There was / There were </a></li><li><a href="#10-과거시제-vs-현재완료--미리-알아두기">10. 과거시제 vs 현재완료 — 미리 알아두기 </a></li><li><a href="#11-자주-쓰이는-과거-표현-패턴">11. 자주 쓰이는 과거 표현 패턴 </a><ul><li><a href="#-어제-한-일-말하기">① 어제 한 일 말하기 </a></li><li><a href="#-지난-여행경험-이야기하기">② 지난 여행/경험 이야기하기 </a></li><li><a href="#-과거의-습관--used-to">③ 과거의 습관 — used to </a></li></ul></li><li><a href="#12-실전-회화--과거-이야기하기">12. 실전 회화 — 과거 이야기하기 </a><ul><li><a href="#상황--주말-이야기">상황 ① 주말 이야기 </a></li><li><a href="#상황--첫-만남-스토리">상황 ② 첫 만남 스토리 </a></li><li><a href="#상황--과거-직업-이야기">상황 ③ 과거 직업 이야기 </a></li></ul></li><li><a href="#13-자주-틀리는-실수-정리">13. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--didnt-뒤에-과거형-사용">실수 ① didn’t 뒤에 과거형 사용 </a></li><li><a href="#실수--did-의문문에-과거형-사용">실수 ② Did 의문문에 과거형 사용 </a></li><li><a href="#실수--불규칙-동사를-규칙형으로-쓰기">실수 ③ 불규칙 동사를 규칙형으로 쓰기 </a></li><li><a href="#실수--waswere-혼동">실수 ④ was/were 혼동 </a></li><li><a href="#실수--used-to-뒤에-과거형-사용">실수 ⑤ used to 뒤에 과거형 사용 </a></li></ul></li><li><a href="#14-불규칙-동사-암기-팁">14. 불규칙 동사 암기 팁 </a><ul><li><a href="#소리-패턴으로-묶어서-외우기">소리 패턴으로 묶어서 외우기 </a></li></ul></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+a:Tccb4,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-과거시제란">1. 과거시제란? </a><ul><li><a href="#과거시제와-함께-자주-쓰이는-시간-표현">과거시제와 함께 자주 쓰이는 시간 표현 </a></li></ul></li><li><a href="#2-규칙-동사-과거형---ed-붙이기">2. 규칙 동사 과거형 — -ed 붙이기 </a><ul><li><a href="#규칙--대부분의-동사---ed">규칙 ① 대부분의 동사 → + ed </a></li><li><a href="#규칙--e로-끝나는-동사---d만-추가">규칙 ② e로 끝나는 동사 → + d만 추가 </a></li><li><a href="#규칙--자음--y로-끝나는-동사--y를-i로--ed">규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 + ed </a></li><li><a href="#규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed">규칙 ④ 단모음 + 단자음으로 끝나는 동사 → 자음 중복 + ed </a></li><li><a href="#규칙-동사-과거형-총정리">규칙 동사 과거형 총정리 </a></li></ul></li><li><a href="#3--ed-발음-3가지-규칙">3. -ed 발음 3가지 규칙 </a></li><li><a href="#4-불규칙-동사-과거형-60개--완전-암기">4. 불규칙 동사 과거형 60개 — 완전 암기 </a><ul><li><a href="#그룹--aaa형--원형과거과거분사-모두-동일">그룹 ① AAA형 — 원형·과거·과거분사 모두 동일 </a></li><li><a href="#그룹--aba형--과거와-과거분사가-동일-원형과-다름">그룹 ② ABA형 — 과거와 과거분사가 동일 (원형과 다름) </a></li><li><a href="#그룹--abc형--원형과거과거분사-모두-다름">그룹 ③ ABC형 — 원형·과거·과거분사 모두 다름 </a></li></ul></li><li><a href="#5-특히-주의해야-할-불규칙-동사">5. 특히 주의해야 할 불규칙 동사 </a><ul><li><a href="#-go--went-went는-완전히-다른-형태">① go → went (went는 완전히 다른 형태) </a></li><li><a href="#-do--did-조동사로도-쓰이므로-중요">② do → did (조동사로도 쓰이므로 중요) </a></li><li><a href="#-have--had">③ have → had </a></li><li><a href="#-say--said--tell--told">④ say → said / tell → told </a></li><li><a href="#-come--came-과거분사는-come으로-복귀">⑤ come → came (과거분사는 come으로 복귀) </a></li></ul></li><li><a href="#6-과거시제-부정문--didnt">6. 과거시제 부정문 — didn’t </a></li><li><a href="#7-과거시제-의문문--did">7. 과거시제 의문문 — Did </a><ul><li><a href="#짧은-대답">짧은 대답 </a></li><li><a href="#의문사--did">의문사 + Did </a></li></ul></li><li><a href="#8-be동사-과거형--was--were">8. Be동사 과거형 — was / were </a><ul><li><a href="#was--were-긍정문">was / were 긍정문 </a></li><li><a href="#was--were-부정문">was / were 부정문 </a></li><li><a href="#was--were-의문문">was / were 의문문 </a></li><li><a href="#의문사--was--were">의문사 + was / were </a></li></ul></li><li><a href="#9-there-was--there-were">9. There was / There were </a></li><li><a href="#10-과거시제-vs-현재완료--미리-알아두기">10. 과거시제 vs 현재완료 — 미리 알아두기 </a></li><li><a href="#11-자주-쓰이는-과거-표현-패턴">11. 자주 쓰이는 과거 표현 패턴 </a><ul><li><a href="#-어제-한-일-말하기">① 어제 한 일 말하기 </a></li><li><a href="#-지난-여행경험-이야기하기">② 지난 여행/경험 이야기하기 </a></li><li><a href="#-과거의-습관--used-to">③ 과거의 습관 — used to </a></li></ul></li><li><a href="#12-실전-회화--과거-이야기하기">12. 실전 회화 — 과거 이야기하기 </a><ul><li><a href="#상황--주말-이야기">상황 ① 주말 이야기 </a></li><li><a href="#상황--첫-만남-스토리">상황 ② 첫 만남 스토리 </a></li><li><a href="#상황--과거-직업-이야기">상황 ③ 과거 직업 이야기 </a></li></ul></li><li><a href="#13-자주-틀리는-실수-정리">13. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--didnt-뒤에-과거형-사용">실수 ① didn’t 뒤에 과거형 사용 </a></li><li><a href="#실수--did-의문문에-과거형-사용">실수 ② Did 의문문에 과거형 사용 </a></li><li><a href="#실수--불규칙-동사를-규칙형으로-쓰기">실수 ③ 불규칙 동사를 규칙형으로 쓰기 </a></li><li><a href="#실수--waswere-혼동">실수 ④ was/were 혼동 </a></li><li><a href="#실수--used-to-뒤에-과거형-사용">실수 ⑤ used to 뒤에 과거형 사용 </a></li></ul></li><li><a href="#14-불규칙-동사-암기-팁">14. 불규칙 동사 암기 팁 </a><ul><li><a href="#소리-패턴으로-묶어서-외우기">소리 패턴으로 묶어서 외우기 </a></li></ul></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>지금까지 현재시제와 현재진행형을 익혔다면, 이번 강에서는 <strong>과거에 일어난 일</strong>을 표현하는 과거시제를 완전히 정복합니다.</p>
 <p>“어제 뭐 했어요?”, “그 영화 봤어요?”, “어디서 만났어요?” —<br>
 과거를 이야기하는 것은 일상 대화에서 가장 많이 하는 일 중 하나입니다.</p>
@@ -24,7 +23,7 @@ a:Tceb1,<h1 id="영어-9강-과거시제-완전-정복--규칙-동사--불규칙
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-과거시제란" tabindex="-1" data-src-line="23">1. 과거시제란? <a class="header-anchor" href="#1-과거시제란" aria-hidden="true">#</a></h2>
+<h2 id="1-과거시제란" tabindex="-1" data-src-line="21">1. 과거시제란? <a class="header-anchor" href="#1-과거시제란" aria-hidden="true">#</a></h2>
 <p>과거시제는 <strong>이미 완료된 과거의 동작이나 상태</strong>를 표현합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I ate pizza yesterday.
 나는 어제 피자를 먹었습니다. (완료된 과거)
@@ -35,7 +34,7 @@ She lived in Paris for two years.
 The meeting started at 9 AM.
 회의는 오전 9시에 시작했습니다. (과거의 사실)
 </code></pre></div></code></pre>
-<h3 id="과거시제와-함께-자주-쓰이는-시간-표현" tabindex="-1" data-src-line="38">과거시제와 함께 자주 쓰이는 시간 표현 <a class="header-anchor" href="#과거시제와-함께-자주-쓰이는-시간-표현" aria-hidden="true">#</a></h3>
+<h3 id="과거시제와-함께-자주-쓰이는-시간-표현" tabindex="-1" data-src-line="36">과거시제와 함께 자주 쓰이는 시간 표현 <a class="header-anchor" href="#과거시제와-함께-자주-쓰이는-시간-표현" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -87,8 +86,8 @@ The meeting started at 9 AM.
 </tbody>
 </table>
 </div><hr>
-<h2 id="2-규칙-동사-과거형---ed-붙이기" tabindex="-1" data-src-line="55">2. 규칙 동사 과거형 — -ed 붙이기 <a class="header-anchor" href="#2-규칙-동사-과거형---ed-붙이기" aria-hidden="true">#</a></h2>
-<h3 id="규칙--대부분의-동사---ed" tabindex="-1" data-src-line="57">규칙 ① 대부분의 동사 → + ed <a class="header-anchor" href="#규칙--대부분의-동사---ed" aria-hidden="true">#</a></h3>
+<h2 id="2-규칙-동사-과거형---ed-붙이기" tabindex="-1" data-src-line="53">2. 규칙 동사 과거형 — -ed 붙이기 <a class="header-anchor" href="#2-규칙-동사-과거형---ed-붙이기" aria-hidden="true">#</a></h2>
+<h3 id="규칙--대부분의-동사---ed" tabindex="-1" data-src-line="55">규칙 ① 대부분의 동사 → + ed <a class="header-anchor" href="#규칙--대부분의-동사---ed" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">walk → walked
 talk → talked
 work → worked
@@ -98,7 +97,7 @@ listen → listened
 visit → visited
 help → helped
 </code></pre></div></code></pre>
-<h3 id="규칙--e로-끝나는-동사---d만-추가" tabindex="-1" data-src-line="70">규칙 ② e로 끝나는 동사 → + d만 추가 <a class="header-anchor" href="#규칙--e로-끝나는-동사---d만-추가" aria-hidden="true">#</a></h3>
+<h3 id="규칙--e로-끝나는-동사---d만-추가" tabindex="-1" data-src-line="68">규칙 ② e로 끝나는 동사 → + d만 추가 <a class="header-anchor" href="#규칙--e로-끝나는-동사---d만-추가" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">live → lived
 love → loved
 use → used
@@ -107,7 +106,7 @@ dance → danced
 arrive → arrived
 decide → decided
 </code></pre></div></code></pre>
-<h3 id="규칙--자음--y로-끝나는-동사--y를-i로--ed" tabindex="-1" data-src-line="82">규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 + ed <a class="header-anchor" href="#규칙--자음--y로-끝나는-동사--y를-i로--ed" aria-hidden="true">#</a></h3>
+<h3 id="규칙--자음--y로-끝나는-동사--y를-i로--ed" tabindex="-1" data-src-line="80">규칙 ③ 자음 + y로 끝나는 동사 → y를 i로 + ed <a class="header-anchor" href="#규칙--자음--y로-끝나는-동사--y를-i로--ed" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">study → studied
 carry → carried
 try → tried
@@ -118,14 +117,14 @@ worry → worried
 <p>💡 모음 + y는 그냥 + ed:<br>
 <code>play → played / stay → stayed / enjoy → enjoyed</code></p>
 </blockquote>
-<h3 id="규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed" tabindex="-1" data-src-line="95">규칙 ④ 단모음 + 단자음으로 끝나는 동사 → 자음 중복 + ed <a class="header-anchor" href="#규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed" aria-hidden="true">#</a></h3>
+<h3 id="규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed" tabindex="-1" data-src-line="93">규칙 ④ 단모음 + 단자음으로 끝나는 동사 → 자음 중복 + ed <a class="header-anchor" href="#규칙--단모음--단자음으로-끝나는-동사--자음-중복--ed" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">stop → stopped
 plan → planned
 drop → dropped
 chat → chatted
 prefer → preferred (강세가 마지막 음절)
 </code></pre></div></code></pre>
-<h3 id="규칙-동사-과거형-총정리" tabindex="-1" data-src-line="105">규칙 동사 과거형 총정리 <a class="header-anchor" href="#규칙-동사-과거형-총정리" aria-hidden="true">#</a></h3>
+<h3 id="규칙-동사-과거형-총정리" tabindex="-1" data-src-line="103">규칙 동사 과거형 총정리 <a class="header-anchor" href="#규칙-동사-과거형-총정리" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -163,7 +162,7 @@ prefer → preferred (강세가 마지막 음절)
 </tbody>
 </table>
 </div><hr>
-<h2 id="3--ed-발음-3가지-규칙" tabindex="-1" data-src-line="117">3. -ed 발음 3가지 규칙 <a class="header-anchor" href="#3--ed-발음-3가지-규칙" aria-hidden="true">#</a></h2>
+<h2 id="3--ed-발음-3가지-규칙" tabindex="-1" data-src-line="115">3. -ed 발음 3가지 규칙 <a class="header-anchor" href="#3--ed-발음-3가지-규칙" aria-hidden="true">#</a></h2>
 <p>-ed는 앞에 오는 소리에 따라 세 가지로 발음됩니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -200,9 +199,9 @@ washed → /wɒʃt/ (/t/ 발음)
 wanted → /ˈwɒntɪd/ (/ɪd/ 발음)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="4-불규칙-동사-과거형-60개--완전-암기" tabindex="-1" data-src-line="139">4. 불규칙 동사 과거형 60개 — 완전 암기 <a class="header-anchor" href="#4-불규칙-동사-과거형-60개--완전-암기" aria-hidden="true">#</a></h2>
+<h2 id="4-불규칙-동사-과거형-60개--완전-암기" tabindex="-1" data-src-line="137">4. 불규칙 동사 과거형 60개 — 완전 암기 <a class="header-anchor" href="#4-불규칙-동사-과거형-60개--완전-암기" aria-hidden="true">#</a></h2>
 <p>불규칙 동사는 패턴별로 그룹화하면 외우기 훨씬 쉽습니다.</p>
-<h3 id="그룹--aaa형--원형과거과거분사-모두-동일" tabindex="-1" data-src-line="143">그룹 ① AAA형 — 원형·과거·과거분사 모두 동일 <a class="header-anchor" href="#그룹--aaa형--원형과거과거분사-모두-동일" aria-hidden="true">#</a></h3>
+<h3 id="그룹--aaa형--원형과거과거분사-모두-동일" tabindex="-1" data-src-line="141">그룹 ① AAA형 — 원형·과거·과거분사 모두 동일 <a class="header-anchor" href="#그룹--aaa형--원형과거과거분사-모두-동일" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -266,7 +265,7 @@ wanted → /ˈwɒntɪd/ (/ɪd/ 발음)
 </div><blockquote>
 <p>⚠️ <code>read</code>는 철자는 같지만 과거형 발음이 /rɛd/(“레드”)로 바뀝니다!</p>
 </blockquote>
-<h3 id="그룹--aba형--과거와-과거분사가-동일-원형과-다름" tabindex="-1" data-src-line="158">그룹 ② ABA형 — 과거와 과거분사가 동일 (원형과 다름) <a class="header-anchor" href="#그룹--aba형--과거와-과거분사가-동일-원형과-다름" aria-hidden="true">#</a></h3>
+<h3 id="그룹--aba형--과거와-과거분사가-동일-원형과-다름" tabindex="-1" data-src-line="156">그룹 ② ABA형 — 과거와 과거분사가 동일 (원형과 다름) <a class="header-anchor" href="#그룹--aba형--과거와-과거분사가-동일-원형과-다름" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -468,7 +467,7 @@ wanted → /ˈwɒntɪd/ (/ɪd/ 발음)
 </div><blockquote>
 <p>※ <code>run</code>은 과거(ran)와 과거분사(run)가 다릅니다.</p>
 </blockquote>
-<h3 id="그룹--abc형--원형과거과거분사-모두-다름" tabindex="-1" data-src-line="196">그룹 ③ ABC형 — 원형·과거·과거분사 모두 다름 <a class="header-anchor" href="#그룹--abc형--원형과거과거분사-모두-다름" aria-hidden="true">#</a></h3>
+<h3 id="그룹--abc형--원형과거과거분사-모두-다름" tabindex="-1" data-src-line="194">그룹 ③ ABC형 — 원형·과거·과거분사 모두 다름 <a class="header-anchor" href="#그룹--abc형--원형과거과거분사-모두-다름" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -656,34 +655,34 @@ wanted → /ˈwɒntɪd/ (/ɪd/ 발음)
 </tbody>
 </table>
 </div><hr>
-<h2 id="5-특히-주의해야-할-불규칙-동사" tabindex="-1" data-src-line="232">5. 특히 주의해야 할 불규칙 동사 <a class="header-anchor" href="#5-특히-주의해야-할-불규칙-동사" aria-hidden="true">#</a></h2>
-<h3 id="-go--went-went는-완전히-다른-형태" tabindex="-1" data-src-line="234">① go → went (went는 완전히 다른 형태) <a class="header-anchor" href="#-go--went-went는-완전히-다른-형태" aria-hidden="true">#</a></h3>
+<h2 id="5-특히-주의해야-할-불규칙-동사" tabindex="-1" data-src-line="230">5. 특히 주의해야 할 불규칙 동사 <a class="header-anchor" href="#5-특히-주의해야-할-불규칙-동사" aria-hidden="true">#</a></h2>
+<h3 id="-go--went-went는-완전히-다른-형태" tabindex="-1" data-src-line="232">① go → went (went는 완전히 다른 형태) <a class="header-anchor" href="#-go--went-went는-완전히-다른-형태" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I go to school every day. (현재)
 I went to school yesterday. (과거)
 </code></pre></div></code></pre>
-<h3 id="-do--did-조동사로도-쓰이므로-중요" tabindex="-1" data-src-line="241">② do → did (조동사로도 쓰이므로 중요) <a class="header-anchor" href="#-do--did-조동사로도-쓰이므로-중요" aria-hidden="true">#</a></h3>
+<h3 id="-do--did-조동사로도-쓰이므로-중요" tabindex="-1" data-src-line="239">② do → did (조동사로도 쓰이므로 중요) <a class="header-anchor" href="#-do--did-조동사로도-쓰이므로-중요" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I do yoga every morning. (현재)
 I did yoga this morning. (과거)
 Did you do your homework? (의문문 조동사)
 </code></pre></div></code></pre>
-<h3 id="-have--had" tabindex="-1" data-src-line="249">③ have → had <a class="header-anchor" href="#-have--had" aria-hidden="true">#</a></h3>
+<h3 id="-have--had" tabindex="-1" data-src-line="247">③ have → had <a class="header-anchor" href="#-have--had" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I have a meeting now. (현재)
 I had a meeting yesterday. (과거)
 </code></pre></div></code></pre>
-<h3 id="-say--said--tell--told" tabindex="-1" data-src-line="256">④ say → said / tell → told <a class="header-anchor" href="#-say--said--tell--told" aria-hidden="true">#</a></h3>
+<h3 id="-say--said--tell--told" tabindex="-1" data-src-line="254">④ say → said / tell → told <a class="header-anchor" href="#-say--said--tell--told" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She said &quot;hello.&quot; (그녀는 &quot;안녕&quot;이라고 말했습니다.)
 He told me the truth. (그는 나에게 진실을 말했습니다.)
 
 say = 무언가를 말하다 (내용 중심)
 tell = 누군가에게 말하다 (대상 중심)
 </code></pre></div></code></pre>
-<h3 id="-come--came-과거분사는-come으로-복귀" tabindex="-1" data-src-line="266">⑤ come → came (과거분사는 come으로 복귀) <a class="header-anchor" href="#-come--came-과거분사는-come으로-복귀" aria-hidden="true">#</a></h3>
+<h3 id="-come--came-과거분사는-come으로-복귀" tabindex="-1" data-src-line="264">⑤ come → came (과거분사는 come으로 복귀) <a class="header-anchor" href="#-come--came-과거분사는-come으로-복귀" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Please come here. (현재)
 She came to my house yesterday. (과거)
 She has come to my house. (현재완료 — come으로 복귀)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-과거시제-부정문--didnt" tabindex="-1" data-src-line="276">6. 과거시제 부정문 — didn’t <a class="header-anchor" href="#6-과거시제-부정문--didnt" aria-hidden="true">#</a></h2>
+<h2 id="6-과거시제-부정문--didnt" tabindex="-1" data-src-line="274">6. 과거시제 부정문 — didn’t <a class="header-anchor" href="#6-과거시제-부정문--didnt" aria-hidden="true">#</a></h2>
 <p>일반동사 과거 부정문은 <strong>did not(didn’t) + 동사원형</strong>을 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + didn&#039;t + [동사원형]
 </code></pre></div></code></pre>
@@ -709,7 +708,7 @@ We didn&#039;t have time to eat.
 우리는 먹을 시간이 없었습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-과거시제-의문문--did" tabindex="-1" data-src-line="308">7. 과거시제 의문문 — Did <a class="header-anchor" href="#7-과거시제-의문문--did" aria-hidden="true">#</a></h2>
+<h2 id="7-과거시제-의문문--did" tabindex="-1" data-src-line="306">7. 과거시제 의문문 — Did <a class="header-anchor" href="#7-과거시제-의문문--did" aria-hidden="true">#</a></h2>
 <p>과거 의문문은 문장 앞에 <strong>Did</strong>를 붙이고 동사는 원형으로 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Did + [주어] + [동사원형]?
 </code></pre></div></code></pre>
@@ -728,7 +727,7 @@ Did it rain yesterday?
 Did you finish the report?
 보고서 끝냈어요?
 </code></pre></div></code></pre>
-<h3 id="짧은-대답" tabindex="-1" data-src-line="333">짧은 대답 <a class="header-anchor" href="#짧은-대답" aria-hidden="true">#</a></h3>
+<h3 id="짧은-대답" tabindex="-1" data-src-line="331">짧은 대답 <a class="header-anchor" href="#짧은-대답" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Did you see the game last night?
 어젯밤 경기 봤어요?
 
@@ -741,7 +740,7 @@ Did she come to the meeting?
 Yes, she did. / No, she didn&#039;t.
 네, 왔어요. / 아니요, 안 왔어요.
 </code></pre></div></code></pre>
-<h3 id="의문사--did" tabindex="-1" data-src-line="349">의문사 + Did <a class="header-anchor" href="#의문사--did" aria-hidden="true">#</a></h3>
+<h3 id="의문사--did" tabindex="-1" data-src-line="347">의문사 + Did <a class="header-anchor" href="#의문사--did" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What did you do last weekend?
 지난 주말에 뭐 했어요?
 
@@ -761,7 +760,7 @@ Who did you talk to?
 누구와 이야기했어요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-be동사-과거형--was--were" tabindex="-1" data-src-line="373">8. Be동사 과거형 — was / were <a class="header-anchor" href="#8-be동사-과거형--was--were" aria-hidden="true">#</a></h2>
+<h2 id="8-be동사-과거형--was--were" tabindex="-1" data-src-line="371">8. Be동사 과거형 — was / were <a class="header-anchor" href="#8-be동사-과거형--was--were" aria-hidden="true">#</a></h2>
 <p>Be동사의 과거형은 <code>was</code>와 <code>were</code>입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -789,7 +788,7 @@ Who did you talk to?
 </tr>
 </tbody>
 </table>
-</div><h3 id="was--were-긍정문" tabindex="-1" data-src-line="383">was / were 긍정문 <a class="header-anchor" href="#was--were-긍정문" aria-hidden="true">#</a></h3>
+</div><h3 id="was--were-긍정문" tabindex="-1" data-src-line="381">was / were 긍정문 <a class="header-anchor" href="#was--were-긍정문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was tired after work.
 퇴근 후 피곤했습니다.
 
@@ -805,7 +804,7 @@ We were really happy.
 They were late to the meeting.
 그들은 회의에 늦었습니다.
 </code></pre></div></code></pre>
-<h3 id="was--were-부정문" tabindex="-1" data-src-line="402">was / were 부정문 <a class="header-anchor" href="#was--were-부정문" aria-hidden="true">#</a></h3>
+<h3 id="was--were-부정문" tabindex="-1" data-src-line="400">was / were 부정문 <a class="header-anchor" href="#was--were-부정문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I wasn&#039;t hungry at all.
 나는 전혀 배가 고프지 않았습니다.
 
@@ -818,7 +817,7 @@ We weren&#039;t ready for the presentation.
 The weather wasn&#039;t great last week.
 지난주 날씨가 좋지 않았습니다.
 </code></pre></div></code></pre>
-<h3 id="was--were-의문문" tabindex="-1" data-src-line="418">was / were 의문문 <a class="header-anchor" href="#was--were-의문문" aria-hidden="true">#</a></h3>
+<h3 id="was--were-의문문" tabindex="-1" data-src-line="416">was / were 의문문 <a class="header-anchor" href="#was--were-의문문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Were you at the party last night?
 어젯밤 파티에 있었나요?
 
@@ -834,7 +833,7 @@ Was it cold outside?
 Yes, it was. / No, it wasn&#039;t.
 네, 추웠어요. / 아니요, 안 추웠어요.
 </code></pre></div></code></pre>
-<h3 id="의문사--was--were" tabindex="-1" data-src-line="437">의문사 + was / were <a class="header-anchor" href="#의문사--was--were" aria-hidden="true">#</a></h3>
+<h3 id="의문사--was--were" tabindex="-1" data-src-line="435">의문사 + was / were <a class="header-anchor" href="#의문사--was--were" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Where were you last night?
 어젯밤 어디 있었어요?
 
@@ -851,7 +850,7 @@ Why were you so late?
 왜 그렇게 늦었어요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-there-was--there-were" tabindex="-1" data-src-line="458">9. There was / There were <a class="header-anchor" href="#9-there-was--there-were" aria-hidden="true">#</a></h2>
+<h2 id="9-there-was--there-were" tabindex="-1" data-src-line="456">9. There was / There were <a class="header-anchor" href="#9-there-was--there-were" aria-hidden="true">#</a></h2>
 <p>존재 표현의 과거형입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">There was a problem.
 문제가 있었습니다.
@@ -869,7 +868,7 @@ There were no buses at that hour.
 그 시간에는 버스가 없었습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-과거시제-vs-현재완료--미리-알아두기" tabindex="-1" data-src-line="481">10. 과거시제 vs 현재완료 — 미리 알아두기 <a class="header-anchor" href="#10-과거시제-vs-현재완료--미리-알아두기" aria-hidden="true">#</a></h2>
+<h2 id="10-과거시제-vs-현재완료--미리-알아두기" tabindex="-1" data-src-line="479">10. 과거시제 vs 현재완료 — 미리 알아두기 <a class="header-anchor" href="#10-과거시제-vs-현재완료--미리-알아두기" aria-hidden="true">#</a></h2>
 <p>(현재완료는 14강에서 자세히 다루지만, 과거시제와의 핵심 차이를 미리 알아둡니다.)</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -900,8 +899,8 @@ Did you eat Korean food? (특정 과거 시점에)
 Have you ever eaten Korean food? (살면서 경험이 있는지)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-자주-쓰이는-과거-표현-패턴" tabindex="-1" data-src-line="501">11. 자주 쓰이는 과거 표현 패턴 <a class="header-anchor" href="#11-자주-쓰이는-과거-표현-패턴" aria-hidden="true">#</a></h2>
-<h3 id="-어제-한-일-말하기" tabindex="-1" data-src-line="503">① 어제 한 일 말하기 <a class="header-anchor" href="#-어제-한-일-말하기" aria-hidden="true">#</a></h3>
+<h2 id="11-자주-쓰이는-과거-표현-패턴" tabindex="-1" data-src-line="499">11. 자주 쓰이는 과거 표현 패턴 <a class="header-anchor" href="#11-자주-쓰이는-과거-표현-패턴" aria-hidden="true">#</a></h2>
+<h3 id="-어제-한-일-말하기" tabindex="-1" data-src-line="501">① 어제 한 일 말하기 <a class="header-anchor" href="#-어제-한-일-말하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I woke up late yesterday.
 어제 늦게 일어났습니다.
 
@@ -917,7 +916,7 @@ I watched a movie in the evening.
 I went to bed at midnight.
 자정에 잤습니다.
 </code></pre></div></code></pre>
-<h3 id="-지난-여행경험-이야기하기" tabindex="-1" data-src-line="522">② 지난 여행/경험 이야기하기 <a class="header-anchor" href="#-지난-여행경험-이야기하기" aria-hidden="true">#</a></h3>
+<h3 id="-지난-여행경험-이야기하기" tabindex="-1" data-src-line="520">② 지난 여행/경험 이야기하기 <a class="header-anchor" href="#-지난-여행경험-이야기하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I went to Tokyo last year.
 작년에 도쿄에 갔습니다.
 
@@ -933,7 +932,7 @@ I ate sushi every day.
 I had an amazing time.
 정말 멋진 시간을 보냈습니다.
 </code></pre></div></code></pre>
-<h3 id="-과거의-습관--used-to" tabindex="-1" data-src-line="541">③ 과거의 습관 — used to <a class="header-anchor" href="#-과거의-습관--used-to" aria-hidden="true">#</a></h3>
+<h3 id="-과거의-습관--used-to" tabindex="-1" data-src-line="539">③ 과거의 습관 — used to <a class="header-anchor" href="#-과거의-습관--used-to" aria-hidden="true">#</a></h3>
 <p><code>used to + 동사원형</code>은 **과거의 습관이나 상태 (지금은 아님)**를 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I used to drink a lot of coffee.
 나는 커피를 많이 마시곤 했습니다. (지금은 안 마심)
@@ -953,8 +952,8 @@ but now I love them.
 지금은 정말 좋아해요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-실전-회화--과거-이야기하기" tabindex="-1" data-src-line="566">12. 실전 회화 — 과거 이야기하기 <a class="header-anchor" href="#12-실전-회화--과거-이야기하기" aria-hidden="true">#</a></h2>
-<h3 id="상황--주말-이야기" tabindex="-1" data-src-line="568">상황 ① 주말 이야기 <a class="header-anchor" href="#상황--주말-이야기" aria-hidden="true">#</a></h3>
+<h2 id="12-실전-회화--과거-이야기하기" tabindex="-1" data-src-line="564">12. 실전 회화 — 과거 이야기하기 <a class="header-anchor" href="#12-실전-회화--과거-이야기하기" aria-hidden="true">#</a></h2>
+<h3 id="상황--주말-이야기" tabindex="-1" data-src-line="566">상황 ① 주말 이야기 <a class="header-anchor" href="#상황--주말-이야기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: How was your weekend?
    주말 어땠어요?
 
@@ -989,7 +988,7 @@ A: I stayed home mostly. I slept in,
    청소하고, 영화 봤어요.
    당신 주말만큼 신나지는 않았네요!
 </code></pre></div></code></pre>
-<h3 id="상황--첫-만남-스토리" tabindex="-1" data-src-line="606">상황 ② 첫 만남 스토리 <a class="header-anchor" href="#상황--첫-만남-스토리" aria-hidden="true">#</a></h3>
+<h3 id="상황--첫-만남-스토리" tabindex="-1" data-src-line="604">상황 ② 첫 만남 스토리 <a class="header-anchor" href="#상황--첫-만남-스토리" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: How did you two meet?
    두 분은 어떻게 만나셨어요?
 
@@ -1016,7 +1015,7 @@ B: We did! We had dinner together that night,
    했죠! 그날 밤 같이 저녁을 먹었고,
    그 후로 계속 만났어요.
 </code></pre></div></code></pre>
-<h3 id="상황--과거-직업-이야기" tabindex="-1" data-src-line="636">상황 ③ 과거 직업 이야기 <a class="header-anchor" href="#상황--과거-직업-이야기" aria-hidden="true">#</a></h3>
+<h3 id="상황--과거-직업-이야기" tabindex="-1" data-src-line="634">상황 ③ 과거 직업 이야기 <a class="header-anchor" href="#상황--과거-직업-이야기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: What did you do before this job?
    이 직장 이전에 어떤 일을 하셨어요?
 
@@ -1050,8 +1049,8 @@ B: I took a six-month break,
    깨달았어요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="13-자주-틀리는-실수-정리" tabindex="-1" data-src-line="674">13. 자주 틀리는 실수 정리 <a class="header-anchor" href="#13-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
-<h3 id="실수--didnt-뒤에-과거형-사용" tabindex="-1" data-src-line="676">실수 ① didn’t 뒤에 과거형 사용 <a class="header-anchor" href="#실수--didnt-뒤에-과거형-사용" aria-hidden="true">#</a></h3>
+<h2 id="13-자주-틀리는-실수-정리" tabindex="-1" data-src-line="672">13. 자주 틀리는 실수 정리 <a class="header-anchor" href="#13-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--didnt-뒤에-과거형-사용" tabindex="-1" data-src-line="674">실수 ① didn’t 뒤에 과거형 사용 <a class="header-anchor" href="#실수--didnt-뒤에-과거형-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I didn&#039;t went to school.
 ✅ I didn&#039;t go to school.
 → didn&#039;t가 이미 과거 표현 → 동사원형 사용
@@ -1059,12 +1058,12 @@ B: I took a six-month break,
 ❌ She didn&#039;t came to the party.
 ✅ She didn&#039;t come to the party.
 </code></pre></div></code></pre>
-<h3 id="실수--did-의문문에-과거형-사용" tabindex="-1" data-src-line="687">실수 ② Did 의문문에 과거형 사용 <a class="header-anchor" href="#실수--did-의문문에-과거형-사용" aria-hidden="true">#</a></h3>
+<h3 id="실수--did-의문문에-과거형-사용" tabindex="-1" data-src-line="685">실수 ② Did 의문문에 과거형 사용 <a class="header-anchor" href="#실수--did-의문문에-과거형-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Did you went there?
 ✅ Did you go there?
 → Did가 이미 과거 표현 → 동사원형 사용
 </code></pre></div></code></pre>
-<h3 id="실수--불규칙-동사를-규칙형으로-쓰기" tabindex="-1" data-src-line="695">실수 ③ 불규칙 동사를 규칙형으로 쓰기 <a class="header-anchor" href="#실수--불규칙-동사를-규칙형으로-쓰기" aria-hidden="true">#</a></h3>
+<h3 id="실수--불규칙-동사를-규칙형으로-쓰기" tabindex="-1" data-src-line="693">실수 ③ 불규칙 동사를 규칙형으로 쓰기 <a class="header-anchor" href="#실수--불규칙-동사를-규칙형으로-쓰기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I goed to the store. (go의 과거형은 went)
 ✅ I went to the store.
 
@@ -1074,7 +1073,7 @@ B: I took a six-month break,
 ❌ He buyed a new phone. (buy의 과거형은 bought)
 ✅ He bought a new phone.
 </code></pre></div></code></pre>
-<h3 id="실수--waswere-혼동" tabindex="-1" data-src-line="708">실수 ④ was/were 혼동 <a class="header-anchor" href="#실수--waswere-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--waswere-혼동" tabindex="-1" data-src-line="706">실수 ④ was/were 혼동 <a class="header-anchor" href="#실수--waswere-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ They was tired.
 ✅ They were tired.
 → They → were
@@ -1083,14 +1082,14 @@ B: I took a six-month break,
 ✅ You were right.
 → You → were (단수도 were!)
 </code></pre></div></code></pre>
-<h3 id="실수--used-to-뒤에-과거형-사용" tabindex="-1" data-src-line="720">실수 ⑤ used to 뒤에 과거형 사용 <a class="header-anchor" href="#실수--used-to-뒤에-과거형-사용" aria-hidden="true">#</a></h3>
+<h3 id="실수--used-to-뒤에-과거형-사용" tabindex="-1" data-src-line="718">실수 ⑤ used to 뒤에 과거형 사용 <a class="header-anchor" href="#실수--used-to-뒤에-과거형-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I used to went there every day.
 ✅ I used to go there every day.
 → used to + 동사원형
 </code></pre></div></code></pre>
 <hr>
-<h2 id="14-불규칙-동사-암기-팁" tabindex="-1" data-src-line="730">14. 불규칙 동사 암기 팁 <a class="header-anchor" href="#14-불규칙-동사-암기-팁" aria-hidden="true">#</a></h2>
-<h3 id="소리-패턴으로-묶어서-외우기" tabindex="-1" data-src-line="732">소리 패턴으로 묶어서 외우기 <a class="header-anchor" href="#소리-패턴으로-묶어서-외우기" aria-hidden="true">#</a></h3>
+<h2 id="14-불규칙-동사-암기-팁" tabindex="-1" data-src-line="728">14. 불규칙 동사 암기 팁 <a class="header-anchor" href="#14-불규칙-동사-암기-팁" aria-hidden="true">#</a></h2>
+<h3 id="소리-패턴으로-묶어서-외우기" tabindex="-1" data-src-line="730">소리 패턴으로 묶어서 외우기 <a class="header-anchor" href="#소리-패턴으로-묶어서-외우기" aria-hidden="true">#</a></h3>
 <p><strong>-ought 그룹</strong></p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">buy → bought / bring → brought / think → thought
 teach → taught / catch → caught / fight → fought
@@ -1119,7 +1118,7 @@ drive → drove / write → wrote
 throw → threw / fly → flew
 </code></pre></div></code></pre>
 <hr>
-<h2 id="15-문형-정리" tabindex="-1" data-src-line="775">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="15-문형-정리" tabindex="-1" data-src-line="773">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -1192,7 +1191,7 @@ throw → threw / fly → flew
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="794">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="792">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>과거시제의 핵심 세 가지를 기억하세요.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 규칙 동사 → + ed (발음은 /t/, /d/, /ɪd/ 세 가지)
 ② 불규칙 동사 → 패턴 그룹으로 묶어 암기

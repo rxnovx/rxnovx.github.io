@@ -1,19 +1,18 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-d:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-f:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+d:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+f:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 10:I[484,[],"OutletBoundary"]
 11:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-02-pronunciation\"},\"headline\":\"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음\",\"description\":\"히라가나·가타카나를 넘어, 일본어의 핵심 발음 규칙을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-26T12:51:00.000Z\",\"dateModified\":\"2026-04-26T12:51:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-02-pronunciation\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"pronunciation\",\"dakuten\",\"yoon\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음","slugPath":"japanese/japanese-lesson-02-pronunciation","headings":[{"id":"일본어-2강-발음-규칙-완전-정복","text":"일본어 2강: 발음 규칙 완전 정복","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-탁음---탁점-","text":"1. 탁음 (濁音) — 탁점 ゛","level":2},{"id":"단어-예시","text":"단어 예시","level":3},{"id":"2-반탁음---반탁점-","text":"2. 반탁음 (半濁音) — 반탁점 ゜","level":2},{"id":"단어-예시-1","text":"단어 예시","level":3},{"id":"3-요음---작은-","text":"3. 요음 (拗音) — 작은 ゃゅょ","level":2},{"id":"히라가나-요음-일람","text":"히라가나 요음 일람","level":3},{"id":"단어-예시-2","text":"단어 예시","level":3},{"id":"4-촉음---작은-","text":"4. 촉음 (促音) — 작은 っ","level":2},{"id":"발음-방법","text":"발음 방법","level":3},{"id":"단어-예시-3","text":"단어 예시","level":3},{"id":"5-장음---모음을-늘려서-발음","text":"5. 장음 (長音) — 모음을 늘려서 발음","level":2},{"id":"히라가나의-장음-규칙","text":"히라가나의 장음 규칙","level":3},{"id":"가타카나의-장음-표기","text":"가타카나의 장음 표기","level":3},{"id":"장음이-의미를-바꾸는-경우","text":"장음이 의미를 바꾸는 경우","level":3},{"id":"6-한국인이-자주-틀리는-발음-포인트","text":"6. 한국인이 자주 틀리는 발음 포인트","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-02-pronunciation"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"히라가나·가타카나를 넘어, 일본어의 핵심 발음 규칙을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-26T12:51:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 26일"]}],["$","time",null,{"dateTime":"2026-04-26T12:51:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 26일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],"$L3","$L4","$L5","$L6","$L7"]}]]}],"$L8"]}],"$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-02-pronunciation\"},\"headline\":\"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음\",\"description\":\"히라가나·가타카나를 넘어, 일본어의 핵심 발음 규칙을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-26T12:51:00.000Z\",\"dateModified\":\"2026-04-26T12:51:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-02-pronunciation\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"pronunciation\",\"dakuten\",\"yoon\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음","slugPath":"japanese/japanese-lesson-02-pronunciation","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-탁음---탁점-","text":"1. 탁음 (濁音) — 탁점 ゛","level":2},{"id":"단어-예시","text":"단어 예시","level":3},{"id":"2-반탁음---반탁점-","text":"2. 반탁음 (半濁音) — 반탁점 ゜","level":2},{"id":"단어-예시-1","text":"단어 예시","level":3},{"id":"3-요음---작은-","text":"3. 요음 (拗音) — 작은 ゃゅょ","level":2},{"id":"히라가나-요음-일람","text":"히라가나 요음 일람","level":3},{"id":"단어-예시-2","text":"단어 예시","level":3},{"id":"4-촉음---작은-","text":"4. 촉음 (促音) — 작은 っ","level":2},{"id":"발음-방법","text":"발음 방법","level":3},{"id":"단어-예시-3","text":"단어 예시","level":3},{"id":"5-장음---모음을-늘려서-발음","text":"5. 장음 (長音) — 모음을 늘려서 발음","level":2},{"id":"히라가나의-장음-규칙","text":"히라가나의 장음 규칙","level":3},{"id":"가타카나의-장음-표기","text":"가타카나의 장음 표기","level":3},{"id":"장음이-의미를-바꾸는-경우","text":"장음이 의미를 바꾸는 경우","level":3},{"id":"6-한국인이-자주-틀리는-발음-포인트","text":"6. 한국인이 자주 틀리는 발음 포인트","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-02-pronunciation"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 2강: 발음 규칙 완전 정복 — 탁음·반탁음·요음·촉음·장음"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"히라가나·가타카나를 넘어, 일본어의 핵심 발음 규칙을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-26T12:51:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 26일"]}],["$","time",null,{"dateTime":"2026-04-26T12:51:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 26일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],"$L3","$L4","$L5","$L6","$L7"]}]]}],"$L8"]}],"$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
 3:["$","span","pronunciation",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","pronunciation"]}]
 4:["$","span","dakuten",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","dakuten"]}]
 5:["$","span","yoon",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","yoon"]}]
 6:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
 7:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
 8:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-src-line="1">일본어 2강: 발음 규칙 완전 정복 <a class="header-anchor" href="#일본어-2강-발음-규칙-완전-정복" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-2강-발음-규칙-완전-정복">일본어 2강: 발음 규칙 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-탁음---탁점-">1. 탁음 (濁音) — 탁점 ゛ </a><ul><li><a href="#단어-예시">단어 예시 </a></li></ul></li><li><a href="#2-반탁음---반탁점-">2. 반탁음 (半濁音) — 반탁점 ゜ </a><ul><li><a href="#단어-예시-1">단어 예시 </a></li></ul></li><li><a href="#3-요음---작은-">3. 요음 (拗音) — 작은 ゃゅょ </a><ul><li><a href="#히라가나-요음-일람">히라가나 요음 일람 </a></li><li><a href="#단어-예시-2">단어 예시 </a></li></ul></li><li><a href="#4-촉음---작은-">4. 촉음 (促音) — 작은 っ </a><ul><li><a href="#발음-방법">발음 방법 </a></li><li><a href="#단어-예시-3">단어 예시 </a></li></ul></li><li><a href="#5-장음---모음을-늘려서-발음">5. 장음 (長音) — 모음을 늘려서 발음 </a><ul><li><a href="#히라가나의-장음-규칙">히라가나의 장음 규칙 </a></li><li><a href="#가타카나의-장음-표기">가타카나의 장음 표기 </a></li><li><a href="#장음이-의미를-바꾸는-경우">장음이 의미를 바꾸는 경우 </a></li></ul></li><li><a href="#6-한국인이-자주-틀리는-발음-포인트">6. 한국인이 자주 틀리는 발음 포인트 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+e:T437b,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-탁음---탁점-">1. 탁음 (濁音) — 탁점 ゛ </a><ul><li><a href="#단어-예시">단어 예시 </a></li></ul></li><li><a href="#2-반탁음---반탁점-">2. 반탁음 (半濁音) — 반탁점 ゜ </a><ul><li><a href="#단어-예시-1">단어 예시 </a></li></ul></li><li><a href="#3-요음---작은-">3. 요음 (拗音) — 작은 ゃゅょ </a><ul><li><a href="#히라가나-요음-일람">히라가나 요음 일람 </a></li><li><a href="#단어-예시-2">단어 예시 </a></li></ul></li><li><a href="#4-촉음---작은-">4. 촉음 (促音) — 작은 っ </a><ul><li><a href="#발음-방법">발음 방법 </a></li><li><a href="#단어-예시-3">단어 예시 </a></li></ul></li><li><a href="#5-장음---모음을-늘려서-발음">5. 장음 (長音) — 모음을 늘려서 발음 </a><ul><li><a href="#히라가나의-장음-규칙">히라가나의 장음 규칙 </a></li><li><a href="#가타카나의-장음-표기">가타카나의 장음 표기 </a></li><li><a href="#장음이-의미를-바꾸는-경우">장음이 의미를 바꾸는 경우 </a></li></ul></li><li><a href="#6-한국인이-자주-틀리는-발음-포인트">6. 한국인이 자주 틀리는 발음 포인트 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>1강에서 히라가나·가타카나 46자를 익혔다면, 이번 강에서는 그것을 <strong>변형·확장하는 발음 규칙</strong>을 다룹니다.</p>
 <blockquote>
 <p>이 글을 읽고 나면:</p>
@@ -25,7 +24,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-탁음---탁점-" tabindex="-1" data-src-line="17">1. 탁음 (濁音) — 탁점 ゛ <a class="header-anchor" href="#1-탁음---탁점-" aria-hidden="true">#</a></h2>
+<h2 id="1-탁음---탁점-" tabindex="-1" data-src-line="15">1. 탁음 (濁音) — 탁점 ゛ <a class="header-anchor" href="#1-탁음---탁점-" aria-hidden="true">#</a></h2>
 <p>기본 글자 오른쪽 위에 <strong>탁점(゛)</strong> 을 붙이면 탁음이 됩니다.<br>
 탁점은 か·さ·た·は행에만 붙을 수 있습니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
@@ -139,7 +138,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tr>
 </tbody>
 </table>
-</div><h3 id="단어-예시" tabindex="-1" data-src-line="45">단어 예시 <a class="header-anchor" href="#단어-예시" aria-hidden="true">#</a></h3>
+</div><h3 id="단어-예시" tabindex="-1" data-src-line="43">단어 예시 <a class="header-anchor" href="#단어-예시" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -175,7 +174,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 <p>💡 <strong>학습 팁</strong>: が행은 단어 중간·끝에 올 때 콧소리(ㅇ 비음)로 발음되는 경향이 있습니다. (지역마다 차이 있음)</p>
 </blockquote>
 <hr>
-<h2 id="2-반탁음---반탁점-" tabindex="-1" data-src-line="58">2. 반탁음 (半濁音) — 반탁점 ゜ <a class="header-anchor" href="#2-반탁음---반탁점-" aria-hidden="true">#</a></h2>
+<h2 id="2-반탁음---반탁점-" tabindex="-1" data-src-line="56">2. 반탁음 (半濁音) — 반탁점 ゜ <a class="header-anchor" href="#2-반탁음---반탁점-" aria-hidden="true">#</a></h2>
 <p><strong>반탁점(゜)</strong> 은 は행에만 붙으며, 영어의 ‘p’ 발음을 만듭니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -213,7 +212,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tr>
 </tbody>
 </table>
-</div><h3 id="단어-예시-1" tabindex="-1" data-src-line="70">단어 예시 <a class="header-anchor" href="#단어-예시-1" aria-hidden="true">#</a></h3>
+</div><h3 id="단어-예시-1" tabindex="-1" data-src-line="68">단어 예시 <a class="header-anchor" href="#단어-예시-1" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -241,12 +240,12 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tbody>
 </table>
 </div><hr>
-<h2 id="3-요음---작은-" tabindex="-1" data-src-line="80">3. 요음 (拗音) — 작은 ゃゅょ <a class="header-anchor" href="#3-요음---작은-" aria-hidden="true">#</a></h2>
+<h2 id="3-요음---작은-" tabindex="-1" data-src-line="78">3. 요음 (拗音) — 작은 ゃゅょ <a class="header-anchor" href="#3-요음---작은-" aria-hidden="true">#</a></h2>
 <p><strong>い단 글자 + 작은 ゃ·ゅ·ょ</strong> 를 붙이면 두 글자를 한 박자로 읽습니다.<br>
 크게 쓰면 두 박자, 작게 쓰면 한 박자라는 점이 핵심입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">きや (2박자: き + や) ≠ きゃ (1박자: kya)
 </code></pre></div></code></pre>
-<h3 id="히라가나-요음-일람" tabindex="-1" data-src-line="89">히라가나 요음 일람 <a class="header-anchor" href="#히라가나-요음-일람" aria-hidden="true">#</a></h3>
+<h3 id="히라가나-요음-일람" tabindex="-1" data-src-line="87">히라가나 요음 일람 <a class="header-anchor" href="#히라가나-요음-일람" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -325,7 +324,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tr>
 </tbody>
 </table>
-</div><h3 id="단어-예시-2" tabindex="-1" data-src-line="105">단어 예시 <a class="header-anchor" href="#단어-예시-2" aria-hidden="true">#</a></h3>
+</div><h3 id="단어-예시-2" tabindex="-1" data-src-line="103">단어 예시 <a class="header-anchor" href="#단어-예시-2" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -358,19 +357,19 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tbody>
 </table>
 </div><hr>
-<h2 id="4-촉음---작은-" tabindex="-1" data-src-line="116">4. 촉음 (促音) — 작은 っ <a class="header-anchor" href="#4-촉음---작은-" aria-hidden="true">#</a></h2>
+<h2 id="4-촉음---작은-" tabindex="-1" data-src-line="114">4. 촉음 (促音) — 작은 っ <a class="header-anchor" href="#4-촉음---작은-" aria-hidden="true">#</a></h2>
 <p>작은 <strong>っ</strong> 는 다음에 오는 자음을 한 박자 동안 <strong>막아서</strong> 발음하는 것입니다.<br>
 한국어의 받침과 유사하지만, <strong>막힌 상태로 1박을 유지</strong>한다는 점이 다릅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">きて (ki-te, 2박) ≠ きって (ki-tt-e, 3박)
 </code></pre></div></code></pre>
-<h3 id="발음-방법" tabindex="-1" data-src-line="125">발음 방법 <a class="header-anchor" href="#발음-방법" aria-hidden="true">#</a></h3>
+<h3 id="발음-방법" tabindex="-1" data-src-line="123">발음 방법 <a class="header-anchor" href="#발음-방법" aria-hidden="true">#</a></h3>
 <ul>
 <li>っ 다음에 <strong>か행</strong> → 혀를 ‘ㄱ’ 위치에서 막기: がっこう (학교)</li>
 <li>っ 다음에 <strong>さ행</strong> → ‘s’ 소리를 늘려서 막기: ざっし (잡지)</li>
 <li>っ 다음에 <strong>た행</strong> → 혀를 ‘ㄷ’ 위치에서 막기: きって (우표)</li>
 <li>っ 다음에 <strong>ぱ행</strong> → 입술을 ‘ㅂ’ 위치에서 막기: きっぷ (표)</li>
 </ul>
-<h3 id="단어-예시-3" tabindex="-1" data-src-line="132">단어 예시 <a class="header-anchor" href="#단어-예시-3" aria-hidden="true">#</a></h3>
+<h3 id="단어-예시-3" tabindex="-1" data-src-line="130">단어 예시 <a class="header-anchor" href="#단어-예시-3" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -407,9 +406,9 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 <code>いて</code> (있어) vs <code>いって</code> (가버려)</p>
 </blockquote>
 <hr>
-<h2 id="5-장음---모음을-늘려서-발음" tabindex="-1" data-src-line="146">5. 장음 (長音) — 모음을 늘려서 발음 <a class="header-anchor" href="#5-장음---모음을-늘려서-발음" aria-hidden="true">#</a></h2>
+<h2 id="5-장음---모음을-늘려서-발음" tabindex="-1" data-src-line="144">5. 장음 (長音) — 모음을 늘려서 발음 <a class="header-anchor" href="#5-장음---모음을-늘려서-발음" aria-hidden="true">#</a></h2>
 <p>일본어는 모음을 <strong>2박자로 길게</strong> 늘려 발음하는 경우가 있으며, 의미가 달라지기도 합니다.</p>
-<h3 id="히라가나의-장음-규칙" tabindex="-1" data-src-line="150">히라가나의 장음 규칙 <a class="header-anchor" href="#히라가나의-장음-규칙" aria-hidden="true">#</a></h3>
+<h3 id="히라가나의-장음-규칙" tabindex="-1" data-src-line="148">히라가나의 장음 규칙 <a class="header-anchor" href="#히라가나의-장음-규칙" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -446,7 +445,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tr>
 </tbody>
 </table>
-</div><h3 id="가타카나의-장음-표기" tabindex="-1" data-src-line="160">가타카나의 장음 표기 <a class="header-anchor" href="#가타카나의-장음-표기" aria-hidden="true">#</a></h3>
+</div><h3 id="가타카나의-장음-표기" tabindex="-1" data-src-line="158">가타카나의 장음 표기 <a class="header-anchor" href="#가타카나의-장음-표기" aria-hidden="true">#</a></h3>
 <p>가타카나에서는 장음을 <strong>ー(장음 부호)</strong> 로 통일하여 표기합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -474,7 +473,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tr>
 </tbody>
 </table>
-</div><h3 id="장음이-의미를-바꾸는-경우" tabindex="-1" data-src-line="170">장음이 의미를 바꾸는 경우 <a class="header-anchor" href="#장음이-의미를-바꾸는-경우" aria-hidden="true">#</a></h3>
+</div><h3 id="장음이-의미를-바꾸는-경우" tabindex="-1" data-src-line="168">장음이 의미를 바꾸는 경우 <a class="header-anchor" href="#장음이-의미를-바꾸는-경우" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">おばさん (아줌마) vs おばあさん (할머니)
 おじさん (아저씨) vs おじいさん (할아버지)
 </code></pre></div></code></pre>
@@ -482,7 +481,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 <p>⚠️ 장음을 짧게 발음하면 완전히 다른 단어가 됩니다!</p>
 </blockquote>
 <hr>
-<h2 id="6-한국인이-자주-틀리는-발음-포인트" tabindex="-1" data-src-line="181">6. 한국인이 자주 틀리는 발음 포인트 <a class="header-anchor" href="#6-한국인이-자주-틀리는-발음-포인트" aria-hidden="true">#</a></h2>
+<h2 id="6-한국인이-자주-틀리는-발음-포인트" tabindex="-1" data-src-line="179">6. 한국인이 자주 틀리는 발음 포인트 <a class="header-anchor" href="#6-한국인이-자주-틀리는-발음-포인트" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -526,7 +525,7 @@ e:T44dd,<h1 id="일본어-2강-발음-규칙-완전-정복" tabindex="-1" data-s
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="193">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="191">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>탁음·반탁음·요음·촉음·장음까지 익혔다면, 이제 일본어의 <strong>모든 기본 발음을 표기하고 읽을 수 있는</strong> 단계에 도달한 것입니다.</p>
 <p>발음은 머리로만 이해하는 것보다 <strong>소리 내어 반복 연습</strong>하는 것이 가장 효과적입니다.</p>
 <p>다음 강에서는 드디어 문장으로 들어가, <strong>자기소개 표현(～は～です)</strong> 을 배웁니다.</p>

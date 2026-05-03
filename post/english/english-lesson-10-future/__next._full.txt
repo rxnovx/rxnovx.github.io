@@ -1,17 +1,17 @@
 1:"$Sreact.fragment"
-2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
-3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-1897dd8696969296.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-1897dd8696969296.js"],"default"]
 4:I[7121,[],""]
 5:I[4581,[],""]
-6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-46cec2f3d55c495b.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-66334d14f3932713.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 12:I[7123,[],""]
 :HL["/_next/static/css/14fe0f083043dbad.css","style"]
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"P":null,"b":"BZTH37Uy6GEY691ei5xtr","c":["","post","english","english-lesson-10-future",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english/english-lesson-10-future","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+0:{"P":null,"b":"qoJUPqiJL4LTaAn44JHJO","c":["","post","english","english-lesson-10-future",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english/english-lesson-10-future","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
-17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+17:I[1009,["209","static/chunks/app/loading-d719388b49f0797d.js"],"default"]
 18:I[484,[],"ViewportBoundary"]
 1a:I[484,[],"MetadataBoundary"]
 8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
@@ -24,12 +24,11 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-10-future\"},\"headline\":\"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형\",\"description\":\"영어의 다양한 미래 표현, will과 be going to의 뉘앙스 차이부터 shall, be about to까지 미래를 표현하는 모든 방법을 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-02T14:42:00.000Z\",\"dateModified\":\"2026-05-02T14:42:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-10-future\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"future\",\"will\",\"be-going-to\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형","slugPath":"english/english-lesson-10-future","headings":[{"id":"영어-10강-미래-표현-완전-정복--will--be-going-to--현재진행형","text":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-영어-미래-표현-개요","text":"1. 영어 미래 표현 개요","level":2},{"id":"2-will--3가지-핵심-용법","text":"2. will — 3가지 핵심 용법","level":2},{"id":"용법--즉흥적-결정-말하는-순간에-결정","text":"용법 ① 즉흥적 결정 (말하는 순간에 결정)","level":3},{"id":"용법--의지약속거절","text":"용법 ② 의지·약속·거절","level":3},{"id":"용법--미래-예측-근거-없는-추측일반적-예상","text":"용법 ③ 미래 예측 (근거 없는 추측·일반적 예상)","level":3},{"id":"3-be-going-to--2가지-핵심-용법","text":"3. be going to — 2가지 핵심 용법","level":2},{"id":"용법--이미-계획결정된-미래","text":"용법 ① 이미 계획·결정된 미래","level":3},{"id":"용법--근거-있는-예측-눈에-보이는-증거가-있음","text":"용법 ② 근거 있는 예측 (눈에 보이는 증거가 있음)","level":3},{"id":"4-will-vs-be-going-to--핵심-차이-완전-비교","text":"4. will vs be going to — 핵심 차이 완전 비교","level":2},{"id":"예시--계획-vs-즉흥","text":"예시 ① 계획 vs 즉흥","level":3},{"id":"예시--예측의-근거-유무","text":"예시 ② 예측의 근거 유무","level":3},{"id":"예시--도움-제안","text":"예시 ③ 도움 제안","level":3},{"id":"will-vs-be-going-to-비교표","text":"will vs be going to 비교표","level":3},{"id":"5-will의-부정문의문문","text":"5. will의 부정문·의문문","level":2},{"id":"부정문--wont-will-not","text":"부정문 — won't (will not)","level":3},{"id":"의문문--will--주어--동사원형","text":"의문문 — Will + 주어 + 동사원형?","level":3},{"id":"will-you---부탁요청","text":"Will you ~? — 부탁·요청","level":3},{"id":"의문사--will","text":"의문사 + will","level":3},{"id":"6-be-going-to의-부정문의문문","text":"6. be going to의 부정문·의문문","level":2},{"id":"부정문--amisare-not-going-to","text":"부정문 — am/is/are not going to","level":3},{"id":"의문문--amisare--주어--going-to--동사원형","text":"의문문 — Am/Is/Are + 주어 + going to + 동사원형?","level":3},{"id":"의문사--be-going-to","text":"의문사 + be going to","level":3},{"id":"7-현재진행형으로-미래-표현하기","text":"7. 현재진행형으로 미래 표현하기","level":2},{"id":"현재진행형-vs-be-going-to--미래에서의-차이","text":"현재진행형 vs be going to — 미래에서의 차이","level":3},{"id":"8-현재시제로-미래-표현--공식-일정","text":"8. 현재시제로 미래 표현 — 공식 일정","level":2},{"id":"9-추가-미래-표현","text":"9. 추가 미래 표현","level":2},{"id":"-shall--제안권유-격식체-주로-영국-영어","text":"① shall — 제안·권유 (격식체, 주로 영국 영어)","level":3},{"id":"-be-about-to--막-하려는-참","text":"② be about to — 막 ~하려는 참","level":3},{"id":"-be-supposed-to--하기로-되어-있다","text":"③ be supposed to — ~하기로 되어 있다","level":3},{"id":"-be-likely-to--할-가능성이-높다","text":"④ be likely to — ~할 가능성이 높다","level":3},{"id":"-be-expected-to--할-것으로-예상된다","text":"⑤ be expected to — ~할 것으로 예상된다","level":3},{"id":"10-미래-시간-표현-어휘","text":"10. 미래 시간 표현 어휘","level":2},{"id":"11-미래-표현-선택-가이드","text":"11. 미래 표현 선택 가이드","level":2},{"id":"12-실전-회화--미래-표현-총동원","text":"12. 실전 회화 — 미래 표현 총동원","level":2},{"id":"상황--주말-계획-이야기","text":"상황 ① 주말 계획 이야기","level":3},{"id":"상황--직장에서의-즉흥-결정","text":"상황 ② 직장에서의 즉흥 결정","level":3},{"id":"상황--미래-목표-이야기","text":"상황 ③ 미래 목표 이야기","level":3},{"id":"13-자주-틀리는-실수-정리","text":"13. 자주 틀리는 실수 정리","level":2},{"id":"실수--즉흥-결정에-be-going-to-사용","text":"실수 ① 즉흥 결정에 be going to 사용","level":3},{"id":"실수--will-뒤에-to-붙이기","text":"실수 ② will 뒤에 to 붙이기","level":3},{"id":"실수--be-going-to에서-be동사-생략","text":"실수 ③ be going to에서 Be동사 생략","level":3},{"id":"실수--wont-발음철자-혼동","text":"실수 ④ won't 발음·철자 혼동","level":3},{"id":"실수--be-supposed-to-뒤에--ing-사용","text":"실수 ⑤ be supposed to 뒤에 -ing 사용","level":3},{"id":"14-a1-레벨-전체-핵심-문법-복습","text":"14. A1 레벨 전체 핵심 문법 복습","level":2},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L1d","$L1e","$L1f"]}]
-21:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-10-future\"},\"headline\":\"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형\",\"description\":\"영어의 다양한 미래 표현, will과 be going to의 뉘앙스 차이부터 shall, be about to까지 미래를 표현하는 모든 방법을 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-02T14:42:00.000Z\",\"dateModified\":\"2026-05-02T14:42:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-10-future\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"future\",\"will\",\"be-going-to\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형","slugPath":"english/english-lesson-10-future","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-영어-미래-표현-개요","text":"1. 영어 미래 표현 개요","level":2},{"id":"2-will--3가지-핵심-용법","text":"2. will — 3가지 핵심 용법","level":2},{"id":"용법--즉흥적-결정-말하는-순간에-결정","text":"용법 ① 즉흥적 결정 (말하는 순간에 결정)","level":3},{"id":"용법--의지약속거절","text":"용법 ② 의지·약속·거절","level":3},{"id":"용법--미래-예측-근거-없는-추측일반적-예상","text":"용법 ③ 미래 예측 (근거 없는 추측·일반적 예상)","level":3},{"id":"3-be-going-to--2가지-핵심-용법","text":"3. be going to — 2가지 핵심 용법","level":2},{"id":"용법--이미-계획결정된-미래","text":"용법 ① 이미 계획·결정된 미래","level":3},{"id":"용법--근거-있는-예측-눈에-보이는-증거가-있음","text":"용법 ② 근거 있는 예측 (눈에 보이는 증거가 있음)","level":3},{"id":"4-will-vs-be-going-to--핵심-차이-완전-비교","text":"4. will vs be going to — 핵심 차이 완전 비교","level":2},{"id":"예시--계획-vs-즉흥","text":"예시 ① 계획 vs 즉흥","level":3},{"id":"예시--예측의-근거-유무","text":"예시 ② 예측의 근거 유무","level":3},{"id":"예시--도움-제안","text":"예시 ③ 도움 제안","level":3},{"id":"will-vs-be-going-to-비교표","text":"will vs be going to 비교표","level":3},{"id":"5-will의-부정문의문문","text":"5. will의 부정문·의문문","level":2},{"id":"부정문--wont-will-not","text":"부정문 — won't (will not)","level":3},{"id":"의문문--will--주어--동사원형","text":"의문문 — Will + 주어 + 동사원형?","level":3},{"id":"will-you---부탁요청","text":"Will you ~? — 부탁·요청","level":3},{"id":"의문사--will","text":"의문사 + will","level":3},{"id":"6-be-going-to의-부정문의문문","text":"6. be going to의 부정문·의문문","level":2},{"id":"부정문--amisare-not-going-to","text":"부정문 — am/is/are not going to","level":3},{"id":"의문문--amisare--주어--going-to--동사원형","text":"의문문 — Am/Is/Are + 주어 + going to + 동사원형?","level":3},{"id":"의문사--be-going-to","text":"의문사 + be going to","level":3},{"id":"7-현재진행형으로-미래-표현하기","text":"7. 현재진행형으로 미래 표현하기","level":2},{"id":"현재진행형-vs-be-going-to--미래에서의-차이","text":"현재진행형 vs be going to — 미래에서의 차이","level":3},{"id":"8-현재시제로-미래-표현--공식-일정","text":"8. 현재시제로 미래 표현 — 공식 일정","level":2},{"id":"9-추가-미래-표현","text":"9. 추가 미래 표현","level":2},{"id":"-shall--제안권유-격식체-주로-영국-영어","text":"① shall — 제안·권유 (격식체, 주로 영국 영어)","level":3},{"id":"-be-about-to--막-하려는-참","text":"② be about to — 막 ~하려는 참","level":3},{"id":"-be-supposed-to--하기로-되어-있다","text":"③ be supposed to — ~하기로 되어 있다","level":3},{"id":"-be-likely-to--할-가능성이-높다","text":"④ be likely to — ~할 가능성이 높다","level":3},{"id":"-be-expected-to--할-것으로-예상된다","text":"⑤ be expected to — ~할 것으로 예상된다","level":3},{"id":"10-미래-시간-표현-어휘","text":"10. 미래 시간 표현 어휘","level":2},{"id":"11-미래-표현-선택-가이드","text":"11. 미래 표현 선택 가이드","level":2},{"id":"12-실전-회화--미래-표현-총동원","text":"12. 실전 회화 — 미래 표현 총동원","level":2},{"id":"상황--주말-계획-이야기","text":"상황 ① 주말 계획 이야기","level":3},{"id":"상황--직장에서의-즉흥-결정","text":"상황 ② 직장에서의 즉흥 결정","level":3},{"id":"상황--미래-목표-이야기","text":"상황 ③ 미래 목표 이야기","level":3},{"id":"13-자주-틀리는-실수-정리","text":"13. 자주 틀리는 실수 정리","level":2},{"id":"실수--즉흥-결정에-be-going-to-사용","text":"실수 ① 즉흥 결정에 be going to 사용","level":3},{"id":"실수--will-뒤에-to-붙이기","text":"실수 ② will 뒤에 to 붙이기","level":3},{"id":"실수--be-going-to에서-be동사-생략","text":"실수 ③ be going to에서 Be동사 생략","level":3},{"id":"실수--wont-발음철자-혼동","text":"실수 ④ won't 발음·철자 혼동","level":3},{"id":"실수--be-supposed-to-뒤에--ing-사용","text":"실수 ⑤ be supposed to 뒤에 -ing 사용","level":3},{"id":"14-a1-레벨-전체-핵심-문법-복습","text":"14. A1 레벨 전체 핵심 문법 복습","level":2},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L1d","$L1e","$L1f"]}]
+21:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
 1d:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-10-future"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어의 다양한 미래 표현, will과 be going to의 뉘앙스 차이부터 shall, be about to까지 미래를 표현하는 모든 방법을 교과서 수준으로 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-02T14:42:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 2일"]}],["$","time",null,{"dateTime":"2026-05-02T14:42:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 2일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","future",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","future"]}],["$","span","will",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","will"]}],["$","span","be-going-to",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","be-going-to"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}],"$L20"]}]
-22:Tb9ec,<h1 id="영어-10강-미래-표현-완전-정복--will--be-going-to--현재진행형" tabindex="-1" data-src-line="1">영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형 <a class="header-anchor" href="#영어-10강-미래-표현-완전-정복--will--be-going-to--현재진행형" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-10강-미래-표현-완전-정복--will--be-going-to--현재진행형">영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-영어-미래-표현-개요">1. 영어 미래 표현 개요 </a></li><li><a href="#2-will--3가지-핵심-용법">2. will — 3가지 핵심 용법 </a><ul><li><a href="#용법--즉흥적-결정-말하는-순간에-결정">용법 ① 즉흥적 결정 (말하는 순간에 결정) </a></li><li><a href="#용법--의지약속거절">용법 ② 의지·약속·거절 </a></li><li><a href="#용법--미래-예측-근거-없는-추측일반적-예상">용법 ③ 미래 예측 (근거 없는 추측·일반적 예상) </a></li></ul></li><li><a href="#3-be-going-to--2가지-핵심-용법">3. be going to — 2가지 핵심 용법 </a><ul><li><a href="#용법--이미-계획결정된-미래">용법 ① 이미 계획·결정된 미래 </a></li><li><a href="#용법--근거-있는-예측-눈에-보이는-증거가-있음">용법 ② 근거 있는 예측 (눈에 보이는 증거가 있음) </a></li></ul></li><li><a href="#4-will-vs-be-going-to--핵심-차이-완전-비교">4. will vs be going to — 핵심 차이 완전 비교 </a><ul><li><a href="#예시--계획-vs-즉흥">예시 ① 계획 vs 즉흥 </a></li><li><a href="#예시--예측의-근거-유무">예시 ② 예측의 근거 유무 </a></li><li><a href="#예시--도움-제안">예시 ③ 도움 제안 </a></li><li><a href="#will-vs-be-going-to-비교표">will vs be going to 비교표 </a></li></ul></li><li><a href="#5-will의-부정문의문문">5. will의 부정문·의문문 </a><ul><li><a href="#부정문--wont-will-not">부정문 — won’t (will not) </a></li><li><a href="#의문문--will--주어--동사원형">의문문 — Will + 주어 + 동사원형? </a></li><li><a href="#will-you---부탁요청">Will you ~? — 부탁·요청 </a></li><li><a href="#의문사--will">의문사 + will </a></li></ul></li><li><a href="#6-be-going-to의-부정문의문문">6. be going to의 부정문·의문문 </a><ul><li><a href="#부정문--amisare-not-going-to">부정문 — am/is/are not going to </a></li><li><a href="#의문문--amisare--주어--going-to--동사원형">의문문 — Am/Is/Are + 주어 + going to + 동사원형? </a></li><li><a href="#의문사--be-going-to">의문사 + be going to </a></li></ul></li><li><a href="#7-현재진행형으로-미래-표현하기">7. 현재진행형으로 미래 표현하기 </a><ul><li><a href="#현재진행형-vs-be-going-to--미래에서의-차이">현재진행형 vs be going to — 미래에서의 차이 </a></li></ul></li><li><a href="#8-현재시제로-미래-표현--공식-일정">8. 현재시제로 미래 표현 — 공식 일정 </a></li><li><a href="#9-추가-미래-표현">9. 추가 미래 표현 </a><ul><li><a href="#-shall--제안권유-격식체-주로-영국-영어">① shall — 제안·권유 (격식체, 주로 영국 영어) </a></li><li><a href="#-be-about-to--막-하려는-참">② be about to — 막 ~하려는 참 </a></li><li><a href="#-be-supposed-to--하기로-되어-있다">③ be supposed to — ~하기로 되어 있다 </a></li><li><a href="#-be-likely-to--할-가능성이-높다">④ be likely to — ~할 가능성이 높다 </a></li><li><a href="#-be-expected-to--할-것으로-예상된다">⑤ be expected to — ~할 것으로 예상된다 </a></li></ul></li><li><a href="#10-미래-시간-표현-어휘">10. 미래 시간 표현 어휘 </a></li><li><a href="#11-미래-표현-선택-가이드">11. 미래 표현 선택 가이드 </a></li><li><a href="#12-실전-회화--미래-표현-총동원">12. 실전 회화 — 미래 표현 총동원 </a><ul><li><a href="#상황--주말-계획-이야기">상황 ① 주말 계획 이야기 </a></li><li><a href="#상황--직장에서의-즉흥-결정">상황 ② 직장에서의 즉흥 결정 </a></li><li><a href="#상황--미래-목표-이야기">상황 ③ 미래 목표 이야기 </a></li></ul></li><li><a href="#13-자주-틀리는-실수-정리">13. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--즉흥-결정에-be-going-to-사용">실수 ① 즉흥 결정에 be going to 사용 </a></li><li><a href="#실수--will-뒤에-to-붙이기">실수 ② will 뒤에 to 붙이기 </a></li><li><a href="#실수--be-going-to에서-be동사-생략">실수 ③ be going to에서 Be동사 생략 </a></li><li><a href="#실수--wont-발음철자-혼동">실수 ④ won’t 발음·철자 혼동 </a></li><li><a href="#실수--be-supposed-to-뒤에--ing-사용">실수 ⑤ be supposed to 뒤에 -ing 사용 </a></li></ul></li><li><a href="#14-a1-레벨-전체-핵심-문법-복습">14. A1 레벨 전체 핵심 문법 복습 </a></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+22:Tb7d1,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-영어-미래-표현-개요">1. 영어 미래 표현 개요 </a></li><li><a href="#2-will--3가지-핵심-용법">2. will — 3가지 핵심 용법 </a><ul><li><a href="#용법--즉흥적-결정-말하는-순간에-결정">용법 ① 즉흥적 결정 (말하는 순간에 결정) </a></li><li><a href="#용법--의지약속거절">용법 ② 의지·약속·거절 </a></li><li><a href="#용법--미래-예측-근거-없는-추측일반적-예상">용법 ③ 미래 예측 (근거 없는 추측·일반적 예상) </a></li></ul></li><li><a href="#3-be-going-to--2가지-핵심-용법">3. be going to — 2가지 핵심 용법 </a><ul><li><a href="#용법--이미-계획결정된-미래">용법 ① 이미 계획·결정된 미래 </a></li><li><a href="#용법--근거-있는-예측-눈에-보이는-증거가-있음">용법 ② 근거 있는 예측 (눈에 보이는 증거가 있음) </a></li></ul></li><li><a href="#4-will-vs-be-going-to--핵심-차이-완전-비교">4. will vs be going to — 핵심 차이 완전 비교 </a><ul><li><a href="#예시--계획-vs-즉흥">예시 ① 계획 vs 즉흥 </a></li><li><a href="#예시--예측의-근거-유무">예시 ② 예측의 근거 유무 </a></li><li><a href="#예시--도움-제안">예시 ③ 도움 제안 </a></li><li><a href="#will-vs-be-going-to-비교표">will vs be going to 비교표 </a></li></ul></li><li><a href="#5-will의-부정문의문문">5. will의 부정문·의문문 </a><ul><li><a href="#부정문--wont-will-not">부정문 — won’t (will not) </a></li><li><a href="#의문문--will--주어--동사원형">의문문 — Will + 주어 + 동사원형? </a></li><li><a href="#will-you---부탁요청">Will you ~? — 부탁·요청 </a></li><li><a href="#의문사--will">의문사 + will </a></li></ul></li><li><a href="#6-be-going-to의-부정문의문문">6. be going to의 부정문·의문문 </a><ul><li><a href="#부정문--amisare-not-going-to">부정문 — am/is/are not going to </a></li><li><a href="#의문문--amisare--주어--going-to--동사원형">의문문 — Am/Is/Are + 주어 + going to + 동사원형? </a></li><li><a href="#의문사--be-going-to">의문사 + be going to </a></li></ul></li><li><a href="#7-현재진행형으로-미래-표현하기">7. 현재진행형으로 미래 표현하기 </a><ul><li><a href="#현재진행형-vs-be-going-to--미래에서의-차이">현재진행형 vs be going to — 미래에서의 차이 </a></li></ul></li><li><a href="#8-현재시제로-미래-표현--공식-일정">8. 현재시제로 미래 표현 — 공식 일정 </a></li><li><a href="#9-추가-미래-표현">9. 추가 미래 표현 </a><ul><li><a href="#-shall--제안권유-격식체-주로-영국-영어">① shall — 제안·권유 (격식체, 주로 영국 영어) </a></li><li><a href="#-be-about-to--막-하려는-참">② be about to — 막 ~하려는 참 </a></li><li><a href="#-be-supposed-to--하기로-되어-있다">③ be supposed to — ~하기로 되어 있다 </a></li><li><a href="#-be-likely-to--할-가능성이-높다">④ be likely to — ~할 가능성이 높다 </a></li><li><a href="#-be-expected-to--할-것으로-예상된다">⑤ be expected to — ~할 것으로 예상된다 </a></li></ul></li><li><a href="#10-미래-시간-표현-어휘">10. 미래 시간 표현 어휘 </a></li><li><a href="#11-미래-표현-선택-가이드">11. 미래 표현 선택 가이드 </a></li><li><a href="#12-실전-회화--미래-표현-총동원">12. 실전 회화 — 미래 표현 총동원 </a><ul><li><a href="#상황--주말-계획-이야기">상황 ① 주말 계획 이야기 </a></li><li><a href="#상황--직장에서의-즉흥-결정">상황 ② 직장에서의 즉흥 결정 </a></li><li><a href="#상황--미래-목표-이야기">상황 ③ 미래 목표 이야기 </a></li></ul></li><li><a href="#13-자주-틀리는-실수-정리">13. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--즉흥-결정에-be-going-to-사용">실수 ① 즉흥 결정에 be going to 사용 </a></li><li><a href="#실수--will-뒤에-to-붙이기">실수 ② will 뒤에 to 붙이기 </a></li><li><a href="#실수--be-going-to에서-be동사-생략">실수 ③ be going to에서 Be동사 생략 </a></li><li><a href="#실수--wont-발음철자-혼동">실수 ④ won’t 발음·철자 혼동 </a></li><li><a href="#실수--be-supposed-to-뒤에--ing-사용">실수 ⑤ be supposed to 뒤에 -ing 사용 </a></li></ul></li><li><a href="#14-a1-레벨-전체-핵심-문법-복습">14. A1 레벨 전체 핵심 문법 복습 </a></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>영어로 미래를 표현하는 방법은 한 가지가 아닙니다.<br>
 <code>will</code>을 쓸 때도 있고, <code>be going to</code>를 쓸 때도 있고, 현재진행형으로 미래를 나타낼 때도 있습니다.</p>
 <p>한국어로는 모두 &quot;~할 거예요&quot;이지만, 영어에서는 <strong>상황과 뉘앙스</strong>에 따라 다르게 씁니다.<br>
@@ -45,7 +44,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-영어-미래-표현-개요" tabindex="-1" data-src-line="22">1. 영어 미래 표현 개요 <a class="header-anchor" href="#1-영어-미래-표현-개요" aria-hidden="true">#</a></h2>
+<h2 id="1-영어-미래-표현-개요" tabindex="-1" data-src-line="20">1. 영어 미래 표현 개요 <a class="header-anchor" href="#1-영어-미래-표현-개요" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -93,8 +92,8 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </tbody>
 </table>
 </div><hr>
-<h2 id="2-will--3가지-핵심-용법" tabindex="-1" data-src-line="36">2. will — 3가지 핵심 용법 <a class="header-anchor" href="#2-will--3가지-핵심-용법" aria-hidden="true">#</a></h2>
-<h3 id="용법--즉흥적-결정-말하는-순간에-결정" tabindex="-1" data-src-line="38">용법 ① 즉흥적 결정 (말하는 순간에 결정) <a class="header-anchor" href="#용법--즉흥적-결정-말하는-순간에-결정" aria-hidden="true">#</a></h3>
+<h2 id="2-will--3가지-핵심-용법" tabindex="-1" data-src-line="34">2. will — 3가지 핵심 용법 <a class="header-anchor" href="#2-will--3가지-핵심-용법" aria-hidden="true">#</a></h2>
+<h3 id="용법--즉흥적-결정-말하는-순간에-결정" tabindex="-1" data-src-line="36">용법 ① 즉흥적 결정 (말하는 순간에 결정) <a class="header-anchor" href="#용법--즉흥적-결정-말하는-순간에-결정" aria-hidden="true">#</a></h3>
 <p>미리 계획하지 않고 <strong>지금 이 순간 결정</strong>할 때 사용합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: The phone is ringing!
    전화가 울리고 있어!
@@ -118,7 +117,7 @@ B: I&#039;ll fix it. ✅ (방금 결정)
 B: I&#039;m going to fix it. ❌ (이미 계획된 것처럼 들림)
 </code></pre></div></code></pre>
 </blockquote>
-<h3 id="용법--의지약속거절" tabindex="-1" data-src-line="66">용법 ② 의지·약속·거절 <a class="header-anchor" href="#용법--의지약속거절" aria-hidden="true">#</a></h3>
+<h3 id="용법--의지약속거절" tabindex="-1" data-src-line="64">용법 ② 의지·약속·거절 <a class="header-anchor" href="#용법--의지약속거절" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I will always be there for you.
 나는 항상 당신 곁에 있을 거예요. (약속)
 
@@ -131,7 +130,7 @@ I won&#039;t give up, no matter what.
 He won&#039;t listen to me.
 그는 내 말을 듣지 않으려 해요. (거절·고집)
 </code></pre></div></code></pre>
-<h3 id="용법--미래-예측-근거-없는-추측일반적-예상" tabindex="-1" data-src-line="82">용법 ③ 미래 예측 (근거 없는 추측·일반적 예상) <a class="header-anchor" href="#용법--미래-예측-근거-없는-추측일반적-예상" aria-hidden="true">#</a></h3>
+<h3 id="용법--미래-예측-근거-없는-추측일반적-예상" tabindex="-1" data-src-line="80">용법 ③ 미래 예측 (근거 없는 추측·일반적 예상) <a class="header-anchor" href="#용법--미래-예측-근거-없는-추측일반적-예상" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I think it will rain tomorrow.
 내일 비가 올 것 같아요. (근거 없는 추측)
 
@@ -145,8 +144,8 @@ She&#039;ll be a great leader someday.
 그녀는 언젠가 훌륭한 리더가 될 거예요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-be-going-to--2가지-핵심-용법" tabindex="-1" data-src-line="100">3. be going to — 2가지 핵심 용법 <a class="header-anchor" href="#3-be-going-to--2가지-핵심-용법" aria-hidden="true">#</a></h2>
-<h3 id="용법--이미-계획결정된-미래" tabindex="-1" data-src-line="102">용법 ① 이미 계획·결정된 미래 <a class="header-anchor" href="#용법--이미-계획결정된-미래" aria-hidden="true">#</a></h3>
+<h2 id="3-be-going-to--2가지-핵심-용법" tabindex="-1" data-src-line="98">3. be going to — 2가지 핵심 용법 <a class="header-anchor" href="#3-be-going-to--2가지-핵심-용법" aria-hidden="true">#</a></h2>
+<h3 id="용법--이미-계획결정된-미래" tabindex="-1" data-src-line="100">용법 ① 이미 계획·결정된 미래 <a class="header-anchor" href="#용법--이미-계획결정된-미래" aria-hidden="true">#</a></h3>
 <p>말하기 <strong>전에 이미 결정</strong>되어 있는 계획을 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m going to visit my parents this weekend.
 이번 주말에 부모님을 방문할 예정이에요. (이미 계획됨)
@@ -160,7 +159,7 @@ She&#039;s going to study abroad next year.
 They&#039;re going to get married in June.
 그들은 6월에 결혼할 예정이에요.
 </code></pre></div></code></pre>
-<h3 id="용법--근거-있는-예측-눈에-보이는-증거가-있음" tabindex="-1" data-src-line="120">용법 ② 근거 있는 예측 (눈에 보이는 증거가 있음) <a class="header-anchor" href="#용법--근거-있는-예측-눈에-보이는-증거가-있음" aria-hidden="true">#</a></h3>
+<h3 id="용법--근거-있는-예측-눈에-보이는-증거가-있음" tabindex="-1" data-src-line="118">용법 ② 근거 있는 예측 (눈에 보이는 증거가 있음) <a class="header-anchor" href="#용법--근거-있는-예측-눈에-보이는-증거가-있음" aria-hidden="true">#</a></h3>
 <p><strong>현재 상황이나 증거</strong>를 바탕으로 한 예측입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Look at those dark clouds.
 It&#039;s going to rain.
@@ -181,9 +180,9 @@ Watch out! That vase is going to fall!
 조심해요! 저 꽃병이 떨어지려고 해요! (눈에 보이는 상황)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="4-will-vs-be-going-to--핵심-차이-완전-비교" tabindex="-1" data-src-line="146">4. will vs be going to — 핵심 차이 완전 비교 <a class="header-anchor" href="#4-will-vs-be-going-to--핵심-차이-완전-비교" aria-hidden="true">#</a></h2>
+<h2 id="4-will-vs-be-going-to--핵심-차이-완전-비교" tabindex="-1" data-src-line="144">4. will vs be going to — 핵심 차이 완전 비교 <a class="header-anchor" href="#4-will-vs-be-going-to--핵심-차이-완전-비교" aria-hidden="true">#</a></h2>
 <p>같은 상황을 두 가지 표현으로 비교해봅니다.</p>
-<h3 id="예시--계획-vs-즉흥" tabindex="-1" data-src-line="150">예시 ① 계획 vs 즉흥 <a class="header-anchor" href="#예시--계획-vs-즉흥" aria-hidden="true">#</a></h3>
+<h3 id="예시--계획-vs-즉흥" tabindex="-1" data-src-line="148">예시 ① 계획 vs 즉흥 <a class="header-anchor" href="#예시--계획-vs-즉흥" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Are you free tonight?
    오늘 밤 시간 있어요?
 
@@ -195,7 +194,7 @@ B2: I&#039;ll see a movie tonight.
     오늘 밤 영화 볼게요.
     (방금 결정 → will)
 </code></pre></div></code></pre>
-<h3 id="예시--예측의-근거-유무" tabindex="-1" data-src-line="165">예시 ② 예측의 근거 유무 <a class="header-anchor" href="#예시--예측의-근거-유무" aria-hidden="true">#</a></h3>
+<h3 id="예시--예측의-근거-유무" tabindex="-1" data-src-line="163">예시 ② 예측의 근거 유무 <a class="header-anchor" href="#예시--예측의-근거-유무" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【will — 근거 없는 추측】
 I think it will rain tomorrow.
 내일 비가 올 것 같아요. (그냥 느낌)
@@ -204,14 +203,14 @@ I think it will rain tomorrow.
 Look at those clouds. It&#039;s going to rain.
 저 구름 봐요. 비가 올 것 같아요. (구름이 증거)
 </code></pre></div></code></pre>
-<h3 id="예시--도움-제안" tabindex="-1" data-src-line="177">예시 ③ 도움 제안 <a class="header-anchor" href="#예시--도움-제안" aria-hidden="true">#</a></h3>
+<h3 id="예시--도움-제안" tabindex="-1" data-src-line="175">예시 ③ 도움 제안 <a class="header-anchor" href="#예시--도움-제안" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: I can&#039;t carry all these boxes.
    이 상자들을 다 못 나르겠어요.
 
 B: I&#039;ll help you. ✅ (방금 결정 → will)
 B: I&#039;m going to help you. ❌ (이미 계획된 것처럼 → 어색)
 </code></pre></div></code></pre>
-<h3 id="will-vs-be-going-to-비교표" tabindex="-1" data-src-line="187">will vs be going to 비교표 <a class="header-anchor" href="#will-vs-be-going-to-비교표" aria-hidden="true">#</a></h3>
+<h3 id="will-vs-be-going-to-비교표" tabindex="-1" data-src-line="185">will vs be going to 비교표 <a class="header-anchor" href="#will-vs-be-going-to-비교표" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -254,8 +253,8 @@ B: I&#039;m going to help you. ❌ (이미 계획된 것처럼 → 어색)
 </tbody>
 </table>
 </div><hr>
-<h2 id="5-will의-부정문의문문" tabindex="-1" data-src-line="200">5. will의 부정문·의문문 <a class="header-anchor" href="#5-will의-부정문의문문" aria-hidden="true">#</a></h2>
-<h3 id="부정문--wont-will-not" tabindex="-1" data-src-line="202">부정문 — won’t (will not) <a class="header-anchor" href="#부정문--wont-will-not" aria-hidden="true">#</a></h3>
+<h2 id="5-will의-부정문의문문" tabindex="-1" data-src-line="198">5. will의 부정문·의문문 <a class="header-anchor" href="#5-will의-부정문의문문" aria-hidden="true">#</a></h2>
+<h3 id="부정문--wont-will-not" tabindex="-1" data-src-line="200">부정문 — won’t (will not) <a class="header-anchor" href="#부정문--wont-will-not" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I won&#039;t be able to come tomorrow.
 내일 올 수 없을 것 같아요.
 
@@ -268,7 +267,7 @@ They won&#039;t accept our offer.
 It won&#039;t take long.
 오래 걸리지 않을 거예요.
 </code></pre></div></code></pre>
-<h3 id="의문문--will--주어--동사원형" tabindex="-1" data-src-line="218">의문문 — Will + 주어 + 동사원형? <a class="header-anchor" href="#의문문--will--주어--동사원형" aria-hidden="true">#</a></h3>
+<h3 id="의문문--will--주어--동사원형" tabindex="-1" data-src-line="216">의문문 — Will + 주어 + 동사원형? <a class="header-anchor" href="#의문문--will--주어--동사원형" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Will you be at the meeting tomorrow?
 내일 회의에 있을 건가요?
 
@@ -278,7 +277,7 @@ Will she join us for dinner?
 Will it be warm this weekend?
 이번 주말 따뜻할까요?
 </code></pre></div></code></pre>
-<h3 id="will-you---부탁요청" tabindex="-1" data-src-line="231">Will you ~? — 부탁·요청 <a class="header-anchor" href="#will-you---부탁요청" aria-hidden="true">#</a></h3>
+<h3 id="will-you---부탁요청" tabindex="-1" data-src-line="229">Will you ~? — 부탁·요청 <a class="header-anchor" href="#will-you---부탁요청" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Will you help me with this?
 이것 좀 도와줄 수 있어요?
 
@@ -288,7 +287,7 @@ Will you please turn down the music?
 Will you marry me?
 나와 결혼해 줄래요?
 </code></pre></div></code></pre>
-<h3 id="의문사--will" tabindex="-1" data-src-line="244">의문사 + will <a class="header-anchor" href="#의문사--will" aria-hidden="true">#</a></h3>
+<h3 id="의문사--will" tabindex="-1" data-src-line="242">의문사 + will <a class="header-anchor" href="#의문사--will" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What will you do after graduation?
 졸업 후에 뭐 할 건가요?
 
@@ -305,8 +304,8 @@ Who will be at the party?
 파티에 누가 있을 건가요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-be-going-to의-부정문의문문" tabindex="-1" data-src-line="265">6. be going to의 부정문·의문문 <a class="header-anchor" href="#6-be-going-to의-부정문의문문" aria-hidden="true">#</a></h2>
-<h3 id="부정문--amisare-not-going-to" tabindex="-1" data-src-line="267">부정문 — am/is/are not going to <a class="header-anchor" href="#부정문--amisare-not-going-to" aria-hidden="true">#</a></h3>
+<h2 id="6-be-going-to의-부정문의문문" tabindex="-1" data-src-line="263">6. be going to의 부정문·의문문 <a class="header-anchor" href="#6-be-going-to의-부정문의문문" aria-hidden="true">#</a></h2>
+<h3 id="부정문--amisare-not-going-to" tabindex="-1" data-src-line="265">부정문 — am/is/are not going to <a class="header-anchor" href="#부정문--amisare-not-going-to" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m not going to give up.
 포기하지 않을 거예요.
 
@@ -319,7 +318,7 @@ They aren&#039;t going to accept the terms.
 It&#039;s not going to be easy.
 쉽지 않을 거예요.
 </code></pre></div></code></pre>
-<h3 id="의문문--amisare--주어--going-to--동사원형" tabindex="-1" data-src-line="283">의문문 — Am/Is/Are + 주어 + going to + 동사원형? <a class="header-anchor" href="#의문문--amisare--주어--going-to--동사원형" aria-hidden="true">#</a></h3>
+<h3 id="의문문--amisare--주어--going-to--동사원형" tabindex="-1" data-src-line="281">의문문 — Am/Is/Are + 주어 + going to + 동사원형? <a class="header-anchor" href="#의문문--amisare--주어--going-to--동사원형" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are you going to apply for that job?
 그 일자리에 지원할 건가요?
 
@@ -329,7 +328,7 @@ Is she going to study abroad?
 Are they going to move to a new office?
 그들은 새 사무실로 이사할 건가요?
 </code></pre></div></code></pre>
-<h3 id="의문사--be-going-to" tabindex="-1" data-src-line="296">의문사 + be going to <a class="header-anchor" href="#의문사--be-going-to" aria-hidden="true">#</a></h3>
+<h3 id="의문사--be-going-to" tabindex="-1" data-src-line="294">의문사 + be going to <a class="header-anchor" href="#의문사--be-going-to" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What are you going to do this weekend?
 이번 주말에 뭐 할 거예요?
 
@@ -343,7 +342,7 @@ How are you going to get there?
 거기에 어떻게 갈 예정이에요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-현재진행형으로-미래-표현하기" tabindex="-1" data-src-line="314">7. 현재진행형으로 미래 표현하기 <a class="header-anchor" href="#7-현재진행형으로-미래-표현하기" aria-hidden="true">#</a></h2>
+<h2 id="7-현재진행형으로-미래-표현하기" tabindex="-1" data-src-line="312">7. 현재진행형으로 미래 표현하기 <a class="header-anchor" href="#7-현재진행형으로-미래-표현하기" aria-hidden="true">#</a></h2>
 <p>8강에서 배운 현재진행형이 미래를 나타낼 때도 사용됩니다.<br>
 <strong>이미 예약되거나 약속된 확정 일정</strong>에 주로 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m meeting Sarah at 3 PM.
@@ -358,7 +357,7 @@ She&#039;s starting her new job tomorrow.
 They&#039;re having a party this Saturday.
 이번 토요일에 파티를 할 예정이에요.
 </code></pre></div></code></pre>
-<h3 id="현재진행형-vs-be-going-to--미래에서의-차이" tabindex="-1" data-src-line="333">현재진행형 vs be going to — 미래에서의 차이 <a class="header-anchor" href="#현재진행형-vs-be-going-to--미래에서의-차이" aria-hidden="true">#</a></h3>
+<h3 id="현재진행형-vs-be-going-to--미래에서의-차이" tabindex="-1" data-src-line="331">현재진행형 vs be going to — 미래에서의 차이 <a class="header-anchor" href="#현재진행형-vs-be-going-to--미래에서의-차이" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -378,7 +377,7 @@ They&#039;re having a party this Saturday.
 </tbody>
 </table>
 </div><hr>
-<h2 id="8-현재시제로-미래-표현--공식-일정" tabindex="-1" data-src-line="342">8. 현재시제로 미래 표현 — 공식 일정 <a class="header-anchor" href="#8-현재시제로-미래-표현--공식-일정" aria-hidden="true">#</a></h2>
+<h2 id="8-현재시제로-미래-표현--공식-일정" tabindex="-1" data-src-line="340">8. 현재시제로 미래 표현 — 공식 일정 <a class="header-anchor" href="#8-현재시제로-미래-표현--공식-일정" aria-hidden="true">#</a></h2>
 <p>변하지 않는 <strong>공식 시간표·일정</strong>을 표현할 때 현재시제를 씁니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The train leaves at 9:30 AM.
 기차는 오전 9시 30분에 출발합니다. (시간표)
@@ -393,8 +392,8 @@ The store opens at 9 AM tomorrow.
 그 가게는 내일 오전 9시에 엽니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-추가-미래-표현" tabindex="-1" data-src-line="362">9. 추가 미래 표현 <a class="header-anchor" href="#9-추가-미래-표현" aria-hidden="true">#</a></h2>
-<h3 id="-shall--제안권유-격식체-주로-영국-영어" tabindex="-1" data-src-line="364">① shall — 제안·권유 (격식체, 주로 영국 영어) <a class="header-anchor" href="#-shall--제안권유-격식체-주로-영국-영어" aria-hidden="true">#</a></h3>
+<h2 id="9-추가-미래-표현" tabindex="-1" data-src-line="360">9. 추가 미래 표현 <a class="header-anchor" href="#9-추가-미래-표현" aria-hidden="true">#</a></h2>
+<h3 id="-shall--제안권유-격식체-주로-영국-영어" tabindex="-1" data-src-line="362">① shall — 제안·권유 (격식체, 주로 영국 영어) <a class="header-anchor" href="#-shall--제안권유-격식체-주로-영국-영어" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Shall we go?
 갈까요?
 
@@ -410,7 +409,7 @@ What shall we do this evening?
 <blockquote>
 <p>💡 <code>Shall I ~?</code>는 도움을 제공하거나 제안할 때, <code>Shall we ~?</code>는 함께 무언가를 제안할 때 씁니다. 미국 영어에서는 <code>Should I ~?</code> / <code>Should we ~?</code>가 더 일반적입니다.</p>
 </blockquote>
-<h3 id="-be-about-to--막-하려는-참" tabindex="-1" data-src-line="382">② be about to — 막 ~하려는 참 <a class="header-anchor" href="#-be-about-to--막-하려는-참" aria-hidden="true">#</a></h3>
+<h3 id="-be-about-to--막-하려는-참" tabindex="-1" data-src-line="380">② be about to — 막 ~하려는 참 <a class="header-anchor" href="#-be-about-to--막-하려는-참" aria-hidden="true">#</a></h3>
 <p><strong>아주 가까운 미래</strong>, 거의 지금 당장 일어날 일을 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m about to leave.
 막 떠나려던 참이에요.
@@ -424,7 +423,7 @@ She&#039;s about to call you.
 I was just about to text you.
 막 문자 하려던 참이었어요.
 </code></pre></div></code></pre>
-<h3 id="-be-supposed-to--하기로-되어-있다" tabindex="-1" data-src-line="400">③ be supposed to — ~하기로 되어 있다 <a class="header-anchor" href="#-be-supposed-to--하기로-되어-있다" aria-hidden="true">#</a></h3>
+<h3 id="-be-supposed-to--하기로-되어-있다" tabindex="-1" data-src-line="398">③ be supposed to — ~하기로 되어 있다 <a class="header-anchor" href="#-be-supposed-to--하기로-되어-있다" aria-hidden="true">#</a></h3>
 <p>예정·약속·규칙에 따라 <strong>해야 하는 것</strong>을 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m supposed to meet him at 6.
 나는 6시에 그를 만나기로 되어 있어요.
@@ -438,7 +437,7 @@ You&#039;re not supposed to park here.
 The package was supposed to arrive yesterday.
 패키지는 어제 도착하기로 되어 있었어요.
 </code></pre></div></code></pre>
-<h3 id="-be-likely-to--할-가능성이-높다" tabindex="-1" data-src-line="418">④ be likely to — ~할 가능성이 높다 <a class="header-anchor" href="#-be-likely-to--할-가능성이-높다" aria-hidden="true">#</a></h3>
+<h3 id="-be-likely-to--할-가능성이-높다" tabindex="-1" data-src-line="416">④ be likely to — ~할 가능성이 높다 <a class="header-anchor" href="#-be-likely-to--할-가능성이-높다" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s likely to rain this afternoon.
 오늘 오후에 비가 올 가능성이 높아요.
 
@@ -448,7 +447,7 @@ She&#039;s likely to get the promotion.
 Prices are likely to increase next year.
 내년에 가격이 오를 가능성이 높아요.
 </code></pre></div></code></pre>
-<h3 id="-be-expected-to--할-것으로-예상된다" tabindex="-1" data-src-line="431">⑤ be expected to — ~할 것으로 예상된다 <a class="header-anchor" href="#-be-expected-to--할-것으로-예상된다" aria-hidden="true">#</a></h3>
+<h3 id="-be-expected-to--할-것으로-예상된다" tabindex="-1" data-src-line="429">⑤ be expected to — ~할 것으로 예상된다 <a class="header-anchor" href="#-be-expected-to--할-것으로-예상된다" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The results are expected to be announced next week.
 결과는 다음 주에 발표될 것으로 예상됩니다.
 
@@ -459,7 +458,7 @@ The project is expected to be completed by December.
 프로젝트는 12월까지 완료될 것으로 예상됩니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-미래-시간-표현-어휘" tabindex="-1" data-src-line="446">10. 미래 시간 표현 어휘 <a class="header-anchor" href="#10-미래-시간-표현-어휘" aria-hidden="true">#</a></h2>
+<h2 id="10-미래-시간-표현-어휘" tabindex="-1" data-src-line="444">10. 미래 시간 표현 어휘 <a class="header-anchor" href="#10-미래-시간-표현-어휘" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -531,7 +530,7 @@ The project is expected to be completed by December.
 </tbody>
 </table>
 </div><hr>
-<h2 id="11-미래-표현-선택-가이드" tabindex="-1" data-src-line="468">11. 미래 표현 선택 가이드 <a class="header-anchor" href="#11-미래-표현-선택-가이드" aria-hidden="true">#</a></h2>
+<h2 id="11-미래-표현-선택-가이드" tabindex="-1" data-src-line="466">11. 미래 표현 선택 가이드 <a class="header-anchor" href="#11-미래-표현-선택-가이드" aria-hidden="true">#</a></h2>
 <p>헷갈릴 때 아래 질문에 따라 선택하세요.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">지금 이 순간 결정한 것인가?
     └── YES → will
@@ -552,8 +551,8 @@ The project is expected to be completed by December.
     └── YES → be supposed to
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-실전-회화--미래-표현-총동원" tabindex="-1" data-src-line="494">12. 실전 회화 — 미래 표현 총동원 <a class="header-anchor" href="#12-실전-회화--미래-표현-총동원" aria-hidden="true">#</a></h2>
-<h3 id="상황--주말-계획-이야기" tabindex="-1" data-src-line="496">상황 ① 주말 계획 이야기 <a class="header-anchor" href="#상황--주말-계획-이야기" aria-hidden="true">#</a></h3>
+<h2 id="12-실전-회화--미래-표현-총동원" tabindex="-1" data-src-line="492">12. 실전 회화 — 미래 표현 총동원 <a class="header-anchor" href="#12-실전-회화--미래-표현-총동원" aria-hidden="true">#</a></h2>
+<h3 id="상황--주말-계획-이야기" tabindex="-1" data-src-line="494">상황 ① 주말 계획 이야기 <a class="header-anchor" href="#상황--주말-계획-이야기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Do you have any plans for the weekend?
    이번 주말에 계획 있어요?
 
@@ -592,7 +591,7 @@ B: I hope so! I&#039;m coming back on Sunday evening.
 A: Yes, I&#039;ll be here. Let&#039;s catch up then!
    네, 있을 거예요. 그때 얘기 나눠요!
 </code></pre></div></code></pre>
-<h3 id="상황--직장에서의-즉흥-결정" tabindex="-1" data-src-line="538">상황 ② 직장에서의 즉흥 결정 <a class="header-anchor" href="#상황--직장에서의-즉흥-결정" aria-hidden="true">#</a></h3>
+<h3 id="상황--직장에서의-즉흥-결정" tabindex="-1" data-src-line="536">상황 ② 직장에서의 즉흥 결정 <a class="header-anchor" href="#상황--직장에서의-즉흥-결정" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Oh no, the printer is out of paper.
    오 이런, 프린터 종이가 떨어졌어요.
 
@@ -622,7 +621,7 @@ B: I know. I&#039;m almost done with it.
    알아요. 거의 다 끝났어요.
    내일 오후까지 준비될 거예요.
 </code></pre></div></code></pre>
-<h3 id="상황--미래-목표-이야기" tabindex="-1" data-src-line="571">상황 ③ 미래 목표 이야기 <a class="header-anchor" href="#상황--미래-목표-이야기" aria-hidden="true">#</a></h3>
+<h3 id="상황--미래-목표-이야기" tabindex="-1" data-src-line="569">상황 ③ 미래 목표 이야기 <a class="header-anchor" href="#상황--미래-목표-이야기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Where do you see yourself in five years?
    5년 후에 어디 있을 것 같아요?
 
@@ -660,14 +659,14 @@ A: Wow, that&#039;s exciting!
    분명 엄청난 성공을 거둘 거예요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="13-자주-틀리는-실수-정리" tabindex="-1" data-src-line="613">13. 자주 틀리는 실수 정리 <a class="header-anchor" href="#13-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
-<h3 id="실수--즉흥-결정에-be-going-to-사용" tabindex="-1" data-src-line="615">실수 ① 즉흥 결정에 be going to 사용 <a class="header-anchor" href="#실수--즉흥-결정에-be-going-to-사용" aria-hidden="true">#</a></h3>
+<h2 id="13-자주-틀리는-실수-정리" tabindex="-1" data-src-line="611">13. 자주 틀리는 실수 정리 <a class="header-anchor" href="#13-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--즉흥-결정에-be-going-to-사용" tabindex="-1" data-src-line="613">실수 ① 즉흥 결정에 be going to 사용 <a class="header-anchor" href="#실수--즉흥-결정에-be-going-to-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Can someone help me?
 B: ❌ I&#039;m going to help you.
 B: ✅ I&#039;ll help you.
 → 방금 결정 → will
 </code></pre></div></code></pre>
-<h3 id="실수--will-뒤에-to-붙이기" tabindex="-1" data-src-line="624">실수 ② will 뒤에 to 붙이기 <a class="header-anchor" href="#실수--will-뒤에-to-붙이기" aria-hidden="true">#</a></h3>
+<h3 id="실수--will-뒤에-to-붙이기" tabindex="-1" data-src-line="622">실수 ② will 뒤에 to 붙이기 <a class="header-anchor" href="#실수--will-뒤에-to-붙이기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I will to go.
 ✅ I will go.
 → will + 동사원형 (to 없음)
@@ -675,24 +674,24 @@ B: ✅ I&#039;ll help you.
 ❌ She will to call you.
 ✅ She will call you.
 </code></pre></div></code></pre>
-<h3 id="실수--be-going-to에서-be동사-생략" tabindex="-1" data-src-line="635">실수 ③ be going to에서 Be동사 생략 <a class="header-anchor" href="#실수--be-going-to에서-be동사-생략" aria-hidden="true">#</a></h3>
+<h3 id="실수--be-going-to에서-be동사-생략" tabindex="-1" data-src-line="633">실수 ③ be going to에서 Be동사 생략 <a class="header-anchor" href="#실수--be-going-to에서-be동사-생략" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I going to eat lunch.
 ✅ I&#039;m going to eat lunch.
 → Be동사(am/is/are) 반드시 필요
 </code></pre></div></code></pre>
-<h3 id="실수--wont-발음철자-혼동" tabindex="-1" data-src-line="643">실수 ④ won’t 발음·철자 혼동 <a class="header-anchor" href="#실수--wont-발음철자-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--wont-발음철자-혼동" tabindex="-1" data-src-line="641">실수 ④ won’t 발음·철자 혼동 <a class="header-anchor" href="#실수--wont-발음철자-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">won&#039;t = will + not의 축약형
 발음: /woʊnt/ (&quot;워운트&quot;)
 ❌ willn&#039;t (이런 형태는 없음)
 ✅ won&#039;t
 </code></pre></div></code></pre>
-<h3 id="실수--be-supposed-to-뒤에--ing-사용" tabindex="-1" data-src-line="652">실수 ⑤ be supposed to 뒤에 -ing 사용 <a class="header-anchor" href="#실수--be-supposed-to-뒤에--ing-사용" aria-hidden="true">#</a></h3>
+<h3 id="실수--be-supposed-to-뒤에--ing-사용" tabindex="-1" data-src-line="650">실수 ⑤ be supposed to 뒤에 -ing 사용 <a class="header-anchor" href="#실수--be-supposed-to-뒤에--ing-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I&#039;m supposed to going there.
 ✅ I&#039;m supposed to go there.
 → be supposed to + 동사원형
 </code></pre></div></code></pre>
 <hr>
-<h2 id="14-a1-레벨-전체-핵심-문법-복습" tabindex="-1" data-src-line="662">14. A1 레벨 전체 핵심 문법 복습 <a class="header-anchor" href="#14-a1-레벨-전체-핵심-문법-복습" aria-hidden="true">#</a></h2>
+<h2 id="14-a1-레벨-전체-핵심-문법-복습" tabindex="-1" data-src-line="660">14. A1 레벨 전체 핵심 문법 복습 <a class="header-anchor" href="#14-a1-레벨-전체-핵심-문법-복습" aria-hidden="true">#</a></h2>
 <p>10강을 끝낸 여러분은 <strong>A1 레벨의 영어 기초</strong>를 완전히 갖추었습니다!<br>
 지금까지 배운 내용을 한눈에 정리합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
@@ -757,7 +756,7 @@ B: ✅ I&#039;ll help you.
 </tbody>
 </table>
 </div><hr>
-<h2 id="15-문형-정리" tabindex="-1" data-src-line="682">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="15-문형-정리" tabindex="-1" data-src-line="680">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -825,7 +824,7 @@ B: ✅ I&#039;ll help you.
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="700">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="698">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>미래 표현 선택의 핵심 두 가지를 기억하세요.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① will → 지금 막 결정한 것 / 약속·의지 / 근거 없는 예측
 ② be going to → 이미 계획된 것 / 근거 있는 예측
@@ -872,7 +871,7 @@ B: ✅ I&#039;ll help you.
 </ul>
 </blockquote>
 1e:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L21",null,{"content":"$22"}]}]}]
-1f:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-14-potential","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}],["$","li","english/english-lesson-07-question-words",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-07-question-words","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How"}]}]]}]]}]]}]
+1f:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-14-potential","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english/english-lesson-11-modal-verbs","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 11강: 조동사 완전 정복 — can · must · should · may · might · could"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}],["$","li","english/english-lesson-07-question-words",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-07-question-words","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 7강: 의문사 완전 정복 — What · Who · Where · When · Why · How"}]}]]}]]}]]}]
 20:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 23:I[6869,[],"IconMark"]

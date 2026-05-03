@@ -1,15 +1,19 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
-c:I[484,[],"OutletBoundary"]
-d:"$Sreact.suspense"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives\"},\"headline\":\"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계\",\"description\":\"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다.\",\"datePublished\":\"2026-04-28T12:39:00.000Z\",\"dateModified\":\"2026-04-28T12:39:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"demonstratives\",\"kore-sore-are\",\"koko-soko-asoko\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계","slugPath":"japanese/japanese-lesson-04-demonstratives","headings":[{"id":"일본어-4강-지시대명사-완전-정복---체계","text":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1--체계란","text":"1. こそあど 체계란?","level":2},{"id":"2-사물-지시대명사--","text":"2. 사물 지시대명사 — これ·それ·あれ·どれ","level":2},{"id":"예문","text":"예문","level":3},{"id":"3-지시형용사--","text":"3. 지시형용사 — この·その·あの·どの","level":2},{"id":"예문-1","text":"예문","level":3},{"id":"-vs--비교","text":"これ vs この 비교","level":3},{"id":"4-장소-지시대명사--","text":"4. 장소 지시대명사 — ここ·そこ·あそこ·どこ","level":2},{"id":"예문-2","text":"예문","level":3},{"id":"장소----명사","text":"장소 + の + 명사","level":3},{"id":"5-정중한-지시어--","text":"5. 정중한 지시어 — こちら·そちら·あちら·どちら","level":2},{"id":"쓰임--방향장소-정중체","text":"쓰임 ①: 방향·장소 (정중체)","level":3},{"id":"쓰임--사람-소개-정중체","text":"쓰임 ②: 사람 소개 (정중체)","level":3},{"id":"쓰임----어느-쪽-2자-선택","text":"쓰임 ③: どちら = 어느 쪽 (2자 선택)","level":3},{"id":"6--전체-정리표","text":"6. こそあど 전체 정리표","level":2},{"id":"7-소유-표현과-결합-","text":"7. 소유 표현과 결합: ～は～のです","level":2},{"id":"8-실전-회화--쇼핑-상황","text":"8. 실전 회화 — 쇼핑 상황","level":2},{"id":"9-문형-정리","text":"9. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-04-demonstratives"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-28T12:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 28일"]}],["$","time",null,{"dateTime":"2026-04-28T12:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 28일"]}],"$L3"]}],"$L4"]}],"$L5","$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
-3:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","demonstratives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","demonstratives"]}],["$","span","kore-sore-are",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","kore-sore-are"]}],["$","span","koko-soko-asoko",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","koko-soko-asoko"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
-4:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex="-1" data-src-line="1">일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계 <a class="header-anchor" href="#일본어-4강-지시대명사-완전-정복---체계" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-4강-지시대명사-완전-정복---체계">일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1--체계란">1. こそあど 체계란? </a></li><li><a href="#2-사물-지시대명사--">2. 사물 지시대명사 — これ·それ·あれ·どれ </a><ul><li><a href="#예문">예문 </a></li></ul></li><li><a href="#3-지시형용사--">3. 지시형용사 — この·その·あの·どの </a><ul><li><a href="#예문-1">예문 </a></li><li><a href="#-vs--비교">これ vs この 비교 </a></li></ul></li><li><a href="#4-장소-지시대명사--">4. 장소 지시대명사 — ここ·そこ·あそこ·どこ </a><ul><li><a href="#예문-2">예문 </a></li><li><a href="#장소----명사">장소 + の + 명사 </a></li></ul></li><li><a href="#5-정중한-지시어--">5. 정중한 지시어 — こちら·そちら·あちら·どちら </a><ul><li><a href="#쓰임--방향장소-정중체">쓰임 ①: 방향·장소 (정중체) </a></li><li><a href="#쓰임--사람-소개-정중체">쓰임 ②: 사람 소개 (정중체) </a></li><li><a href="#쓰임----어느-쪽-2자-선택">쓰임 ③: どちら = 어느 쪽 (2자 선택) </a></li></ul></li><li><a href="#6--전체-정리표">6. こそあど 전체 정리표 </a></li><li><a href="#7-소유-표현과-결합-">7. 소유 표현과 결합: ～は～のです </a></li><li><a href="#8-실전-회화--쇼핑-상황">8. 실전 회화 — 쇼핑 상황 </a></li><li><a href="#9-문형-정리">9. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives\"},\"headline\":\"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계\",\"description\":\"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다.\",\"datePublished\":\"2026-04-28T12:39:00.000Z\",\"dateModified\":\"2026-04-28T12:39:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-04-demonstratives\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"demonstratives\",\"kore-sore-are\",\"koko-soko-asoko\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계","slugPath":"japanese/japanese-lesson-04-demonstratives","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1--체계란","text":"1. こそあど 체계란?","level":2},{"id":"2-사물-지시대명사--","text":"2. 사물 지시대명사 — これ·それ·あれ·どれ","level":2},{"id":"예문","text":"예문","level":3},{"id":"3-지시형용사--","text":"3. 지시형용사 — この·その·あの·どの","level":2},{"id":"예문-1","text":"예문","level":3},{"id":"-vs--비교","text":"これ vs この 비교","level":3},{"id":"4-장소-지시대명사--","text":"4. 장소 지시대명사 — ここ·そこ·あそこ·どこ","level":2},{"id":"예문-2","text":"예문","level":3},{"id":"장소----명사","text":"장소 + の + 명사","level":3},{"id":"5-정중한-지시어--","text":"5. 정중한 지시어 — こちら·そちら·あちら·どちら","level":2},{"id":"쓰임--방향장소-정중체","text":"쓰임 ①: 방향·장소 (정중체)","level":3},{"id":"쓰임--사람-소개-정중체","text":"쓰임 ②: 사람 소개 (정중체)","level":3},{"id":"쓰임----어느-쪽-2자-선택","text":"쓰임 ③: どちら = 어느 쪽 (2자 선택)","level":3},{"id":"6--전체-정리표","text":"6. こそあど 전체 정리표","level":2},{"id":"7-소유-표현과-결합-","text":"7. 소유 표현과 결합: ～は～のです","level":2},{"id":"8-실전-회화--쇼핑-상황","text":"8. 실전 회화 — 쇼핑 상황","level":2},{"id":"9-문형-정리","text":"9. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-04-demonstratives"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 4강: 지시대명사 완전 정복 — こ·そ·あ·ど 체계"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"これ·それ·あれ부터 この·その·あの, ここ·そこ·あそこ까지, 일본어 지시어 전체 체계를 한 번에 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-28T12:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 28일"]}],["$","time",null,{"dateTime":"2026-04-28T12:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 28일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":["$L3","$L4","$L5","$L6","$L7","$L8"]}]]}],"$L9"]}],"$La","$Lb"]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+3:["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}]
+4:["$","span","demonstratives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","demonstratives"]}]
+5:["$","span","kore-sore-are",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","kore-sore-are"]}]
+6:["$","span","koko-soko-asoko",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","koko-soko-asoko"]}]
+7:["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}]
+8:["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]
+9:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T50a1,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1--체계란">1. こそあど 체계란? </a></li><li><a href="#2-사물-지시대명사--">2. 사물 지시대명사 — これ·それ·あれ·どれ </a><ul><li><a href="#예문">예문 </a></li></ul></li><li><a href="#3-지시형용사--">3. 지시형용사 — この·その·あの·どの </a><ul><li><a href="#예문-1">예문 </a></li><li><a href="#-vs--비교">これ vs この 비교 </a></li></ul></li><li><a href="#4-장소-지시대명사--">4. 장소 지시대명사 — ここ·そこ·あそこ·どこ </a><ul><li><a href="#예문-2">예문 </a></li><li><a href="#장소----명사">장소 + の + 명사 </a></li></ul></li><li><a href="#5-정중한-지시어--">5. 정중한 지시어 — こちら·そちら·あちら·どちら </a><ul><li><a href="#쓰임--방향장소-정중체">쓰임 ①: 방향·장소 (정중체) </a></li><li><a href="#쓰임--사람-소개-정중체">쓰임 ②: 사람 소개 (정중체) </a></li><li><a href="#쓰임----어느-쪽-2자-선택">쓰임 ③: どちら = 어느 쪽 (2자 선택) </a></li></ul></li><li><a href="#6--전체-정리표">6. こそあど 전체 정리표 </a></li><li><a href="#7-소유-표현과-결합-">7. 소유 표현과 결합: ～は～のです </a></li><li><a href="#8-실전-회화--쇼핑-상황">8. 실전 회화 — 쇼핑 상황 </a></li><li><a href="#9-문형-정리">9. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>3강에서 <code>～は～です</code> 문형을 익혔다면, 이번 강에서는 그 문장의 주어를 채울 수 있는 <strong>지시어(指示語)</strong> 를 배웁니다.</p>
 <p>일본어의 지시어는 <strong>こ·そ·あ·ど</strong> 네 가지 계열로 나뉘며, 이 체계를 흔히 <strong>「こそあど」</strong> 라고 부릅니다.</p>
 <blockquote>
@@ -23,7 +27,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 </ul>
 </blockquote>
 <hr>
-<h2 id="1--체계란" tabindex="-1" data-src-line="20">1. こそあど 체계란? <a class="header-anchor" href="#1--체계란" aria-hidden="true">#</a></h2>
+<h2 id="1--체계란" tabindex="-1" data-src-line="18">1. こそあど 체계란? <a class="header-anchor" href="#1--체계란" aria-hidden="true">#</a></h2>
 <p>일본어 지시어는 <strong>화자와 청자, 그리고 대상의 거리 관계</strong>에 따라 계열이 정해집니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -60,7 +64,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 <p>💡 <strong>한국어와의 차이</strong>: 한국어는 ‘이·그·저’ 3계열이지만, 일본어는 여기에 <strong>의문 계열 ど</strong> 가 추가되어 4계열입니다.</p>
 </blockquote>
 <hr>
-<h2 id="2-사물-지시대명사--" tabindex="-1" data-src-line="35">2. 사물 지시대명사 — これ·それ·あれ·どれ <a class="header-anchor" href="#2-사물-지시대명사--" aria-hidden="true">#</a></h2>
+<h2 id="2-사물-지시대명사--" tabindex="-1" data-src-line="33">2. 사물 지시대명사 — これ·それ·あれ·どれ <a class="header-anchor" href="#2-사물-지시대명사--" aria-hidden="true">#</a></h2>
 <p>사물 자체를 대신하는 대명사입니다. <code>～は～です</code> 문형과 바로 결합할 수 있습니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -93,7 +97,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 </tr>
 </tbody>
 </table>
-</div><h3 id="예문" tabindex="-1" data-src-line="46">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+</div><h3 id="예문" tabindex="-1" data-src-line="44">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">これは わたしの かばんです。
 코레와 와타시노 카방데스。
 (이것은 제 가방입니다.)
@@ -114,7 +118,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 <p>⚠️ <strong>주의</strong>: どれ는 3개 이상의 선택지가 있을 때 사용합니다. 2개 중 하나를 고를 때는 <strong>どちら</strong> 를 사용합니다.</p>
 </blockquote>
 <hr>
-<h2 id="3-지시형용사--" tabindex="-1" data-src-line="70">3. 지시형용사 — この·その·あの·どの <a class="header-anchor" href="#3-지시형용사--" aria-hidden="true">#</a></h2>
+<h2 id="3-지시형용사--" tabindex="-1" data-src-line="68">3. 지시형용사 — この·その·あの·どの <a class="header-anchor" href="#3-지시형용사--" aria-hidden="true">#</a></h2>
 <p>명사 앞에 직접 붙어 명사를 꾸며주는 형태입니다.<br>
 <code>これ/それ/あれ/どれ</code> 뒤에 <strong>の</strong> 를 붙인 형태라고 생각하면 쉽습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">これ → この + 명사
@@ -153,7 +157,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 </tr>
 </tbody>
 </table>
-</div><h3 id="예문-1" tabindex="-1" data-src-line="89">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
+</div><h3 id="예문-1" tabindex="-1" data-src-line="87">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">この ほんは おもしろいです。
 코노 혼와 오모시로이데스。
 (이 책은 재미있습니다.)
@@ -170,7 +174,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 도노 덴샤니 노리마스카?
 (어느 전철을 타십니까?)
 </code></pre></div></code></pre>
-<h3 id="-vs--비교" tabindex="-1" data-src-line="109">これ vs この 비교 <a class="header-anchor" href="#-vs--비교" aria-hidden="true">#</a></h3>
+<h3 id="-vs--비교" tabindex="-1" data-src-line="107">これ vs この 비교 <a class="header-anchor" href="#-vs--비교" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -193,7 +197,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 </tbody>
 </table>
 </div><hr>
-<h2 id="4-장소-지시대명사--" tabindex="-1" data-src-line="118">4. 장소 지시대명사 — ここ·そこ·あそこ·どこ <a class="header-anchor" href="#4-장소-지시대명사--" aria-hidden="true">#</a></h2>
+<h2 id="4-장소-지시대명사--" tabindex="-1" data-src-line="116">4. 장소 지시대명사 — ここ·そこ·あそこ·どこ <a class="header-anchor" href="#4-장소-지시대명사--" aria-hidden="true">#</a></h2>
 <p>장소를 지시하는 표현입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -226,7 +230,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 </tr>
 </tbody>
 </table>
-</div><h3 id="예문-2" tabindex="-1" data-src-line="129">예문 <a class="header-anchor" href="#예문-2" aria-hidden="true">#</a></h3>
+</div><h3 id="예문-2" tabindex="-1" data-src-line="127">예문 <a class="header-anchor" href="#예문-2" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ここは どこですか。
 코코와 도코데스카?
 (여기는 어디입니까?)
@@ -243,7 +247,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 와타시노 카방와 소코니 아리마스。
 (제 가방은 거기에 있습니다.)
 </code></pre></div></code></pre>
-<h3 id="장소----명사" tabindex="-1" data-src-line="149">장소 + の + 명사 <a class="header-anchor" href="#장소----명사" aria-hidden="true">#</a></h3>
+<h3 id="장소----명사" tabindex="-1" data-src-line="147">장소 + の + 명사 <a class="header-anchor" href="#장소----명사" aria-hidden="true">#</a></h3>
 <p><code>ここ·そこ·あそこ</code> 뒤에 <code>の</code> 를 붙이면 장소의 소속을 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ここの ラーメンは おいしいです。
 (여기 라면은 맛있습니다.)
@@ -252,7 +256,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 (저기 가게는 유명합니다.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-정중한-지시어--" tabindex="-1" data-src-line="163">5. 정중한 지시어 — こちら·そちら·あちら·どちら <a class="header-anchor" href="#5-정중한-지시어--" aria-hidden="true">#</a></h2>
+<h2 id="5-정중한-지시어--" tabindex="-1" data-src-line="161">5. 정중한 지시어 — こちら·そちら·あちら·どちら <a class="header-anchor" href="#5-정중한-지시어--" aria-hidden="true">#</a></h2>
 <p><code>こ·そ·あ·ど</code> 계열 중 가장 정중한 표현으로,<br>
 방향·장소를 가리키거나 사람·사물을 부드럽게 지칭할 때 사용합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
@@ -286,7 +290,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 </tr>
 </tbody>
 </table>
-</div><h3 id="쓰임--방향장소-정중체" tabindex="-1" data-src-line="175">쓰임 ①: 방향·장소 (정중체) <a class="header-anchor" href="#쓰임--방향장소-정중체" aria-hidden="true">#</a></h3>
+</div><h3 id="쓰임--방향장소-정중체" tabindex="-1" data-src-line="173">쓰임 ①: 방향·장소 (정중체) <a class="header-anchor" href="#쓰임--방향장소-정중체" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">エレベーターは こちらです。
 에레베에타아와 코치라데스。
 (엘리베이터는 이쪽입니다.)
@@ -295,12 +299,12 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 오테아라이와 아치라니 고자이마스。
 (화장실은 저쪽에 있습니다.)
 </code></pre></div></code></pre>
-<h3 id="쓰임--사람-소개-정중체" tabindex="-1" data-src-line="187">쓰임 ②: 사람 소개 (정중체) <a class="header-anchor" href="#쓰임--사람-소개-정중체" aria-hidden="true">#</a></h3>
+<h3 id="쓰임--사람-소개-정중체" tabindex="-1" data-src-line="185">쓰임 ②: 사람 소개 (정중체) <a class="header-anchor" href="#쓰임--사람-소개-정중체" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">こちらは キム・チョルスさんです。
 코치라와 키무 쵸루스상데스。
 (이쪽은 김철수 씨입니다.)
 </code></pre></div></code></pre>
-<h3 id="쓰임----어느-쪽-2자-선택" tabindex="-1" data-src-line="195">쓰임 ③: どちら = 어느 쪽 (2자 선택) <a class="header-anchor" href="#쓰임----어느-쪽-2자-선택" aria-hidden="true">#</a></h3>
+<h3 id="쓰임----어느-쪽-2자-선택" tabindex="-1" data-src-line="193">쓰임 ③: どちら = 어느 쪽 (2자 선택) <a class="header-anchor" href="#쓰임----어느-쪽-2자-선택" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">コーヒーと こうちゃ、どちらに しますか。
 코히이토 코우챠、도치라니 시마스카?
 (커피와 홍차, 어느 쪽으로 하시겠습니까?)
@@ -309,7 +313,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 <p>💡 <strong>どこ vs どちら</strong>: 두 곳 중 하나를 고를 때는 <code>どちら</code>가 자연스럽고, 불특정 장소를 물을 때는 <code>どこ</code>를 사용합니다.</p>
 </blockquote>
 <hr>
-<h2 id="6--전체-정리표" tabindex="-1" data-src-line="207">6. こそあど 전체 정리표 <a class="header-anchor" href="#6--전체-정리표" aria-hidden="true">#</a></h2>
+<h2 id="6--전체-정리표" tabindex="-1" data-src-line="205">6. こそあど 전체 정리표 <a class="header-anchor" href="#6--전체-정리표" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -362,7 +366,7 @@ a:T5264,<h1 id="일본어-4강-지시대명사-완전-정복---체계" tabindex=
 <p>💡 <strong>こっち·そっち·あっち·どっち</strong> 는 <code>こちら</code> 계열의 구어(반말)형입니다. 친한 친구 사이나 캐주얼한 상황에서 사용합니다.</p>
 </blockquote>
 <hr>
-<h2 id="7-소유-표현과-결합-" tabindex="-1" data-src-line="221">7. 소유 표현과 결합: ～は～のです <a class="header-anchor" href="#7-소유-표현과-결합-" aria-hidden="true">#</a></h2>
+<h2 id="7-소유-표현과-결합-" tabindex="-1" data-src-line="219">7. 소유 표현과 결합: ～は～のです <a class="header-anchor" href="#7-소유-표현과-결합-" aria-hidden="true">#</a></h2>
 <p>3강에서 배운 <code>の</code> 와 지시어를 조합하면 소유를 물을 수 있습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: この かさは だれのですか。
    코노 카사와 다레노데스카?
@@ -377,7 +381,7 @@ A: わたしのじゃありません。
    (제 것이 아닙니다.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-실전-회화--쇼핑-상황" tabindex="-1" data-src-line="241">8. 실전 회화 — 쇼핑 상황 <a class="header-anchor" href="#8-실전-회화--쇼핑-상황" aria-hidden="true">#</a></h2>
+<h2 id="8-실전-회화--쇼핑-상황" tabindex="-1" data-src-line="239">8. 실전 회화 — 쇼핑 상황 <a class="header-anchor" href="#8-실전-회화--쇼핑-상황" aria-hidden="true">#</a></h2>
 <p>지시어를 활용한 실전 회화입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">きゃく： すみません、これは なんですか。
         스미마셍、코레와 난데스카?
@@ -400,7 +404,7 @@ A: わたしのじゃありません。
         (그럼, 그것을 주세요.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-문형-정리" tabindex="-1" data-src-line="269">9. 문형 정리 <a class="header-anchor" href="#9-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="9-문형-정리" tabindex="-1" data-src-line="267">9. 문형 정리 <a class="header-anchor" href="#9-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -448,7 +452,7 @@ A: わたしのじゃありません。
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="283">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="281">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>こそあど 체계는 처음에는 복잡해 보이지만, <strong>거리 관계(화자 기준)</strong> 라는 하나의 원리만 이해하면 모든 지시어에 일관되게 적용할 수 있습니다.</p>
 <p>특히 <code>この/その/あの</code> 지시형용사는 앞으로 배울 모든 문장에서 계속 등장하므로, 이번 강에서 확실히 다져두는 것이 중요합니다.</p>
 <p>다음 강에서는 <strong>숫자·시간·날짜 표현</strong> 을 배웁니다.</p>
@@ -480,8 +484,8 @@ A: わたしのじゃありません。
 <li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
 </ul>
 </blockquote>
-5:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L9",null,{"content":"$a"}]}]}]
-6:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-03-self-introduction","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-10-existence-location",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-10-existence-location","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현"}]}],["$","li","japanese/japanese-lesson-09-adjectives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]}],["$","li","japanese/japanese-lesson-08-giving-receiving",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]}]]}]]}]]}]
-7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
-8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
-e:null
+a:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+b:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/japanese/japanese-lesson-03-self-introduction","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 3강: 자기소개 — ～は～です · じゃありません · ですか"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/japanese/japanese-lesson-05-numbers-time","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 5강: 숫자·시간·날짜·가격 표현 완전 정복"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-10-existence-location",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/japanese/japanese-lesson-10-existence-location","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현"}]}],["$","li","japanese/japanese-lesson-09-adjectives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]}],["$","li","japanese/japanese-lesson-08-giving-receiving",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]}]]}]]}]]}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+d:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

@@ -1,16 +1,15 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 d:I[484,[],"OutletBoundary"]
 e:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-09-adjectives\"},\"headline\":\"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용\",\"description\":\"일본어 형용사의 두 종류인 い형용사와 な형용사의 현재·과거·부정·명사수식 활용을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-30T09:39:00.000Z\",\"dateModified\":\"2026-04-30T09:39:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-09-adjectives\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"adjectives\",\"i-adjective\",\"na-adjective\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용","slugPath":"japanese/japanese-lesson-09-adjectives","headings":[{"id":"일본어-9강-형용사-완전-정복--형용사--형용사","text":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-형용사란","text":"1. い형용사란?","level":2},{"id":"대표-형용사-25개","text":"대표 い형용사 25개","level":3},{"id":"2-형용사-활용표","text":"2. い형용사 활용표","level":2},{"id":"예문","text":"예문","level":3},{"id":"3-형용사의-명사-수식-연체형","text":"3. い형용사의 명사 수식 (연체형)","level":2},{"id":"부정형으로-수식","text":"부정형으로 수식","level":3},{"id":"4-형용사의-부사적-활용-","text":"4. い형용사의 부사적 활용 (~く)","level":2},{"id":"5-형용사란","text":"5. な형용사란?","level":2},{"id":"대표-형용사-25개-1","text":"대표 な형용사 25개","level":3},{"id":"6-형용사-활용표","text":"6. な형용사 활용표","level":2},{"id":"예문-1","text":"예문","level":3},{"id":"7-형용사의-명사-수식-연체형","text":"7. な형용사의 명사 수식 (연체형)","level":2},{"id":"8-형용사의-부사적-활용-","text":"8. な형용사의 부사적 활용 (~に)","level":2},{"id":"9-형용사-vs-형용사-비교-총정리","text":"9. い형용사 vs な형용사 비교 총정리","level":2},{"id":"10-주의가-필요한-형용사","text":"10. 주의가 필요한 형용사","level":2},{"id":"--vs-","text":"① きらい vs すきじゃない","level":3},{"id":"--vs----vs-","text":"② じょうず vs とくい / へた vs にがて","level":3},{"id":"-의-두-가지-의미","text":"③ はやい의 두 가지 의미","level":3},{"id":"11-형용사를-활용한-다양한-표현","text":"11. 형용사를 활용한 다양한 표현","level":2},{"id":"---너무-하다","text":"① ~すぎます — 너무 ~하다","level":3},{"id":"-----해집니다-변화","text":"② ~くなります / ~になります — ~해집니다 (변화)","level":3},{"id":"-----하게-합니다-만들다","text":"③ ~くします / ~にします — ~하게 합니다 (만들다)","level":3},{"id":"12-실전-회화--카페에서","text":"12. 실전 회화 — 카페에서","level":2},{"id":"13-형용사-문형-정리","text":"13. 형용사 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-09-adjectives"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 형용사의 두 종류인 い형용사와 な형용사의 현재·과거·부정·명사수식 활용을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T09:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 30일"]}],"$L3","$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
-3:["$","time",null,{"dateTime":"2026-04-30T09:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 30일"]}]
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-09-adjectives\"},\"headline\":\"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용\",\"description\":\"일본어 형용사의 두 종류인 い형용사와 な형용사의 현재·과거·부정·명사수식 활용을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-30T09:39:00.000Z\",\"dateModified\":\"2026-04-30T09:39:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-09-adjectives\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"adjectives\",\"i-adjective\",\"na-adjective\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용","slugPath":"japanese/japanese-lesson-09-adjectives","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-형용사란","text":"1. い형용사란?","level":2},{"id":"대표-형용사-25개","text":"대표 い형용사 25개","level":3},{"id":"2-형용사-활용표","text":"2. い형용사 활용표","level":2},{"id":"예문","text":"예문","level":3},{"id":"3-형용사의-명사-수식-연체형","text":"3. い형용사의 명사 수식 (연체형)","level":2},{"id":"부정형으로-수식","text":"부정형으로 수식","level":3},{"id":"4-형용사의-부사적-활용-","text":"4. い형용사의 부사적 활용 (~く)","level":2},{"id":"5-형용사란","text":"5. な형용사란?","level":2},{"id":"대표-형용사-25개-1","text":"대표 な형용사 25개","level":3},{"id":"6-형용사-활용표","text":"6. な형용사 활용표","level":2},{"id":"예문-1","text":"예문","level":3},{"id":"7-형용사의-명사-수식-연체형","text":"7. な형용사의 명사 수식 (연체형)","level":2},{"id":"8-형용사의-부사적-활용-","text":"8. な형용사의 부사적 활용 (~に)","level":2},{"id":"9-형용사-vs-형용사-비교-총정리","text":"9. い형용사 vs な형용사 비교 총정리","level":2},{"id":"10-주의가-필요한-형용사","text":"10. 주의가 필요한 형용사","level":2},{"id":"--vs-","text":"① きらい vs すきじゃない","level":3},{"id":"--vs----vs-","text":"② じょうず vs とくい / へた vs にがて","level":3},{"id":"-의-두-가지-의미","text":"③ はやい의 두 가지 의미","level":3},{"id":"11-형용사를-활용한-다양한-표현","text":"11. 형용사를 활용한 다양한 표현","level":2},{"id":"---너무-하다","text":"① ~すぎます — 너무 ~하다","level":3},{"id":"-----해집니다-변화","text":"② ~くなります / ~になります — ~해집니다 (변화)","level":3},{"id":"-----하게-합니다-만들다","text":"③ ~くします / ~にします — ~하게 합니다 (만들다)","level":3},{"id":"12-실전-회화--카페에서","text":"12. 실전 회화 — 카페에서","level":2},{"id":"13-형용사-문형-정리","text":"13. 형용사 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-09-adjectives"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 형용사의 두 종류인 い형용사와 な형용사의 현재·과거·부정·명사수식 활용을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T09:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 30일"]}],["$","time",null,{"dateTime":"2026-04-30T09:39:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 30일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
 4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","adjectives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","adjectives"]}],["$","span","i-adjective",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","i-adjective"]}],["$","span","na-adjective",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","na-adjective"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
 5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" tabindex="-1" data-src-line="1">일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 <a class="header-anchor" href="#일본어-9강-형용사-완전-정복--형용사--형용사" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-9강-형용사-완전-정복--형용사--형용사">일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-형용사란">1. い형용사란? </a><ul><li><a href="#대표-형용사-25개">대표 い형용사 25개 </a></li></ul></li><li><a href="#2-형용사-활용표">2. い형용사 활용표 </a><ul><li><a href="#예문">예문 </a></li></ul></li><li><a href="#3-형용사의-명사-수식-연체형">3. い형용사의 명사 수식 (연체형) </a><ul><li><a href="#부정형으로-수식">부정형으로 수식 </a></li></ul></li><li><a href="#4-형용사의-부사적-활용-">4. い형용사의 부사적 활용 (~く) </a></li><li><a href="#5-형용사란">5. な형용사란? </a><ul><li><a href="#대표-형용사-25개-1">대표 な형용사 25개 </a></li></ul></li><li><a href="#6-형용사-활용표">6. な형용사 활용표 </a><ul><li><a href="#예문-1">예문 </a></li></ul></li><li><a href="#7-형용사의-명사-수식-연체형">7. な형용사의 명사 수식 (연체형) </a></li><li><a href="#8-형용사의-부사적-활용-">8. な형용사의 부사적 활용 (~に) </a></li><li><a href="#9-형용사-vs-형용사-비교-총정리">9. い형용사 vs な형용사 비교 총정리 </a></li><li><a href="#10-주의가-필요한-형용사">10. 주의가 필요한 형용사 </a><ul><li><a href="#--vs-">① きらい vs すきじゃない </a></li><li><a href="#--vs----vs-">② じょうず vs とくい / へた vs にがて </a></li><li><a href="#-의-두-가지-의미">③ はやい의 두 가지 의미 </a></li></ul></li><li><a href="#11-형용사를-활용한-다양한-표현">11. 형용사를 활용한 다양한 표현 </a><ul><li><a href="#---너무-하다">① ~すぎます — 너무 ~하다 </a></li><li><a href="#-----해집니다-변화">② ~くなります / ~になります — ~해집니다 (변화) </a></li><li><a href="#-----하게-합니다-만들다">③ ~くします / ~にします — ~하게 합니다 (만들다) </a></li></ul></li><li><a href="#12-실전-회화--카페에서">12. 실전 회화 — 카페에서 </a></li><li><a href="#13-형용사-문형-정리">13. 형용사 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+b:T7942,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-형용사란">1. い형용사란? </a><ul><li><a href="#대표-형용사-25개">대표 い형용사 25개 </a></li></ul></li><li><a href="#2-형용사-활용표">2. い형용사 활용표 </a><ul><li><a href="#예문">예문 </a></li></ul></li><li><a href="#3-형용사의-명사-수식-연체형">3. い형용사의 명사 수식 (연체형) </a><ul><li><a href="#부정형으로-수식">부정형으로 수식 </a></li></ul></li><li><a href="#4-형용사의-부사적-활용-">4. い형용사의 부사적 활용 (~く) </a></li><li><a href="#5-형용사란">5. な형용사란? </a><ul><li><a href="#대표-형용사-25개-1">대표 な형용사 25개 </a></li></ul></li><li><a href="#6-형용사-활용표">6. な형용사 활용표 </a><ul><li><a href="#예문-1">예문 </a></li></ul></li><li><a href="#7-형용사의-명사-수식-연체형">7. な형용사의 명사 수식 (연체형) </a></li><li><a href="#8-형용사의-부사적-활용-">8. な형용사의 부사적 활용 (~に) </a></li><li><a href="#9-형용사-vs-형용사-비교-총정리">9. い형용사 vs な형용사 비교 총정리 </a></li><li><a href="#10-주의가-필요한-형용사">10. 주의가 필요한 형용사 </a><ul><li><a href="#--vs-">① きらい vs すきじゃない </a></li><li><a href="#--vs----vs-">② じょうず vs とくい / へた vs にがて </a></li><li><a href="#-의-두-가지-의미">③ はやい의 두 가지 의미 </a></li></ul></li><li><a href="#11-형용사를-활용한-다양한-표현">11. 형용사를 활용한 다양한 표현 </a><ul><li><a href="#---너무-하다">① ~すぎます — 너무 ~하다 </a></li><li><a href="#-----해집니다-변화">② ~くなります / ~になります — ~해집니다 (변화) </a></li><li><a href="#-----하게-합니다-만들다">③ ~くします / ~にします — ~하게 합니다 (만들다) </a></li></ul></li><li><a href="#12-실전-회화--카페에서">12. 실전 회화 — 카페에서 </a></li><li><a href="#13-형용사-문형-정리">13. 형용사 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>일본어 형용사는 크게 두 종류로 나뉩니다. <strong>い형용사</strong>와 <strong>な형용사</strong>입니다.<br>
 두 종류는 생김새도 다르고 활용 방식도 다르지만, 원리를 익히면 모든 형용사에 일관되게 적용할 수 있습니다.</p>
 <blockquote>
@@ -24,10 +23,10 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-형용사란" tabindex="-1" data-src-line="19">1. い형용사란? <a class="header-anchor" href="#1-형용사란" aria-hidden="true">#</a></h2>
+<h2 id="1-형용사란" tabindex="-1" data-src-line="17">1. い형용사란? <a class="header-anchor" href="#1-형용사란" aria-hidden="true">#</a></h2>
 <p>사전형(기본형)이 <strong>い로 끝나는</strong> 형용사입니다.<br>
 어미 <code>い</code> 를 직접 변형하여 활용합니다.</p>
-<h3 id="대표-형용사-25개" tabindex="-1" data-src-line="24">대표 い형용사 25개 <a class="header-anchor" href="#대표-형용사-25개" aria-hidden="true">#</a></h3>
+<h3 id="대표-형용사-25개" tabindex="-1" data-src-line="22">대표 い형용사 25개 <a class="header-anchor" href="#대표-형용사-25개" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -165,7 +164,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 </tbody>
 </table>
 </div><hr>
-<h2 id="2-형용사-활용표" tabindex="-1" data-src-line="56">2. い형용사 활용표 <a class="header-anchor" href="#2-형용사-활용표" aria-hidden="true">#</a></h2>
+<h2 id="2-형용사-활용표" tabindex="-1" data-src-line="54">2. い형용사 활용표 <a class="header-anchor" href="#2-형용사-활용표" aria-hidden="true">#</a></h2>
 <p>어미 <code>い</code> 를 기준으로 변형합니다. <code>いい(좋다)</code> 는 불규칙이므로 주의!</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -212,7 +211,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 <li>いいです → よくなかったです (좋지 않았습니다)</li>
 </ul>
 </blockquote>
-<h3 id="예문" tabindex="-1" data-src-line="73">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
+<h3 id="예문" tabindex="-1" data-src-line="71">예문 <a class="header-anchor" href="#예문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">このレストランは たかいです。
 이 레스토랑은 비쌉니다.
 
@@ -232,7 +231,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 그 가게는 좋았습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-형용사의-명사-수식-연체형" tabindex="-1" data-src-line="97">3. い형용사의 명사 수식 (연체형) <a class="header-anchor" href="#3-형용사의-명사-수식-연체형" aria-hidden="true">#</a></h2>
+<h2 id="3-형용사의-명사-수식-연체형" tabindex="-1" data-src-line="95">3. い형용사의 명사 수식 (연체형) <a class="header-anchor" href="#3-형용사의-명사-수식-연체형" aria-hidden="true">#</a></h2>
 <p>명사 앞에 그대로 붙여서 수식합니다. 형태 변화 없이 기본형을 사용합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">い형용사 + 명사
 </code></pre></div></code></pre>
@@ -248,7 +247,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 むずかしい もんだい
 어려운 문제
 </code></pre></div></code></pre>
-<h3 id="부정형으로-수식" tabindex="-1" data-src-line="119">부정형으로 수식 <a class="header-anchor" href="#부정형으로-수식" aria-hidden="true">#</a></h3>
+<h3 id="부정형으로-수식" tabindex="-1" data-src-line="117">부정형으로 수식 <a class="header-anchor" href="#부정형으로-수식" aria-hidden="true">#</a></h3>
 <p>부정형(くない)도 명사를 수식할 수 있습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">たかくない レストラン
 비싸지 않은 레스토랑
@@ -257,7 +256,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 재미없는 영화
 </code></pre></div></code></pre>
 <hr>
-<h2 id="4-형용사의-부사적-활용-" tabindex="-1" data-src-line="133">4. い형용사의 부사적 활용 (~く) <a class="header-anchor" href="#4-형용사의-부사적-활용-" aria-hidden="true">#</a></h2>
+<h2 id="4-형용사의-부사적-활용-" tabindex="-1" data-src-line="131">4. い형용사의 부사적 활용 (~く) <a class="header-anchor" href="#4-형용사의-부사적-활용-" aria-hidden="true">#</a></h2>
 <p>い형용사의 어미 <code>い</code> 를 <code>く</code> 로 바꾸면 <strong>부사</strong>가 됩니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">い → く
 
@@ -275,10 +274,10 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 크게 목소리를 내주세요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-형용사란" tabindex="-1" data-src-line="158">5. な형용사란? <a class="header-anchor" href="#5-형용사란" aria-hidden="true">#</a></h2>
+<h2 id="5-형용사란" tabindex="-1" data-src-line="156">5. な형용사란? <a class="header-anchor" href="#5-형용사란" aria-hidden="true">#</a></h2>
 <p>な형용사는 사전형이 <strong>な로 끝나지 않고</strong>, 명사를 수식할 때 <strong>な를 붙이는</strong> 형용사입니다.<br>
 활용 방식이 명사문(です·じゃありません)과 동일합니다.</p>
-<h3 id="대표-형용사-25개-1" tabindex="-1" data-src-line="163">대표 な형용사 25개 <a class="header-anchor" href="#대표-형용사-25개-1" aria-hidden="true">#</a></h3>
+<h3 id="대표-형용사-25개-1" tabindex="-1" data-src-line="161">대표 な형용사 25개 <a class="header-anchor" href="#대표-형용사-25개-1" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -421,7 +420,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 → きれいくない ❌ → きれいじゃない ✅</p>
 </blockquote>
 <hr>
-<h2 id="6-형용사-활용표" tabindex="-1" data-src-line="199">6. な형용사 활용표 <a class="header-anchor" href="#6-형용사-활용표" aria-hidden="true">#</a></h2>
+<h2 id="6-형용사-활용표" tabindex="-1" data-src-line="197">6. な형용사 활용표 <a class="header-anchor" href="#6-형용사-활용표" aria-hidden="true">#</a></h2>
 <p>명사문(です / じゃありません)과 동일하게 활용합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -454,7 +453,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 </tr>
 </tbody>
 </table>
-</div><h3 id="예문-1" tabindex="-1" data-src-line="210">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
+</div><h3 id="예문-1" tabindex="-1" data-src-line="208">예문 <a class="header-anchor" href="#예문-1" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">このまちは にぎやかです。
 이 마을은 활기찹니다.
 
@@ -468,7 +467,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 그는 성실하지 않았습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-형용사의-명사-수식-연체형" tabindex="-1" data-src-line="228">7. な형용사의 명사 수식 (연체형) <a class="header-anchor" href="#7-형용사의-명사-수식-연체형" aria-hidden="true">#</a></h2>
+<h2 id="7-형용사의-명사-수식-연체형" tabindex="-1" data-src-line="226">7. な형용사의 명사 수식 (연체형) <a class="header-anchor" href="#7-형용사의-명사-수식-연체형" aria-hidden="true">#</a></h2>
 <p>명사 앞에서 수식할 때는 <strong>な를 붙입니다.</strong></p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">な형용사 + な + 명사
 </code></pre></div></code></pre>
@@ -495,7 +494,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="8-형용사의-부사적-활용-" tabindex="-1" data-src-line="262">8. な형용사의 부사적 활용 (~に) <a class="header-anchor" href="#8-형용사의-부사적-활용-" aria-hidden="true">#</a></h2>
+<h2 id="8-형용사의-부사적-활용-" tabindex="-1" data-src-line="260">8. な형용사의 부사적 활용 (~に) <a class="header-anchor" href="#8-형용사의-부사적-활용-" aria-hidden="true">#</a></h2>
 <p>な형용사를 부사로 쓸 때는 <strong>に를 붙입니다.</strong></p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">な형용사 + に
 
@@ -514,7 +513,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 일본어를 능숙하게 말하고 싶습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-형용사-vs-형용사-비교-총정리" tabindex="-1" data-src-line="288">9. い형용사 vs な형용사 비교 총정리 <a class="header-anchor" href="#9-형용사-vs-형용사-비교-총정리" aria-hidden="true">#</a></h2>
+<h2 id="9-형용사-vs-형용사-비교-총정리" tabindex="-1" data-src-line="286">9. い형용사 vs な형용사 비교 총정리 <a class="header-anchor" href="#9-형용사-vs-형용사-비교-총정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -557,12 +556,12 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 </tbody>
 </table>
 </div><hr>
-<h2 id="10-주의가-필요한-형용사" tabindex="-1" data-src-line="301">10. 주의가 필요한 형용사 <a class="header-anchor" href="#10-주의가-필요한-형용사" aria-hidden="true">#</a></h2>
-<h3 id="--vs-" tabindex="-1" data-src-line="303">① きらい vs すきじゃない <a class="header-anchor" href="#--vs-" aria-hidden="true">#</a></h3>
+<h2 id="10-주의가-필요한-형용사" tabindex="-1" data-src-line="299">10. 주의가 필요한 형용사 <a class="header-anchor" href="#10-주의가-필요한-형용사" aria-hidden="true">#</a></h2>
+<h3 id="--vs-" tabindex="-1" data-src-line="301">① きらい vs すきじゃない <a class="header-anchor" href="#--vs-" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">すしが きらいです。 (초밥이 싫습니다.) ← 강한 표현
 すしが すきじゃありません。 (초밥을 좋아하지 않습니다.) ← 부드러운 표현
 </code></pre></div></code></pre>
-<h3 id="--vs----vs-" tabindex="-1" data-src-line="310">② じょうず vs とくい / へた vs にがて <a class="header-anchor" href="#--vs----vs-" aria-hidden="true">#</a></h3>
+<h3 id="--vs----vs-" tabindex="-1" data-src-line="308">② じょうず vs とくい / へた vs にがて <a class="header-anchor" href="#--vs----vs-" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -603,15 +602,15 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 わたしは すうがくが にがてです。
 나는 수학이 약합니다. (겸손한 표현)
 </code></pre></div></code></pre>
-<h3 id="-의-두-가지-의미" tabindex="-1" data-src-line="330">③ はやい의 두 가지 의미 <a class="header-anchor" href="#-의-두-가지-의미" aria-hidden="true">#</a></h3>
+<h3 id="-의-두-가지-의미" tabindex="-1" data-src-line="328">③ はやい의 두 가지 의미 <a class="header-anchor" href="#-의-두-가지-의미" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">はやい → 速い (속도가 빠르다) / 早い (시간이 이르다)
 
 でんしゃが はやいです。 (전철이 빠릅니다.) ← 속도
 おきるのが はやいです。 (일어나는 것이 이릅니다.) ← 시간
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-형용사를-활용한-다양한-표현" tabindex="-1" data-src-line="341">11. 형용사를 활용한 다양한 표현 <a class="header-anchor" href="#11-형용사를-활용한-다양한-표현" aria-hidden="true">#</a></h2>
-<h3 id="---너무-하다" tabindex="-1" data-src-line="343">① ~すぎます — 너무 ~하다 <a class="header-anchor" href="#---너무-하다" aria-hidden="true">#</a></h3>
+<h2 id="11-형용사를-활용한-다양한-표현" tabindex="-1" data-src-line="339">11. 형용사를 활용한 다양한 표현 <a class="header-anchor" href="#11-형용사를-활용한-다양한-표현" aria-hidden="true">#</a></h2>
+<h3 id="---너무-하다" tabindex="-1" data-src-line="341">① ~すぎます — 너무 ~하다 <a class="header-anchor" href="#---너무-하다" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">い형용사: い → すぎます
 な형용사: な 없이 + すぎます
 
@@ -624,7 +623,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 このまちは にぎやかすぎます。
 이 마을은 너무 시끄럽습니다.
 </code></pre></div></code></pre>
-<h3 id="-----해집니다-변화" tabindex="-1" data-src-line="359">② ~くなります / ~になります — ~해집니다 (변화) <a class="header-anchor" href="#-----해집니다-변화" aria-hidden="true">#</a></h3>
+<h3 id="-----해집니다-변화" tabindex="-1" data-src-line="357">② ~くなります / ~になります — ~해집니다 (변화) <a class="header-anchor" href="#-----해집니다-변화" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">い형용사: い → く + なります
 な형용사: な 없이 + に + なります
 
@@ -637,7 +636,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 まちが にぎやかになりました。
 마을이 활기차게 되었습니다.
 </code></pre></div></code></pre>
-<h3 id="-----하게-합니다-만들다" tabindex="-1" data-src-line="375">③ ~くします / ~にします — ~하게 합니다 (만들다) <a class="header-anchor" href="#-----하게-합니다-만들다" aria-hidden="true">#</a></h3>
+<h3 id="-----하게-합니다-만들다" tabindex="-1" data-src-line="373">③ ~くします / ~にします — ~하게 합니다 (만들다) <a class="header-anchor" href="#-----하게-합니다-만들다" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">い형용사: い → く + します
 な형용사: な 없이 + に + します
 
@@ -648,7 +647,7 @@ b:T7b14,<h1 id="일본어-9강-형용사-완전-정복--형용사--형용사" ta
 목소리를 크게 해 주세요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-실전-회화--카페에서" tabindex="-1" data-src-line="390">12. 실전 회화 — 카페에서 <a class="header-anchor" href="#12-실전-회화--카페에서" aria-hidden="true">#</a></h2>
+<h2 id="12-실전-회화--카페에서" tabindex="-1" data-src-line="388">12. 실전 회화 — 카페에서 <a class="header-anchor" href="#12-실전-회화--카페에서" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: このケーキ、おいしそうですね。
    코노 케에키、오이시소우데스네。
    (이 케이크, 맛있어 보이네요.)
@@ -676,7 +675,7 @@ A: そうですね。つぎは もっと からいのを たべてみましょ�
    (그렇네요. 다음엔 더 매운 것을 먹어볼까요.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="13-형용사-문형-정리" tabindex="-1" data-src-line="422">13. 형용사 문형 정리 <a class="header-anchor" href="#13-형용사-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="13-형용사-문형-정리" tabindex="-1" data-src-line="420">13. 형용사 문형 정리 <a class="header-anchor" href="#13-형용사-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -749,7 +748,7 @@ A: そうですね。つぎは もっと からいのを たべてみましょ�
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="441">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="439">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>형용사 활용의 핵심은 딱 두 가지입니다.</p>
 <ul>
 <li><strong>い형용사</strong>: 어미 <code>い</code> 를 직접 변형 (く·かった·くなかった)</li>
@@ -786,7 +785,7 @@ A: そうですね。つぎは もっと からいのを たべてみましょ�
 </ul>
 </blockquote>
 6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$La",null,{"content":"$b"}]}]}]
-7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/english/english-lesson-01-alphabet-pronunciation","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-10-existence-location","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-06-adjectives-adverbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/english/english-lesson-06-adjectives-adverbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}]}],["$","li","japanese/japanese-lesson-07-particles",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-07-particles","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}]}],["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}]]}]]}]]}]
+7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/english/english-lesson-01-alphabet-pronunciation","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 1강: 알파벳 · 발음 기호 · 소리의 원리"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-10-existence-location","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-06-adjectives-adverbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/english/english-lesson-06-adjectives-adverbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}]}],["$","li","japanese/japanese-lesson-07-particles",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-07-particles","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}]}],["$","li","japanese/japanese-lesson-15-experience",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-15-experience","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 15강: 경험 표현 완전 정복 — ～たことがあります"}]}]]}]]}]]}]
 8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
 9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
 f:null

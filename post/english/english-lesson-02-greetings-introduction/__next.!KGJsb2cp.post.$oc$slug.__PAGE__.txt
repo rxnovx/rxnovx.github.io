@@ -1,16 +1,15 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 d:I[484,[],"OutletBoundary"]
 e:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-02-greetings-introduction\"},\"headline\":\"영어 2강: 인사 · 자기소개 — My name is · I'm from\",\"description\":\"영어로 처음 만나는 상황에서 자연스럽게 인사하고 자기소개하는 표현을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-30T14:00:00.000Z\",\"dateModified\":\"2026-04-30T14:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-02-greetings-introduction\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"greetings\",\"self-introduction\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 2강: 인사 · 자기소개 — My name is · I'm from","slugPath":"english/english-lesson-02-greetings-introduction","headings":[{"id":"영어-2강-인사--자기소개--my-name-is--im-from","text":"영어 2강: 인사 · 자기소개 — My name is · I'm from","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-만날-때-인사-표현","text":"1. 만날 때 인사 표현","level":2},{"id":"기본-인사","text":"기본 인사","level":3},{"id":"시간대별-인사","text":"시간대별 인사","level":3},{"id":"안부-묻기","text":"안부 묻기","level":3},{"id":"안부-답하기","text":"안부 답하기","level":3},{"id":"2-자기소개-핵심-문형","text":"2. 자기소개 핵심 문형","level":2},{"id":"-이름-말하기","text":"① 이름 말하기","level":3},{"id":"-출신지-말하기","text":"② 출신지 말하기","level":3},{"id":"-거주지-말하기","text":"③ 거주지 말하기","level":3},{"id":"-나이-말하기","text":"④ 나이 말하기","level":3},{"id":"-직업-말하기","text":"⑤ 직업 말하기","level":3},{"id":"3-직업-어휘","text":"3. 직업 어휘","level":2},{"id":"4-국적-어휘","text":"4. 국적 어휘","level":2},{"id":"5-취미관심사-표현","text":"5. 취미·관심사 표현","level":2},{"id":"6-처음-만날-때-표현","text":"6. 처음 만날 때 표현","level":2},{"id":"처음-만날-때","text":"처음 만날 때","level":3},{"id":"응답-표현","text":"응답 표현","level":3},{"id":"7-헤어질-때-인사","text":"7. 헤어질 때 인사","level":2},{"id":"일반적인-작별-인사","text":"일반적인 작별 인사","level":3},{"id":"8-대화를-이어가는-표현","text":"8. 대화를 이어가는 표현","level":2},{"id":"9-실전-회화--처음-만나는-상황","text":"9. 실전 회화 — 처음 만나는 상황","level":2},{"id":"상황--비즈니스-미팅","text":"상황 ① 비즈니스 미팅","level":3},{"id":"상황--파티에서-처음-만남","text":"상황 ② 파티에서 처음 만남","level":3},{"id":"10-자기소개-전체-예시","text":"10. 자기소개 전체 예시","level":2},{"id":"11-문형-정리","text":"11. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-02-greetings-introduction"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 2강: 인사 · 자기소개 — My name is · I'm from"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어로 처음 만나는 상황에서 자연스럽게 인사하고 자기소개하는 표현을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T14:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 30일"]}],["$","time",null,{"dateTime":"2026-04-30T14:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 30일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-02-greetings-introduction\"},\"headline\":\"영어 2강: 인사 · 자기소개 — My name is · I'm from\",\"description\":\"영어로 처음 만나는 상황에서 자연스럽게 인사하고 자기소개하는 표현을 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-30T14:00:00.000Z\",\"dateModified\":\"2026-04-30T14:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-02-greetings-introduction\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"greetings\",\"self-introduction\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 2강: 인사 · 자기소개 — My name is · I'm from","slugPath":"english/english-lesson-02-greetings-introduction","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-만날-때-인사-표현","text":"1. 만날 때 인사 표현","level":2},{"id":"기본-인사","text":"기본 인사","level":3},{"id":"시간대별-인사","text":"시간대별 인사","level":3},{"id":"안부-묻기","text":"안부 묻기","level":3},{"id":"안부-답하기","text":"안부 답하기","level":3},{"id":"2-자기소개-핵심-문형","text":"2. 자기소개 핵심 문형","level":2},{"id":"-이름-말하기","text":"① 이름 말하기","level":3},{"id":"-출신지-말하기","text":"② 출신지 말하기","level":3},{"id":"-거주지-말하기","text":"③ 거주지 말하기","level":3},{"id":"-나이-말하기","text":"④ 나이 말하기","level":3},{"id":"-직업-말하기","text":"⑤ 직업 말하기","level":3},{"id":"3-직업-어휘","text":"3. 직업 어휘","level":2},{"id":"4-국적-어휘","text":"4. 국적 어휘","level":2},{"id":"5-취미관심사-표현","text":"5. 취미·관심사 표현","level":2},{"id":"6-처음-만날-때-표현","text":"6. 처음 만날 때 표현","level":2},{"id":"처음-만날-때","text":"처음 만날 때","level":3},{"id":"응답-표현","text":"응답 표현","level":3},{"id":"7-헤어질-때-인사","text":"7. 헤어질 때 인사","level":2},{"id":"일반적인-작별-인사","text":"일반적인 작별 인사","level":3},{"id":"8-대화를-이어가는-표현","text":"8. 대화를 이어가는 표현","level":2},{"id":"9-실전-회화--처음-만나는-상황","text":"9. 실전 회화 — 처음 만나는 상황","level":2},{"id":"상황--비즈니스-미팅","text":"상황 ① 비즈니스 미팅","level":3},{"id":"상황--파티에서-처음-만남","text":"상황 ② 파티에서 처음 만남","level":3},{"id":"10-자기소개-전체-예시","text":"10. 자기소개 전체 예시","level":2},{"id":"11-문형-정리","text":"11. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-02-greetings-introduction"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 2강: 인사 · 자기소개 — My name is · I'm from"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어로 처음 만나는 상황에서 자연스럽게 인사하고 자기소개하는 표현을 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T14:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 30일"]}],["$","time",null,{"dateTime":"2026-04-30T14:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 30일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
 3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
 4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","greetings",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","greetings"]}],["$","span","self-introduction",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","self-introduction"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
 5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-b:T6ee9,<h1 id="영어-2강-인사--자기소개--my-name-is--im-from" tabindex="-1" data-src-line="1">영어 2강: 인사 · 자기소개 — My name is · I’m from <a class="header-anchor" href="#영어-2강-인사--자기소개--my-name-is--im-from" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-2강-인사--자기소개--my-name-is--im-from">영어 2강: 인사 · 자기소개 — My name is · I’m from </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-만날-때-인사-표현">1. 만날 때 인사 표현 </a><ul><li><a href="#기본-인사">기본 인사 </a></li><li><a href="#시간대별-인사">시간대별 인사 </a></li><li><a href="#안부-묻기">안부 묻기 </a></li><li><a href="#안부-답하기">안부 답하기 </a></li></ul></li><li><a href="#2-자기소개-핵심-문형">2. 자기소개 핵심 문형 </a><ul><li><a href="#-이름-말하기">① 이름 말하기 </a></li><li><a href="#-출신지-말하기">② 출신지 말하기 </a></li><li><a href="#-거주지-말하기">③ 거주지 말하기 </a></li><li><a href="#-나이-말하기">④ 나이 말하기 </a></li><li><a href="#-직업-말하기">⑤ 직업 말하기 </a></li></ul></li><li><a href="#3-직업-어휘">3. 직업 어휘 </a></li><li><a href="#4-국적-어휘">4. 국적 어휘 </a></li><li><a href="#5-취미관심사-표현">5. 취미·관심사 표현 </a></li><li><a href="#6-처음-만날-때-표현">6. 처음 만날 때 표현 </a><ul><li><a href="#처음-만날-때">처음 만날 때 </a></li><li><a href="#응답-표현">응답 표현 </a></li></ul></li><li><a href="#7-헤어질-때-인사">7. 헤어질 때 인사 </a><ul><li><a href="#일반적인-작별-인사">일반적인 작별 인사 </a></li></ul></li><li><a href="#8-대화를-이어가는-표현">8. 대화를 이어가는 표현 </a></li><li><a href="#9-실전-회화--처음-만나는-상황">9. 실전 회화 — 처음 만나는 상황 </a><ul><li><a href="#상황--비즈니스-미팅">상황 ① 비즈니스 미팅 </a></li><li><a href="#상황--파티에서-처음-만남">상황 ② 파티에서 처음 만남 </a></li></ul></li><li><a href="#10-자기소개-전체-예시">10. 자기소개 전체 예시 </a></li><li><a href="#11-문형-정리">11. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+b:T6d3c,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-만날-때-인사-표현">1. 만날 때 인사 표현 </a><ul><li><a href="#기본-인사">기본 인사 </a></li><li><a href="#시간대별-인사">시간대별 인사 </a></li><li><a href="#안부-묻기">안부 묻기 </a></li><li><a href="#안부-답하기">안부 답하기 </a></li></ul></li><li><a href="#2-자기소개-핵심-문형">2. 자기소개 핵심 문형 </a><ul><li><a href="#-이름-말하기">① 이름 말하기 </a></li><li><a href="#-출신지-말하기">② 출신지 말하기 </a></li><li><a href="#-거주지-말하기">③ 거주지 말하기 </a></li><li><a href="#-나이-말하기">④ 나이 말하기 </a></li><li><a href="#-직업-말하기">⑤ 직업 말하기 </a></li></ul></li><li><a href="#3-직업-어휘">3. 직업 어휘 </a></li><li><a href="#4-국적-어휘">4. 국적 어휘 </a></li><li><a href="#5-취미관심사-표현">5. 취미·관심사 표현 </a></li><li><a href="#6-처음-만날-때-표현">6. 처음 만날 때 표현 </a><ul><li><a href="#처음-만날-때">처음 만날 때 </a></li><li><a href="#응답-표현">응답 표현 </a></li></ul></li><li><a href="#7-헤어질-때-인사">7. 헤어질 때 인사 </a><ul><li><a href="#일반적인-작별-인사">일반적인 작별 인사 </a></li></ul></li><li><a href="#8-대화를-이어가는-표현">8. 대화를 이어가는 표현 </a></li><li><a href="#9-실전-회화--처음-만나는-상황">9. 실전 회화 — 처음 만나는 상황 </a><ul><li><a href="#상황--비즈니스-미팅">상황 ① 비즈니스 미팅 </a></li><li><a href="#상황--파티에서-처음-만남">상황 ② 파티에서 처음 만남 </a></li></ul></li><li><a href="#10-자기소개-전체-예시">10. 자기소개 전체 예시 </a></li><li><a href="#11-문형-정리">11. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>1강에서 발음의 기초를 잡았다면, 이번 강에서는 드디어 <strong>실제 영어 문장</strong>을 만듭니다.<br>
 인사와 자기소개는 영어의 첫 관문이자 가장 자주 쓰이는 표현입니다.</p>
 <blockquote>
@@ -24,8 +23,8 @@ b:T6ee9,<h1 id="영어-2강-인사--자기소개--my-name-is--im-from" tabindex=
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-만날-때-인사-표현" tabindex="-1" data-src-line="19">1. 만날 때 인사 표현 <a class="header-anchor" href="#1-만날-때-인사-표현" aria-hidden="true">#</a></h2>
-<h3 id="기본-인사" tabindex="-1" data-src-line="21">기본 인사 <a class="header-anchor" href="#기본-인사" aria-hidden="true">#</a></h3>
+<h2 id="1-만날-때-인사-표현" tabindex="-1" data-src-line="17">1. 만날 때 인사 표현 <a class="header-anchor" href="#1-만날-때-인사-표현" aria-hidden="true">#</a></h2>
+<h3 id="기본-인사" tabindex="-1" data-src-line="19">기본 인사 <a class="header-anchor" href="#기본-인사" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -52,7 +51,7 @@ b:T6ee9,<h1 id="영어-2강-인사--자기소개--my-name-is--im-from" tabindex=
 </tr>
 </tbody>
 </table>
-</div><h3 id="시간대별-인사" tabindex="-1" data-src-line="29">시간대별 인사 <a class="header-anchor" href="#시간대별-인사" aria-hidden="true">#</a></h3>
+</div><h3 id="시간대별-인사" tabindex="-1" data-src-line="27">시간대별 인사 <a class="header-anchor" href="#시간대별-인사" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -84,7 +83,7 @@ b:T6ee9,<h1 id="영어-2강-인사--자기소개--my-name-is--im-from" tabindex=
 <code>Good night</code>는 만날 때가 아니라 <strong>헤어질 때 (자러 가기 전)</strong> 에 씁니다.<br>
 저녁에 만날 때는 반드시 <code>Good evening</code>을 사용합니다.</p>
 </blockquote>
-<h3 id="안부-묻기" tabindex="-1" data-src-line="41">안부 묻기 <a class="header-anchor" href="#안부-묻기" aria-hidden="true">#</a></h3>
+<h3 id="안부-묻기" tabindex="-1" data-src-line="39">안부 묻기 <a class="header-anchor" href="#안부-묻기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How are you?
 어떻게 지내세요?
 
@@ -97,7 +96,7 @@ How&#039;s it going?
 What&#039;s up?
 뭐 해? / 어때? (매우 캐주얼)
 </code></pre></div></code></pre>
-<h3 id="안부-답하기" tabindex="-1" data-src-line="57">안부 답하기 <a class="header-anchor" href="#안부-답하기" aria-hidden="true">#</a></h3>
+<h3 id="안부-답하기" tabindex="-1" data-src-line="55">안부 답하기 <a class="header-anchor" href="#안부-답하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m fine, thank you. And you?
 잘 지냅니다, 감사합니다. 당신은요?
 
@@ -122,8 +121,8 @@ I&#039;m a little tired.
 자연스러운 회화에서는 <code>Pretty good!</code>, <code>Great!</code>, <code>Not bad!</code> 등을 더 많이 씁니다.</p>
 </blockquote>
 <hr>
-<h2 id="2-자기소개-핵심-문형" tabindex="-1" data-src-line="85">2. 자기소개 핵심 문형 <a class="header-anchor" href="#2-자기소개-핵심-문형" aria-hidden="true">#</a></h2>
-<h3 id="-이름-말하기" tabindex="-1" data-src-line="87">① 이름 말하기 <a class="header-anchor" href="#-이름-말하기" aria-hidden="true">#</a></h3>
+<h2 id="2-자기소개-핵심-문형" tabindex="-1" data-src-line="83">2. 자기소개 핵심 문형 <a class="header-anchor" href="#2-자기소개-핵심-문형" aria-hidden="true">#</a></h2>
+<h3 id="-이름-말하기" tabindex="-1" data-src-line="85">① 이름 말하기 <a class="header-anchor" href="#-이름-말하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">My name is [이름].
 제 이름은 ~입니다.
 
@@ -142,7 +141,7 @@ I&#039;m Jiwon. Nice to meet you!
 You can call me Jay.
 저를 Jay라고 불러주세요.
 </code></pre></div></code></pre>
-<h3 id="-출신지-말하기" tabindex="-1" data-src-line="111">② 출신지 말하기 <a class="header-anchor" href="#-출신지-말하기" aria-hidden="true">#</a></h3>
+<h3 id="-출신지-말하기" tabindex="-1" data-src-line="109">② 출신지 말하기 <a class="header-anchor" href="#-출신지-말하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m from [나라/도시].
 저는 ~에서 왔습니다.
 
@@ -152,7 +151,7 @@ I&#039;m from South Korea.
 I&#039;m from Seoul, South Korea.
 저는 한국 서울에서 왔습니다.
 </code></pre></div></code></pre>
-<h3 id="-거주지-말하기" tabindex="-1" data-src-line="124">③ 거주지 말하기 <a class="header-anchor" href="#-거주지-말하기" aria-hidden="true">#</a></h3>
+<h3 id="-거주지-말하기" tabindex="-1" data-src-line="122">③ 거주지 말하기 <a class="header-anchor" href="#-거주지-말하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I live in [도시/나라].
 저는 ~에 살고 있습니다.
 
@@ -162,7 +161,7 @@ I live in Seoul.
 I&#039;m currently living in Busan.
 현재 부산에 살고 있습니다.
 </code></pre></div></code></pre>
-<h3 id="-나이-말하기" tabindex="-1" data-src-line="137">④ 나이 말하기 <a class="header-anchor" href="#-나이-말하기" aria-hidden="true">#</a></h3>
+<h3 id="-나이-말하기" tabindex="-1" data-src-line="135">④ 나이 말하기 <a class="header-anchor" href="#-나이-말하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m [나이] years old.
 저는 ~살입니다.
 
@@ -183,7 +182,7 @@ I&#039;m in my early thirties.
 <li>late (후반): late forties = 40대 후반</li>
 </ul>
 </blockquote>
-<h3 id="-직업-말하기" tabindex="-1" data-src-line="158">⑤ 직업 말하기 <a class="header-anchor" href="#-직업-말하기" aria-hidden="true">#</a></h3>
+<h3 id="-직업-말하기" tabindex="-1" data-src-line="156">⑤ 직업 말하기 <a class="header-anchor" href="#-직업-말하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m a [직업].
 저는 ~입니다.
 
@@ -209,7 +208,7 @@ I&#039;m a student at Seoul National University.
 저는 서울대학교 학생입니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-직업-어휘" tabindex="-1" data-src-line="190">3. 직업 어휘 <a class="header-anchor" href="#3-직업-어휘" aria-hidden="true">#</a></h2>
+<h2 id="3-직업-어휘" tabindex="-1" data-src-line="188">3. 직업 어휘 <a class="header-anchor" href="#3-직업-어휘" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -301,7 +300,7 @@ I&#039;m a student at Seoul National University.
 </tbody>
 </table>
 </div><hr>
-<h2 id="4-국적-어휘" tabindex="-1" data-src-line="217">4. 국적 어휘 <a class="header-anchor" href="#4-국적-어휘" aria-hidden="true">#</a></h2>
+<h2 id="4-국적-어휘" tabindex="-1" data-src-line="215">4. 국적 어휘 <a class="header-anchor" href="#4-국적-어휘" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -380,7 +379,7 @@ I like Korean food. (저는 한국 음식을 좋아합니다.)
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="5-취미관심사-표현" tabindex="-1" data-src-line="246">5. 취미·관심사 표현 <a class="header-anchor" href="#5-취미관심사-표현" aria-hidden="true">#</a></h2>
+<h2 id="5-취미관심사-표현" tabindex="-1" data-src-line="244">5. 취미·관심사 표현 <a class="header-anchor" href="#5-취미관심사-표현" aria-hidden="true">#</a></h2>
 <p>자기소개에 취미를 덧붙이면 훨씬 자연스럽습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I like [명사 / 동명사].
 저는 ~를 좋아합니다.
@@ -407,8 +406,8 @@ My hobby is playing the guitar.
 제 취미는 기타 연주입니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-처음-만날-때-표현" tabindex="-1" data-src-line="280">6. 처음 만날 때 표현 <a class="header-anchor" href="#6-처음-만날-때-표현" aria-hidden="true">#</a></h2>
-<h3 id="처음-만날-때" tabindex="-1" data-src-line="282">처음 만날 때 <a class="header-anchor" href="#처음-만날-때" aria-hidden="true">#</a></h3>
+<h2 id="6-처음-만날-때-표현" tabindex="-1" data-src-line="278">6. 처음 만날 때 표현 <a class="header-anchor" href="#6-처음-만날-때-표현" aria-hidden="true">#</a></h2>
+<h3 id="처음-만날-때" tabindex="-1" data-src-line="280">처음 만날 때 <a class="header-anchor" href="#처음-만날-때" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Nice to meet you.
 만나서 반갑습니다.
 
@@ -421,7 +420,7 @@ I&#039;ve heard a lot about you.
 I&#039;ve been looking forward to meeting you.
 만나 뵙고 싶었습니다.
 </code></pre></div></code></pre>
-<h3 id="응답-표현" tabindex="-1" data-src-line="298">응답 표현 <a class="header-anchor" href="#응답-표현" aria-hidden="true">#</a></h3>
+<h3 id="응답-표현" tabindex="-1" data-src-line="296">응답 표현 <a class="header-anchor" href="#응답-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Nice to meet you, too.
 저도 만나서 반갑습니다.
 
@@ -432,8 +431,8 @@ Likewise!
 마찬가지입니다!
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-헤어질-때-인사" tabindex="-1" data-src-line="313">7. 헤어질 때 인사 <a class="header-anchor" href="#7-헤어질-때-인사" aria-hidden="true">#</a></h2>
-<h3 id="일반적인-작별-인사" tabindex="-1" data-src-line="315">일반적인 작별 인사 <a class="header-anchor" href="#일반적인-작별-인사" aria-hidden="true">#</a></h3>
+<h2 id="7-헤어질-때-인사" tabindex="-1" data-src-line="311">7. 헤어질 때 인사 <a class="header-anchor" href="#7-헤어질-때-인사" aria-hidden="true">#</a></h2>
+<h3 id="일반적인-작별-인사" tabindex="-1" data-src-line="313">일반적인 작별 인사 <a class="header-anchor" href="#일반적인-작별-인사" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -504,7 +503,7 @@ Talk to you later. (나중에 얘기해요) ← 전화·메시지 후 자주 사
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="8-대화를-이어가는-표현" tabindex="-1" data-src-line="340">8. 대화를 이어가는 표현 <a class="header-anchor" href="#8-대화를-이어가는-표현" aria-hidden="true">#</a></h2>
+<h2 id="8-대화를-이어가는-표현" tabindex="-1" data-src-line="338">8. 대화를 이어가는 표현 <a class="header-anchor" href="#8-대화를-이어가는-표현" aria-hidden="true">#</a></h2>
 <p>자기소개 후 자연스럽게 대화를 이어갈 때 쓰는 표현들입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What do you do (for a living)?
 직업이 무엇입니까?
@@ -531,8 +530,8 @@ Your English is very good!
 영어 정말 잘하시네요!
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-실전-회화--처음-만나는-상황" tabindex="-1" data-src-line="372">9. 실전 회화 — 처음 만나는 상황 <a class="header-anchor" href="#9-실전-회화--처음-만나는-상황" aria-hidden="true">#</a></h2>
-<h3 id="상황--비즈니스-미팅" tabindex="-1" data-src-line="374">상황 ① 비즈니스 미팅 <a class="header-anchor" href="#상황--비즈니스-미팅" aria-hidden="true">#</a></h3>
+<h2 id="9-실전-회화--처음-만나는-상황" tabindex="-1" data-src-line="370">9. 실전 회화 — 처음 만나는 상황 <a class="header-anchor" href="#9-실전-회화--처음-만나는-상황" aria-hidden="true">#</a></h2>
+<h3 id="상황--비즈니스-미팅" tabindex="-1" data-src-line="372">상황 ① 비즈니스 미팅 <a class="header-anchor" href="#상황--비즈니스-미팅" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Hello, nice to meet you.
    I&#039;m Jiwon Park from ABC Company.
    안녕하세요, 만나서 반갑습니다.
@@ -558,7 +557,7 @@ A: That&#039;s great to hear!
    잘됐네요!
    그럼, 시작할까요?
 </code></pre></div></code></pre>
-<h3 id="상황--파티에서-처음-만남" tabindex="-1" data-src-line="403">상황 ② 파티에서 처음 만남 <a class="header-anchor" href="#상황--파티에서-처음-만남" aria-hidden="true">#</a></h3>
+<h3 id="상황--파티에서-처음-만남" tabindex="-1" data-src-line="401">상황 ② 파티에서 처음 만남 <a class="header-anchor" href="#상황--파티에서-처음-만남" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Hi! I don&#039;t think we&#039;ve met.
    I&#039;m Sarah.
    안녕하세요! 처음 뵙는 것 같은데요.
@@ -590,7 +589,7 @@ B: That sounds great!
    명함 드릴게요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-자기소개-전체-예시" tabindex="-1" data-src-line="439">10. 자기소개 전체 예시 <a class="header-anchor" href="#10-자기소개-전체-예시" aria-hidden="true">#</a></h2>
+<h2 id="10-자기소개-전체-예시" tabindex="-1" data-src-line="437">10. 자기소개 전체 예시 <a class="header-anchor" href="#10-자기소개-전체-예시" aria-hidden="true">#</a></h2>
 <p>아래는 자연스러운 자기소개 전체 흐름입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Hello, everyone. Let me introduce myself.
 
@@ -622,7 +621,7 @@ Nice to meet you!
 반갑습니다!
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-문형-정리" tabindex="-1" data-src-line="476">11. 문형 정리 <a class="header-anchor" href="#11-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="11-문형-정리" tabindex="-1" data-src-line="474">11. 문형 정리 <a class="header-anchor" href="#11-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -685,7 +684,7 @@ Nice to meet you!
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="493">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="491">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>인사와 자기소개는 짧아 보이지만, 원어민과의 첫인상을 결정하는 매우 중요한 표현들입니다.<br>
 특히 <code>I'm fine, thank you</code> 대신 <code>Pretty good!</code> / <code>Great!</code> 같은 자연스러운 표현을 쓰고, 상황에 맞는 작별 인사를 구분해 사용하는 것만으로도 훨씬 자연스러운 영어를 구사할 수 있습니다.</p>
 <p>다음 강에서는 영어 문장의 핵심인 <strong>Be동사(am · is · are)</strong> 를 완전히 정복합니다!</p>

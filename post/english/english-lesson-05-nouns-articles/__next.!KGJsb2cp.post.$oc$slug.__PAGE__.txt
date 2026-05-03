@@ -1,14 +1,13 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 c:I[484,[],"OutletBoundary"]
 d:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-05-nouns-articles\"},\"headline\":\"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리\",\"description\":\"영어 학습자가 평생 헷갈리는 관사(a/an/the)와 명사의 모든 것을 원리부터 완전히 정복합니다.\",\"datePublished\":\"2026-05-01T06:01:00.000Z\",\"dateModified\":\"2026-05-01T06:01:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-05-nouns-articles\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"nouns\",\"articles\",\"plurals\",\"a-an-the\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리","slugPath":"english/english-lesson-05-nouns-articles","headings":[{"id":"영어-5강-명사--관사--복수형-완전-정복--aanthe의-원리","text":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-명사의-두-가지-종류","text":"1. 명사의 두 가지 종류","level":2},{"id":"셀-수-있는-명사-countable-nouns","text":"셀 수 있는 명사 (Countable Nouns)","level":3},{"id":"셀-수-없는-명사-uncountable-nouns","text":"셀 수 없는 명사 (Uncountable Nouns)","level":3},{"id":"2-부정관사--a--an","text":"2. 부정관사 — a / an","level":2},{"id":"기본-원칙","text":"기본 원칙","level":3},{"id":"aan의-3가지-용법","text":"a/an의 3가지 용법","level":3},{"id":"용법--처음-언급하는-단수-명사-불특정","text":"용법 ① 처음 언급하는 단수 명사 (불특정)","level":4},{"id":"용법--직업신분-앞에","text":"용법 ② 직업·신분 앞에","level":4},{"id":"용법--하나one의-의미","text":"용법 ③ \"하나(one)\"의 의미","level":4},{"id":"3-정관사--the","text":"3. 정관사 — the","level":2},{"id":"the의-5가지-용법","text":"the의 5가지 용법","level":3},{"id":"용법--이미-언급된-것을-다시-가리킬-때","text":"용법 ① 이미 언급된 것을 다시 가리킬 때","level":4},{"id":"용법--서로-알고-있는-특정-대상","text":"용법 ② 서로 알고 있는 특정 대상","level":4},{"id":"용법--세상에-하나뿐인-것","text":"용법 ③ 세상에 하나뿐인 것","level":4},{"id":"용법--최상급서수-앞에","text":"용법 ④ 최상급·서수 앞에","level":4},{"id":"용법--특정-고유명사","text":"용법 ⑤ 특정 고유명사","level":4},{"id":"4-무관사-zero-article","text":"4. 무관사 (Zero Article)","level":2},{"id":"-복수-명사의-일반적-의미","text":"① 복수 명사의 일반적 의미","level":3},{"id":"-셀-수-없는-명사의-일반적-의미","text":"② 셀 수 없는 명사의 일반적 의미","level":3},{"id":"-식사운동학문-이름","text":"③ 식사·운동·학문 이름","level":3},{"id":"-국가도시사람-이름","text":"④ 국가·도시·사람 이름","level":3},{"id":"-특정-장소의-본래-목적","text":"⑤ 특정 장소의 본래 목적","level":3},{"id":"5-관사-선택-흐름도","text":"5. 관사 선택 흐름도","level":2},{"id":"6-복수형-만들기--규칙","text":"6. 복수형 만들기 — 규칙","level":2},{"id":"규칙--대부분의-명사---s-추가","text":"규칙 ① 대부분의 명사 → -s 추가","level":3},{"id":"규칙---s--sh--ch--x--z로-끝나는-명사---es-추가","text":"규칙 ② -s, -sh, -ch, -x, -z로 끝나는 명사 → -es 추가","level":3},{"id":"규칙--자음--o로-끝나는-명사---es-추가","text":"규칙 ③ 자음 + o로 끝나는 명사 → -es 추가","level":3},{"id":"규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es","text":"규칙 ④ 자음 + y로 끝나는 명사 → y를 i로 바꾸고 -es","level":3},{"id":"규칙---f-fe로-끝나는-명사---ves","text":"규칙 ⑤ -f/-fe로 끝나는 명사 → -ves","level":3},{"id":"7-불규칙-복수형--완전-암기-필수","text":"7. 불규칙 복수형 — 완전 암기 필수","level":2},{"id":"8-단수복수에-따른-동사-일치","text":"8. 단수·복수에 따른 동사 일치","level":2},{"id":"셀-수-없는-명사는-항상-단수-동사","text":"셀 수 없는 명사는 항상 단수 동사","level":3},{"id":"9-명사의-소유격-s","text":"9. 명사의 소유격 ('s)","level":2},{"id":"단수-명사의-소유격--s-추가","text":"단수 명사의 소유격 → 's 추가","level":3},{"id":"복수-명사의-소유격","text":"복수 명사의 소유격","level":3},{"id":"s-vs-of","text":"'s vs of","level":3},{"id":"10-수량-표현","text":"10. 수량 표현","level":2},{"id":"셀-수-있는-명사에-사용","text":"셀 수 있는 명사에 사용","level":3},{"id":"셀-수-없는-명사에-사용","text":"셀 수 없는 명사에 사용","level":3},{"id":"셀-수-있는없는-명사-모두에-사용","text":"셀 수 있는/없는 명사 모두에 사용","level":3},{"id":"11-some-vs-any-완전-정리","text":"11. some vs any 완전 정리","level":2},{"id":"12-자주-혼동하는-관사-사례","text":"12. 자주 혼동하는 관사 사례","level":2},{"id":"-school--the-school","text":"① school / the school","level":3},{"id":"-hospital--the-hospital","text":"② hospital / the hospital","level":3},{"id":"-in-the-morning--at-night","text":"③ in the morning / at night","level":3},{"id":"-play-the-guitar--play-soccer","text":"④ play the guitar / play soccer","level":3},{"id":"13-실전-회화--카페에서","text":"13. 실전 회화 — 카페에서","level":2},{"id":"14-문형-정리","text":"14. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-05-nouns-articles\"},\"headline\":\"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리\",\"description\":\"영어 학습자가 평생 헷갈리는 관사(a/an/the)와 명사의 모든 것을 원리부터 완전히 정복합니다.\",\"datePublished\":\"2026-05-01T06:01:00.000Z\",\"dateModified\":\"2026-05-01T06:01:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-05-nouns-articles\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"nouns\",\"articles\",\"plurals\",\"a-an-the\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리","slugPath":"english/english-lesson-05-nouns-articles","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-명사의-두-가지-종류","text":"1. 명사의 두 가지 종류","level":2},{"id":"셀-수-있는-명사-countable-nouns","text":"셀 수 있는 명사 (Countable Nouns)","level":3},{"id":"셀-수-없는-명사-uncountable-nouns","text":"셀 수 없는 명사 (Uncountable Nouns)","level":3},{"id":"2-부정관사--a--an","text":"2. 부정관사 — a / an","level":2},{"id":"기본-원칙","text":"기본 원칙","level":3},{"id":"aan의-3가지-용법","text":"a/an의 3가지 용법","level":3},{"id":"용법--처음-언급하는-단수-명사-불특정","text":"용법 ① 처음 언급하는 단수 명사 (불특정)","level":4},{"id":"용법--직업신분-앞에","text":"용법 ② 직업·신분 앞에","level":4},{"id":"용법--하나one의-의미","text":"용법 ③ \"하나(one)\"의 의미","level":4},{"id":"3-정관사--the","text":"3. 정관사 — the","level":2},{"id":"the의-5가지-용법","text":"the의 5가지 용법","level":3},{"id":"용법--이미-언급된-것을-다시-가리킬-때","text":"용법 ① 이미 언급된 것을 다시 가리킬 때","level":4},{"id":"용법--서로-알고-있는-특정-대상","text":"용법 ② 서로 알고 있는 특정 대상","level":4},{"id":"용법--세상에-하나뿐인-것","text":"용법 ③ 세상에 하나뿐인 것","level":4},{"id":"용법--최상급서수-앞에","text":"용법 ④ 최상급·서수 앞에","level":4},{"id":"용법--특정-고유명사","text":"용법 ⑤ 특정 고유명사","level":4},{"id":"4-무관사-zero-article","text":"4. 무관사 (Zero Article)","level":2},{"id":"-복수-명사의-일반적-의미","text":"① 복수 명사의 일반적 의미","level":3},{"id":"-셀-수-없는-명사의-일반적-의미","text":"② 셀 수 없는 명사의 일반적 의미","level":3},{"id":"-식사운동학문-이름","text":"③ 식사·운동·학문 이름","level":3},{"id":"-국가도시사람-이름","text":"④ 국가·도시·사람 이름","level":3},{"id":"-특정-장소의-본래-목적","text":"⑤ 특정 장소의 본래 목적","level":3},{"id":"5-관사-선택-흐름도","text":"5. 관사 선택 흐름도","level":2},{"id":"6-복수형-만들기--규칙","text":"6. 복수형 만들기 — 규칙","level":2},{"id":"규칙--대부분의-명사---s-추가","text":"규칙 ① 대부분의 명사 → -s 추가","level":3},{"id":"규칙---s--sh--ch--x--z로-끝나는-명사---es-추가","text":"규칙 ② -s, -sh, -ch, -x, -z로 끝나는 명사 → -es 추가","level":3},{"id":"규칙--자음--o로-끝나는-명사---es-추가","text":"규칙 ③ 자음 + o로 끝나는 명사 → -es 추가","level":3},{"id":"규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es","text":"규칙 ④ 자음 + y로 끝나는 명사 → y를 i로 바꾸고 -es","level":3},{"id":"규칙---f-fe로-끝나는-명사---ves","text":"규칙 ⑤ -f/-fe로 끝나는 명사 → -ves","level":3},{"id":"7-불규칙-복수형--완전-암기-필수","text":"7. 불규칙 복수형 — 완전 암기 필수","level":2},{"id":"8-단수복수에-따른-동사-일치","text":"8. 단수·복수에 따른 동사 일치","level":2},{"id":"셀-수-없는-명사는-항상-단수-동사","text":"셀 수 없는 명사는 항상 단수 동사","level":3},{"id":"9-명사의-소유격-s","text":"9. 명사의 소유격 ('s)","level":2},{"id":"단수-명사의-소유격--s-추가","text":"단수 명사의 소유격 → 's 추가","level":3},{"id":"복수-명사의-소유격","text":"복수 명사의 소유격","level":3},{"id":"s-vs-of","text":"'s vs of","level":3},{"id":"10-수량-표현","text":"10. 수량 표현","level":2},{"id":"셀-수-있는-명사에-사용","text":"셀 수 있는 명사에 사용","level":3},{"id":"셀-수-없는-명사에-사용","text":"셀 수 없는 명사에 사용","level":3},{"id":"셀-수-있는없는-명사-모두에-사용","text":"셀 수 있는/없는 명사 모두에 사용","level":3},{"id":"11-some-vs-any-완전-정리","text":"11. some vs any 완전 정리","level":2},{"id":"12-자주-혼동하는-관사-사례","text":"12. 자주 혼동하는 관사 사례","level":2},{"id":"-school--the-school","text":"① school / the school","level":3},{"id":"-hospital--the-hospital","text":"② hospital / the hospital","level":3},{"id":"-in-the-morning--at-night","text":"③ in the morning / at night","level":3},{"id":"-play-the-guitar--play-soccer","text":"④ play the guitar / play soccer","level":3},{"id":"13-실전-회화--카페에서","text":"13. 실전 회화 — 카페에서","level":2},{"id":"14-문형-정리","text":"14. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5"]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
 3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-05-nouns-articles"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 학습자가 평생 헷갈리는 관사(a/an/the)와 명사의 모든 것을 원리부터 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T06:01:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T06:01:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","nouns",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","nouns"]}],["$","span","articles",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","articles"]}],["$","span","plurals",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","plurals"]}],["$","span","a-an-the",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","a-an-the"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}],"$L8"]}]
-a:Tb861,<h1 id="영어-5강-명사--관사--복수형-완전-정복--aanthe의-원리" tabindex="-1" data-src-line="1">영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리 <a class="header-anchor" href="#영어-5강-명사--관사--복수형-완전-정복--aanthe의-원리" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-5강-명사--관사--복수형-완전-정복--aanthe의-원리">영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-명사의-두-가지-종류">1. 명사의 두 가지 종류 </a><ul><li><a href="#셀-수-있는-명사-countable-nouns">셀 수 있는 명사 (Countable Nouns) </a></li><li><a href="#셀-수-없는-명사-uncountable-nouns">셀 수 없는 명사 (Uncountable Nouns) </a></li></ul></li><li><a href="#2-부정관사--a--an">2. 부정관사 — a / an </a><ul><li><a href="#기본-원칙">기본 원칙 </a></li><li><a href="#aan의-3가지-용법">a/an의 3가지 용법 </a><ul><li><a href="#용법--처음-언급하는-단수-명사-불특정">용법 ① 처음 언급하는 단수 명사 (불특정) </a></li><li><a href="#용법--직업신분-앞에">용법 ② 직업·신분 앞에 </a></li><li><a href="#용법--하나one의-의미">용법 ③ &quot;하나(one)&quot;의 의미 </a></li></ul></li></ul></li><li><a href="#3-정관사--the">3. 정관사 — the </a><ul><li><a href="#the의-5가지-용법">the의 5가지 용법 </a><ul><li><a href="#용법--이미-언급된-것을-다시-가리킬-때">용법 ① 이미 언급된 것을 다시 가리킬 때 </a></li><li><a href="#용법--서로-알고-있는-특정-대상">용법 ② 서로 알고 있는 특정 대상 </a></li><li><a href="#용법--세상에-하나뿐인-것">용법 ③ 세상에 하나뿐인 것 </a></li><li><a href="#용법--최상급서수-앞에">용법 ④ 최상급·서수 앞에 </a></li><li><a href="#용법--특정-고유명사">용법 ⑤ 특정 고유명사 </a></li></ul></li></ul></li><li><a href="#4-무관사-zero-article">4. 무관사 (Zero Article) </a><ul><li><a href="#-복수-명사의-일반적-의미">① 복수 명사의 일반적 의미 </a></li><li><a href="#-셀-수-없는-명사의-일반적-의미">② 셀 수 없는 명사의 일반적 의미 </a></li><li><a href="#-식사운동학문-이름">③ 식사·운동·학문 이름 </a></li><li><a href="#-국가도시사람-이름">④ 국가·도시·사람 이름 </a></li><li><a href="#-특정-장소의-본래-목적">⑤ 특정 장소의 본래 목적 </a></li></ul></li><li><a href="#5-관사-선택-흐름도">5. 관사 선택 흐름도 </a></li><li><a href="#6-복수형-만들기--규칙">6. 복수형 만들기 — 규칙 </a><ul><li><a href="#규칙--대부분의-명사---s-추가">규칙 ① 대부분의 명사 → -s 추가 </a></li><li><a href="#규칙---s--sh--ch--x--z로-끝나는-명사---es-추가">규칙 ② -s, -sh, -ch, -x, -z로 끝나는 명사 → -es 추가 </a></li><li><a href="#규칙--자음--o로-끝나는-명사---es-추가">규칙 ③ 자음 + o로 끝나는 명사 → -es 추가 </a></li><li><a href="#규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es">규칙 ④ 자음 + y로 끝나는 명사 → y를 i로 바꾸고 -es </a></li><li><a href="#규칙---f-fe로-끝나는-명사---ves">규칙 ⑤ -f/-fe로 끝나는 명사 → -ves </a></li></ul></li><li><a href="#7-불규칙-복수형--완전-암기-필수">7. 불규칙 복수형 — 완전 암기 필수 </a></li><li><a href="#8-단수복수에-따른-동사-일치">8. 단수·복수에 따른 동사 일치 </a><ul><li><a href="#셀-수-없는-명사는-항상-단수-동사">셀 수 없는 명사는 항상 단수 동사 </a></li></ul></li><li><a href="#9-명사의-소유격-s">9. 명사의 소유격 (&#39;s) </a><ul><li><a href="#단수-명사의-소유격--s-추가">단수 명사의 소유격 → &#39;s 추가 </a></li><li><a href="#복수-명사의-소유격">복수 명사의 소유격 </a></li><li><a href="#s-vs-of">&#39;s vs of </a></li></ul></li><li><a href="#10-수량-표현">10. 수량 표현 </a><ul><li><a href="#셀-수-있는-명사에-사용">셀 수 있는 명사에 사용 </a></li><li><a href="#셀-수-없는-명사에-사용">셀 수 없는 명사에 사용 </a></li><li><a href="#셀-수-있는없는-명사-모두에-사용">셀 수 있는/없는 명사 모두에 사용 </a></li></ul></li><li><a href="#11-some-vs-any-완전-정리">11. some vs any 완전 정리 </a></li><li><a href="#12-자주-혼동하는-관사-사례">12. 자주 혼동하는 관사 사례 </a><ul><li><a href="#-school--the-school">① school / the school </a></li><li><a href="#-hospital--the-hospital">② hospital / the hospital </a></li><li><a href="#-in-the-morning--at-night">③ in the morning / at night </a></li><li><a href="#-play-the-guitar--play-soccer">④ play the guitar / play soccer </a></li></ul></li><li><a href="#13-실전-회화--카페에서">13. 실전 회화 — 카페에서 </a></li><li><a href="#14-문형-정리">14. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+a:Tb665,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-명사의-두-가지-종류">1. 명사의 두 가지 종류 </a><ul><li><a href="#셀-수-있는-명사-countable-nouns">셀 수 있는 명사 (Countable Nouns) </a></li><li><a href="#셀-수-없는-명사-uncountable-nouns">셀 수 없는 명사 (Uncountable Nouns) </a></li></ul></li><li><a href="#2-부정관사--a--an">2. 부정관사 — a / an </a><ul><li><a href="#기본-원칙">기본 원칙 </a></li><li><a href="#aan의-3가지-용법">a/an의 3가지 용법 </a><ul><li><a href="#용법--처음-언급하는-단수-명사-불특정">용법 ① 처음 언급하는 단수 명사 (불특정) </a></li><li><a href="#용법--직업신분-앞에">용법 ② 직업·신분 앞에 </a></li><li><a href="#용법--하나one의-의미">용법 ③ &quot;하나(one)&quot;의 의미 </a></li></ul></li></ul></li><li><a href="#3-정관사--the">3. 정관사 — the </a><ul><li><a href="#the의-5가지-용법">the의 5가지 용법 </a><ul><li><a href="#용법--이미-언급된-것을-다시-가리킬-때">용법 ① 이미 언급된 것을 다시 가리킬 때 </a></li><li><a href="#용법--서로-알고-있는-특정-대상">용법 ② 서로 알고 있는 특정 대상 </a></li><li><a href="#용법--세상에-하나뿐인-것">용법 ③ 세상에 하나뿐인 것 </a></li><li><a href="#용법--최상급서수-앞에">용법 ④ 최상급·서수 앞에 </a></li><li><a href="#용법--특정-고유명사">용법 ⑤ 특정 고유명사 </a></li></ul></li></ul></li><li><a href="#4-무관사-zero-article">4. 무관사 (Zero Article) </a><ul><li><a href="#-복수-명사의-일반적-의미">① 복수 명사의 일반적 의미 </a></li><li><a href="#-셀-수-없는-명사의-일반적-의미">② 셀 수 없는 명사의 일반적 의미 </a></li><li><a href="#-식사운동학문-이름">③ 식사·운동·학문 이름 </a></li><li><a href="#-국가도시사람-이름">④ 국가·도시·사람 이름 </a></li><li><a href="#-특정-장소의-본래-목적">⑤ 특정 장소의 본래 목적 </a></li></ul></li><li><a href="#5-관사-선택-흐름도">5. 관사 선택 흐름도 </a></li><li><a href="#6-복수형-만들기--규칙">6. 복수형 만들기 — 규칙 </a><ul><li><a href="#규칙--대부분의-명사---s-추가">규칙 ① 대부분의 명사 → -s 추가 </a></li><li><a href="#규칙---s--sh--ch--x--z로-끝나는-명사---es-추가">규칙 ② -s, -sh, -ch, -x, -z로 끝나는 명사 → -es 추가 </a></li><li><a href="#규칙--자음--o로-끝나는-명사---es-추가">규칙 ③ 자음 + o로 끝나는 명사 → -es 추가 </a></li><li><a href="#규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es">규칙 ④ 자음 + y로 끝나는 명사 → y를 i로 바꾸고 -es </a></li><li><a href="#규칙---f-fe로-끝나는-명사---ves">규칙 ⑤ -f/-fe로 끝나는 명사 → -ves </a></li></ul></li><li><a href="#7-불규칙-복수형--완전-암기-필수">7. 불규칙 복수형 — 완전 암기 필수 </a></li><li><a href="#8-단수복수에-따른-동사-일치">8. 단수·복수에 따른 동사 일치 </a><ul><li><a href="#셀-수-없는-명사는-항상-단수-동사">셀 수 없는 명사는 항상 단수 동사 </a></li></ul></li><li><a href="#9-명사의-소유격-s">9. 명사의 소유격 (&#39;s) </a><ul><li><a href="#단수-명사의-소유격--s-추가">단수 명사의 소유격 → &#39;s 추가 </a></li><li><a href="#복수-명사의-소유격">복수 명사의 소유격 </a></li><li><a href="#s-vs-of">&#39;s vs of </a></li></ul></li><li><a href="#10-수량-표현">10. 수량 표현 </a><ul><li><a href="#셀-수-있는-명사에-사용">셀 수 있는 명사에 사용 </a></li><li><a href="#셀-수-없는-명사에-사용">셀 수 없는 명사에 사용 </a></li><li><a href="#셀-수-있는없는-명사-모두에-사용">셀 수 있는/없는 명사 모두에 사용 </a></li></ul></li><li><a href="#11-some-vs-any-완전-정리">11. some vs any 완전 정리 </a></li><li><a href="#12-자주-혼동하는-관사-사례">12. 자주 혼동하는 관사 사례 </a><ul><li><a href="#-school--the-school">① school / the school </a></li><li><a href="#-hospital--the-hospital">② hospital / the hospital </a></li><li><a href="#-in-the-morning--at-night">③ in the morning / at night </a></li><li><a href="#-play-the-guitar--play-soccer">④ play the guitar / play soccer </a></li></ul></li><li><a href="#13-실전-회화--카페에서">13. 실전 회화 — 카페에서 </a></li><li><a href="#14-문형-정리">14. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>영어 학습자들이 평생 헷갈려하는 것 중 하나가 바로 <strong>관사(a/an/the)</strong> 입니다.<br>
 한국어에는 관사가 없기 때문에, 언제 a를 쓰고 언제 the를 쓰는지 감이 오지 않는 것은 당연합니다.</p>
 <p>하지만 관사에는 명확한 <strong>원리</strong>가 있습니다.<br>
@@ -24,10 +23,10 @@ a:Tb861,<h1 id="영어-5강-명사--관사--복수형-완전-정복--aanthe의-�
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-명사의-두-가지-종류" tabindex="-1" data-src-line="22">1. 명사의 두 가지 종류 <a class="header-anchor" href="#1-명사의-두-가지-종류" aria-hidden="true">#</a></h2>
+<h2 id="1-명사의-두-가지-종류" tabindex="-1" data-src-line="20">1. 명사의 두 가지 종류 <a class="header-anchor" href="#1-명사의-두-가지-종류" aria-hidden="true">#</a></h2>
 <p>영어 명사는 크게 **셀 수 있는 명사(Countable)**와 **셀 수 없는 명사(Uncountable)**로 나뉩니다.<br>
 이 구분이 관사와 복수형 선택의 핵심입니다.</p>
-<h3 id="셀-수-있는-명사-countable-nouns" tabindex="-1" data-src-line="27">셀 수 있는 명사 (Countable Nouns) <a class="header-anchor" href="#셀-수-있는-명사-countable-nouns" aria-hidden="true">#</a></h3>
+<h3 id="셀-수-있는-명사-countable-nouns" tabindex="-1" data-src-line="25">셀 수 있는 명사 (Countable Nouns) <a class="header-anchor" href="#셀-수-있는-명사-countable-nouns" aria-hidden="true">#</a></h3>
 <p>하나, 둘, 셋으로 셀 수 있는 명사입니다.<br>
 단수와 복수 형태가 모두 존재합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a book / two books (책)
@@ -35,7 +34,7 @@ a cat / three cats (고양이)
 a student / many students (학생)
 an apple / five apples (사과)
 </code></pre></div></code></pre>
-<h3 id="셀-수-없는-명사-uncountable-nouns" tabindex="-1" data-src-line="39">셀 수 없는 명사 (Uncountable Nouns) <a class="header-anchor" href="#셀-수-없는-명사-uncountable-nouns" aria-hidden="true">#</a></h3>
+<h3 id="셀-수-없는-명사-uncountable-nouns" tabindex="-1" data-src-line="37">셀 수 없는 명사 (Uncountable Nouns) <a class="header-anchor" href="#셀-수-없는-명사-uncountable-nouns" aria-hidden="true">#</a></h3>
 <p>개수를 셀 수 없는 명사입니다.<br>
 <strong>항상 단수</strong> 취급하며, 앞에 a/an을 붙일 수 없습니다.</p>
 <p><strong>종류별 셀 수 없는 명사</strong></p>
@@ -90,8 +89,8 @@ a bag of rice (쌀 한 봉지)
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="2-부정관사--a--an" tabindex="-1" data-src-line="75">2. 부정관사 — a / an <a class="header-anchor" href="#2-부정관사--a--an" aria-hidden="true">#</a></h2>
-<h3 id="기본-원칙" tabindex="-1" data-src-line="77">기본 원칙 <a class="header-anchor" href="#기본-원칙" aria-hidden="true">#</a></h3>
+<h2 id="2-부정관사--a--an" tabindex="-1" data-src-line="73">2. 부정관사 — a / an <a class="header-anchor" href="#2-부정관사--a--an" aria-hidden="true">#</a></h2>
+<h3 id="기본-원칙" tabindex="-1" data-src-line="75">기본 원칙 <a class="header-anchor" href="#기본-원칙" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a + 자음 소리로 시작하는 단어
 an + 모음 소리(a/e/i/o/u)로 시작하는 단어
 </code></pre></div></code></pre>
@@ -144,8 +143,8 @@ an + 모음 소리(a/e/i/o/u)로 시작하는 단어
 </tr>
 </tbody>
 </table>
-</div><h3 id="aan의-3가지-용법" tabindex="-1" data-src-line="98">a/an의 3가지 용법 <a class="header-anchor" href="#aan의-3가지-용법" aria-hidden="true">#</a></h3>
-<h4 id="용법--처음-언급하는-단수-명사-불특정" tabindex="-1" data-src-line="100">용법 ① 처음 언급하는 단수 명사 (불특정) <a class="header-anchor" href="#용법--처음-언급하는-단수-명사-불특정" aria-hidden="true">#</a></h4>
+</div><h3 id="aan의-3가지-용법" tabindex="-1" data-src-line="96">a/an의 3가지 용법 <a class="header-anchor" href="#aan의-3가지-용법" aria-hidden="true">#</a></h3>
+<h4 id="용법--처음-언급하는-단수-명사-불특정" tabindex="-1" data-src-line="98">용법 ① 처음 언급하는 단수 명사 (불특정) <a class="header-anchor" href="#용법--처음-언급하는-단수-명사-불특정" aria-hidden="true">#</a></h4>
 <p>상대방이 아직 모르는, 처음 언급하는 것을 가리킬 때 사용합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I saw a dog in the park.
 나는 공원에서 개 한 마리를 봤습니다.
@@ -157,7 +156,7 @@ She has a brother.
 I&#039;m looking for a job.
 나는 일자리를 찾고 있습니다.
 </code></pre></div></code></pre>
-<h4 id="용법--직업신분-앞에" tabindex="-1" data-src-line="116">용법 ② 직업·신분 앞에 <a class="header-anchor" href="#용법--직업신분-앞에" aria-hidden="true">#</a></h4>
+<h4 id="용법--직업신분-앞에" tabindex="-1" data-src-line="114">용법 ② 직업·신분 앞에 <a class="header-anchor" href="#용법--직업신분-앞에" aria-hidden="true">#</a></h4>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She is a teacher.
 그녀는 선생님입니다.
 
@@ -167,7 +166,7 @@ He works as an engineer.
 I want to be a doctor.
 나는 의사가 되고 싶습니다.
 </code></pre></div></code></pre>
-<h4 id="용법--하나one의-의미" tabindex="-1" data-src-line="129">용법 ③ &quot;하나(one)&quot;의 의미 <a class="header-anchor" href="#용법--하나one의-의미" aria-hidden="true">#</a></h4>
+<h4 id="용법--하나one의-의미" tabindex="-1" data-src-line="127">용법 ③ &quot;하나(one)&quot;의 의미 <a class="header-anchor" href="#용법--하나one의-의미" aria-hidden="true">#</a></h4>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can I have a coffee, please?
 커피 한 잔 주시겠어요?
 
@@ -178,11 +177,11 @@ Take a look at this.
 이것 좀 한번 봐주세요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-정관사--the" tabindex="-1" data-src-line="144">3. 정관사 — the <a class="header-anchor" href="#3-정관사--the" aria-hidden="true">#</a></h2>
+<h2 id="3-정관사--the" tabindex="-1" data-src-line="142">3. 정관사 — the <a class="header-anchor" href="#3-정관사--the" aria-hidden="true">#</a></h2>
 <p><code>the</code>는 <strong>특정한 것</strong>을 가리킬 때 사용합니다.<br>
 발음은 자음 앞에서 /ðə/, 모음 앞에서 /ðiː/로 읽습니다.</p>
-<h3 id="the의-5가지-용법" tabindex="-1" data-src-line="149">the의 5가지 용법 <a class="header-anchor" href="#the의-5가지-용법" aria-hidden="true">#</a></h3>
-<h4 id="용법--이미-언급된-것을-다시-가리킬-때" tabindex="-1" data-src-line="151">용법 ① 이미 언급된 것을 다시 가리킬 때 <a class="header-anchor" href="#용법--이미-언급된-것을-다시-가리킬-때" aria-hidden="true">#</a></h4>
+<h3 id="the의-5가지-용법" tabindex="-1" data-src-line="147">the의 5가지 용법 <a class="header-anchor" href="#the의-5가지-용법" aria-hidden="true">#</a></h3>
+<h4 id="용법--이미-언급된-것을-다시-가리킬-때" tabindex="-1" data-src-line="149">용법 ① 이미 언급된 것을 다시 가리킬 때 <a class="header-anchor" href="#용법--이미-언급된-것을-다시-가리킬-때" aria-hidden="true">#</a></h4>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I saw a dog in the park.
 The dog was very cute.
 
@@ -194,7 +193,7 @@ The dress was really beautiful.
 그녀는 드레스를 샀습니다.
 그 드레스는 정말 아름다웠습니다.
 </code></pre></div></code></pre>
-<h4 id="용법--서로-알고-있는-특정-대상" tabindex="-1" data-src-line="168">용법 ② 서로 알고 있는 특정 대상 <a class="header-anchor" href="#용법--서로-알고-있는-특정-대상" aria-hidden="true">#</a></h4>
+<h4 id="용법--서로-알고-있는-특정-대상" tabindex="-1" data-src-line="166">용법 ② 서로 알고 있는 특정 대상 <a class="header-anchor" href="#용법--서로-알고-있는-특정-대상" aria-hidden="true">#</a></h4>
 <p>대화하는 두 사람이 어떤 것인지 이미 알고 있을 때 사용합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can you pass the salt?
 소금 좀 건네줄 수 있어요?
@@ -208,7 +207,7 @@ Have you seen the keys?
 열쇠 봤어요?
 (어떤 열쇠인지 서로 알고 있음)
 </code></pre></div></code></pre>
-<h4 id="용법--세상에-하나뿐인-것" tabindex="-1" data-src-line="186">용법 ③ 세상에 하나뿐인 것 <a class="header-anchor" href="#용법--세상에-하나뿐인-것" aria-hidden="true">#</a></h4>
+<h4 id="용법--세상에-하나뿐인-것" tabindex="-1" data-src-line="184">용법 ③ 세상에 하나뿐인 것 <a class="header-anchor" href="#용법--세상에-하나뿐인-것" aria-hidden="true">#</a></h4>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">the sun (태양)
 the moon (달)
 the earth (지구)
@@ -223,7 +222,7 @@ the government (정부)
 The earth orbits the sun.
 지구는 태양 주위를 공전합니다.
 </code></pre></div></code></pre>
-<h4 id="용법--최상급서수-앞에" tabindex="-1" data-src-line="206">용법 ④ 최상급·서수 앞에 <a class="header-anchor" href="#용법--최상급서수-앞에" aria-hidden="true">#</a></h4>
+<h4 id="용법--최상급서수-앞에" tabindex="-1" data-src-line="204">용법 ④ 최상급·서수 앞에 <a class="header-anchor" href="#용법--최상급서수-앞에" aria-hidden="true">#</a></h4>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She is the best student in the class.
 그녀는 반에서 가장 뛰어난 학생입니다.
 
@@ -233,7 +232,7 @@ He was the first person to arrive.
 This is the most expensive restaurant in Seoul.
 이곳이 서울에서 가장 비싼 레스토랑입니다.
 </code></pre></div></code></pre>
-<h4 id="용법--특정-고유명사" tabindex="-1" data-src-line="219">용법 ⑤ 특정 고유명사 <a class="header-anchor" href="#용법--특정-고유명사" aria-hidden="true">#</a></h4>
+<h4 id="용법--특정-고유명사" tabindex="-1" data-src-line="217">용법 ⑤ 특정 고유명사 <a class="header-anchor" href="#용법--특정-고유명사" aria-hidden="true">#</a></h4>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -266,9 +265,9 @@ This is the most expensive restaurant in Seoul.
 </tbody>
 </table>
 </div><hr>
-<h2 id="4-무관사-zero-article" tabindex="-1" data-src-line="230">4. 무관사 (Zero Article) <a class="header-anchor" href="#4-무관사-zero-article" aria-hidden="true">#</a></h2>
+<h2 id="4-무관사-zero-article" tabindex="-1" data-src-line="228">4. 무관사 (Zero Article) <a class="header-anchor" href="#4-무관사-zero-article" aria-hidden="true">#</a></h2>
 <p>관사를 쓰지 않는 경우도 있습니다. 아래가 대표적인 경우입니다.</p>
-<h3 id="-복수-명사의-일반적-의미" tabindex="-1" data-src-line="234">① 복수 명사의 일반적 의미 <a class="header-anchor" href="#-복수-명사의-일반적-의미" aria-hidden="true">#</a></h3>
+<h3 id="-복수-명사의-일반적-의미" tabindex="-1" data-src-line="232">① 복수 명사의 일반적 의미 <a class="header-anchor" href="#-복수-명사의-일반적-의미" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Dogs are loyal animals.
 개는 충성스러운 동물입니다.
 (개 전체를 일반적으로 말할 때 → 무관사)
@@ -276,7 +275,7 @@ This is the most expensive restaurant in Seoul.
 I love cats.
 나는 고양이를 좋아합니다.
 </code></pre></div></code></pre>
-<h3 id="-셀-수-없는-명사의-일반적-의미" tabindex="-1" data-src-line="245">② 셀 수 없는 명사의 일반적 의미 <a class="header-anchor" href="#-셀-수-없는-명사의-일반적-의미" aria-hidden="true">#</a></h3>
+<h3 id="-셀-수-없는-명사의-일반적-의미" tabindex="-1" data-src-line="243">② 셀 수 없는 명사의 일반적 의미 <a class="header-anchor" href="#-셀-수-없는-명사의-일반적-의미" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Water is essential for life.
 물은 생명에 필수적입니다.
 
@@ -286,7 +285,7 @@ I love music.
 Money can&#039;t buy happiness.
 돈으로 행복을 살 수 없습니다.
 </code></pre></div></code></pre>
-<h3 id="-식사운동학문-이름" tabindex="-1" data-src-line="258">③ 식사·운동·학문 이름 <a class="header-anchor" href="#-식사운동학문-이름" aria-hidden="true">#</a></h3>
+<h3 id="-식사운동학문-이름" tabindex="-1" data-src-line="256">③ 식사·운동·학문 이름 <a class="header-anchor" href="#-식사운동학문-이름" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I have breakfast at 7 AM.
 나는 오전 7시에 아침을 먹습니다.
 (breakfast → 무관사)
@@ -299,7 +298,7 @@ He studies math at university.
 그는 대학에서 수학을 공부합니다.
 (math → 무관사)
 </code></pre></div></code></pre>
-<h3 id="-국가도시사람-이름" tabindex="-1" data-src-line="274">④ 국가·도시·사람 이름 <a class="header-anchor" href="#-국가도시사람-이름" aria-hidden="true">#</a></h3>
+<h3 id="-국가도시사람-이름" tabindex="-1" data-src-line="272">④ 국가·도시·사람 이름 <a class="header-anchor" href="#-국가도시사람-이름" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I live in Korea.
 나는 한국에 삽니다.
 
@@ -309,7 +308,7 @@ She studied in Paris.
 Tom is my best friend.
 Tom은 내 가장 친한 친구입니다.
 </code></pre></div></code></pre>
-<h3 id="-특정-장소의-본래-목적" tabindex="-1" data-src-line="287">⑤ 특정 장소의 본래 목적 <a class="header-anchor" href="#-특정-장소의-본래-목적" aria-hidden="true">#</a></h3>
+<h3 id="-특정-장소의-본래-목적" tabindex="-1" data-src-line="285">⑤ 특정 장소의 본래 목적 <a class="header-anchor" href="#-특정-장소의-본래-목적" aria-hidden="true">#</a></h3>
 <p>장소를 본래 목적으로 방문할 때는 무관사, 다른 목적일 때는 관사를 씁니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -342,7 +341,7 @@ Tom은 내 가장 친한 친구입니다.
 </tbody>
 </table>
 </div><hr>
-<h2 id="5-관사-선택-흐름도" tabindex="-1" data-src-line="301">5. 관사 선택 흐름도 <a class="header-anchor" href="#5-관사-선택-흐름도" aria-hidden="true">#</a></h2>
+<h2 id="5-관사-선택-흐름도" tabindex="-1" data-src-line="299">5. 관사 선택 흐름도 <a class="header-anchor" href="#5-관사-선택-흐름도" aria-hidden="true">#</a></h2>
 <p>헷갈릴 때 아래 흐름을 따르면 됩니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">명사가 있다
     ↓
@@ -359,15 +358,15 @@ Tom은 내 가장 친한 친구입니다.
               └── 아니오 → the
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-복수형-만들기--규칙" tabindex="-1" data-src-line="323">6. 복수형 만들기 — 규칙 <a class="header-anchor" href="#6-복수형-만들기--규칙" aria-hidden="true">#</a></h2>
-<h3 id="규칙--대부분의-명사---s-추가" tabindex="-1" data-src-line="325">규칙 ① 대부분의 명사 → -s 추가 <a class="header-anchor" href="#규칙--대부분의-명사---s-추가" aria-hidden="true">#</a></h3>
+<h2 id="6-복수형-만들기--규칙" tabindex="-1" data-src-line="321">6. 복수형 만들기 — 규칙 <a class="header-anchor" href="#6-복수형-만들기--규칙" aria-hidden="true">#</a></h2>
+<h3 id="규칙--대부분의-명사---s-추가" tabindex="-1" data-src-line="323">규칙 ① 대부분의 명사 → -s 추가 <a class="header-anchor" href="#규칙--대부분의-명사---s-추가" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">book → books
 car → cars
 dog → dogs
 student → students
 computer → computers
 </code></pre></div></code></pre>
-<h3 id="규칙---s--sh--ch--x--z로-끝나는-명사---es-추가" tabindex="-1" data-src-line="335">규칙 ② -s, -sh, -ch, -x, -z로 끝나는 명사 → -es 추가 <a class="header-anchor" href="#규칙---s--sh--ch--x--z로-끝나는-명사---es-추가" aria-hidden="true">#</a></h3>
+<h3 id="규칙---s--sh--ch--x--z로-끝나는-명사---es-추가" tabindex="-1" data-src-line="333">규칙 ② -s, -sh, -ch, -x, -z로 끝나는 명사 → -es 추가 <a class="header-anchor" href="#규칙---s--sh--ch--x--z로-끝나는-명사---es-추가" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -404,7 +403,7 @@ computer → computers
 </tr>
 </tbody>
 </table>
-</div><h3 id="규칙--자음--o로-끝나는-명사---es-추가" tabindex="-1" data-src-line="345">규칙 ③ 자음 + o로 끝나는 명사 → -es 추가 <a class="header-anchor" href="#규칙--자음--o로-끝나는-명사---es-추가" aria-hidden="true">#</a></h3>
+</div><h3 id="규칙--자음--o로-끝나는-명사---es-추가" tabindex="-1" data-src-line="343">규칙 ③ 자음 + o로 끝나는 명사 → -es 추가 <a class="header-anchor" href="#규칙--자음--o로-끝나는-명사---es-추가" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">tomato → tomatoes
 potato → potatoes
 hero → heroes
@@ -412,7 +411,7 @@ hero → heroes
 <blockquote>
 <p>💡 예외: photo → photos / piano → pianos / video → videos (외래어·음악 관련)</p>
 </blockquote>
-<h3 id="규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es" tabindex="-1" data-src-line="355">규칙 ④ 자음 + y로 끝나는 명사 → y를 i로 바꾸고 -es <a class="header-anchor" href="#규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es" aria-hidden="true">#</a></h3>
+<h3 id="규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es" tabindex="-1" data-src-line="353">규칙 ④ 자음 + y로 끝나는 명사 → y를 i로 바꾸고 -es <a class="header-anchor" href="#규칙--자음--y로-끝나는-명사--y를-i로-바꾸고--es" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">baby → babies
 city → cities
 country → countries
@@ -422,7 +421,7 @@ lady → ladies
 <blockquote>
 <p>💡 모음 + y는 그냥 -s: day → days / boy → boys / key → keys</p>
 </blockquote>
-<h3 id="규칙---f-fe로-끝나는-명사---ves" tabindex="-1" data-src-line="367">규칙 ⑤ -f/-fe로 끝나는 명사 → -ves <a class="header-anchor" href="#규칙---f-fe로-끝나는-명사---ves" aria-hidden="true">#</a></h3>
+<h3 id="규칙---f-fe로-끝나는-명사---ves" tabindex="-1" data-src-line="365">규칙 ⑤ -f/-fe로 끝나는 명사 → -ves <a class="header-anchor" href="#규칙---f-fe로-끝나는-명사---ves" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">leaf → leaves
 knife → knives
 wife → wives
@@ -434,7 +433,7 @@ half → halves
 <p>💡 예외: roof → roofs / chief → chiefs / belief → beliefs</p>
 </blockquote>
 <hr>
-<h2 id="7-불규칙-복수형--완전-암기-필수" tabindex="-1" data-src-line="382">7. 불규칙 복수형 — 완전 암기 필수 <a class="header-anchor" href="#7-불규칙-복수형--완전-암기-필수" aria-hidden="true">#</a></h2>
+<h2 id="7-불규칙-복수형--완전-암기-필수" tabindex="-1" data-src-line="380">7. 불규칙 복수형 — 완전 암기 필수 <a class="header-anchor" href="#7-불규칙-복수형--완전-암기-필수" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -530,7 +529,7 @@ half → halves
 </ul>
 </blockquote>
 <hr>
-<h2 id="8-단수복수에-따른-동사-일치" tabindex="-1" data-src-line="409">8. 단수·복수에 따른 동사 일치 <a class="header-anchor" href="#8-단수복수에-따른-동사-일치" aria-hidden="true">#</a></h2>
+<h2 id="8-단수복수에-따른-동사-일치" tabindex="-1" data-src-line="407">8. 단수·복수에 따른 동사 일치 <a class="header-anchor" href="#8-단수복수에-따른-동사-일치" aria-hidden="true">#</a></h2>
 <p>명사가 단수냐 복수냐에 따라 동사가 달라집니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The book is on the desk.
 (단수 명사 → is)
@@ -544,21 +543,21 @@ A child needs love and attention.
 Children need love and attention.
 (복수 → need)
 </code></pre></div></code></pre>
-<h3 id="셀-수-없는-명사는-항상-단수-동사" tabindex="-1" data-src-line="427">셀 수 없는 명사는 항상 단수 동사 <a class="header-anchor" href="#셀-수-없는-명사는-항상-단수-동사" aria-hidden="true">#</a></h3>
+<h3 id="셀-수-없는-명사는-항상-단수-동사" tabindex="-1" data-src-line="425">셀 수 없는 명사는 항상 단수 동사 <a class="header-anchor" href="#셀-수-없는-명사는-항상-단수-동사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Water is essential for life.
 The information is incorrect.
 Advice is always welcome.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-명사의-소유격-s" tabindex="-1" data-src-line="437">9. 명사의 소유격 ('s) <a class="header-anchor" href="#9-명사의-소유격-s" aria-hidden="true">#</a></h2>
+<h2 id="9-명사의-소유격-s" tabindex="-1" data-src-line="435">9. 명사의 소유격 ('s) <a class="header-anchor" href="#9-명사의-소유격-s" aria-hidden="true">#</a></h2>
 <p>명사의 소유를 나타낼 때는 <strong>'s(어포스트로피 s)</strong> 를 사용합니다.</p>
-<h3 id="단수-명사의-소유격--s-추가" tabindex="-1" data-src-line="441">단수 명사의 소유격 → 's 추가 <a class="header-anchor" href="#단수-명사의-소유격--s-추가" aria-hidden="true">#</a></h3>
+<h3 id="단수-명사의-소유격--s-추가" tabindex="-1" data-src-line="439">단수 명사의 소유격 → 's 추가 <a class="header-anchor" href="#단수-명사의-소유격--s-추가" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Tom&#039;s car (Tom의 차)
 my sister&#039;s room (내 언니/여동생의 방)
 the teacher&#039;s desk (선생님의 책상)
 Korea&#039;s culture (한국의 문화)
 </code></pre></div></code></pre>
-<h3 id="복수-명사의-소유격" tabindex="-1" data-src-line="450">복수 명사의 소유격 <a class="header-anchor" href="#복수-명사의-소유격" aria-hidden="true">#</a></h3>
+<h3 id="복수-명사의-소유격" tabindex="-1" data-src-line="448">복수 명사의 소유격 <a class="header-anchor" href="#복수-명사의-소유격" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">복수형 명사(s로 끝남) → &#039; 만 추가
 my parents&#039; house (부모님의 집)
 the students&#039; books (학생들의 책)
@@ -569,7 +568,7 @@ the children&#039;s toys (아이들의 장난감)
 the men&#039;s restroom (남성 화장실)
 the women&#039;s team (여성팀)
 </code></pre></div></code></pre>
-<h3 id="s-vs-of" tabindex="-1" data-src-line="464">'s vs of <a class="header-anchor" href="#s-vs-of" aria-hidden="true">#</a></h3>
+<h3 id="s-vs-of" tabindex="-1" data-src-line="462">'s vs of <a class="header-anchor" href="#s-vs-of" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【사람·동물에는 &#039;s 선호】
 Tom&#039;s idea ✅ (더 자연스러움)
 the idea of Tom ❌ (어색)
@@ -583,9 +582,9 @@ the company&#039;s policy = the policy of the company
 the world&#039;s population = the population of the world
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-수량-표현" tabindex="-1" data-src-line="482">10. 수량 표현 <a class="header-anchor" href="#10-수량-표현" aria-hidden="true">#</a></h2>
+<h2 id="10-수량-표현" tabindex="-1" data-src-line="480">10. 수량 표현 <a class="header-anchor" href="#10-수량-표현" aria-hidden="true">#</a></h2>
 <p>명사와 함께 자주 쓰이는 수량 표현입니다.</p>
-<h3 id="셀-수-있는-명사에-사용" tabindex="-1" data-src-line="486">셀 수 있는 명사에 사용 <a class="header-anchor" href="#셀-수-있는-명사에-사용" aria-hidden="true">#</a></h3>
+<h3 id="셀-수-있는-명사에-사용" tabindex="-1" data-src-line="484">셀 수 있는 명사에 사용 <a class="header-anchor" href="#셀-수-있는-명사에-사용" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -637,7 +636,7 @@ the world&#039;s population = the population of the world
 </tr>
 </tbody>
 </table>
-</div><h3 id="셀-수-없는-명사에-사용" tabindex="-1" data-src-line="499">셀 수 없는 명사에 사용 <a class="header-anchor" href="#셀-수-없는-명사에-사용" aria-hidden="true">#</a></h3>
+</div><h3 id="셀-수-없는-명사에-사용" tabindex="-1" data-src-line="497">셀 수 없는 명사에 사용 <a class="header-anchor" href="#셀-수-없는-명사에-사용" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -674,7 +673,7 @@ the world&#039;s population = the population of the world
 </tr>
 </tbody>
 </table>
-</div><h3 id="셀-수-있는없는-명사-모두에-사용" tabindex="-1" data-src-line="509">셀 수 있는/없는 명사 모두에 사용 <a class="header-anchor" href="#셀-수-있는없는-명사-모두에-사용" aria-hidden="true">#</a></h3>
+</div><h3 id="셀-수-있는없는-명사-모두에-사용" tabindex="-1" data-src-line="507">셀 수 있는/없는 명사 모두에 사용 <a class="header-anchor" href="#셀-수-있는없는-명사-모두에-사용" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -717,7 +716,7 @@ the world&#039;s population = the population of the world
 </tbody>
 </table>
 </div><hr>
-<h2 id="11-some-vs-any-완전-정리" tabindex="-1" data-src-line="522">11. some vs any 완전 정리 <a class="header-anchor" href="#11-some-vs-any-완전-정리" aria-hidden="true">#</a></h2>
+<h2 id="11-some-vs-any-완전-정리" tabindex="-1" data-src-line="520">11. some vs any 완전 정리 <a class="header-anchor" href="#11-some-vs-any-완전-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -771,15 +770,15 @@ Can I have some water?
 물 좀 주시겠어요?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-자주-혼동하는-관사-사례" tabindex="-1" data-src-line="561">12. 자주 혼동하는 관사 사례 <a class="header-anchor" href="#12-자주-혼동하는-관사-사례" aria-hidden="true">#</a></h2>
-<h3 id="-school--the-school" tabindex="-1" data-src-line="563">① school / the school <a class="header-anchor" href="#-school--the-school" aria-hidden="true">#</a></h3>
+<h2 id="12-자주-혼동하는-관사-사례" tabindex="-1" data-src-line="559">12. 자주 혼동하는 관사 사례 <a class="header-anchor" href="#12-자주-혼동하는-관사-사례" aria-hidden="true">#</a></h2>
+<h3 id="-school--the-school" tabindex="-1" data-src-line="561">① school / the school <a class="header-anchor" href="#-school--the-school" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">My son goes to school every day.
 내 아들은 매일 학교에 갑니다. (등교 목적 → 무관사)
 
 I went to the school to meet his teacher.
 나는 선생님을 만나러 그 학교에 갔습니다. (방문 목적 → the)
 </code></pre></div></code></pre>
-<h3 id="-hospital--the-hospital" tabindex="-1" data-src-line="573">② hospital / the hospital <a class="header-anchor" href="#-hospital--the-hospital" aria-hidden="true">#</a></h3>
+<h3 id="-hospital--the-hospital" tabindex="-1" data-src-line="571">② hospital / the hospital <a class="header-anchor" href="#-hospital--the-hospital" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was taken to hospital after the accident.
 그녀는 사고 후 병원에 입원했습니다. (입원 → 무관사)
 ※ 영국 영어에서 특히 이렇게 사용
@@ -787,19 +786,19 @@ I went to the school to meet his teacher.
 She went to the hospital to visit her friend.
 그녀는 친구를 방문하러 그 병원에 갔습니다. (방문 → the)
 </code></pre></div></code></pre>
-<h3 id="-in-the-morning--at-night" tabindex="-1" data-src-line="584">③ in the morning / at night <a class="header-anchor" href="#-in-the-morning--at-night" aria-hidden="true">#</a></h3>
+<h3 id="-in-the-morning--at-night" tabindex="-1" data-src-line="582">③ in the morning / at night <a class="header-anchor" href="#-in-the-morning--at-night" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I exercise in the morning. (the 사용)
 I work at night. (무관사)
 I go out in the evening. (the 사용)
 </code></pre></div></code></pre>
-<h3 id="-play-the-guitar--play-soccer" tabindex="-1" data-src-line="592">④ play the guitar / play soccer <a class="header-anchor" href="#-play-the-guitar--play-soccer" aria-hidden="true">#</a></h3>
+<h3 id="-play-the-guitar--play-soccer" tabindex="-1" data-src-line="590">④ play the guitar / play soccer <a class="header-anchor" href="#-play-the-guitar--play-soccer" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She plays the guitar. (악기 → the 사용)
 He plays soccer. (스포츠 → 무관사)
 I play the piano. (악기 → the 사용)
 They play basketball. (스포츠 → 무관사)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="13-실전-회화--카페에서" tabindex="-1" data-src-line="603">13. 실전 회화 — 카페에서 <a class="header-anchor" href="#13-실전-회화--카페에서" aria-hidden="true">#</a></h2>
+<h2 id="13-실전-회화--카페에서" tabindex="-1" data-src-line="601">13. 실전 회화 — 카페에서 <a class="header-anchor" href="#13-실전-회화--카페에서" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Staff: Hi! What can I get for you?
        안녕하세요! 무엇을 드릴까요?
 
@@ -838,7 +837,7 @@ Staff: Great choice! That&#039;ll be 8,500 won.
        좋은 선택이에요! 8,500원입니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="14-문형-정리" tabindex="-1" data-src-line="646">14. 문형 정리 <a class="header-anchor" href="#14-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="14-문형-정리" tabindex="-1" data-src-line="644">14. 문형 정리 <a class="header-anchor" href="#14-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -916,7 +915,7 @@ Staff: Great choice! That&#039;ll be 8,500 won.
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="666">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="664">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>관사는 <strong>원리</strong>로 접근하면 훨씬 쉬워집니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a/an → 처음 언급하는 단수 명사, 불특정
 the  → 이미 알고 있는 특정한 것

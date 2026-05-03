@@ -1,16 +1,14 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-a:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-c:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
-d:I[484,[],"OutletBoundary"]
-e:"$Sreact.suspense"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+9:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+b:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
+c:I[484,[],"OutletBoundary"]
+d:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"BZTH37Uy6GEY691ei5xtr","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-10-existence-location\"},\"headline\":\"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현\",\"description\":\"사람·동물과 사물의 존재를 구분하는 います·あります, 위치를 나타내는 표현까지 N5 초급 전반을 마무리합니다.\",\"datePublished\":\"2026-04-30T11:17:00.000Z\",\"dateModified\":\"2026-04-30T11:17:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-10-existence-location\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"imasu\",\"arimasu\",\"location\",\"existence\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현","slugPath":"japanese/japanese-lesson-10-existence-location","headings":[{"id":"일본어-10강-존재-표현-완전-정복------위치-표현","text":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1--vs---핵심-차이","text":"1. います vs あります — 핵심 차이","level":2},{"id":"2-기본-문형-----","text":"2. 기본 문형: ～に ～が あります / います","level":2},{"id":"-예문","text":"あります 예문","level":3},{"id":"-예문-1","text":"います 예문","level":3},{"id":"3-반대-표현-----","text":"3. 반대 표현: ～は ～に あります / います","level":2},{"id":"4-부정-표현---","text":"4. 부정 표현: ありません / いません","level":2},{"id":"5-위치-표현-어휘","text":"5. 위치 표현 어휘","level":2},{"id":"기본-위치어","text":"기본 위치어","level":3},{"id":"위치-표현-예문","text":"위치 표현 예문","level":3},{"id":"6-위치를-묻고-답하기","text":"6. 위치를 묻고 답하기","level":2},{"id":"장소-묻기","text":"장소 묻기","level":3},{"id":"7-수량-표현과-결합","text":"7. 수량 표현과 결합","level":2},{"id":"사람-수-세기","text":"사람 수 세기","level":3},{"id":"사물-수-세기-개","text":"사물 수 세기 (개)","level":3},{"id":"수량-결합-예문","text":"수량 결합 예문","level":3},{"id":"8-의-정중겸양-표현","text":"8. います의 정중·겸양 표현","level":2},{"id":"9-실전-회화--길-안내","text":"9. 실전 회화 — 길 안내","level":2},{"id":"10-문형-정리","text":"10. 문형 정리","level":2},{"id":"-n5-초급-전반-완주--10강-전체-복습","text":"🎉 N5 초급 전반 완주! — 10강 전체 복습","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-10-existence-location"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"사람·동물과 사물의 존재를 구분하는 います·あります, 위치를 나타내는 표현까지 N5 초급 전반을 마무리합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T11:17:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 30일"]}],["$","time",null,{"dateTime":"2026-04-30T11:17:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 4월 30일"]}],"$L4"]}],"$L5"]}],"$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
-3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
-4:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","imasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","imasu"]}],["$","span","arimasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","arimasu"]}],["$","span","location",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","location"]}],["$","span","existence",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","existence"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
-5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" tabindex="-1" data-src-line="1">일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현 <a class="header-anchor" href="#일본어-10강-존재-표현-완전-정복------위치-표현" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-10강-존재-표현-완전-정복------위치-표현">일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1--vs---핵심-차이">1. います vs あります — 핵심 차이 </a></li><li><a href="#2-기본-문형-----">2. 기본 문형: ～に ～が あります / います </a><ul><li><a href="#-예문">あります 예문 </a></li><li><a href="#-예문-1">います 예문 </a></li></ul></li><li><a href="#3-반대-표현-----">3. 반대 표현: ～は ～に あります / います </a></li><li><a href="#4-부정-표현---">4. 부정 표현: ありません / いません </a></li><li><a href="#5-위치-표현-어휘">5. 위치 표현 어휘 </a><ul><li><a href="#기본-위치어">기본 위치어 </a></li><li><a href="#위치-표현-예문">위치 표현 예문 </a></li></ul></li><li><a href="#6-위치를-묻고-답하기">6. 위치를 묻고 답하기 </a><ul><li><a href="#장소-묻기">장소 묻기 </a></li></ul></li><li><a href="#7-수량-표현과-결합">7. 수량 표현과 결합 </a><ul><li><a href="#사람-수-세기">사람 수 세기 </a></li><li><a href="#사물-수-세기-개">사물 수 세기 (개) </a></li><li><a href="#수량-결합-예문">수량 결합 예문 </a></li></ul></li><li><a href="#8-의-정중겸양-표현">8. います의 정중·겸양 표현 </a></li><li><a href="#9-실전-회화--길-안내">9. 실전 회화 — 길 안내 </a></li><li><a href="#10-문형-정리">10. 문형 정리 </a></li><li><a href="#-n5-초급-전반-완주--10강-전체-복습">🎉 N5 초급 전반 완주! — 10강 전체 복습 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+0:{"buildId":"qoJUPqiJL4LTaAn44JHJO","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-10-existence-location\"},\"headline\":\"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현\",\"description\":\"사람·동물과 사물의 존재를 구분하는 います·あります, 위치를 나타내는 표현까지 N5 초급 전반을 마무리합니다.\",\"datePublished\":\"2026-04-30T11:17:00.000Z\",\"dateModified\":\"2026-04-30T11:17:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-10-existence-location\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"imasu\",\"arimasu\",\"location\",\"existence\",\"beginner\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현","slugPath":"japanese/japanese-lesson-10-existence-location","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1--vs---핵심-차이","text":"1. います vs あります — 핵심 차이","level":2},{"id":"2-기본-문형-----","text":"2. 기본 문형: ～に ～が あります / います","level":2},{"id":"-예문","text":"あります 예문","level":3},{"id":"-예문-1","text":"います 예문","level":3},{"id":"3-반대-표현-----","text":"3. 반대 표현: ～は ～に あります / います","level":2},{"id":"4-부정-표현---","text":"4. 부정 표현: ありません / いません","level":2},{"id":"5-위치-표현-어휘","text":"5. 위치 표현 어휘","level":2},{"id":"기본-위치어","text":"기본 위치어","level":3},{"id":"위치-표현-예문","text":"위치 표현 예문","level":3},{"id":"6-위치를-묻고-답하기","text":"6. 위치를 묻고 답하기","level":2},{"id":"장소-묻기","text":"장소 묻기","level":3},{"id":"7-수량-표현과-결합","text":"7. 수량 표현과 결합","level":2},{"id":"사람-수-세기","text":"사람 수 세기","level":3},{"id":"사물-수-세기-개","text":"사물 수 세기 (개)","level":3},{"id":"수량-결합-예문","text":"수량 결합 예문","level":3},{"id":"8-의-정중겸양-표현","text":"8. います의 정중·겸양 표현","level":2},{"id":"9-실전-회화--길-안내","text":"9. 실전 회화 — 길 안내","level":2},{"id":"10-문형-정리","text":"10. 문형 정리","level":2},{"id":"-n5-초급-전반-완주--10강-전체-복습","text":"🎉 N5 초급 전반 완주! — 10강 전체 복습","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-10-existence-location"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 10강: 존재 표현 완전 정복 — います · あります · 위치 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"사람·동물과 사물의 존재를 구분하는 います·あります, 위치를 나타내는 표현까지 N5 초급 전반을 마무리합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-30T11:17:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 30일"]}],["$","time",null,{"dateTime":"2026-04-30T11:17:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 30일"]}],"$L3"]}],"$L4"]}],"$L5","$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+3:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","imasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","imasu"]}],["$","span","arimasu",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","arimasu"]}],["$","span","location",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","location"]}],["$","span","existence",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","existence"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+4:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+a:T5e5f,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1--vs---핵심-차이">1. います vs あります — 핵심 차이 </a></li><li><a href="#2-기본-문형-----">2. 기본 문형: ～に ～が あります / います </a><ul><li><a href="#-예문">あります 예문 </a></li><li><a href="#-예문-1">います 예문 </a></li></ul></li><li><a href="#3-반대-표현-----">3. 반대 표현: ～は ～に あります / います </a></li><li><a href="#4-부정-표현---">4. 부정 표현: ありません / いません </a></li><li><a href="#5-위치-표현-어휘">5. 위치 표현 어휘 </a><ul><li><a href="#기본-위치어">기본 위치어 </a></li><li><a href="#위치-표현-예문">위치 표현 예문 </a></li></ul></li><li><a href="#6-위치를-묻고-답하기">6. 위치를 묻고 답하기 </a><ul><li><a href="#장소-묻기">장소 묻기 </a></li></ul></li><li><a href="#7-수량-표현과-결합">7. 수량 표현과 결합 </a><ul><li><a href="#사람-수-세기">사람 수 세기 </a></li><li><a href="#사물-수-세기-개">사물 수 세기 (개) </a></li><li><a href="#수량-결합-예문">수량 결합 예문 </a></li></ul></li><li><a href="#8-의-정중겸양-표현">8. います의 정중·겸양 표현 </a></li><li><a href="#9-실전-회화--길-안내">9. 실전 회화 — 길 안내 </a></li><li><a href="#10-문형-정리">10. 문형 정리 </a></li><li><a href="#-n5-초급-전반-완주--10강-전체-복습">🎉 N5 초급 전반 완주! — 10강 전체 복습 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>“어디에 있어요?” “뭐가 있어요?” — 일상에서 정말 자주 쓰이는 표현입니다.<br>
 일본어에서는 <strong>무엇이 존재하느냐</strong>에 따라 동사가 다릅니다.<br>
 이번 강에서는 존재 표현의 핵심인 <code>います·あります</code>와 위치를 나타내는 표현을 완전히 익혀봅니다.<br>
@@ -26,7 +24,7 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 </ul>
 </blockquote>
 <hr>
-<h2 id="1--vs---핵심-차이" tabindex="-1" data-src-line="21">1. います vs あります — 핵심 차이 <a class="header-anchor" href="#1--vs---핵심-차이" aria-hidden="true">#</a></h2>
+<h2 id="1--vs---핵심-차이" tabindex="-1" data-src-line="19">1. います vs あります — 핵심 차이 <a class="header-anchor" href="#1--vs---핵심-차이" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -60,11 +58,11 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 일반적으로는 あります가 기본입니다.</p>
 </blockquote>
 <hr>
-<h2 id="2-기본-문형-----" tabindex="-1" data-src-line="42">2. 기본 문형: ～に ～が あります / います <a class="header-anchor" href="#2-기본-문형-----" aria-hidden="true">#</a></h2>
+<h2 id="2-기본-문형-----" tabindex="-1" data-src-line="40">2. 기본 문형: ～に ～が あります / います <a class="header-anchor" href="#2-기본-문형-----" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[장소] に [대상] が あります / います
 (~에 ~이/가 있습니다)
 </code></pre></div></code></pre>
-<h3 id="-예문" tabindex="-1" data-src-line="49">あります 예문 <a class="header-anchor" href="#-예문" aria-hidden="true">#</a></h3>
+<h3 id="-예문" tabindex="-1" data-src-line="47">あります 예문 <a class="header-anchor" href="#-예문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">つくえの うえに ほんが あります。
 책상 위에 책이 있습니다.
 
@@ -77,7 +75,7 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 このまちに ゆうびんきょくが ありますか。
 이 마을에 우체국이 있습니까?
 </code></pre></div></code></pre>
-<h3 id="-예문-1" tabindex="-1" data-src-line="65">います 예문 <a class="header-anchor" href="#-예문-1" aria-hidden="true">#</a></h3>
+<h3 id="-예문-1" tabindex="-1" data-src-line="63">います 예문 <a class="header-anchor" href="#-예문-1" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">こうえんに こどもが います。
 공원에 아이가 있습니다.
 
@@ -91,7 +89,7 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 정원에 새가 있습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-반대-표현-----" tabindex="-1" data-src-line="83">3. 반대 표현: ～は ～に あります / います <a class="header-anchor" href="#3-반대-표현-----" aria-hidden="true">#</a></h2>
+<h2 id="3-반대-표현-----" tabindex="-1" data-src-line="81">3. 반대 표현: ～は ～に あります / います <a class="header-anchor" href="#3-반대-표현-----" aria-hidden="true">#</a></h2>
 <p>주어를 앞에 세워서 <strong>“~은/는 ~에 있습니다”</strong> 로 표현할 수도 있습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[대상] は [장소] に あります / います
 (~은/는 ~에 있습니다)
@@ -109,7 +107,7 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 편의점은 역 앞에 있습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="4-부정-표현---" tabindex="-1" data-src-line="108">4. 부정 표현: ありません / いません <a class="header-anchor" href="#4-부정-표현---" aria-hidden="true">#</a></h2>
+<h2 id="4-부정-표현---" tabindex="-1" data-src-line="106">4. 부정 표현: ありません / いません <a class="header-anchor" href="#4-부정-표현---" aria-hidden="true">#</a></h2>
 <p>존재 부정은 <code>ありません</code>·<code>いません</code> 을 사용합니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -155,9 +153,9 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 어제는 집에 아무도 없었습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-위치-표현-어휘" tabindex="-1" data-src-line="135">5. 위치 표현 어휘 <a class="header-anchor" href="#5-위치-표현-어휘" aria-hidden="true">#</a></h2>
+<h2 id="5-위치-표현-어휘" tabindex="-1" data-src-line="133">5. 위치 표현 어휘 <a class="header-anchor" href="#5-위치-표현-어휘" aria-hidden="true">#</a></h2>
 <p>일본어 위치 표현은 <code>명사 + の + 위치어</code> 구조로 사용합니다.</p>
-<h3 id="기본-위치어" tabindex="-1" data-src-line="139">기본 위치어 <a class="header-anchor" href="#기본-위치어" aria-hidden="true">#</a></h3>
+<h3 id="기본-위치어" tabindex="-1" data-src-line="137">기본 위치어 <a class="header-anchor" href="#기본-위치어" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -239,7 +237,7 @@ b:T605d,<h1 id="일본어-10강-존재-표현-완전-정복------위치-표현" 
 </tr>
 </tbody>
 </table>
-</div><h3 id="위치-표현-예문" tabindex="-1" data-src-line="158">위치 표현 예문 <a class="header-anchor" href="#위치-표현-예문" aria-hidden="true">#</a></h3>
+</div><h3 id="위치-표현-예문" tabindex="-1" data-src-line="156">위치 표현 예문 <a class="header-anchor" href="#위치-표현-예문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">つくえの うえに パソコンが あります。
 책상 위에 노트북이 있습니다.
 
@@ -259,8 +257,8 @@ A와 B 사이에 공원이 있습니다.
 역 근처에 맛있는 라멘집이 있습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-위치를-묻고-답하기" tabindex="-1" data-src-line="182">6. 위치를 묻고 답하기 <a class="header-anchor" href="#6-위치를-묻고-답하기" aria-hidden="true">#</a></h2>
-<h3 id="장소-묻기" tabindex="-1" data-src-line="184">장소 묻기 <a class="header-anchor" href="#장소-묻기" aria-hidden="true">#</a></h3>
+<h2 id="6-위치를-묻고-답하기" tabindex="-1" data-src-line="180">6. 위치를 묻고 답하기 <a class="header-anchor" href="#6-위치를-묻고-답하기" aria-hidden="true">#</a></h2>
+<h3 id="장소-묻기" tabindex="-1" data-src-line="182">장소 묻기 <a class="header-anchor" href="#장소-묻기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Q: すみません、トイレは どこですか。
    저기요, 화장실은 어디입니까?
 
@@ -287,9 +285,9 @@ A: いま かいぎしつに おります。
    지금 회의실에 계십니다. ※おります = います의 겸양형
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-수량-표현과-결합" tabindex="-1" data-src-line="215">7. 수량 표현과 결합 <a class="header-anchor" href="#7-수량-표현과-결합" aria-hidden="true">#</a></h2>
+<h2 id="7-수량-표현과-결합" tabindex="-1" data-src-line="213">7. 수량 표현과 결합 <a class="header-anchor" href="#7-수량-표현과-결합" aria-hidden="true">#</a></h2>
 <p>존재 표현은 수량 표현과 함께 자주 씁니다.</p>
-<h3 id="사람-수-세기" tabindex="-1" data-src-line="219">사람 수 세기 <a class="header-anchor" href="#사람-수-세기" aria-hidden="true">#</a></h3>
+<h3 id="사람-수-세기" tabindex="-1" data-src-line="217">사람 수 세기 <a class="header-anchor" href="#사람-수-세기" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -324,7 +322,7 @@ A: いま かいぎしつに おります。
 </tr>
 </tbody>
 </table>
-</div><h3 id="사물-수-세기-개" tabindex="-1" data-src-line="230">사물 수 세기 (개) <a class="header-anchor" href="#사물-수-세기-개" aria-hidden="true">#</a></h3>
+</div><h3 id="사물-수-세기-개" tabindex="-1" data-src-line="228">사물 수 세기 (개) <a class="header-anchor" href="#사물-수-세기-개" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -359,7 +357,7 @@ A: いま かいぎしつに おります。
 </tr>
 </tbody>
 </table>
-</div><h3 id="수량-결합-예문" tabindex="-1" data-src-line="241">수량 결합 예문 <a class="header-anchor" href="#수량-결합-예문" aria-hidden="true">#</a></h3>
+</div><h3 id="수량-결합-예문" tabindex="-1" data-src-line="239">수량 결합 예문 <a class="header-anchor" href="#수량-결합-예문" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">きょうしつに がくせいが にじゅうにんいます。
 교실에 학생이 20명 있습니다.
 
@@ -373,7 +371,7 @@ A: いま かいぎしつに おります。
 냉장고 안에 달걀이 몇 개 있습니까?
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-의-정중겸양-표현" tabindex="-1" data-src-line="259">8. います의 정중·겸양 표현 <a class="header-anchor" href="#8-의-정중겸양-표현" aria-hidden="true">#</a></h2>
+<h2 id="8-의-정중겸양-표현" tabindex="-1" data-src-line="257">8. います의 정중·겸양 표현 <a class="header-anchor" href="#8-의-정중겸양-표현" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -413,7 +411,7 @@ A: いま かいぎしつに おります。
 사장님은 지금 회의실에 계십니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-실전-회화--길-안내" tabindex="-1" data-src-line="283">9. 실전 회화 — 길 안내 <a class="header-anchor" href="#9-실전-회화--길-안내" aria-hidden="true">#</a></h2>
+<h2 id="9-실전-회화--길-안내" tabindex="-1" data-src-line="281">9. 실전 회화 — 길 안내 <a class="header-anchor" href="#9-실전-회화--길-안내" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: すみません、このへんに コンビニは ありますか。
    스미마셍、코노헨니 콘비니와 아리마스카?
    (저기요, 이 근처에 편의점이 있습니까?)
@@ -443,7 +441,7 @@ A: わかりました。どうも ありがとうございました。
    (알겠습니다. 대단히 감사합니다.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-문형-정리" tabindex="-1" data-src-line="317">10. 문형 정리 <a class="header-anchor" href="#10-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="10-문형-정리" tabindex="-1" data-src-line="315">10. 문형 정리 <a class="header-anchor" href="#10-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -496,7 +494,7 @@ A: わかりました。どうも ありがとうございました。
 </tbody>
 </table>
 </div><hr>
-<h2 id="-n5-초급-전반-완주--10강-전체-복습" tabindex="-1" data-src-line="332">🎉 N5 초급 전반 완주! — 10강 전체 복습 <a class="header-anchor" href="#-n5-초급-전반-완주--10강-전체-복습" aria-hidden="true">#</a></h2>
+<h2 id="-n5-초급-전반-완주--10강-전체-복습" tabindex="-1" data-src-line="330">🎉 N5 초급 전반 완주! — 10강 전체 복습 <a class="header-anchor" href="#-n5-초급-전반-완주--10강-전체-복습" aria-hidden="true">#</a></h2>
 <p>드디어 초급 전반 10강을 모두 마쳤습니다!<br>
 아래에서 지금까지 배운 핵심 문형 전체를 한눈에 정리해봅니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
@@ -561,7 +559,7 @@ A: わかりました。どうも ありがとうございました。
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="352">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="350">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p><code>います·あります</code> 의 구분은 일본어 학습 초기에 많이 헷갈리지만, <strong>“스스로 움직이는가, 아닌가”</strong> 라는 원칙 하나만 기억하면 거의 모든 경우에 적용됩니다.</p>
 <p>이로써 N5 수준의 기초 문법을 모두 익혔습니다.<br>
 다음 강부터는 N4 수준으로 넘어가, 일본어 활용의 꽃이라 불리는 <strong>て형(11강)</strong> 을 시작합니다.<br>
@@ -594,8 +592,8 @@ A: わかりました。どうも ありがとうございました。
 <li>18강: 경어 표현 — 존경어 · 겸양어 · 정중어 완전 정리</li>
 </ul>
 </blockquote>
-6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$La",null,{"content":"$b"}]}]}]
-7:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lc",null,{"href":"/post/english/english-lesson-02-greetings-introduction","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 2강: 인사 · 자기소개 — My name is · I'm from"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-09-adjectives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]}],["$","li","japanese/japanese-lesson-08-giving-receiving",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]}],["$","li","japanese/japanese-lesson-07-particles",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lc",null,{"href":"/post/japanese/japanese-lesson-07-particles","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}]}]]}]]}]]}]
-8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
-9:["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]
-f:null
+5:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L9",null,{"content":"$a"}]}]}]
+6:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lb",null,{"href":"/post/english/english-lesson-02-greetings-introduction","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 2강: 인사 · 자기소개 — My name is · I'm from"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-09-adjectives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]}],["$","li","japanese/japanese-lesson-08-giving-receiving",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]}],["$","li","japanese/japanese-lesson-07-particles",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lb",null,{"href":"/post/japanese/japanese-lesson-07-particles","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}]}]]}]]}]]}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+8:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

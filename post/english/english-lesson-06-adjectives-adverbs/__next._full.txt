@@ -1,17 +1,17 @@
 1:"$Sreact.fragment"
-2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
-3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-1897dd8696969296.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-1897dd8696969296.js"],"default"]
 4:I[7121,[],""]
 5:I[4581,[],""]
-6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-46cec2f3d55c495b.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-66334d14f3932713.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 12:I[7123,[],""]
 :HL["/_next/static/css/14fe0f083043dbad.css","style"]
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"P":null,"b":"BZTH37Uy6GEY691ei5xtr","c":["","post","english","english-lesson-06-adjectives-adverbs",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english/english-lesson-06-adjectives-adverbs","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+0:{"P":null,"b":"qoJUPqiJL4LTaAn44JHJO","c":["","post","english","english-lesson-06-adjectives-adverbs",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english/english-lesson-06-adjectives-adverbs","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
-17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+17:I[1009,["209","static/chunks/app/loading-d719388b49f0797d.js"],"default"]
 18:I[484,[],"ViewportBoundary"]
 1a:I[484,[],"MetadataBoundary"]
 8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
@@ -24,16 +24,14 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs\"},\"headline\":\"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현\",\"description\":\"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-01T09:13:00.000Z\",\"dateModified\":\"2026-05-01T09:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"adjectives\",\"adverbs\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현","slugPath":"english/english-lesson-06-adjectives-adverbs","headings":[{"id":"영어-6강-형용사--부사-완전-정복--묘사하는-표현","text":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-형용사adjective란","text":"1. 형용사(Adjective)란?","level":2},{"id":"2-형용사의-두-가지-위치","text":"2. 형용사의 두 가지 위치","level":2},{"id":"위치--명사-앞-한정적-용법","text":"위치 ① 명사 앞 (한정적 용법)","level":3},{"id":"위치--be동사연결동사-뒤-서술적-용법","text":"위치 ② Be동사·연결동사 뒤 (서술적 용법)","level":3},{"id":"연결동사-linking-verbs--형용사와-함께-쓰는-동사","text":"연결동사 (Linking Verbs) — 형용사와 함께 쓰는 동사","level":3},{"id":"3-형용사-어순--여러-형용사를-나열할-때","text":"3. 형용사 어순 — 여러 형용사를 나열할 때","level":2},{"id":"4-자주-쓰이는-형용사-50개","text":"4. 자주 쓰이는 형용사 50개","level":2},{"id":"크기외모","text":"크기·외모","level":3},{"id":"상태특성","text":"상태·특성","level":3},{"id":"감정성격","text":"감정·성격","level":3},{"id":"날씨환경","text":"날씨·환경","level":3},{"id":"5-부사adverb란","text":"5. 부사(Adverb)란?","level":2},{"id":"6-부사-만들기--형용사---ly","text":"6. 부사 만들기 — 형용사 + -ly","level":2},{"id":"규칙--대부분의-형용사---ly","text":"규칙 ① 대부분의 형용사 → + ly","level":3},{"id":"규칙--자음--le로-끝나는-형용사--e를-y로","text":"규칙 ② 자음 + le로 끝나는 형용사 → e를 y로","level":3},{"id":"규칙--자음--y로-끝나는-형용사--y를-i로--ly","text":"규칙 ③ 자음 + y로 끝나는 형용사 → y를 i로 + ly","level":3},{"id":"규칙---ic로-끝나는-형용사---ally","text":"규칙 ④ -ic로 끝나는 형용사 → + ally","level":3},{"id":"불규칙-부사--반드시-암기","text":"불규칙 부사 — 반드시 암기","level":3},{"id":"7-빈도부사-adverbs-of-frequency","text":"7. 빈도부사 (Adverbs of Frequency)","level":2},{"id":"빈도부사의-위치","text":"빈도부사의 위치","level":3},{"id":"8-강도부사-adverbs-of-degree","text":"8. 강도부사 (Adverbs of Degree)","level":2},{"id":"9-시간부사-adverbs-of-time","text":"9. 시간부사 (Adverbs of Time)","level":2},{"id":"시간부사의-위치","text":"시간부사의 위치","level":3},{"id":"10-장소부사-adverbs-of-place","text":"10. 장소부사 (Adverbs of Place)","level":2},{"id":"11-부사의-위치-규칙-총정리","text":"11. 부사의 위치 규칙 총정리","level":2},{"id":"여러-부사가-함께-올-때-어순","text":"여러 부사가 함께 올 때 어순","level":3},{"id":"12-형용사-vs-부사--헷갈리는-쌍-완전-정리","text":"12. 형용사 vs 부사 — 헷갈리는 쌍 완전 정리","level":2},{"id":"13-자주-쓰이는-형용사부사-표현","text":"13. 자주 쓰이는 형용사+부사 표현","level":2},{"id":"14-실전-회화--사람과-장소-묘사하기","text":"14. 실전 회화 — 사람과 장소 묘사하기","level":2},{"id":"상황--새로운-동네-묘사","text":"상황 ① 새로운 동네 묘사","level":3},{"id":"상황--새로-만난-사람-묘사","text":"상황 ② 새로 만난 사람 묘사","level":3},{"id":"상황--음식-묘사","text":"상황 ③ 음식 묘사","level":3},{"id":"15-자주-틀리는-실수-정리","text":"15. 자주 틀리는 실수 정리","level":2},{"id":"실수--연결동사-뒤에-부사-사용","text":"실수 ① 연결동사 뒤에 부사 사용","level":3},{"id":"실수--goodwell-혼동","text":"실수 ② good/well 혼동","level":3},{"id":"실수--빈도부사-위치-오류","text":"실수 ③ 빈도부사 위치 오류","level":3},{"id":"실수--very-too-혼동","text":"실수 ④ very too 혼동","level":3},{"id":"16-문형-정리","text":"16. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],"$L1d"]}],"$L1e","$L1f","$L20","$L21"]}],"$L22","$L23"]}]
-24:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-1d:["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-06-adjectives-adverbs"}]
-1e:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}]
-1f:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}]
-20:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","adjectives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","adjectives"]}],["$","span","adverbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","adverbs"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
-21:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-25:Tb5d1,<h1 id="영어-6강-형용사--부사-완전-정복--묘사하는-표현" tabindex="-1" data-src-line="1">영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현 <a class="header-anchor" href="#영어-6강-형용사--부사-완전-정복--묘사하는-표현" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-6강-형용사--부사-완전-정복--묘사하는-표현">영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-형용사adjective란">1. 형용사(Adjective)란? </a></li><li><a href="#2-형용사의-두-가지-위치">2. 형용사의 두 가지 위치 </a><ul><li><a href="#위치--명사-앞-한정적-용법">위치 ① 명사 앞 (한정적 용법) </a></li><li><a href="#위치--be동사연결동사-뒤-서술적-용법">위치 ② Be동사·연결동사 뒤 (서술적 용법) </a></li><li><a href="#연결동사-linking-verbs--형용사와-함께-쓰는-동사">연결동사 (Linking Verbs) — 형용사와 함께 쓰는 동사 </a></li></ul></li><li><a href="#3-형용사-어순--여러-형용사를-나열할-때">3. 형용사 어순 — 여러 형용사를 나열할 때 </a></li><li><a href="#4-자주-쓰이는-형용사-50개">4. 자주 쓰이는 형용사 50개 </a><ul><li><a href="#크기외모">크기·외모 </a></li><li><a href="#상태특성">상태·특성 </a></li><li><a href="#감정성격">감정·성격 </a></li><li><a href="#날씨환경">날씨·환경 </a></li></ul></li><li><a href="#5-부사adverb란">5. 부사(Adverb)란? </a></li><li><a href="#6-부사-만들기--형용사---ly">6. 부사 만들기 — 형용사 + -ly </a><ul><li><a href="#규칙--대부분의-형용사---ly">규칙 ① 대부분의 형용사 → + ly </a></li><li><a href="#규칙--자음--le로-끝나는-형용사--e를-y로">규칙 ② 자음 + le로 끝나는 형용사 → e를 y로 </a></li><li><a href="#규칙--자음--y로-끝나는-형용사--y를-i로--ly">규칙 ③ 자음 + y로 끝나는 형용사 → y를 i로 + ly </a></li><li><a href="#규칙---ic로-끝나는-형용사---ally">규칙 ④ -ic로 끝나는 형용사 → + ally </a></li><li><a href="#불규칙-부사--반드시-암기">불규칙 부사 — 반드시 암기 </a></li></ul></li><li><a href="#7-빈도부사-adverbs-of-frequency">7. 빈도부사 (Adverbs of Frequency) </a><ul><li><a href="#빈도부사의-위치">빈도부사의 위치 </a></li></ul></li><li><a href="#8-강도부사-adverbs-of-degree">8. 강도부사 (Adverbs of Degree) </a></li><li><a href="#9-시간부사-adverbs-of-time">9. 시간부사 (Adverbs of Time) </a><ul><li><a href="#시간부사의-위치">시간부사의 위치 </a></li></ul></li><li><a href="#10-장소부사-adverbs-of-place">10. 장소부사 (Adverbs of Place) </a></li><li><a href="#11-부사의-위치-규칙-총정리">11. 부사의 위치 규칙 총정리 </a><ul><li><a href="#여러-부사가-함께-올-때-어순">여러 부사가 함께 올 때 어순 </a></li></ul></li><li><a href="#12-형용사-vs-부사--헷갈리는-쌍-완전-정리">12. 형용사 vs 부사 — 헷갈리는 쌍 완전 정리 </a></li><li><a href="#13-자주-쓰이는-형용사부사-표현">13. 자주 쓰이는 형용사+부사 표현 </a></li><li><a href="#14-실전-회화--사람과-장소-묘사하기">14. 실전 회화 — 사람과 장소 묘사하기 </a><ul><li><a href="#상황--새로운-동네-묘사">상황 ① 새로운 동네 묘사 </a></li><li><a href="#상황--새로-만난-사람-묘사">상황 ② 새로 만난 사람 묘사 </a></li><li><a href="#상황--음식-묘사">상황 ③ 음식 묘사 </a></li></ul></li><li><a href="#15-자주-틀리는-실수-정리">15. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--연결동사-뒤에-부사-사용">실수 ① 연결동사 뒤에 부사 사용 </a></li><li><a href="#실수--goodwell-혼동">실수 ② good/well 혼동 </a></li><li><a href="#실수--빈도부사-위치-오류">실수 ③ 빈도부사 위치 오류 </a></li><li><a href="#실수--very-too-혼동">실수 ④ very too 혼동 </a></li></ul></li><li><a href="#16-문형-정리">16. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs\"},\"headline\":\"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현\",\"description\":\"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-01T09:13:00.000Z\",\"dateModified\":\"2026-05-01T09:13:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"adjectives\",\"adverbs\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현","slugPath":"english/english-lesson-06-adjectives-adverbs","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-형용사adjective란","text":"1. 형용사(Adjective)란?","level":2},{"id":"2-형용사의-두-가지-위치","text":"2. 형용사의 두 가지 위치","level":2},{"id":"위치--명사-앞-한정적-용법","text":"위치 ① 명사 앞 (한정적 용법)","level":3},{"id":"위치--be동사연결동사-뒤-서술적-용법","text":"위치 ② Be동사·연결동사 뒤 (서술적 용법)","level":3},{"id":"연결동사-linking-verbs--형용사와-함께-쓰는-동사","text":"연결동사 (Linking Verbs) — 형용사와 함께 쓰는 동사","level":3},{"id":"3-형용사-어순--여러-형용사를-나열할-때","text":"3. 형용사 어순 — 여러 형용사를 나열할 때","level":2},{"id":"4-자주-쓰이는-형용사-50개","text":"4. 자주 쓰이는 형용사 50개","level":2},{"id":"크기외모","text":"크기·외모","level":3},{"id":"상태특성","text":"상태·특성","level":3},{"id":"감정성격","text":"감정·성격","level":3},{"id":"날씨환경","text":"날씨·환경","level":3},{"id":"5-부사adverb란","text":"5. 부사(Adverb)란?","level":2},{"id":"6-부사-만들기--형용사---ly","text":"6. 부사 만들기 — 형용사 + -ly","level":2},{"id":"규칙--대부분의-형용사---ly","text":"규칙 ① 대부분의 형용사 → + ly","level":3},{"id":"규칙--자음--le로-끝나는-형용사--e를-y로","text":"규칙 ② 자음 + le로 끝나는 형용사 → e를 y로","level":3},{"id":"규칙--자음--y로-끝나는-형용사--y를-i로--ly","text":"규칙 ③ 자음 + y로 끝나는 형용사 → y를 i로 + ly","level":3},{"id":"규칙---ic로-끝나는-형용사---ally","text":"규칙 ④ -ic로 끝나는 형용사 → + ally","level":3},{"id":"불규칙-부사--반드시-암기","text":"불규칙 부사 — 반드시 암기","level":3},{"id":"7-빈도부사-adverbs-of-frequency","text":"7. 빈도부사 (Adverbs of Frequency)","level":2},{"id":"빈도부사의-위치","text":"빈도부사의 위치","level":3},{"id":"8-강도부사-adverbs-of-degree","text":"8. 강도부사 (Adverbs of Degree)","level":2},{"id":"9-시간부사-adverbs-of-time","text":"9. 시간부사 (Adverbs of Time)","level":2},{"id":"시간부사의-위치","text":"시간부사의 위치","level":3},{"id":"10-장소부사-adverbs-of-place","text":"10. 장소부사 (Adverbs of Place)","level":2},{"id":"11-부사의-위치-규칙-총정리","text":"11. 부사의 위치 규칙 총정리","level":2},{"id":"여러-부사가-함께-올-때-어순","text":"여러 부사가 함께 올 때 어순","level":3},{"id":"12-형용사-vs-부사--헷갈리는-쌍-완전-정리","text":"12. 형용사 vs 부사 — 헷갈리는 쌍 완전 정리","level":2},{"id":"13-자주-쓰이는-형용사부사-표현","text":"13. 자주 쓰이는 형용사+부사 표현","level":2},{"id":"14-실전-회화--사람과-장소-묘사하기","text":"14. 실전 회화 — 사람과 장소 묘사하기","level":2},{"id":"상황--새로운-동네-묘사","text":"상황 ① 새로운 동네 묘사","level":3},{"id":"상황--새로-만난-사람-묘사","text":"상황 ② 새로 만난 사람 묘사","level":3},{"id":"상황--음식-묘사","text":"상황 ③ 음식 묘사","level":3},{"id":"15-자주-틀리는-실수-정리","text":"15. 자주 틀리는 실수 정리","level":2},{"id":"실수--연결동사-뒤에-부사-사용","text":"실수 ① 연결동사 뒤에 부사 사용","level":3},{"id":"실수--goodwell-혼동","text":"실수 ② good/well 혼동","level":3},{"id":"실수--빈도부사-위치-오류","text":"실수 ③ 빈도부사 위치 오류","level":3},{"id":"실수--very-too-혼동","text":"실수 ④ very too 혼동","level":3},{"id":"16-문형-정리","text":"16. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-06-adjectives-adverbs"}]]}],"$L1d","$L1e","$L1f","$L20"]}],"$L21","$L22"]}]
+23:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+1d:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}]
+1e:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}]
+1f:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-01T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 1일"]}],["$","time",null,{"dateTime":"2026-05-01T09:13:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 1일"]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","adjectives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","adjectives"]}],["$","span","adverbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","adverbs"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+20:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+24:Tb3f7,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-형용사adjective란">1. 형용사(Adjective)란? </a></li><li><a href="#2-형용사의-두-가지-위치">2. 형용사의 두 가지 위치 </a><ul><li><a href="#위치--명사-앞-한정적-용법">위치 ① 명사 앞 (한정적 용법) </a></li><li><a href="#위치--be동사연결동사-뒤-서술적-용법">위치 ② Be동사·연결동사 뒤 (서술적 용법) </a></li><li><a href="#연결동사-linking-verbs--형용사와-함께-쓰는-동사">연결동사 (Linking Verbs) — 형용사와 함께 쓰는 동사 </a></li></ul></li><li><a href="#3-형용사-어순--여러-형용사를-나열할-때">3. 형용사 어순 — 여러 형용사를 나열할 때 </a></li><li><a href="#4-자주-쓰이는-형용사-50개">4. 자주 쓰이는 형용사 50개 </a><ul><li><a href="#크기외모">크기·외모 </a></li><li><a href="#상태특성">상태·특성 </a></li><li><a href="#감정성격">감정·성격 </a></li><li><a href="#날씨환경">날씨·환경 </a></li></ul></li><li><a href="#5-부사adverb란">5. 부사(Adverb)란? </a></li><li><a href="#6-부사-만들기--형용사---ly">6. 부사 만들기 — 형용사 + -ly </a><ul><li><a href="#규칙--대부분의-형용사---ly">규칙 ① 대부분의 형용사 → + ly </a></li><li><a href="#규칙--자음--le로-끝나는-형용사--e를-y로">규칙 ② 자음 + le로 끝나는 형용사 → e를 y로 </a></li><li><a href="#규칙--자음--y로-끝나는-형용사--y를-i로--ly">규칙 ③ 자음 + y로 끝나는 형용사 → y를 i로 + ly </a></li><li><a href="#규칙---ic로-끝나는-형용사---ally">규칙 ④ -ic로 끝나는 형용사 → + ally </a></li><li><a href="#불규칙-부사--반드시-암기">불규칙 부사 — 반드시 암기 </a></li></ul></li><li><a href="#7-빈도부사-adverbs-of-frequency">7. 빈도부사 (Adverbs of Frequency) </a><ul><li><a href="#빈도부사의-위치">빈도부사의 위치 </a></li></ul></li><li><a href="#8-강도부사-adverbs-of-degree">8. 강도부사 (Adverbs of Degree) </a></li><li><a href="#9-시간부사-adverbs-of-time">9. 시간부사 (Adverbs of Time) </a><ul><li><a href="#시간부사의-위치">시간부사의 위치 </a></li></ul></li><li><a href="#10-장소부사-adverbs-of-place">10. 장소부사 (Adverbs of Place) </a></li><li><a href="#11-부사의-위치-규칙-총정리">11. 부사의 위치 규칙 총정리 </a><ul><li><a href="#여러-부사가-함께-올-때-어순">여러 부사가 함께 올 때 어순 </a></li></ul></li><li><a href="#12-형용사-vs-부사--헷갈리는-쌍-완전-정리">12. 형용사 vs 부사 — 헷갈리는 쌍 완전 정리 </a></li><li><a href="#13-자주-쓰이는-형용사부사-표현">13. 자주 쓰이는 형용사+부사 표현 </a></li><li><a href="#14-실전-회화--사람과-장소-묘사하기">14. 실전 회화 — 사람과 장소 묘사하기 </a><ul><li><a href="#상황--새로운-동네-묘사">상황 ① 새로운 동네 묘사 </a></li><li><a href="#상황--새로-만난-사람-묘사">상황 ② 새로 만난 사람 묘사 </a></li><li><a href="#상황--음식-묘사">상황 ③ 음식 묘사 </a></li></ul></li><li><a href="#15-자주-틀리는-실수-정리">15. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--연결동사-뒤에-부사-사용">실수 ① 연결동사 뒤에 부사 사용 </a></li><li><a href="#실수--goodwell-혼동">실수 ② good/well 혼동 </a></li><li><a href="#실수--빈도부사-위치-오류">실수 ③ 빈도부사 위치 오류 </a></li><li><a href="#실수--very-too-혼동">실수 ④ very too 혼동 </a></li></ul></li><li><a href="#16-문형-정리">16. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>“맛있는 음식”, “정말 빠르게 달린다”, “항상 열심히 공부한다” —<br>
 이런 묘사 표현들이 모두 <strong>형용사</strong>와 <strong>부사</strong>입니다.<br>
 이 두 품사를 제대로 익히면 영어 표현이 훨씬 풍부하고 자연스러워집니다.</p>
@@ -48,7 +46,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-형용사adjective란" tabindex="-1" data-src-line="20">1. 형용사(Adjective)란? <a class="header-anchor" href="#1-형용사adjective란" aria-hidden="true">#</a></h2>
+<h2 id="1-형용사adjective란" tabindex="-1" data-src-line="18">1. 형용사(Adjective)란? <a class="header-anchor" href="#1-형용사adjective란" aria-hidden="true">#</a></h2>
 <p>형용사는 <strong>명사를 꾸며주는</strong> 품사입니다.<br>
 &quot;어떤 명사인지&quot;를 설명해주는 역할을 합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a beautiful flower (아름다운 꽃)
@@ -57,8 +55,8 @@ an expensive car (비싼 차)
 cold weather (추운 날씨)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="2-형용사의-두-가지-위치" tabindex="-1" data-src-line="34">2. 형용사의 두 가지 위치 <a class="header-anchor" href="#2-형용사의-두-가지-위치" aria-hidden="true">#</a></h2>
-<h3 id="위치--명사-앞-한정적-용법" tabindex="-1" data-src-line="36">위치 ① 명사 앞 (한정적 용법) <a class="header-anchor" href="#위치--명사-앞-한정적-용법" aria-hidden="true">#</a></h3>
+<h2 id="2-형용사의-두-가지-위치" tabindex="-1" data-src-line="32">2. 형용사의 두 가지 위치 <a class="header-anchor" href="#2-형용사의-두-가지-위치" aria-hidden="true">#</a></h2>
+<h3 id="위치--명사-앞-한정적-용법" tabindex="-1" data-src-line="34">위치 ① 명사 앞 (한정적 용법) <a class="header-anchor" href="#위치--명사-앞-한정적-용법" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[형용사] + [명사]
 
 a smart student (똑똑한 학생)
@@ -66,7 +64,7 @@ a delicious meal (맛있는 식사)
 an old building (오래된 건물)
 a difficult question (어려운 질문)
 </code></pre></div></code></pre>
-<h3 id="위치--be동사연결동사-뒤-서술적-용법" tabindex="-1" data-src-line="47">위치 ② Be동사·연결동사 뒤 (서술적 용법) <a class="header-anchor" href="#위치--be동사연결동사-뒤-서술적-용법" aria-hidden="true">#</a></h3>
+<h3 id="위치--be동사연결동사-뒤-서술적-용법" tabindex="-1" data-src-line="45">위치 ② Be동사·연결동사 뒤 (서술적 용법) <a class="header-anchor" href="#위치--be동사연결동사-뒤-서술적-용법" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [Be동사/연결동사] + [형용사]
 
 The food is delicious. (그 음식은 맛있습니다.)
@@ -74,7 +72,7 @@ She looks tired. (그녀는 피곤해 보입니다.)
 He feels sick. (그는 아픈 것 같습니다.)
 The music sounds beautiful. (그 음악은 아름답게 들립니다.)
 </code></pre></div></code></pre>
-<h3 id="연결동사-linking-verbs--형용사와-함께-쓰는-동사" tabindex="-1" data-src-line="58">연결동사 (Linking Verbs) — 형용사와 함께 쓰는 동사 <a class="header-anchor" href="#연결동사-linking-verbs--형용사와-함께-쓰는-동사" aria-hidden="true">#</a></h3>
+<h3 id="연결동사-linking-verbs--형용사와-함께-쓰는-동사" tabindex="-1" data-src-line="56">연결동사 (Linking Verbs) — 형용사와 함께 쓰는 동사 <a class="header-anchor" href="#연결동사-linking-verbs--형용사와-함께-쓰는-동사" aria-hidden="true">#</a></h3>
 <p>연결동사 뒤에는 부사가 아닌 <strong>형용사</strong>를 씁니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -146,7 +144,7 @@ She looks well. (아프다가 나았다는 의미로 쓰일 수 있음 — 특�
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="3-형용사-어순--여러-형용사를-나열할-때" tabindex="-1" data-src-line="96">3. 형용사 어순 — 여러 형용사를 나열할 때 <a class="header-anchor" href="#3-형용사-어순--여러-형용사를-나열할-때" aria-hidden="true">#</a></h2>
+<h2 id="3-형용사-어순--여러-형용사를-나열할-때" tabindex="-1" data-src-line="94">3. 형용사 어순 — 여러 형용사를 나열할 때 <a class="header-anchor" href="#3-형용사-어순--여러-형용사를-나열할-때" aria-hidden="true">#</a></h2>
 <p>형용사를 두 개 이상 사용할 때는 <strong>정해진 순서</strong>가 있습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">관사 → 수량 → 의견 → 크기 → 나이 → 모양 → 색깔 → 출처(국적) → 재료 → 명사
 </code></pre></div></code></pre>
@@ -224,8 +222,8 @@ a nice big new blue Korean car
 <p>💡 실제로 형용사를 4개 이상 나열하는 경우는 드뭅니다. 2~3개가 일반적입니다.</p>
 </blockquote>
 <hr>
-<h2 id="4-자주-쓰이는-형용사-50개" tabindex="-1" data-src-line="132">4. 자주 쓰이는 형용사 50개 <a class="header-anchor" href="#4-자주-쓰이는-형용사-50개" aria-hidden="true">#</a></h2>
-<h3 id="크기외모" tabindex="-1" data-src-line="134">크기·외모 <a class="header-anchor" href="#크기외모" aria-hidden="true">#</a></h3>
+<h2 id="4-자주-쓰이는-형용사-50개" tabindex="-1" data-src-line="130">4. 자주 쓰이는 형용사 50개 <a class="header-anchor" href="#4-자주-쓰이는-형용사-50개" aria-hidden="true">#</a></h2>
+<h3 id="크기외모" tabindex="-1" data-src-line="132">크기·외모 <a class="header-anchor" href="#크기외모" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -272,7 +270,7 @@ a nice big new blue Korean car
 </tr>
 </tbody>
 </table>
-</div><h3 id="상태특성" tabindex="-1" data-src-line="146">상태·특성 <a class="header-anchor" href="#상태특성" aria-hidden="true">#</a></h3>
+</div><h3 id="상태특성" tabindex="-1" data-src-line="144">상태·특성 <a class="header-anchor" href="#상태특성" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -334,7 +332,7 @@ a nice big new blue Korean car
 </tr>
 </tbody>
 </table>
-</div><h3 id="감정성격" tabindex="-1" data-src-line="161">감정·성격 <a class="header-anchor" href="#감정성격" aria-hidden="true">#</a></h3>
+</div><h3 id="감정성격" tabindex="-1" data-src-line="159">감정·성격 <a class="header-anchor" href="#감정성격" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -396,7 +394,7 @@ a nice big new blue Korean car
 </tr>
 </tbody>
 </table>
-</div><h3 id="날씨환경" tabindex="-1" data-src-line="176">날씨·환경 <a class="header-anchor" href="#날씨환경" aria-hidden="true">#</a></h3>
+</div><h3 id="날씨환경" tabindex="-1" data-src-line="174">날씨·환경 <a class="header-anchor" href="#날씨환경" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -448,7 +446,7 @@ a nice big new blue Korean car
 </tbody>
 </table>
 </div><hr>
-<h2 id="5-부사adverb란" tabindex="-1" data-src-line="193">5. 부사(Adverb)란? <a class="header-anchor" href="#5-부사adverb란" aria-hidden="true">#</a></h2>
+<h2 id="5-부사adverb란" tabindex="-1" data-src-line="191">5. 부사(Adverb)란? <a class="header-anchor" href="#5-부사adverb란" aria-hidden="true">#</a></h2>
 <p>부사는 <strong>동사·형용사·다른 부사·문장 전체</strong>를 꾸며주는 품사입니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She runs fast. (그녀는 빠르게 달립니다.) — 동사 수식
 He is very tall. (그는 매우 키가 큽니다.) — 형용사 수식
@@ -456,32 +454,32 @@ She speaks really quickly. (그녀는 정말 빠르게 말합니다.) — 부사
 Unfortunately, I missed the bus. (불행히도, 나는 버스를 놓쳤습니다.) — 문장 수식
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-부사-만들기--형용사---ly" tabindex="-1" data-src-line="206">6. 부사 만들기 — 형용사 + -ly <a class="header-anchor" href="#6-부사-만들기--형용사---ly" aria-hidden="true">#</a></h2>
+<h2 id="6-부사-만들기--형용사---ly" tabindex="-1" data-src-line="204">6. 부사 만들기 — 형용사 + -ly <a class="header-anchor" href="#6-부사-만들기--형용사---ly" aria-hidden="true">#</a></h2>
 <p>대부분의 부사는 형용사에 <strong>-ly</strong>를 붙여 만듭니다.</p>
-<h3 id="규칙--대부분의-형용사---ly" tabindex="-1" data-src-line="210">규칙 ① 대부분의 형용사 → + ly <a class="header-anchor" href="#규칙--대부분의-형용사---ly" aria-hidden="true">#</a></h3>
+<h3 id="규칙--대부분의-형용사---ly" tabindex="-1" data-src-line="208">규칙 ① 대부분의 형용사 → + ly <a class="header-anchor" href="#규칙--대부분의-형용사---ly" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">slow → slowly (천천히)
 quick → quickly (빠르게)
 quiet → quietly (조용히)
 careful → carefully (조심스럽게)
 beautiful → beautifully (아름답게)
 </code></pre></div></code></pre>
-<h3 id="규칙--자음--le로-끝나는-형용사--e를-y로" tabindex="-1" data-src-line="220">규칙 ② 자음 + le로 끝나는 형용사 → e를 y로 <a class="header-anchor" href="#규칙--자음--le로-끝나는-형용사--e를-y로" aria-hidden="true">#</a></h3>
+<h3 id="규칙--자음--le로-끝나는-형용사--e를-y로" tabindex="-1" data-src-line="218">규칙 ② 자음 + le로 끝나는 형용사 → e를 y로 <a class="header-anchor" href="#규칙--자음--le로-끝나는-형용사--e를-y로" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">gentle → gently (부드럽게)
 simple → simply (간단히)
 comfortable → comfortably (편안하게)
 </code></pre></div></code></pre>
-<h3 id="규칙--자음--y로-끝나는-형용사--y를-i로--ly" tabindex="-1" data-src-line="228">규칙 ③ 자음 + y로 끝나는 형용사 → y를 i로 + ly <a class="header-anchor" href="#규칙--자음--y로-끝나는-형용사--y를-i로--ly" aria-hidden="true">#</a></h3>
+<h3 id="규칙--자음--y로-끝나는-형용사--y를-i로--ly" tabindex="-1" data-src-line="226">규칙 ③ 자음 + y로 끝나는 형용사 → y를 i로 + ly <a class="header-anchor" href="#규칙--자음--y로-끝나는-형용사--y를-i로--ly" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">happy → happily (행복하게)
 easy → easily (쉽게)
 angry → angrily (화나서)
 heavy → heavily (무겁게)
 </code></pre></div></code></pre>
-<h3 id="규칙---ic로-끝나는-형용사---ally" tabindex="-1" data-src-line="237">규칙 ④ -ic로 끝나는 형용사 → + ally <a class="header-anchor" href="#규칙---ic로-끝나는-형용사---ally" aria-hidden="true">#</a></h3>
+<h3 id="규칙---ic로-끝나는-형용사---ally" tabindex="-1" data-src-line="235">규칙 ④ -ic로 끝나는 형용사 → + ally <a class="header-anchor" href="#규칙---ic로-끝나는-형용사---ally" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">basic → basically (기본적으로)
 dramatic → dramatically (극적으로)
 automatic → automatically (자동적으로)
 </code></pre></div></code></pre>
-<h3 id="불규칙-부사--반드시-암기" tabindex="-1" data-src-line="245">불규칙 부사 — 반드시 암기 <a class="header-anchor" href="#불규칙-부사--반드시-암기" aria-hidden="true">#</a></h3>
+<h3 id="불규칙-부사--반드시-암기" tabindex="-1" data-src-line="243">불규칙 부사 — 반드시 암기 <a class="header-anchor" href="#불규칙-부사--반드시-암기" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -545,7 +543,7 @@ I&#039;m nearly done. (나는 거의 다 됐습니다.)
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="7-빈도부사-adverbs-of-frequency" tabindex="-1" data-src-line="275">7. 빈도부사 (Adverbs of Frequency) <a class="header-anchor" href="#7-빈도부사-adverbs-of-frequency" aria-hidden="true">#</a></h2>
+<h2 id="7-빈도부사-adverbs-of-frequency" tabindex="-1" data-src-line="273">7. 빈도부사 (Adverbs of Frequency) <a class="header-anchor" href="#7-빈도부사-adverbs-of-frequency" aria-hidden="true">#</a></h2>
 <p>빈도부사는 <strong>얼마나 자주</strong> 하는지를 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">always → usually → often → sometimes → rarely/seldom → never
 100%      80%       60%       40%            10%           0%
@@ -611,7 +609,7 @@ I&#039;m nearly done. (나는 거의 다 됐습니다.)
 </tr>
 </tbody>
 </table>
-</div><h3 id="빈도부사의-위치" tabindex="-1" data-src-line="297">빈도부사의 위치 <a class="header-anchor" href="#빈도부사의-위치" aria-hidden="true">#</a></h3>
+</div><h3 id="빈도부사의-위치" tabindex="-1" data-src-line="295">빈도부사의 위치 <a class="header-anchor" href="#빈도부사의-위치" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① Be동사 / 조동사 뒤에 위치
 She is always on time. (그녀는 항상 시간을 잘 지킵니다.)
 I can never remember his name. (나는 그의 이름을 절대 못 외웁니다.)
@@ -626,7 +624,7 @@ Sometimes I work from home. (가끔 나는 재택근무를 합니다.)
 I work from home sometimes.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8-강도부사-adverbs-of-degree" tabindex="-1" data-src-line="316">8. 강도부사 (Adverbs of Degree) <a class="header-anchor" href="#8-강도부사-adverbs-of-degree" aria-hidden="true">#</a></h2>
+<h2 id="8-강도부사-adverbs-of-degree" tabindex="-1" data-src-line="314">8. 강도부사 (Adverbs of Degree) <a class="header-anchor" href="#8-강도부사-adverbs-of-degree" aria-hidden="true">#</a></h2>
 <p>강도부사는 형용사나 다른 부사의 <strong>정도</strong>를 나타냅니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -723,7 +721,7 @@ She&#039;s too busy to meet us. (그녀는 너무 바빠서 우리를 만날 수
 </code></pre></div></code></pre>
 </blockquote>
 <hr>
-<h2 id="9-시간부사-adverbs-of-time" tabindex="-1" data-src-line="364">9. 시간부사 (Adverbs of Time) <a class="header-anchor" href="#9-시간부사-adverbs-of-time" aria-hidden="true">#</a></h2>
+<h2 id="9-시간부사-adverbs-of-time" tabindex="-1" data-src-line="362">9. 시간부사 (Adverbs of Time) <a class="header-anchor" href="#9-시간부사-adverbs-of-time" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -798,7 +796,7 @@ She&#039;s too busy to meet us. (그녀는 너무 바빠서 우리를 만날 수
 </tr>
 </tbody>
 </table>
-</div><h3 id="시간부사의-위치" tabindex="-1" data-src-line="385">시간부사의 위치 <a class="header-anchor" href="#시간부사의-위치" aria-hidden="true">#</a></h3>
+</div><h3 id="시간부사의-위치" tabindex="-1" data-src-line="383">시간부사의 위치 <a class="header-anchor" href="#시간부사의-위치" aria-hidden="true">#</a></h3>
 <p>시간부사는 주로 <strong>문장 끝</strong>이나 <strong>문장 앞</strong>에 위치합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll call you tomorrow.
 내일 전화할게요. (문장 끝)
@@ -813,7 +811,7 @@ I haven&#039;t finished yet.
 나는 아직 끝내지 못했습니다. (문장 끝)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-장소부사-adverbs-of-place" tabindex="-1" data-src-line="405">10. 장소부사 (Adverbs of Place) <a class="header-anchor" href="#10-장소부사-adverbs-of-place" aria-hidden="true">#</a></h2>
+<h2 id="10-장소부사-adverbs-of-place" tabindex="-1" data-src-line="403">10. 장소부사 (Adverbs of Place) <a class="header-anchor" href="#10-장소부사-adverbs-of-place" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -885,7 +883,7 @@ I looked everywhere but couldn&#039;t find it.
 어디서나 찾아봤지만 찾을 수 없었습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-부사의-위치-규칙-총정리" tabindex="-1" data-src-line="438">11. 부사의 위치 규칙 총정리 <a class="header-anchor" href="#11-부사의-위치-규칙-총정리" aria-hidden="true">#</a></h2>
+<h2 id="11-부사의-위치-규칙-총정리" tabindex="-1" data-src-line="436">11. 부사의 위치 규칙 총정리 <a class="header-anchor" href="#11-부사의-위치-규칙-총정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -922,7 +920,7 @@ I looked everywhere but couldn&#039;t find it.
 </tr>
 </tbody>
 </table>
-</div><h3 id="여러-부사가-함께-올-때-어순" tabindex="-1" data-src-line="448">여러 부사가 함께 올 때 어순 <a class="header-anchor" href="#여러-부사가-함께-올-때-어순" aria-hidden="true">#</a></h3>
+</div><h3 id="여러-부사가-함께-올-때-어순" tabindex="-1" data-src-line="446">여러 부사가 함께 올 때 어순 <a class="header-anchor" href="#여러-부사가-함께-올-때-어순" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">장소 + 방법 + 시간
 
 She walked slowly to the office yesterday.
@@ -930,7 +928,7 @@ She walked slowly to the office yesterday.
 (장소: to the office / 방법: slowly / 시간: yesterday)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-형용사-vs-부사--헷갈리는-쌍-완전-정리" tabindex="-1" data-src-line="460">12. 형용사 vs 부사 — 헷갈리는 쌍 완전 정리 <a class="header-anchor" href="#12-형용사-vs-부사--헷갈리는-쌍-완전-정리" aria-hidden="true">#</a></h2>
+<h2 id="12-형용사-vs-부사--헷갈리는-쌍-완전-정리" tabindex="-1" data-src-line="458">12. 형용사 vs 부사 — 헷갈리는 쌍 완전 정리 <a class="header-anchor" href="#12-형용사-vs-부사--헷갈리는-쌍-완전-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -973,7 +971,7 @@ She walked slowly to the office yesterday.
 </tbody>
 </table>
 </div><hr>
-<h2 id="13-자주-쓰이는-형용사부사-표현" tabindex="-1" data-src-line="473">13. 자주 쓰이는 형용사+부사 표현 <a class="header-anchor" href="#13-자주-쓰이는-형용사부사-표현" aria-hidden="true">#</a></h2>
+<h2 id="13-자주-쓰이는-형용사부사-표현" tabindex="-1" data-src-line="471">13. 자주 쓰이는 형용사+부사 표현 <a class="header-anchor" href="#13-자주-쓰이는-형용사부사-표현" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">incredibly beautiful (믿을 수 없이 아름다운)
 absolutely amazing (완전히 놀라운)
 extremely important (극도로 중요한)
@@ -986,8 +984,8 @@ highly recommended (강력히 추천되는)
 surprisingly easy (놀랍도록 쉬운)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="14-실전-회화--사람과-장소-묘사하기" tabindex="-1" data-src-line="490">14. 실전 회화 — 사람과 장소 묘사하기 <a class="header-anchor" href="#14-실전-회화--사람과-장소-묘사하기" aria-hidden="true">#</a></h2>
-<h3 id="상황--새로운-동네-묘사" tabindex="-1" data-src-line="492">상황 ① 새로운 동네 묘사 <a class="header-anchor" href="#상황--새로운-동네-묘사" aria-hidden="true">#</a></h3>
+<h2 id="14-실전-회화--사람과-장소-묘사하기" tabindex="-1" data-src-line="488">14. 실전 회화 — 사람과 장소 묘사하기 <a class="header-anchor" href="#14-실전-회화--사람과-장소-묘사하기" aria-hidden="true">#</a></h2>
+<h3 id="상황--새로운-동네-묘사" tabindex="-1" data-src-line="490">상황 ① 새로운 동네 묘사 <a class="header-anchor" href="#상황--새로운-동네-묘사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: How do you like your new neighborhood?
    새 동네는 어때요?
 
@@ -1014,7 +1012,7 @@ B: It&#039;s a bit pricey, but honestly,
    이웃들이 믿을 수 없을 정도로 친절하고,
    모든 게 정말 가까워요.
 </code></pre></div></code></pre>
-<h3 id="상황--새로-만난-사람-묘사" tabindex="-1" data-src-line="522">상황 ② 새로 만난 사람 묘사 <a class="header-anchor" href="#상황--새로-만난-사람-묘사" aria-hidden="true">#</a></h3>
+<h3 id="상황--새로-만난-사람-묘사" tabindex="-1" data-src-line="520">상황 ② 새로 만난 사람 묘사 <a class="header-anchor" href="#상황--새로-만난-사람-묘사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: What&#039;s your new boss like?
    새 상사는 어때요?
 
@@ -1042,7 +1040,7 @@ A: She sounds like a great leader.
 B: Absolutely. I&#039;m really lucky to work with her.
    완전히요. 그녀와 함께 일하게 되어 정말 운이 좋아요.
 </code></pre></div></code></pre>
-<h3 id="상황--음식-묘사" tabindex="-1" data-src-line="553">상황 ③ 음식 묘사 <a class="header-anchor" href="#상황--음식-묘사" aria-hidden="true">#</a></h3>
+<h3 id="상황--음식-묘사" tabindex="-1" data-src-line="551">상황 ③ 음식 묘사 <a class="header-anchor" href="#상황--음식-묘사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: How was the restaurant you went to?
    갔던 레스토랑 어땠어요?
 
@@ -1071,8 +1069,8 @@ B: You should! Just go early because it gets
    일찍 가세요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="15-자주-틀리는-실수-정리" tabindex="-1" data-src-line="586">15. 자주 틀리는 실수 정리 <a class="header-anchor" href="#15-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
-<h3 id="실수--연결동사-뒤에-부사-사용" tabindex="-1" data-src-line="588">실수 ① 연결동사 뒤에 부사 사용 <a class="header-anchor" href="#실수--연결동사-뒤에-부사-사용" aria-hidden="true">#</a></h3>
+<h2 id="15-자주-틀리는-실수-정리" tabindex="-1" data-src-line="584">15. 자주 틀리는 실수 정리 <a class="header-anchor" href="#15-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--연결동사-뒤에-부사-사용" tabindex="-1" data-src-line="586">실수 ① 연결동사 뒤에 부사 사용 <a class="header-anchor" href="#실수--연결동사-뒤에-부사-사용" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ The food smells deliciously.
 ✅ The food smells delicious.
 → smell은 연결동사 → 형용사 사용
@@ -1081,7 +1079,7 @@ B: You should! Just go early because it gets
 ✅ She looks beautiful today.
 → look은 연결동사 → 형용사 사용
 </code></pre></div></code></pre>
-<h3 id="실수--goodwell-혼동" tabindex="-1" data-src-line="600">실수 ② good/well 혼동 <a class="header-anchor" href="#실수--goodwell-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--goodwell-혼동" tabindex="-1" data-src-line="598">실수 ② good/well 혼동 <a class="header-anchor" href="#실수--goodwell-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She sings good.
 ✅ She sings well.
 → 동사 수식 → 부사 well 사용
@@ -1090,7 +1088,7 @@ B: You should! Just go early because it gets
 ✅ I feel good about this.
 → feel은 연결동사 → 형용사 good 사용
 </code></pre></div></code></pre>
-<h3 id="실수--빈도부사-위치-오류" tabindex="-1" data-src-line="612">실수 ③ 빈도부사 위치 오류 <a class="header-anchor" href="#실수--빈도부사-위치-오류" aria-hidden="true">#</a></h3>
+<h3 id="실수--빈도부사-위치-오류" tabindex="-1" data-src-line="610">실수 ③ 빈도부사 위치 오류 <a class="header-anchor" href="#실수--빈도부사-위치-오류" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I go always to the gym.
 ✅ I always go to the gym.
 → 빈도부사는 일반동사 앞
@@ -1099,13 +1097,13 @@ B: You should! Just go early because it gets
 ✅ She is always late.
 → 빈도부사는 Be동사 뒤
 </code></pre></div></code></pre>
-<h3 id="실수--very-too-혼동" tabindex="-1" data-src-line="624">실수 ④ very too 혼동 <a class="header-anchor" href="#실수--very-too-혼동" aria-hidden="true">#</a></h3>
+<h3 id="실수--very-too-혼동" tabindex="-1" data-src-line="622">실수 ④ very too 혼동 <a class="header-anchor" href="#실수--very-too-혼동" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ This coffee is very hot to drink.
 ✅ This coffee is too hot to drink.
 → &quot;마실 수 없을 정도로&quot; → 문제 상황 → too 사용
 </code></pre></div></code></pre>
 <hr>
-<h2 id="16-문형-정리" tabindex="-1" data-src-line="634">16. 문형 정리 <a class="header-anchor" href="#16-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="16-문형-정리" tabindex="-1" data-src-line="632">16. 문형 정리 <a class="header-anchor" href="#16-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -1168,7 +1166,7 @@ B: You should! Just go early because it gets
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="651">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="649">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>형용사와 부사를 자유롭게 쓸 수 있게 되면 영어 표현이 크게 풍부해집니다.<br>
 핵심 원칙 세 가지를 기억하세요.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 형용사 → 명사를 꾸밈 (명사 앞 / 연결동사 뒤)
@@ -1211,9 +1209,9 @@ B: You should! Just go early because it gets
 <li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
 </ul>
 </blockquote>
-22:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L24",null,{"content":"$25"}]}]}]
-23:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/english/english-lesson-05-nouns-articles","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-12-te-iru","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}]]}]]}]]}]
+21:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L23",null,{"content":"$24"}]}]}]
+22:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/english/english-lesson-05-nouns-articles","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 5강: 명사 · 관사 · 복수형 완전 정복 — a/an/the의 원리"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-12-te-iru","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 12강: ~ている 완전 정복 — 진행 · 상태 · 습관 표현"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","english/english-lesson-09-past-simple",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-09-past-simple","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 9강: 과거시제 완전 정복 — 규칙 동사 · 불규칙 동사"}]}],["$","li","english/english-lesson-08-present-progressive",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-08-present-progressive","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 8강: 현재진행형 완전 정복 — I am -ing"}]}]]}]]}]]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
-26:I[6869,[],"IconMark"]
-1b:[["$","title","0",{"children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}],["$","meta","11",{"property":"og:description","content":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-01T09:13:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-01T09:13:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"adjectives"}],["$","meta","23",{"property":"article:tag","content":"adverbs"}],["$","meta","24",{"property":"article:tag","content":"grammar"}],["$","meta","25",{"property":"article:tag","content":"beginner"}],["$","meta","26",{"property":"article:tag","content":"language-learning"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}],["$","meta","29",{"name":"twitter:description","content":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L26","32",{}]]
+25:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}],["$","meta","11",{"property":"og:description","content":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english/english-lesson-06-adjectives-adverbs/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-01T09:13:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-01T09:13:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"adjectives"}],["$","meta","23",{"property":"article:tag","content":"adverbs"}],["$","meta","24",{"property":"article:tag","content":"grammar"}],["$","meta","25",{"property":"article:tag","content":"beginner"}],["$","meta","26",{"property":"article:tag","content":"language-learning"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"영어 6강: 형용사 · 부사 완전 정복 — 묘사하는 표현"}],["$","meta","29",{"name":"twitter:description","content":"영어로 사람·사물·행동을 생생하게 묘사하는 형용사와 부사의 모든 것을 위치 규칙, 빈도부사, 강도 부사까지 완전히 익혀봅니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L25","32",{}]]
 16:null

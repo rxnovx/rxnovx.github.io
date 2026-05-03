@@ -1,17 +1,17 @@
 1:"$Sreact.fragment"
-2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
-3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-1897dd8696969296.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-1897dd8696969296.js"],"default"]
 4:I[7121,[],""]
 5:I[4581,[],""]
-6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-46cec2f3d55c495b.js"],"default"]
-7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],""]
+6:I[1322,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-66334d14f3932713.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],""]
 12:I[7123,[],""]
 :HL["/_next/static/css/14fe0f083043dbad.css","style"]
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"P":null,"b":"BZTH37Uy6GEY691ei5xtr","c":["","post","japanese","japanese-lesson-07-particles",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-07-particles","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+0:{"P":null,"b":"qoJUPqiJL4LTaAn44JHJO","c":["","post","japanese","japanese-lesson-07-particles",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","japanese/japanese-lesson-07-particles","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/14fe0f083043dbad.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
 14:I[484,[],"OutletBoundary"]
 15:"$Sreact.suspense"
-17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+17:I[1009,["209","static/chunks/app/loading-d719388b49f0797d.js"],"default"]
 18:I[484,[],"ViewportBoundary"]
 1a:I[484,[],"MetadataBoundary"]
 8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
@@ -24,15 +24,14 @@ e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children
 f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
 10:["$","$L17","l",{}]
 11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
-1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles\"},\"headline\":\"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が\",\"description\":\"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-29T12:35:00.000Z\",\"dateModified\":\"2026-04-29T12:35:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"particles\",\"wo-de-to-ni\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が","slugPath":"japanese/japanese-lesson-07-particles","headings":[{"id":"일본어-7강-조사-완전-정복------------","text":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-조사---목적어-표시","text":"1. 조사 を — 목적어 표시","level":2},{"id":"기본-용법","text":"기본 용법","level":3},{"id":"이동-동사와의-결합-경유출발점","text":"이동 동사와의 결합: 경유·출발점","level":3},{"id":"2-조사---장소수단재료이유","text":"2. 조사 で — 장소·수단·재료·이유","level":2},{"id":"용법--동작이-이루어지는-장소-에서","text":"용법 ①: 동작이 이루어지는 장소 (~에서)","level":3},{"id":"용법--수단도구-으로로","text":"용법 ②: 수단·도구 (~으로/로)","level":3},{"id":"용법--재료-으로","text":"용법 ③: 재료 (~으로)","level":3},{"id":"용법--범위한정-에서으로","text":"용법 ④: 범위·한정 (~에서/~으로)","level":3},{"id":"3-조사---동반나열인용","text":"3. 조사 と — 동반·나열·인용","level":2},{"id":"용법--동반-와과-함께","text":"용법 ①: 동반 (~와/과 함께)","level":3},{"id":"용법--나열-와과-랑","text":"용법 ②: 나열 (~와/과, ~랑)","level":3},{"id":"용법--인용-라고","text":"용법 ③: 인용 (~라고)","level":3},{"id":"4-조사---도달점시간목적대상존재","text":"4. 조사 に — 도달점·시간·목적·대상·존재","level":2},{"id":"용법--이동의-도달점-에","text":"용법 ①: 이동의 도달점 (~에)","level":3},{"id":"용법--시간-표현-에","text":"용법 ②: 시간 표현 (~에)","level":3},{"id":"용법--존재-장소-에","text":"용법 ③: 존재 장소 (~에)","level":3},{"id":"용법--동작의-목적-하러","text":"용법 ④: 동작의 목적 (~하러)","level":3},{"id":"용법--동작의-대상-에게","text":"용법 ⑤: 동작의 대상 (~에게)","level":3},{"id":"5-조사---방향","text":"5. 조사 へ — 방향","level":2},{"id":"-vs--비교","text":"に vs へ 비교","level":3},{"id":"6-조사---주격강조능력감정","text":"6. 조사 が — 주격·강조·능력·감정","level":2},{"id":"용법--주격-이가","text":"용법 ①: 주격 (~이/가)","level":3},{"id":"용법--능력소유-이가","text":"용법 ②: 능력·소유 (~이/가)","level":3},{"id":"용법--감정기호-이가","text":"용법 ③: 감정·기호 (~이/가)","level":3},{"id":"-vs---핵심-차이","text":"は vs が — 핵심 차이","level":3},{"id":"7-조사-비교-총정리표","text":"7. 조사 비교 총정리표","level":2},{"id":"8-혼동하기-쉬운-조사-비교","text":"8. 혼동하기 쉬운 조사 비교","level":2},{"id":"--vs--장소","text":"① で vs に (장소)","level":3},{"id":"--vs--대상","text":"② と vs に (대상)","level":3},{"id":"--vs--능력감정-표현","text":"③ を vs が (능력·감정 표현)","level":3},{"id":"9-실전-회화--하루-일과","text":"9. 실전 회화 — 하루 일과","level":2},{"id":"10-문형-정리","text":"10. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-07-particles"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":["$L1d","$L1e","$L1f"]}],"$L20"]}],"$L21","$L22"]}]
-23:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-0e32c8f636d29e76.js"],"default"]
-1d:["$","time",null,{"dateTime":"2026-04-29T12:35:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 4월 29일"]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles\"},\"headline\":\"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が\",\"description\":\"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다.\",\"datePublished\":\"2026-04-29T12:35:00.000Z\",\"dateModified\":\"2026-04-29T12:35:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"particles\",\"wo-de-to-ni\",\"grammar\",\"beginner\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が","slugPath":"japanese/japanese-lesson-07-particles","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-조사---목적어-표시","text":"1. 조사 を — 목적어 표시","level":2},{"id":"기본-용법","text":"기본 용법","level":3},{"id":"이동-동사와의-결합-경유출발점","text":"이동 동사와의 결합: 경유·출발점","level":3},{"id":"2-조사---장소수단재료이유","text":"2. 조사 で — 장소·수단·재료·이유","level":2},{"id":"용법--동작이-이루어지는-장소-에서","text":"용법 ①: 동작이 이루어지는 장소 (~에서)","level":3},{"id":"용법--수단도구-으로로","text":"용법 ②: 수단·도구 (~으로/로)","level":3},{"id":"용법--재료-으로","text":"용법 ③: 재료 (~으로)","level":3},{"id":"용법--범위한정-에서으로","text":"용법 ④: 범위·한정 (~에서/~으로)","level":3},{"id":"3-조사---동반나열인용","text":"3. 조사 と — 동반·나열·인용","level":2},{"id":"용법--동반-와과-함께","text":"용법 ①: 동반 (~와/과 함께)","level":3},{"id":"용법--나열-와과-랑","text":"용법 ②: 나열 (~와/과, ~랑)","level":3},{"id":"용법--인용-라고","text":"용법 ③: 인용 (~라고)","level":3},{"id":"4-조사---도달점시간목적대상존재","text":"4. 조사 に — 도달점·시간·목적·대상·존재","level":2},{"id":"용법--이동의-도달점-에","text":"용법 ①: 이동의 도달점 (~에)","level":3},{"id":"용법--시간-표현-에","text":"용법 ②: 시간 표현 (~에)","level":3},{"id":"용법--존재-장소-에","text":"용법 ③: 존재 장소 (~에)","level":3},{"id":"용법--동작의-목적-하러","text":"용법 ④: 동작의 목적 (~하러)","level":3},{"id":"용법--동작의-대상-에게","text":"용법 ⑤: 동작의 대상 (~에게)","level":3},{"id":"5-조사---방향","text":"5. 조사 へ — 방향","level":2},{"id":"-vs--비교","text":"に vs へ 비교","level":3},{"id":"6-조사---주격강조능력감정","text":"6. 조사 が — 주격·강조·능력·감정","level":2},{"id":"용법--주격-이가","text":"용법 ①: 주격 (~이/가)","level":3},{"id":"용법--능력소유-이가","text":"용법 ②: 능력·소유 (~이/가)","level":3},{"id":"용법--감정기호-이가","text":"용법 ③: 감정·기호 (~이/가)","level":3},{"id":"-vs---핵심-차이","text":"は vs が — 핵심 차이","level":3},{"id":"7-조사-비교-총정리표","text":"7. 조사 비교 총정리표","level":2},{"id":"8-혼동하기-쉬운-조사-비교","text":"8. 혼동하기 쉬운 조사 비교","level":2},{"id":"--vs--장소","text":"① で vs に (장소)","level":3},{"id":"--vs--대상","text":"② と vs に (대상)","level":3},{"id":"--vs--능력감정-표현","text":"③ を vs が (능력·감정 표현)","level":3},{"id":"9-실전-회화--하루-일과","text":"9. 실전 회화 — 하루 일과","level":2},{"id":"10-문형-정리","text":"10. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-07-particles"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-04-29T12:35:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L1d","게시일 ","2026년 4월 29일"]}],"$L1e","$L1f"]}],"$L20"]}],"$L21","$L22"]}]
+23:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-16069cc0cb1fee1b.js"],"default"]
+1d:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}]
 1e:["$","time",null,{"dateTime":"2026-04-29T12:35:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 4월 29일"]}]
 1f:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","particles",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","particles"]}],["$","span","wo-de-to-ni",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","wo-de-to-ni"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","beginner",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","beginner"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
 20:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-24:T7d70,<h1 id="일본어-7강-조사-완전-정복------------" tabindex="-1" data-src-line="1">일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が <a class="header-anchor" href="#일본어-7강-조사-완전-정복------------" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#일본어-7강-조사-완전-정복------------">일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-조사---목적어-표시">1. 조사 を — 목적어 표시 </a><ul><li><a href="#기본-용법">기본 용법 </a></li><li><a href="#이동-동사와의-결합-경유출발점">이동 동사와의 결합: 경유·출발점 </a></li></ul></li><li><a href="#2-조사---장소수단재료이유">2. 조사 で — 장소·수단·재료·이유 </a><ul><li><a href="#용법--동작이-이루어지는-장소-에서">용법 ①: 동작이 이루어지는 장소 (~에서) </a></li><li><a href="#용법--수단도구-으로로">용법 ②: 수단·도구 (~으로/로) </a></li><li><a href="#용법--재료-으로">용법 ③: 재료 (~으로) </a></li><li><a href="#용법--범위한정-에서으로">용법 ④: 범위·한정 (~에서/~으로) </a></li></ul></li><li><a href="#3-조사---동반나열인용">3. 조사 と — 동반·나열·인용 </a><ul><li><a href="#용법--동반-와과-함께">용법 ①: 동반 (~와/과 함께) </a></li><li><a href="#용법--나열-와과-랑">용법 ②: 나열 (~와/과, ~랑) </a></li><li><a href="#용법--인용-라고">용법 ③: 인용 (~라고) </a></li></ul></li><li><a href="#4-조사---도달점시간목적대상존재">4. 조사 に — 도달점·시간·목적·대상·존재 </a><ul><li><a href="#용법--이동의-도달점-에">용법 ①: 이동의 도달점 (~에) </a></li><li><a href="#용법--시간-표현-에">용법 ②: 시간 표현 (~에) </a></li><li><a href="#용법--존재-장소-에">용법 ③: 존재 장소 (~에) </a></li><li><a href="#용법--동작의-목적-하러">용법 ④: 동작의 목적 (~하러) </a></li><li><a href="#용법--동작의-대상-에게">용법 ⑤: 동작의 대상 (~에게) </a></li></ul></li><li><a href="#5-조사---방향">5. 조사 へ — 방향 </a><ul><li><a href="#-vs--비교">に vs へ 비교 </a></li></ul></li><li><a href="#6-조사---주격강조능력감정">6. 조사 が — 주격·강조·능력·감정 </a><ul><li><a href="#용법--주격-이가">용법 ①: 주격 (~이/가) </a></li><li><a href="#용법--능력소유-이가">용법 ②: 능력·소유 (~이/가) </a></li><li><a href="#용법--감정기호-이가">용법 ③: 감정·기호 (~이/가) </a></li><li><a href="#-vs---핵심-차이">は vs が — 핵심 차이 </a></li></ul></li><li><a href="#7-조사-비교-총정리표">7. 조사 비교 총정리표 </a></li><li><a href="#8-혼동하기-쉬운-조사-비교">8. 혼동하기 쉬운 조사 비교 </a><ul><li><a href="#--vs--장소">① で vs に (장소) </a></li><li><a href="#--vs--대상">② と vs に (대상) </a></li><li><a href="#--vs--능력감정-표현">③ を vs が (능력·감정 표현) </a></li></ul></li><li><a href="#9-실전-회화--하루-일과">9. 실전 회화 — 하루 일과 </a></li><li><a href="#10-문형-정리">10. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+24:T7bb7,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-조사---목적어-표시">1. 조사 を — 목적어 표시 </a><ul><li><a href="#기본-용법">기본 용법 </a></li><li><a href="#이동-동사와의-결합-경유출발점">이동 동사와의 결합: 경유·출발점 </a></li></ul></li><li><a href="#2-조사---장소수단재료이유">2. 조사 で — 장소·수단·재료·이유 </a><ul><li><a href="#용법--동작이-이루어지는-장소-에서">용법 ①: 동작이 이루어지는 장소 (~에서) </a></li><li><a href="#용법--수단도구-으로로">용법 ②: 수단·도구 (~으로/로) </a></li><li><a href="#용법--재료-으로">용법 ③: 재료 (~으로) </a></li><li><a href="#용법--범위한정-에서으로">용법 ④: 범위·한정 (~에서/~으로) </a></li></ul></li><li><a href="#3-조사---동반나열인용">3. 조사 と — 동반·나열·인용 </a><ul><li><a href="#용법--동반-와과-함께">용법 ①: 동반 (~와/과 함께) </a></li><li><a href="#용법--나열-와과-랑">용법 ②: 나열 (~와/과, ~랑) </a></li><li><a href="#용법--인용-라고">용법 ③: 인용 (~라고) </a></li></ul></li><li><a href="#4-조사---도달점시간목적대상존재">4. 조사 に — 도달점·시간·목적·대상·존재 </a><ul><li><a href="#용법--이동의-도달점-에">용법 ①: 이동의 도달점 (~에) </a></li><li><a href="#용법--시간-표현-에">용법 ②: 시간 표현 (~에) </a></li><li><a href="#용법--존재-장소-에">용법 ③: 존재 장소 (~에) </a></li><li><a href="#용법--동작의-목적-하러">용법 ④: 동작의 목적 (~하러) </a></li><li><a href="#용법--동작의-대상-에게">용법 ⑤: 동작의 대상 (~에게) </a></li></ul></li><li><a href="#5-조사---방향">5. 조사 へ — 방향 </a><ul><li><a href="#-vs--비교">に vs へ 비교 </a></li></ul></li><li><a href="#6-조사---주격강조능력감정">6. 조사 が — 주격·강조·능력·감정 </a><ul><li><a href="#용법--주격-이가">용법 ①: 주격 (~이/가) </a></li><li><a href="#용법--능력소유-이가">용법 ②: 능력·소유 (~이/가) </a></li><li><a href="#용법--감정기호-이가">용법 ③: 감정·기호 (~이/가) </a></li><li><a href="#-vs---핵심-차이">は vs が — 핵심 차이 </a></li></ul></li><li><a href="#7-조사-비교-총정리표">7. 조사 비교 총정리표 </a></li><li><a href="#8-혼동하기-쉬운-조사-비교">8. 혼동하기 쉬운 조사 비교 </a><ul><li><a href="#--vs--장소">① で vs に (장소) </a></li><li><a href="#--vs--대상">② と vs に (대상) </a></li><li><a href="#--vs--능력감정-표현">③ を vs が (능력·감정 표현) </a></li></ul></li><li><a href="#9-실전-회화--하루-일과">9. 실전 회화 — 하루 일과 </a></li><li><a href="#10-문형-정리">10. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>일본어에서 조사(助詞)는 <strong>단어와 단어 사이의 관계</strong>를 나타내는 핵심 요소입니다.<br>
 조사를 잘못 쓰면 문장이 어색해지거나 뜻이 완전히 달라지기도 합니다.<br>
 이번 강에서는 초급에서 가장 많이 쓰이는 핵심 조사 6가지를 용법별로 깊이 파고듭니다.</p>
@@ -45,12 +44,12 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-조사---목적어-표시" tabindex="-1" data-src-line="18">1. 조사 を — 목적어 표시 <a class="header-anchor" href="#1-조사---목적어-표시" aria-hidden="true">#</a></h2>
+<h2 id="1-조사---목적어-표시" tabindex="-1" data-src-line="16">1. 조사 を — 목적어 표시 <a class="header-anchor" href="#1-조사---목적어-표시" aria-hidden="true">#</a></h2>
 <p><code>を</code> 는 <strong>동사의 목적어(~을/를)</strong> 를 나타냅니다.<br>
 발음은 <code>お(o)</code> 와 동일하게 읽습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[명사] を [타동사]
 </code></pre></div></code></pre>
-<h3 id="기본-용법" tabindex="-1" data-src-line="27">기본 용법 <a class="header-anchor" href="#기본-용법" aria-hidden="true">#</a></h3>
+<h3 id="기본-용법" tabindex="-1" data-src-line="25">기본 용법 <a class="header-anchor" href="#기본-용법" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">パンを たべます。
 빵을 먹습니다.
 
@@ -66,7 +65,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 にほんごを べんきょうします。
 일본어를 공부합니다.
 </code></pre></div></code></pre>
-<h3 id="이동-동사와의-결합-경유출발점" tabindex="-1" data-src-line="46">이동 동사와의 결합: 경유·출발점 <a class="header-anchor" href="#이동-동사와의-결합-경유출발점" aria-hidden="true">#</a></h3>
+<h3 id="이동-동사와의-결합-경유출발점" tabindex="-1" data-src-line="44">이동 동사와의 결합: 경유·출발점 <a class="header-anchor" href="#이동-동사와의-결합-경유출발점" aria-hidden="true">#</a></h3>
 <p><code>を</code> 는 이동 동사와 결합하면 <strong>경유 장소</strong>나 <strong>출발 장소</strong>도 나타냅니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">こうえんを さんぽします。
 코우엔오 산포시마스。
@@ -81,9 +80,9 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 (모퉁이를 돕니다.) ← 통과점
 </code></pre></div></code></pre>
 <hr>
-<h2 id="2-조사---장소수단재료이유" tabindex="-1" data-src-line="66">2. 조사 で — 장소·수단·재료·이유 <a class="header-anchor" href="#2-조사---장소수단재료이유" aria-hidden="true">#</a></h2>
+<h2 id="2-조사---장소수단재료이유" tabindex="-1" data-src-line="64">2. 조사 で — 장소·수단·재료·이유 <a class="header-anchor" href="#2-조사---장소수단재료이유" aria-hidden="true">#</a></h2>
 <p><code>で</code> 는 용법이 가장 다양한 조사 중 하나입니다.</p>
-<h3 id="용법--동작이-이루어지는-장소-에서" tabindex="-1" data-src-line="70">용법 ①: 동작이 이루어지는 장소 (~에서) <a class="header-anchor" href="#용법--동작이-이루어지는-장소-에서" aria-hidden="true">#</a></h3>
+<h3 id="용법--동작이-이루어지는-장소-에서" tabindex="-1" data-src-line="68">용법 ①: 동작이 이루어지는 장소 (~에서) <a class="header-anchor" href="#용법--동작이-이루어지는-장소-에서" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[장소] で [동작동사]
 
 としょかんで べんきょうします。
@@ -95,7 +94,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 こうえんで あそびます。
 공원에서 놉니다.
 </code></pre></div></code></pre>
-<h3 id="용법--수단도구-으로로" tabindex="-1" data-src-line="85">용법 ②: 수단·도구 (~으로/로) <a class="header-anchor" href="#용법--수단도구-으로로" aria-hidden="true">#</a></h3>
+<h3 id="용법--수단도구-으로로" tabindex="-1" data-src-line="83">용법 ②: 수단·도구 (~으로/로) <a class="header-anchor" href="#용법--수단도구-으로로" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[수단] で [동사]
 
 えんぴつで かきます。
@@ -110,14 +109,14 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 スマートフォンで しゃしんを とります。
 스마트폰으로 사진을 찍습니다.
 </code></pre></div></code></pre>
-<h3 id="용법--재료-으로" tabindex="-1" data-src-line="103">용법 ③: 재료 (~으로) <a class="header-anchor" href="#용법--재료-으로" aria-hidden="true">#</a></h3>
+<h3 id="용법--재료-으로" tabindex="-1" data-src-line="101">용법 ③: 재료 (~으로) <a class="header-anchor" href="#용법--재료-으로" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">このケーキは ちょこれーとで つくります。
 이 케이크는 초콜릿으로 만듭니다.
 
 きで つくった テーブルです。
 나무로 만든 테이블입니다.
 </code></pre></div></code></pre>
-<h3 id="용법--범위한정-에서으로" tabindex="-1" data-src-line="113">용법 ④: 범위·한정 (~에서/~으로) <a class="header-anchor" href="#용법--범위한정-에서으로" aria-hidden="true">#</a></h3>
+<h3 id="용법--범위한정-에서으로" tabindex="-1" data-src-line="111">용법 ④: 범위·한정 (~에서/~으로) <a class="header-anchor" href="#용법--범위한정-에서으로" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">クラスで いちばん はやいです。
 반에서 가장 빠릅니다.
 
@@ -128,8 +127,8 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 모두 함께 먹읍시다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-조사---동반나열인용" tabindex="-1" data-src-line="128">3. 조사 と — 동반·나열·인용 <a class="header-anchor" href="#3-조사---동반나열인용" aria-hidden="true">#</a></h2>
-<h3 id="용법--동반-와과-함께" tabindex="-1" data-src-line="130">용법 ①: 동반 (~와/과 함께) <a class="header-anchor" href="#용법--동반-와과-함께" aria-hidden="true">#</a></h3>
+<h2 id="3-조사---동반나열인용" tabindex="-1" data-src-line="126">3. 조사 と — 동반·나열·인용 <a class="header-anchor" href="#3-조사---동반나열인용" aria-hidden="true">#</a></h2>
+<h3 id="용법--동반-와과-함께" tabindex="-1" data-src-line="128">용법 ①: 동반 (~와/과 함께) <a class="header-anchor" href="#용법--동반-와과-함께" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[사람] と [동사]
 
 ともだちと えいがを みます。
@@ -140,7 +139,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 
 ひとりで いきます。(혼자 갈 때는 と를 쓰지 않음)
 </code></pre></div></code></pre>
-<h3 id="용법--나열-와과-랑" tabindex="-1" data-src-line="144">용법 ②: 나열 (~와/과, ~랑) <a class="header-anchor" href="#용법--나열-와과-랑" aria-hidden="true">#</a></h3>
+<h3 id="용법--나열-와과-랑" tabindex="-1" data-src-line="142">용법 ②: 나열 (~와/과, ~랑) <a class="header-anchor" href="#용법--나열-와과-랑" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[명사A] と [명사B]
 
 コーヒーと ケーキを ください。
@@ -155,7 +154,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 りんごや みかんを かいました。(사과나 귤 등을 샀습니다. — 그 외에도 있음)
 </code></pre></div></code></pre>
 </blockquote>
-<h3 id="용법--인용-라고" tabindex="-1" data-src-line="162">용법 ③: 인용 (~라고) <a class="header-anchor" href="#용법--인용-라고" aria-hidden="true">#</a></h3>
+<h3 id="용법--인용-라고" tabindex="-1" data-src-line="160">용법 ③: 인용 (~라고) <a class="header-anchor" href="#용법--인용-라고" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">「おはよう」と いいます。
 &quot;오하요우&quot;라고 말합니다.
 
@@ -163,16 +162,16 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 그는 &quot;갑니다&quot;라고 말했습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="4-조사---도달점시간목적대상존재" tabindex="-1" data-src-line="174">4. 조사 に — 도달점·시간·목적·대상·존재 <a class="header-anchor" href="#4-조사---도달점시간목적대상존재" aria-hidden="true">#</a></h2>
+<h2 id="4-조사---도달점시간목적대상존재" tabindex="-1" data-src-line="172">4. 조사 に — 도달점·시간·목적·대상·존재 <a class="header-anchor" href="#4-조사---도달점시간목적대상존재" aria-hidden="true">#</a></h2>
 <p><code>に</code> 는 용법이 가장 많은 조사입니다. 하나씩 정리해봅니다.</p>
-<h3 id="용법--이동의-도달점-에" tabindex="-1" data-src-line="178">용법 ①: 이동의 도달점 (~에) <a class="header-anchor" href="#용법--이동의-도달점-에" aria-hidden="true">#</a></h3>
+<h3 id="용법--이동의-도달점-에" tabindex="-1" data-src-line="176">용법 ①: 이동의 도달점 (~에) <a class="header-anchor" href="#용법--이동의-도달점-에" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">がっこうに いきます。
 학교에 갑니다.
 
 とうきょうに きました。
 도쿄에 왔습니다.
 </code></pre></div></code></pre>
-<h3 id="용법--시간-표현-에" tabindex="-1" data-src-line="188">용법 ②: 시간 표현 (~에) <a class="header-anchor" href="#용법--시간-표현-에" aria-hidden="true">#</a></h3>
+<h3 id="용법--시간-표현-에" tabindex="-1" data-src-line="186">용법 ②: 시간 표현 (~에) <a class="header-anchor" href="#용법--시간-표현-에" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">しちじに おきます。
 7시에 일어납니다.
 
@@ -190,14 +189,14 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 ❌ まいにちに → ✅ まいにち
 </code></pre></div></code></pre>
 </blockquote>
-<h3 id="용법--존재-장소-에" tabindex="-1" data-src-line="209">용법 ③: 존재 장소 (~에) <a class="header-anchor" href="#용법--존재-장소-에" aria-hidden="true">#</a></h3>
+<h3 id="용법--존재-장소-에" tabindex="-1" data-src-line="207">용법 ③: 존재 장소 (~에) <a class="header-anchor" href="#용법--존재-장소-에" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">つくえの うえに ほんが あります。
 책상 위에 책이 있습니다.
 
 えきの まえに ともだちが います。
 역 앞에 친구가 있습니다.
 </code></pre></div></code></pre>
-<h3 id="용법--동작의-목적-하러" tabindex="-1" data-src-line="219">용법 ④: 동작의 목적 (~하러) <a class="header-anchor" href="#용법--동작의-목적-하러" aria-hidden="true">#</a></h3>
+<h3 id="용법--동작의-목적-하러" tabindex="-1" data-src-line="217">용법 ④: 동작의 목적 (~하러) <a class="header-anchor" href="#용법--동작의-목적-하러" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[동사ます형] + に + いきます/きます/かえります
 
 かいものに いきます。
@@ -209,7 +208,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 ともだちに あいに いきました。
 친구를 만나러 갔습니다.
 </code></pre></div></code></pre>
-<h3 id="용법--동작의-대상-에게" tabindex="-1" data-src-line="234">용법 ⑤: 동작의 대상 (~에게) <a class="header-anchor" href="#용법--동작의-대상-에게" aria-hidden="true">#</a></h3>
+<h3 id="용법--동작의-대상-에게" tabindex="-1" data-src-line="232">용법 ⑤: 동작의 대상 (~에게) <a class="header-anchor" href="#용법--동작의-대상-에게" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">せんせいに しつもんします。
 선생님께 질문합니다.
 
@@ -220,7 +219,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 친구에게 선물을 줍니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-조사---방향" tabindex="-1" data-src-line="249">5. 조사 へ — 방향 <a class="header-anchor" href="#5-조사---방향" aria-hidden="true">#</a></h2>
+<h2 id="5-조사---방향" tabindex="-1" data-src-line="247">5. 조사 へ — 방향 <a class="header-anchor" href="#5-조사---방향" aria-hidden="true">#</a></h2>
 <p><code>へ</code> 는 이동의 <strong>방향</strong>을 나타냅니다. 발음은 <code>え(e)</code>.<br>
 に와 거의 같은 의미로 사용되지만 뉘앙스 차이가 있습니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">にほんへ いきます。
@@ -229,7 +228,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 うちへ かえります。
 집으로 돌아갑니다。
 </code></pre></div></code></pre>
-<h3 id="-vs--비교" tabindex="-1" data-src-line="262">に vs へ 비교 <a class="header-anchor" href="#-vs--비교" aria-hidden="true">#</a></h3>
+<h3 id="-vs--비교" tabindex="-1" data-src-line="260">に vs へ 비교 <a class="header-anchor" href="#-vs--비교" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -255,8 +254,8 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 <p>💡 실제 회화에서는 두 조사를 혼용해도 자연스럽습니다. に쪽이 더 자주 쓰이는 경향이 있습니다.</p>
 </blockquote>
 <hr>
-<h2 id="6-조사---주격강조능력감정" tabindex="-1" data-src-line="273">6. 조사 が — 주격·강조·능력·감정 <a class="header-anchor" href="#6-조사---주격강조능력감정" aria-hidden="true">#</a></h2>
-<h3 id="용법--주격-이가" tabindex="-1" data-src-line="275">용법 ①: 주격 (~이/가) <a class="header-anchor" href="#용법--주격-이가" aria-hidden="true">#</a></h3>
+<h2 id="6-조사---주격강조능력감정" tabindex="-1" data-src-line="271">6. 조사 が — 주격·강조·능력·감정 <a class="header-anchor" href="#6-조사---주격강조능력감정" aria-hidden="true">#</a></h2>
+<h3 id="용법--주격-이가" tabindex="-1" data-src-line="273">용법 ①: 주격 (~이/가) <a class="header-anchor" href="#용법--주격-이가" aria-hidden="true">#</a></h3>
 <p>새로운 정보나 특정 대상을 지정할 때 <code>が</code> 를 사용합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">あそこに えきが あります。
 저기에 역이 있습니다.
@@ -267,7 +266,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 どれが あなたの かばんですか。
 어느 것이 당신의 가방입니까?
 </code></pre></div></code></pre>
-<h3 id="용법--능력소유-이가" tabindex="-1" data-src-line="290">용법 ②: 능력·소유 (~이/가) <a class="header-anchor" href="#용법--능력소유-이가" aria-hidden="true">#</a></h3>
+<h3 id="용법--능력소유-이가" tabindex="-1" data-src-line="288">용법 ②: 능력·소유 (~이/가) <a class="header-anchor" href="#용법--능력소유-이가" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">にほんごが わかります。
 일본어를 알겠습니다. (이해합니다)
 
@@ -277,7 +276,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 くるまが あります。
 차가 있습니다.
 </code></pre></div></code></pre>
-<h3 id="용법--감정기호-이가" tabindex="-1" data-src-line="303">용법 ③: 감정·기호 (~이/가) <a class="header-anchor" href="#용법--감정기호-이가" aria-hidden="true">#</a></h3>
+<h3 id="용법--감정기호-이가" tabindex="-1" data-src-line="301">용법 ③: 감정·기호 (~이/가) <a class="header-anchor" href="#용법--감정기호-이가" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">すしが すきです。
 초밥을 좋아합니다.
 
@@ -287,7 +286,7 @@ f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":
 いぬが こわいです。
 개가 무섭습니다.
 </code></pre></div></code></pre>
-<h3 id="-vs---핵심-차이" tabindex="-1" data-src-line="316">は vs が — 핵심 차이 <a class="header-anchor" href="#-vs---핵심-차이" aria-hidden="true">#</a></h3>
+<h3 id="-vs---핵심-차이" tabindex="-1" data-src-line="314">は vs が — 핵심 차이 <a class="header-anchor" href="#-vs---핵심-차이" aria-hidden="true">#</a></h3>
 <p>초급 학습자가 가장 많이 헷갈리는 부분입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -323,7 +322,7 @@ B: やまださんは あそこに います。
    (이미 아는 주제 → は)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-조사-비교-총정리표" tabindex="-1" data-src-line="341">7. 조사 비교 총정리표 <a class="header-anchor" href="#7-조사-비교-총정리표" aria-hidden="true">#</a></h2>
+<h2 id="7-조사-비교-총정리표" tabindex="-1" data-src-line="339">7. 조사 비교 총정리표 <a class="header-anchor" href="#7-조사-비교-총정리표" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -366,8 +365,8 @@ B: やまださんは あそこに います。
 </tbody>
 </table>
 </div><hr>
-<h2 id="8-혼동하기-쉬운-조사-비교" tabindex="-1" data-src-line="354">8. 혼동하기 쉬운 조사 비교 <a class="header-anchor" href="#8-혼동하기-쉬운-조사-비교" aria-hidden="true">#</a></h2>
-<h3 id="--vs--장소" tabindex="-1" data-src-line="356">① で vs に (장소) <a class="header-anchor" href="#--vs--장소" aria-hidden="true">#</a></h3>
+<h2 id="8-혼동하기-쉬운-조사-비교" tabindex="-1" data-src-line="352">8. 혼동하기 쉬운 조사 비교 <a class="header-anchor" href="#8-혼동하기-쉬운-조사-비교" aria-hidden="true">#</a></h2>
+<h3 id="--vs--장소" tabindex="-1" data-src-line="354">① で vs に (장소) <a class="header-anchor" href="#--vs--장소" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -393,7 +392,7 @@ B: やまださんは あそこに います。
 ✅ がっこうに います (학교에 있습니다 — 존재의 장소)
 ❌ がっこうに べんきょうします
 </code></pre></div></code></pre>
-<h3 id="--vs--대상" tabindex="-1" data-src-line="369">② と vs に (대상) <a class="header-anchor" href="#--vs--대상" aria-hidden="true">#</a></h3>
+<h3 id="--vs--대상" tabindex="-1" data-src-line="367">② と vs に (대상) <a class="header-anchor" href="#--vs--대상" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -418,12 +417,12 @@ B: やまださんは あそこに います。
 </div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ ともだちと はなします (친구와 이야기합니다 — 서로 대화)
 ✅ ともだちに おしえます (친구에게 가르칩니다 — 내가 일방적으로 가르침)
 </code></pre></div></code></pre>
-<h3 id="--vs--능력감정-표현" tabindex="-1" data-src-line="381">③ を vs が (능력·감정 표현) <a class="header-anchor" href="#--vs--능력감정-표현" aria-hidden="true">#</a></h3>
+<h3 id="--vs--능력감정-표현" tabindex="-1" data-src-line="379">③ を vs が (능력·감정 표현) <a class="header-anchor" href="#--vs--능력감정-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ にほんごが わかります (일본어를 이해합니다) ← 자연스러운 표현
 ✅ にほんごを はなします (일본어를 말합니다) ← 의지적 동작
 </code></pre></div></code></pre>
 <hr>
-<h2 id="9-실전-회화--하루-일과" tabindex="-1" data-src-line="390">9. 실전 회화 — 하루 일과 <a class="header-anchor" href="#9-실전-회화--하루-일과" aria-hidden="true">#</a></h2>
+<h2 id="9-실전-회화--하루-일과" tabindex="-1" data-src-line="388">9. 실전 회화 — 하루 일과 <a class="header-anchor" href="#9-실전-회화--하루-일과" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: まいにち なんじに おきますか。
    마이니치 난지니 오키마스카?
    (매일 몇 시에 일어나십니까?)
@@ -457,7 +456,7 @@ B: かいしゃの ちかくの レストランで ともだちと たべます�
    (회사 근처 레스토랑에서 친구와 먹습니다.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-문형-정리" tabindex="-1" data-src-line="428">10. 문형 정리 <a class="header-anchor" href="#10-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="10-문형-정리" tabindex="-1" data-src-line="426">10. 문형 정리 <a class="header-anchor" href="#10-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -515,7 +514,7 @@ B: かいしゃの ちかくの レストランで ともだちと たべます�
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리" tabindex="-1" data-src-line="444">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<h2 id="마무리" tabindex="-1" data-src-line="442">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
 <p>조사는 한 번에 완벽하게 외우기보다 <strong>문장 속에서 반복해서 접하며</strong> 감각을 익히는 것이 중요합니다.<br>
 특히 <code>で vs に</code>, <code>は vs が</code> 의 구분은 중급 수준이 되어도 계속 신경 써야 할 포인트입니다.</p>
 <p>다음 강에서는 일본어의 주고받기 표현, <strong>수수동사(あげます·もらいます·くれます)</strong> 를 배웁니다.</p>
@@ -548,7 +547,7 @@ B: かいしゃの ちかくの レストランで ともだちと たべます�
 </ul>
 </blockquote>
 21:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L23",null,{"content":"$24"}]}]}]
-22:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-06-verb-basics","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-09-adjectives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]}],["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}],["$","li","japanese/japanese-lesson-14-potential",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-14-potential","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 14강: 가능 표현 완전 정복 — 동사 가능형 · ～ことができます"}]}]]}]]}]]}]
+22:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-06-verb-basics","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 6강: 동사 기초 — 그룹 분류 · ます형 · 이동 표현"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-09-adjectives",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-09-adjectives","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 9강: 형용사 완전 정복 — い형용사 · な형용사 활용"}]}],["$","li","japanese/japanese-lesson-15-experience",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/japanese/japanese-lesson-15-experience","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 15강: 경험 표현 완전 정복 — ～たことがあります"}]}],["$","li","english/english-lesson-10-future",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-10-future","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 10강: 미래 표현 완전 정복 — will · be going to · 현재진행형"}]}]]}]]}]]}]
 19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 25:I[6869,[],"IconMark"]
 1b:[["$","title","0",{"children":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}],["$","meta","11",{"property":"og:description","content":"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/japanese/japanese-lesson-07-particles/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/images/_posts/japanese/japanese-lesson-07-particles/og/1777505989799-ChatGPTImage202643008_35_356.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-04-29T12:35:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-04-29T12:35:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"japanese"}],["$","meta","22",{"property":"article:tag","content":"particles"}],["$","meta","23",{"property":"article:tag","content":"wo-de-to-ni"}],["$","meta","24",{"property":"article:tag","content":"grammar"}],["$","meta","25",{"property":"article:tag","content":"beginner"}],["$","meta","26",{"property":"article:tag","content":"language-learning"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"일본어 7강: 조사 완전 정복 — を · で · と · に · へ · が"}],["$","meta","29",{"name":"twitter:description","content":"일본어 문장의 뼈대를 잡는 핵심 조사 6가지를 용법별로 완전히 익혀봅니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/images/_posts/japanese/japanese-lesson-07-particles/og/1777505989799-ChatGPTImage202643008_35_356.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L25","32",{}]]
