@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://rxnovx.github.io/about/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/english/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/it/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/japanese/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -12,6 +13,7 @@
 <url><loc>https://rxnovx.github.io/categories/linux/page/2/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/linux/page/3/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/categories/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/contact/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/english/english-lesson-01-alphabet-pronunciation/</loc><lastmod>2026-04-30T08:13:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/english/english-lesson-02-greetings-introduction/</loc><lastmod>2026-04-30T14:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -73,6 +75,7 @@
 <url><loc>https://rxnovx.github.io/posts/page/5/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/posts/page/6/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/posts/page/7/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/privacy-policy/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/a-an-the/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/adjectives/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -336,8 +339,7 @@
 <url><loc>https://rxnovx.github.io/tags/linux/page/3/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/rocky-linux/page/2/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/chat/</loc><lastmod>2026-05-02T23:28:06.446Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/design-guide-pro/</loc><lastmod>2026-05-02T23:28:06.446Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/static/privacy/bt-shutter-remote-privacy-policy-admob/</loc><lastmod>2026-05-02T23:28:06.446Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/about/</loc></url>
+<url><loc>https://rxnovx.github.io/robots.txt/</loc><lastmod>2026-05-03T07:54:31.929Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/sitemap.xml/</loc><lastmod>2026-05-03T07:54:31.929Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/static/privacy/bt-shutter-remote-privacy-policy-admob/</loc><lastmod>2026-05-03T07:54:31.929Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
