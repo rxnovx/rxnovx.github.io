@@ -1,0 +1,940 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-c11cec732cf2eb2f.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/5abfa6e3b0b391d0.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"vEFln49GSsrPZ4JvGGo_M","c":["","post","english","english-lesson-13-comparatives-superlatives",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english/english-lesson-13-comparatives-superlatives","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5abfa6e3b0b391d0.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
+9:["$","$L7",null,{"href":"/privacy-policy","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Privacy"}]
+a:["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}],["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]]}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+13:["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72 ","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-13-comparatives-superlatives\"},\"headline\":\"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as\",\"description\":\"비교급(-er/more)과 최상급(-est/most), 동등 비교(as~as), 불규칙 변화까지 영어 비교 표현의 모든 것을 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-04T03:31:00.000Z\",\"dateModified\":\"2026-05-04T03:31:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-13-comparatives-superlatives\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"comparatives\",\"superlatives\",\"as-as\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as","slugPath":"english/english-lesson-13-comparatives-superlatives","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-비교-표현의-세-가지-형태","text":"1. 비교 표현의 세 가지 형태","level":2},{"id":"2-비교급-만들기","text":"2. 비교급 만들기","level":2},{"id":"규칙--1음절-형용사---er","text":"규칙 ① 1음절 형용사 → + er","level":3},{"id":"규칙--e로-끝나는-형용사---r","text":"규칙 ② e로 끝나는 형용사 → + r","level":3},{"id":"규칙--단모음--단자음으로-끝나는-형용사--자음-중복--er","text":"규칙 ③ 단모음 + 단자음으로 끝나는 형용사 → 자음 중복 + er","level":3},{"id":"규칙--자음--y로-끝나는-형용사--y를-i로--er","text":"규칙 ④ 자음 + y로 끝나는 형용사 → y를 i로 + er","level":3},{"id":"규칙--2음절-이상-형용사--more--형용사","text":"규칙 ⑤ 2음절 이상 형용사 → more + 형용사","level":3},{"id":"3-최상급-만들기","text":"3. 최상급 만들기","level":2},{"id":"규칙--1음절--the---est","text":"규칙 ① 1음절 → the + -est","level":3},{"id":"규칙--e로-끝남--the---st","text":"규칙 ② e로 끝남 → the + -st","level":3},{"id":"규칙--자음-중복","text":"규칙 ③ 자음 중복","level":3},{"id":"규칙--자음--y--the---iest","text":"규칙 ④ 자음 + y → the + -iest","level":3},{"id":"규칙--2음절-이상--the-most--형용사","text":"규칙 ⑤ 2음절 이상 → the most + 형용사","level":3},{"id":"4-불규칙-비교급최상급--완전-암기","text":"4. 불규칙 비교급·최상급 — 완전 암기","level":2},{"id":"5-비교급-문장-구조","text":"5. 비교급 문장 구조","level":2},{"id":"6-최상급-문장-구조","text":"6. 최상급 문장 구조","level":2},{"id":"in-vs-of-최상급에서","text":"in vs of (최상급에서)","level":3},{"id":"7-동등-비교--as--as","text":"7. 동등 비교 — as ~ as","level":2},{"id":"긍정--같다-만큼","text":"긍정 — 같다 (~만큼)","level":3},{"id":"부정--같지-않다-만큼은-아니다","text":"부정 — 같지 않다 (~만큼은 아니다)","level":3},{"id":"as--as-관용-표현","text":"as ~ as 관용 표현","level":3},{"id":"8-비교급-강조-표현","text":"8. 비교급 강조 표현","level":2},{"id":"9-최상급-강조-표현","text":"9. 최상급 강조 표현","level":2},{"id":"10-비교급-심화-표현","text":"10. 비교급 심화 표현","level":2},{"id":"-the--비교급---the--비교급--할수록-더-하다","text":"① the + 비교급 ~ , the + 비교급 ~ (~할수록 더 ~하다)","level":3},{"id":"-비교급--and--비교급-점점-더-해지다","text":"② 비교급 + and + 비교급 (점점 더 ~해지다)","level":3},{"id":"-비교급으로-최상급-의미-표현","text":"③ 비교급으로 최상급 의미 표현","level":3},{"id":"11-비교급-vs-최상급-선택","text":"11. 비교급 vs 최상급 선택","level":2},{"id":"12-형용사-vs-부사-비교급","text":"12. 형용사 vs 부사 비교급","level":2},{"id":"13-원급비교급최상급-완전-정리표","text":"13. 원급·비교급·최상급 완전 정리표","level":2},{"id":"14-실전-회화--비교-표현-총동원","text":"14. 실전 회화 — 비교 표현 총동원","level":2},{"id":"상황--쇼핑할-때","text":"상황 ① 쇼핑할 때","level":3},{"id":"상황--도시-비교","text":"상황 ② 도시 비교","level":3},{"id":"상황--직업-비교","text":"상황 ③ 직업 비교","level":3},{"id":"15-자주-틀리는-실수-정리","text":"15. 자주 틀리는 실수 정리","level":2},{"id":"실수--비교급에-very-사용","text":"실수 ① 비교급에 very 사용","level":3},{"id":"실수--최상급에-than-사용","text":"실수 ② 최상급에 than 사용","level":3},{"id":"실수--이중-비교","text":"실수 ③ 이중 비교","level":3},{"id":"실수--최상급에-the-누락","text":"실수 ④ 최상급에 the 누락","level":3},{"id":"실수--as--as-순서-혼동","text":"실수 ⑤ as ~ as 순서 혼동","level":3},{"id":"16-문형-정리","text":"16. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":["$L1d","POST"]}],"$L1e"]}],"$L1f","$L20","$L21","$L22"]}],"$L23","$L24",false,"$L25"]}]
+26:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+27:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+1d:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+1e:["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-13-comparatives-superlatives"}]
+1f:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as"}]
+20:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"비교급(-er/more)과 최상급(-est/most), 동등 비교(as~as), 불규칙 변화까지 영어 비교 표현의 모든 것을 교과서 수준으로 완전히 정복합니다."}]
+21:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-04T03:31:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 4일"]}],["$","time",null,{"dateTime":"2026-05-04T03:31:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 4일"]}],["$","$L26",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","comparatives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","comparatives"]}],["$","span","superlatives",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","superlatives"]}],["$","span","as-as",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","as-as"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+22:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+28:Tb5a6,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-비교-표현의-세-가지-형태">1. 비교 표현의 세 가지 형태 </a></li><li><a href="#2-비교급-만들기">2. 비교급 만들기 </a><ul><li><a href="#규칙--1음절-형용사---er">규칙 ① 1음절 형용사 → + er </a></li><li><a href="#규칙--e로-끝나는-형용사---r">규칙 ② e로 끝나는 형용사 → + r </a></li><li><a href="#규칙--단모음--단자음으로-끝나는-형용사--자음-중복--er">규칙 ③ 단모음 + 단자음으로 끝나는 형용사 → 자음 중복 + er </a></li><li><a href="#규칙--자음--y로-끝나는-형용사--y를-i로--er">규칙 ④ 자음 + y로 끝나는 형용사 → y를 i로 + er </a></li><li><a href="#규칙--2음절-이상-형용사--more--형용사">규칙 ⑤ 2음절 이상 형용사 → more + 형용사 </a></li></ul></li><li><a href="#3-최상급-만들기">3. 최상급 만들기 </a><ul><li><a href="#규칙--1음절--the---est">규칙 ① 1음절 → the + -est </a></li><li><a href="#규칙--e로-끝남--the---st">규칙 ② e로 끝남 → the + -st </a></li><li><a href="#규칙--자음-중복">규칙 ③ 자음 중복 </a></li><li><a href="#규칙--자음--y--the---iest">규칙 ④ 자음 + y → the + -iest </a></li><li><a href="#규칙--2음절-이상--the-most--형용사">규칙 ⑤ 2음절 이상 → the most + 형용사 </a></li></ul></li><li><a href="#4-불규칙-비교급최상급--완전-암기">4. 불규칙 비교급·최상급 — 완전 암기 </a></li><li><a href="#5-비교급-문장-구조">5. 비교급 문장 구조 </a></li><li><a href="#6-최상급-문장-구조">6. 최상급 문장 구조 </a><ul><li><a href="#in-vs-of-최상급에서">in vs of (최상급에서) </a></li></ul></li><li><a href="#7-동등-비교--as--as">7. 동등 비교 — as ~ as </a><ul><li><a href="#긍정--같다-만큼">긍정 — 같다 (~만큼) </a></li><li><a href="#부정--같지-않다-만큼은-아니다">부정 — 같지 않다 (~만큼은 아니다) </a></li><li><a href="#as--as-관용-표현">as ~ as 관용 표현 </a></li></ul></li><li><a href="#8-비교급-강조-표현">8. 비교급 강조 표현 </a></li><li><a href="#9-최상급-강조-표현">9. 최상급 강조 표현 </a></li><li><a href="#10-비교급-심화-표현">10. 비교급 심화 표현 </a><ul><li><a href="#-the--비교급---the--비교급--할수록-더-하다">① the + 비교급 ~ , the + 비교급 ~ (~할수록 더 ~하다) </a></li><li><a href="#-비교급--and--비교급-점점-더-해지다">② 비교급 + and + 비교급 (점점 더 ~해지다) </a></li><li><a href="#-비교급으로-최상급-의미-표현">③ 비교급으로 최상급 의미 표현 </a></li></ul></li><li><a href="#11-비교급-vs-최상급-선택">11. 비교급 vs 최상급 선택 </a></li><li><a href="#12-형용사-vs-부사-비교급">12. 형용사 vs 부사 비교급 </a></li><li><a href="#13-원급비교급최상급-완전-정리표">13. 원급·비교급·최상급 완전 정리표 </a></li><li><a href="#14-실전-회화--비교-표현-총동원">14. 실전 회화 — 비교 표현 총동원 </a><ul><li><a href="#상황--쇼핑할-때">상황 ① 쇼핑할 때 </a></li><li><a href="#상황--도시-비교">상황 ② 도시 비교 </a></li><li><a href="#상황--직업-비교">상황 ③ 직업 비교 </a></li></ul></li><li><a href="#15-자주-틀리는-실수-정리">15. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--비교급에-very-사용">실수 ① 비교급에 very 사용 </a></li><li><a href="#실수--최상급에-than-사용">실수 ② 최상급에 than 사용 </a></li><li><a href="#실수--이중-비교">실수 ③ 이중 비교 </a></li><li><a href="#실수--최상급에-the-누락">실수 ④ 최상급에 the 누락 </a></li><li><a href="#실수--as--as-순서-혼동">실수 ⑤ as ~ as 순서 혼동 </a></li></ul></li><li><a href="#16-문형-정리">16. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>“이 카페가 저 카페보다 더 좋아요”, “서울이 한국에서 가장 큰 도시예요”, “그녀는 나만큼 빠르게 달려요” —<br>
+비교하고 평가하는 표현은 일상 대화에서 매우 자주 등장합니다.</p>
+<p>영어 비교 표현은 형용사/부사를 변형하는 규칙만 이해하면 매우 체계적입니다.<br>
+이번 강에서는 비교급·최상급·동등 비교를 원리부터 완전히 익힙니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>비교급(-er/more)과 최상급(-est/most)을 형용사 유형별로 정확히 만들 수 있습니다.</li>
+<li>불규칙 비교급·최상급(good-better-best 등)을 완전히 암기할 수 있습니다.</li>
+<li>as ~ as를 이용한 동등 비교 표현을 자유롭게 쓸 수 있습니다.</li>
+<li>비교 표현을 강조하는 much/far/even/a lot 등을 활용할 수 있습니다.</li>
+<li>실생활에서 자주 쓰이는 비교 패턴을 익힐 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-비교-표현의-세-가지-형태" tabindex="-1" data-src-line="20">1. 비교 표현의 세 가지 형태 <a class="header-anchor" href="#1-비교-표현의-세-가지-형태" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">형태</th>
+<th scope="col">의미</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>원급 (Positive)</td>
+<td>기본형</td>
+<td>tall, fast, beautiful</td>
+</tr>
+<tr>
+<td>비교급 (Comparative)</td>
+<td>더 ~한</td>
+<td>taller, faster, more beautiful</td>
+</tr>
+<tr>
+<td>최상급 (Superlative)</td>
+<td>가장 ~한</td>
+<td>tallest, fastest, most beautiful</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="2-비교급-만들기" tabindex="-1" data-src-line="30">2. 비교급 만들기 <a class="header-anchor" href="#2-비교급-만들기" aria-hidden="true">#</a></h2>
+<h3 id="규칙--1음절-형용사---er" tabindex="-1" data-src-line="32">규칙 ① 1음절 형용사 → + er <a class="header-anchor" href="#규칙--1음절-형용사---er" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">tall → taller (더 키가 큰)
+fast → faster (더 빠른)
+cold → colder (더 추운)
+old → older (더 오래된)
+young → younger (더 젊은)
+small → smaller (더 작은)
+cheap → cheaper (더 저렴한)
+clean → cleaner (더 깨끗한)
+</code></pre></div></code></pre>
+<h3 id="규칙--e로-끝나는-형용사---r" tabindex="-1" data-src-line="45">규칙 ② e로 끝나는 형용사 → + r <a class="header-anchor" href="#규칙--e로-끝나는-형용사---r" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">nice → nicer
+large → larger
+safe → safer
+late → later
+wide → wider
+</code></pre></div></code></pre>
+<h3 id="규칙--단모음--단자음으로-끝나는-형용사--자음-중복--er" tabindex="-1" data-src-line="55">규칙 ③ 단모음 + 단자음으로 끝나는 형용사 → 자음 중복 + er <a class="header-anchor" href="#규칙--단모음--단자음으로-끝나는-형용사--자음-중복--er" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">big → bigger
+hot → hotter
+thin → thinner
+fat → fatter
+wet → wetter
+sad → sadder
+</code></pre></div></code></pre>
+<h3 id="규칙--자음--y로-끝나는-형용사--y를-i로--er" tabindex="-1" data-src-line="66">규칙 ④ 자음 + y로 끝나는 형용사 → y를 i로 + er <a class="header-anchor" href="#규칙--자음--y로-끝나는-형용사--y를-i로--er" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">happy → happier
+easy → easier
+pretty → prettier
+busy → busier
+heavy → heavier
+early → earlier
+funny → funnier
+</code></pre></div></code></pre>
+<h3 id="규칙--2음절-이상-형용사--more--형용사" tabindex="-1" data-src-line="78">규칙 ⑤ 2음절 이상 형용사 → more + 형용사 <a class="header-anchor" href="#규칙--2음절-이상-형용사--more--형용사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">beautiful → more beautiful
+expensive → more expensive
+interesting → more interesting
+comfortable → more comfortable
+important → more important
+difficult → more difficult
+exciting → more exciting
+careful → more careful
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>-er vs more 선택 기준</strong></p>
+<ul>
+<li>1음절: 거의 항상 -er</li>
+<li>2음절 (-y로 끝남): -er (happy → happier)</li>
+<li>2음절 이상 (그 외): more</li>
+<li>일부 2음절 형용사는 둘 다 가능: clever → cleverer / more clever</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="3-최상급-만들기" tabindex="-1" data-src-line="99">3. 최상급 만들기 <a class="header-anchor" href="#3-최상급-만들기" aria-hidden="true">#</a></h2>
+<p>최상급은 비교급과 동일한 패턴이지만 <code>-est</code> 또는 <code>most</code>를 사용하고, 앞에 <strong>the</strong>를 붙입니다.</p>
+<h3 id="규칙--1음절--the---est" tabindex="-1" data-src-line="103">규칙 ① 1음절 → the + -est <a class="header-anchor" href="#규칙--1음절--the---est" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">tall → the tallest
+fast → the fastest
+cold → the coldest
+old → the oldest
+cheap → the cheapest
+</code></pre></div></code></pre>
+<h3 id="규칙--e로-끝남--the---st" tabindex="-1" data-src-line="113">규칙 ② e로 끝남 → the + -st <a class="header-anchor" href="#규칙--e로-끝남--the---st" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">nice → the nicest
+large → the largest
+safe → the safest
+late → the latest
+</code></pre></div></code></pre>
+<h3 id="규칙--자음-중복" tabindex="-1" data-src-line="122">규칙 ③ 자음 중복 <a class="header-anchor" href="#규칙--자음-중복" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">big → the biggest
+hot → the hottest
+thin → the thinnest
+</code></pre></div></code></pre>
+<h3 id="규칙--자음--y--the---iest" tabindex="-1" data-src-line="130">규칙 ④ 자음 + y → the + -iest <a class="header-anchor" href="#규칙--자음--y--the---iest" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">happy → the happiest
+easy → the easiest
+pretty → the prettiest
+busy → the busiest
+</code></pre></div></code></pre>
+<h3 id="규칙--2음절-이상--the-most--형용사" tabindex="-1" data-src-line="139">규칙 ⑤ 2음절 이상 → the most + 형용사 <a class="header-anchor" href="#규칙--2음절-이상--the-most--형용사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">beautiful → the most beautiful
+expensive → the most expensive
+interesting → the most interesting
+comfortable → the most comfortable
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-불규칙-비교급최상급--완전-암기" tabindex="-1" data-src-line="150">4. 불규칙 비교급·최상급 — 완전 암기 <a class="header-anchor" href="#4-불규칙-비교급최상급--완전-암기" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">원급</th>
+<th scope="col">비교급</th>
+<th scope="col">최상급</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>good</td>
+<td>better</td>
+<td>best</td>
+<td>좋은</td>
+</tr>
+<tr>
+<td>well</td>
+<td>better</td>
+<td>best</td>
+<td>잘</td>
+</tr>
+<tr>
+<td>bad</td>
+<td>worse</td>
+<td>worst</td>
+<td>나쁜</td>
+</tr>
+<tr>
+<td>badly</td>
+<td>worse</td>
+<td>worst</td>
+<td>나쁘게</td>
+</tr>
+<tr>
+<td>far</td>
+<td>farther / further</td>
+<td>farthest / furthest</td>
+<td>먼</td>
+</tr>
+<tr>
+<td>little</td>
+<td>less</td>
+<td>least</td>
+<td>적은</td>
+</tr>
+<tr>
+<td>much</td>
+<td>more</td>
+<td>most</td>
+<td>많은 (불가산)</td>
+</tr>
+<tr>
+<td>many</td>
+<td>more</td>
+<td>most</td>
+<td>많은 (가산)</td>
+</tr>
+<tr>
+<td>old</td>
+<td>older / elder</td>
+<td>oldest / eldest</td>
+<td>오래된/나이 든</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>💡 <strong>farther vs further</strong></p>
+<ul>
+<li><code>farther</code>: 물리적 거리가 더 먼</li>
+<li><code>further</code>: 추가적인·더 나아간 (추상적 의미)</li>
+</ul>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Seoul is farther than Incheon from here.
+(여기서 인천보다 서울이 더 멀어요)
+
+I need further information.
+(추가 정보가 필요해요)
+</code></pre></div></code></pre>
+</blockquote>
+<blockquote>
+<p>💡 <strong>older vs elder</strong></p>
+<ul>
+<li><code>older</code>: 일반적인 나이 비교</li>
+<li><code>elder</code>: 형제 관계에서 손윗사람 (elder brother/sister)</li>
+</ul>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She&#039;s older than me. (나보다 나이가 많아요)
+My elder sister lives in London. (우리 언니는 런던에 살아요)
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="5-비교급-문장-구조" tabindex="-1" data-src-line="185">5. 비교급 문장 구조 <a class="header-anchor" href="#5-비교급-문장-구조" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [Be동사] + [비교급] + than + [비교 대상]
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She is taller than me.
+그녀는 나보다 키가 커요.
+
+This book is more interesting than that one.
+이 책이 저 책보다 더 흥미로워요.
+
+Seoul is bigger than Busan.
+서울이 부산보다 더 커요.
+
+He runs faster than I do.
+그는 나보다 더 빠르게 달려요.
+
+This phone is more expensive than mine.
+이 핸드폰이 내 것보다 더 비싸요.
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>than me vs than I</strong><br>
+격식체에서는 <code>than I (do)</code>가 정확하지만,<br>
+현대 회화에서는 <code>than me</code>가 더 일반적입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She&#039;s taller than I am. (격식체)
+She&#039;s taller than me. (일반 회화) ✅
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="6-최상급-문장-구조" tabindex="-1" data-src-line="218">6. 최상급 문장 구조 <a class="header-anchor" href="#6-최상급-문장-구조" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [Be동사] + the + [최상급] + (in/of + 범위)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This is the best restaurant in Seoul.
+이것이 서울에서 가장 좋은 레스토랑이에요.
+
+She is the most talented person I&#039;ve ever met.
+그녀는 내가 만나본 사람 중 가장 재능 있는 사람이에요.
+
+Mount Everest is the highest mountain in the world.
+에베레스트산은 세계에서 가장 높은 산이에요.
+
+He is the youngest person on the team.
+그는 팀에서 가장 어린 사람이에요.
+
+It was the most expensive meal I&#039;ve ever had.
+그것은 내가 먹어본 것 중 가장 비싼 식사였어요.
+</code></pre></div></code></pre>
+<h3 id="in-vs-of-최상급에서" tabindex="-1" data-src-line="241">in vs of (최상급에서) <a class="header-anchor" href="#in-vs-of-최상급에서" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">in → 장소·그룹 이름 뒤
+of → 복수 명사 뒤
+
+the tallest building in the world (세계에서)
+the best of all the options (모든 선택지 중에서)
+the youngest in the class (반에서)
+the most popular of the three (셋 중에서)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-동등-비교--as--as" tabindex="-1" data-src-line="255">7. 동등 비교 — as ~ as <a class="header-anchor" href="#7-동등-비교--as--as" aria-hidden="true">#</a></h2>
+<p>두 대상이 <strong>같은 정도</strong>임을 나타낼 때 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [동사] + as + [형용사/부사] + as + [비교 대상]
+</code></pre></div></code></pre>
+<h3 id="긍정--같다-만큼" tabindex="-1" data-src-line="263">긍정 — 같다 (~만큼) <a class="header-anchor" href="#긍정--같다-만큼" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She is as tall as her brother.
+그녀는 오빠만큼 키가 커요.
+
+This laptop is as expensive as mine.
+이 노트북은 내 것만큼 비싸요.
+
+He speaks English as fluently as a native speaker.
+그는 원어민만큼 유창하게 영어를 해요.
+
+I work as hard as anyone on the team.
+나는 팀에서 누구만큼이나 열심히 일해요.
+</code></pre></div></code></pre>
+<h3 id="부정--같지-않다-만큼은-아니다" tabindex="-1" data-src-line="279">부정 — 같지 않다 (~만큼은 아니다) <a class="header-anchor" href="#부정--같지-않다-만큼은-아니다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">not as + 형용사/부사 + as
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This hotel is not as expensive as I expected.
+이 호텔은 내가 예상한 것만큼 비싸지 않아요.
+
+I&#039;m not as tired as I was yesterday.
+나는 어제만큼 피곤하지 않아요.
+
+He&#039;s not as experienced as she is.
+그는 그녀만큼 경험이 많지 않아요.
+</code></pre></div></code></pre>
+<h3 id="as--as-관용-표현" tabindex="-1" data-src-line="296">as ~ as 관용 표현 <a class="header-anchor" href="#as--as-관용-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">as soon as possible (가능한 한 빨리) — ASAP
+as well as (~뿐만 아니라)
+as long as (~하는 한)
+as far as I know (내가 아는 한)
+as much as possible (가능한 한 많이)
+as often as possible (가능한 한 자주)
+as good as new (거의 새것 같은)
+as busy as a bee (매우 바쁜)
+as clear as day (명백한)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Please reply as soon as possible.
+가능한 한 빨리 답변해 주세요.
+
+She speaks French as well as English.
+그녀는 영어뿐만 아니라 프랑스어도 해요.
+
+As far as I know, he&#039;s still in Seoul.
+내가 아는 한, 그는 여전히 서울에 있어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-비교급-강조-표현" tabindex="-1" data-src-line="323">8. 비교급 강조 표현 <a class="header-anchor" href="#8-비교급-강조-표현" aria-hidden="true">#</a></h2>
+<p>비교급 앞에 부사를 붙여 정도를 강조할 수 있습니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">강조 부사</th>
+<th scope="col">의미</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>much</td>
+<td>훨씬</td>
+<td>much better</td>
+</tr>
+<tr>
+<td>far</td>
+<td>훨씬</td>
+<td>far more expensive</td>
+</tr>
+<tr>
+<td>even</td>
+<td>심지어 더</td>
+<td>even harder</td>
+</tr>
+<tr>
+<td>a lot</td>
+<td>많이 더</td>
+<td>a lot cheaper</td>
+</tr>
+<tr>
+<td>slightly</td>
+<td>약간 더</td>
+<td>slightly taller</td>
+</tr>
+<tr>
+<td>a little / a bit</td>
+<td>조금 더</td>
+<td>a bit faster</td>
+</tr>
+<tr>
+<td>significantly</td>
+<td>상당히 더</td>
+<td>significantly larger</td>
+</tr>
+<tr>
+<td>considerably</td>
+<td>상당히 더</td>
+<td>considerably better</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This laptop is much better than my old one.
+이 노트북이 내 예전 것보다 훨씬 좋아요.
+
+The traffic is far worse than usual today.
+오늘 교통이 평소보다 훨씬 나빠요.
+
+She speaks even better than before.
+그녀는 전보다 심지어 더 잘 말해요.
+
+Could you speak a bit slower?
+조금 더 천천히 말씀해 주실 수 있나요?
+
+The new office is considerably larger than the old one.
+새 사무실이 예전 것보다 상당히 더 커요.
+</code></pre></div></code></pre>
+<blockquote>
+<p>⚠️ <strong>very는 비교급과 함께 쓸 수 없습니다!</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ very better / very taller / very more expensive
+✅ much better / much taller / far more expensive
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="9-최상급-강조-표현" tabindex="-1" data-src-line="363">9. 최상급 강조 표현 <a class="header-anchor" href="#9-최상급-강조-표현" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">by far the + 최상급 (단연 가장)
+easily the + 최상급 (쉽게 가장)
+definitely the + 최상급 (확실히 가장)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This is by far the best Korean food I&#039;ve ever had.
+이것은 내가 먹어본 한국 음식 중 단연 최고예요.
+
+She&#039;s easily the most creative person on the team.
+그녀는 팀에서 단연 가장 창의적인 사람이에요.
+
+It was definitely the funniest movie of the year.
+그것은 확실히 올해 가장 웃긴 영화였어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-비교급-심화-표현" tabindex="-1" data-src-line="384">10. 비교급 심화 표현 <a class="header-anchor" href="#10-비교급-심화-표현" aria-hidden="true">#</a></h2>
+<h3 id="-the--비교급---the--비교급--할수록-더-하다" tabindex="-1" data-src-line="386">① the + 비교급 ~ , the + 비교급 ~ (~할수록 더 ~하다) <a class="header-anchor" href="#-the--비교급---the--비교급--할수록-더-하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The more you practice, the better you get.
+연습할수록 더 좋아져요.
+
+The harder you work, the more successful you become.
+열심히 일할수록 더 성공하게 돼요.
+
+The sooner, the better.
+빠를수록 더 좋아요.
+
+The older I get, the more I appreciate simple things.
+나이가 들수록 단순한 것들이 더 소중해져요.
+</code></pre></div></code></pre>
+<h3 id="-비교급--and--비교급-점점-더-해지다" tabindex="-1" data-src-line="402">② 비교급 + and + 비교급 (점점 더 ~해지다) <a class="header-anchor" href="#-비교급--and--비교급-점점-더-해지다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s getting colder and colder.
+점점 더 추워지고 있어요.
+
+The situation is getting better and better.
+상황이 점점 더 좋아지고 있어요.
+
+She&#039;s becoming more and more confident.
+그녀는 점점 더 자신감 있어지고 있어요.
+
+It&#039;s getting harder and harder to find affordable housing.
+저렴한 주택을 찾는 것이 점점 더 어려워지고 있어요.
+</code></pre></div></code></pre>
+<h3 id="-비교급으로-최상급-의미-표현" tabindex="-1" data-src-line="418">③ 비교급으로 최상급 의미 표현 <a class="header-anchor" href="#-비교급으로-최상급-의미-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She is more experienced than anyone else on the team.
+그녀는 팀에서 누구보다 더 경험이 많아요.
+(= She is the most experienced on the team.)
+
+Nothing is more important than family.
+가족보다 더 중요한 것은 없어요.
+(= Family is the most important thing.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-비교급-vs-최상급-선택" tabindex="-1" data-src-line="432">11. 비교급 vs 최상급 선택 <a class="header-anchor" href="#11-비교급-vs-최상급-선택" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">상황</th>
+<th scope="col">사용</th>
+<th scope="col">예시</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>둘을 비교할 때</td>
+<td>비교급 + than</td>
+<td>A is taller than B</td>
+</tr>
+<tr>
+<td>셋 이상 중 최고</td>
+<td>최상급 + in/of</td>
+<td>the tallest in the class</td>
+</tr>
+<tr>
+<td>동등 비교</td>
+<td>as ~ as</td>
+<td>as tall as</td>
+</tr>
+<tr>
+<td>동등하지 않음</td>
+<td>not as ~ as</td>
+<td>not as tall as</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <strong>두 가지를 비교할 때 최상급 사용 주의</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She&#039;s the tallest of the two sisters.
+✅ She&#039;s the taller of the two sisters.
+→ 둘 비교 → 비교급 사용
+</code></pre></div></code></pre>
+</blockquote>
+<hr>
+<h2 id="12-형용사-vs-부사-비교급" tabindex="-1" data-src-line="450">12. 형용사 vs 부사 비교급 <a class="header-anchor" href="#12-형용사-vs-부사-비교급" aria-hidden="true">#</a></h2>
+<p>형용사뿐 아니라 부사도 비교급·최상급을 만들 수 있습니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">부사</th>
+<th scope="col">비교급</th>
+<th scope="col">최상급</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fast</td>
+<td>faster</td>
+<td>fastest</td>
+</tr>
+<tr>
+<td>hard</td>
+<td>harder</td>
+<td>hardest</td>
+</tr>
+<tr>
+<td>early</td>
+<td>earlier</td>
+<td>earliest</td>
+</tr>
+<tr>
+<td>late</td>
+<td>later</td>
+<td>latest</td>
+</tr>
+<tr>
+<td>well</td>
+<td>better</td>
+<td>best</td>
+</tr>
+<tr>
+<td>badly</td>
+<td>worse</td>
+<td>worst</td>
+</tr>
+<tr>
+<td>slowly</td>
+<td>more slowly</td>
+<td>most slowly</td>
+</tr>
+<tr>
+<td>carefully</td>
+<td>more carefully</td>
+<td>most carefully</td>
+</tr>
+<tr>
+<td>quickly</td>
+<td>more quickly</td>
+<td>most quickly</td>
+</tr>
+<tr>
+<td>fluently</td>
+<td>more fluently</td>
+<td>most fluently</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She runs faster than me.
+그녀는 나보다 더 빠르게 달려요.
+
+He works harder than anyone else.
+그는 누구보다 더 열심히 일해요.
+
+Can you speak more slowly, please?
+좀 더 천천히 말씀해 주시겠어요?
+
+Of all the students, she speaks most fluently.
+모든 학생 중에서 그녀가 가장 유창하게 말해요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="13-원급비교급최상급-완전-정리표" tabindex="-1" data-src-line="483">13. 원급·비교급·최상급 완전 정리표 <a class="header-anchor" href="#13-원급비교급최상급-완전-정리표" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">원급</th>
+<th scope="col">비교급</th>
+<th scope="col">최상급</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>tall</td>
+<td>taller</td>
+<td>the tallest</td>
+</tr>
+<tr>
+<td>small</td>
+<td>smaller</td>
+<td>the smallest</td>
+</tr>
+<tr>
+<td>nice</td>
+<td>nicer</td>
+<td>the nicest</td>
+</tr>
+<tr>
+<td>big</td>
+<td>bigger</td>
+<td>the biggest</td>
+</tr>
+<tr>
+<td>happy</td>
+<td>happier</td>
+<td>the happiest</td>
+</tr>
+<tr>
+<td>beautiful</td>
+<td>more beautiful</td>
+<td>the most beautiful</td>
+</tr>
+<tr>
+<td>expensive</td>
+<td>more expensive</td>
+<td>the most expensive</td>
+</tr>
+<tr>
+<td>interesting</td>
+<td>more interesting</td>
+<td>the most interesting</td>
+</tr>
+<tr>
+<td>good</td>
+<td>better</td>
+<td>the best</td>
+</tr>
+<tr>
+<td>bad</td>
+<td>worse</td>
+<td>the worst</td>
+</tr>
+<tr>
+<td>far</td>
+<td>farther/further</td>
+<td>the farthest/furthest</td>
+</tr>
+<tr>
+<td>little</td>
+<td>less</td>
+<td>the least</td>
+</tr>
+<tr>
+<td>much/many</td>
+<td>more</td>
+<td>the most</td>
+</tr>
+<tr>
+<td>fast</td>
+<td>faster</td>
+<td>the fastest</td>
+</tr>
+<tr>
+<td>slowly</td>
+<td>more slowly</td>
+<td>the most slowly</td>
+</tr>
+<tr>
+<td>well</td>
+<td>better</td>
+<td>the best</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="14-실전-회화--비교-표현-총동원" tabindex="-1" data-src-line="506">14. 실전 회화 — 비교 표현 총동원 <a class="header-anchor" href="#14-실전-회화--비교-표현-총동원" aria-hidden="true">#</a></h2>
+<h3 id="상황--쇼핑할-때" tabindex="-1" data-src-line="508">상황 ① 쇼핑할 때 <a class="header-anchor" href="#상황--쇼핑할-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Which one do you prefer?
+   어느 것이 더 마음에 들어요?
+
+B: Hmm, this one is nicer, but it&#039;s much
+   more expensive than the other one.
+   흠, 이게 더 예쁜데, 저것보다 훨씬 더 비싸네요.
+
+A: How much more expensive?
+   얼마나 더 비싼가요?
+
+B: About 50,000 won more.
+   Is the quality really that much better?
+   약 5만원 더요.
+   품질이 정말 그만큼 더 좋은가요?
+
+A: Honestly, I think the cheaper one is
+   just as good. The material feels almost
+   the same.
+   솔직히, 저렴한 것도 똑같이 좋은 것 같아요.
+   소재가 거의 같은 느낌이에요.
+
+B: In that case, I&#039;ll go with the cheaper one.
+   There&#039;s no point paying more
+   if the quality&#039;s the same.
+   그렇다면, 저렴한 것으로 할게요.
+   품질이 같다면 더 많이 낼 필요가 없죠.
+</code></pre></div></code></pre>
+<h3 id="상황--도시-비교" tabindex="-1" data-src-line="539">상황 ② 도시 비교 <a class="header-anchor" href="#상황--도시-비교" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Do you prefer Seoul or Busan?
+   서울과 부산 중 어디가 더 좋아요?
+
+B: That&#039;s a tough one! Seoul is much bigger
+   and has more job opportunities,
+   but Busan is more relaxed.
+   어렵네요! 서울이 훨씬 더 크고 일자리도 더 많지만,
+   부산이 더 여유로워요.
+
+A: What about the food?
+   음식은요?
+
+B: Busan has some of the freshest seafood
+   in Korea. It&#039;s by far the best seafood I&#039;ve
+   ever had.
+   부산에는 한국에서 가장 신선한 해산물이 있어요.
+   내가 먹어본 해산물 중 단연 최고예요.
+
+A: And the cost of living?
+   생활비는요?
+
+B: Busan is significantly cheaper than Seoul.
+   Rent is almost half as expensive.
+   부산이 서울보다 상당히 더 저렴해요.
+   임대료가 거의 절반 수준이에요.
+
+A: It sounds like Busan might be the better
+   option for a quieter lifestyle.
+   조용한 생활을 원한다면 부산이
+   더 나은 선택인 것 같네요.
+
+B: Exactly! The older I get, the more I value
+   a slower pace of life.
+   맞아요! 나이가 들수록 느린 생활 속도가
+   더 가치 있게 느껴져요.
+</code></pre></div></code></pre>
+<h3 id="상황--직업-비교" tabindex="-1" data-src-line="579">상황 ③ 직업 비교 <a class="header-anchor" href="#상황--직업-비교" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: You&#039;ve worked in both startups and
+   large companies. Which do you prefer?
+   스타트업과 대기업 둘 다 경험해보셨죠.
+   어느 것이 더 좋으세요?
+
+B: They&#039;re quite different, honestly.
+   Large companies offer much better stability
+   and benefits, but startups are far more
+   exciting and you learn faster.
+   솔직히 꽤 달라요.
+   대기업은 안정성과 복지가 훨씬 좋지만,
+   스타트업은 훨씬 더 흥미롭고 더 빨리 배워요.
+
+A: Which is more stressful?
+   어느 것이 더 스트레스받나요?
+
+B: In my experience, startups are slightly
+   more stressful day-to-day,
+   but the work is more meaningful.
+   내 경험상, 스타트업이 매일 조금 더 스트레스받지만,
+   일이 더 의미 있어요.
+
+A: What&#039;s the biggest difference?
+   가장 큰 차이가 뭔가요?
+
+B: The biggest difference is that in a startup,
+   your impact is much more visible.
+   You can see the results of your work
+   much more clearly.
+   가장 큰 차이는 스타트업에서는
+   영향력이 훨씬 더 잘 보인다는 거예요.
+   자신의 일의 결과를 훨씬 더 분명하게 볼 수 있어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="15-자주-틀리는-실수-정리" tabindex="-1" data-src-line="618">15. 자주 틀리는 실수 정리 <a class="header-anchor" href="#15-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--비교급에-very-사용" tabindex="-1" data-src-line="620">실수 ① 비교급에 very 사용 <a class="header-anchor" href="#실수--비교급에-very-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She is very taller than me.
+✅ She is much taller than me.
+→ 비교급 강조 → much/far/even/a lot
+</code></pre></div></code></pre>
+<h3 id="실수--최상급에-than-사용" tabindex="-1" data-src-line="628">실수 ② 최상급에 than 사용 <a class="header-anchor" href="#실수--최상급에-than-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ He is the tallest than everyone.
+✅ He is the tallest of everyone.
+✅ He is taller than everyone.
+→ 최상급 뒤에는 in/of, 비교급 뒤에는 than
+</code></pre></div></code></pre>
+<h3 id="실수--이중-비교" tabindex="-1" data-src-line="637">실수 ③ 이중 비교 <a class="header-anchor" href="#실수--이중-비교" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She is more taller than me.
+✅ She is taller than me.
+→ -er과 more를 동시에 쓰면 안 됨
+
+❌ This is the most cheapest option.
+✅ This is the cheapest option.
+→ -est와 most를 동시에 쓰면 안 됨
+</code></pre></div></code></pre>
+<h3 id="실수--최상급에-the-누락" tabindex="-1" data-src-line="649">실수 ④ 최상급에 the 누락 <a class="header-anchor" href="#실수--최상급에-the-누락" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She&#039;s best student in the class.
+✅ She&#039;s the best student in the class.
+→ 최상급 앞에 반드시 the
+</code></pre></div></code></pre>
+<h3 id="실수--as--as-순서-혼동" tabindex="-1" data-src-line="657">실수 ⑤ as ~ as 순서 혼동 <a class="header-anchor" href="#실수--as--as-순서-혼동" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She is as taller as me.
+✅ She is as tall as me.
+→ as + 형용사 원급 + as (비교급 쓰면 안 됨)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="16-문형-정리" tabindex="-1" data-src-line="667">16. 문형 정리 <a class="header-anchor" href="#16-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">구조</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>비교급</td>
+<td>주어 + be + 비교급 + than + 대상</td>
+<td>She’s taller than me.</td>
+</tr>
+<tr>
+<td>최상급</td>
+<td>주어 + be + the + 최상급 + in/of</td>
+<td>It’s the best in Seoul.</td>
+</tr>
+<tr>
+<td>동등 비교</td>
+<td>주어 + be + as + 원급 + as + 대상</td>
+<td>As tall as her brother.</td>
+</tr>
+<tr>
+<td>부정 동등</td>
+<td>주어 + be + not as + 원급 + as</td>
+<td>Not as fast as before.</td>
+</tr>
+<tr>
+<td>비교급 강조</td>
+<td>much/far/even + 비교급</td>
+<td>Much better than before.</td>
+</tr>
+<tr>
+<td>최상급 강조</td>
+<td>by far the + 최상급</td>
+<td>By far the best option.</td>
+</tr>
+<tr>
+<td>점점 더</td>
+<td>비교급 + and + 비교급</td>
+<td>Getting better and better.</td>
+</tr>
+<tr>
+<td>~할수록 더</td>
+<td>The + 비교급 ~, the + 비교급</td>
+<td>The more you try, the better.</td>
+</tr>
+<tr>
+<td>두 개 중 더</td>
+<td>the + 비교급 + of the two</td>
+<td>The taller of the two.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="683">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>비교 표현의 핵심 규칙 세 가지를 기억하세요.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 짧은 형용사 → -er / -est
+  긴 형용사 → more / the most
+
+② 불규칙: good→better→best / bad→worse→worst
+          much/many→more→most / little→less→least
+
+③ 비교급 강조는 much/far/even/a lot
+  (very 사용 금지!)
+</code></pre></div></code></pre>
+<p>그리고 자주 쓰이는 패턴:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The more ~ , the more ~ (~할수록 더)
+더 + and + 더 (점점 더)
+as ~ as possible (가능한 한 ~하게)
+by far the best (단연 최고)
+</code></pre></div></code></pre>
+<p>다음 강에서는 영어 학습자들이 가장 어려워하는 문법 중 하나인 <strong>현재완료(have + p.p.)</strong> 를 완전히 정복합니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — A1 레벨] ✅ 완료</strong></p>
+<ul>
+<li>1강 ~ 10강 완료</li>
+</ul>
+<p><strong>[초급 후반 — A2 레벨]</strong></p>
+<ul>
+<li>11강: 조동사 완전 정복 — can · must · should · may</li>
+<li>12강: 전치사 완전 정복 — in · on · at · to · for · with</li>
+<li><strong>13강</strong>: 비교 표현 — 비교급 · 최상급 ← 현재 글</li>
+<li>14강: 현재완료 — have + p.p.</li>
+<li>15강: 수동태 — be동사 + p.p.</li>
+<li>16강: to부정사 · 동명사 — to do / doing</li>
+<li>17강: 관계대명사 — who · which · that</li>
+<li>18강: 가정법 — If + 현재 · 과거 · 과거완료</li>
+</ul>
+<p><strong>[실용 영어 — B1 레벨 진입]</strong></p>
+<ul>
+<li>19강: 비즈니스 · 일상 이메일 영어</li>
+<li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
+</ul>
+</blockquote>
+23:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L27",null,{"content":"$28"}]}]}]
+24:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/japanese/japanese-lesson-16-conditionals","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 16강: 조건 표현 완전 정복 — ～たら · ～ば · ～と · ～なら"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english/english-lesson-14-present-perfect","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 14강: 현재완료 완전 정복 — have + p.p."}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-18-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-18-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]}],["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}],["$","li","english/english-lesson-16-infinitives-gerunds",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english/english-lesson-16-infinitives-gerunds","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 16강: to부정사 · 동명사 완전 정복 — to do / doing"}]}]]}]]}]]}]
+25:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"] { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+29:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"비교급(-er/more)과 최상급(-est/most), 동등 비교(as~as), 불규칙 변화까지 영어 비교 표현의 모든 것을 교과서 수준으로 완전히 정복합니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english/english-lesson-13-comparatives-superlatives/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as"}],["$","meta","11",{"property":"og:description","content":"비교급(-er/more)과 최상급(-est/most), 동등 비교(as~as), 불규칙 변화까지 영어 비교 표현의 모든 것을 교과서 수준으로 완전히 정복합니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english/english-lesson-13-comparatives-superlatives/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-04T03:31:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-04T03:31:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"comparatives"}],["$","meta","23",{"property":"article:tag","content":"superlatives"}],["$","meta","24",{"property":"article:tag","content":"as-as"}],["$","meta","25",{"property":"article:tag","content":"grammar"}],["$","meta","26",{"property":"article:tag","content":"intermediate"}],["$","meta","27",{"property":"article:tag","content":"language-learning"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"영어 13강: 비교 표현 완전 정복 — 비교급 · 최상급 · as ~ as"}],["$","meta","30",{"name":"twitter:description","content":"비교급(-er/more)과 최상급(-est/most), 동등 비교(as~as), 불규칙 변화까지 영어 비교 표현의 모든 것을 교과서 수준으로 완전히 정복합니다."}],["$","meta","31",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","32",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L29","33",{}]]
+16:null

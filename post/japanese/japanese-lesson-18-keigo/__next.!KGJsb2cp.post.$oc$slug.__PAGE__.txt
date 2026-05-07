@@ -1,0 +1,850 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+c:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+f:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+10:I[484,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"vEFln49GSsrPZ4JvGGo_M","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72 ","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-18-keigo\"},\"headline\":\"일본어 18강: 경어 표현 완전 정복 — 존경어 · 겸양어 · 정중어\",\"description\":\"일본어 경어(敬語)의 세 가지 체계, 존경어·겸양어·정중어를 핵심 동사 변환표와 실전 회화로 완전히 마스터합니다. 시리즈 완결!\",\"datePublished\":\"2026-05-04T12:00:00.000Z\",\"dateModified\":\"2026-05-04T12:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/japanese/japanese-lesson-18-keigo\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"japanese\",\"keigo\",\"sonkeigo\",\"kenjogo\",\"teineigo\",\"honorifics\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"일본어 18강: 경어 표현 완전 정복 — 존경어 · 겸양어 · 정중어","slugPath":"japanese/japanese-lesson-18-keigo","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-경어의-세-가지-체계","text":"1. 경어의 세 가지 체계","level":2},{"id":"2-존경어---상대방-행동을-높이는-표현","text":"2. 존경어 (尊敬語) — 상대방 행동을 높이는 표현","level":2},{"id":"핵심-존경어-동사-변환표","text":"핵심 존경어 동사 변환표","level":3},{"id":"존경어-예문","text":"존경어 예문","level":3},{"id":"3---동사형----일반-존경어-패턴","text":"3. お/ご + 동사ます형 + になる — 일반 존경어 패턴","level":2},{"id":"4-겸양어---나의-행동을-낮추는-표현","text":"4. 겸양어 (謙譲語) — 나의 행동을 낮추는 표현","level":2},{"id":"핵심-겸양어-동사-변환표","text":"핵심 겸양어 동사 변환표","level":3},{"id":"겸양어-예문","text":"겸양어 예문","level":3},{"id":"5---동사형----겸양어-패턴","text":"5. お/ご + 동사ます형 + する — 겸양어 패턴","level":2},{"id":"6-정중어---말투-자체를-정중하게","text":"6. 정중어 (丁寧語) — 말투 자체를 정중하게","level":2},{"id":"-체","text":"① です·ます체","level":3},{"id":"---명사--정중한-명사-표현","text":"② お/ご + 명사 — 정중한 명사 표현","level":3},{"id":"---의-정중형","text":"③ ございます — です의 정중형","level":3},{"id":"7-존경어-vs-겸양어--혼동-주의","text":"7. 존경어 vs 겸양어 — 혼동 주의","level":2},{"id":"8-전화-경어-표현","text":"8. 전화 경어 표현","level":2},{"id":"전화-받을-때","text":"전화 받을 때","level":3},{"id":"담당자-부재-시","text":"담당자 부재 시","level":3},{"id":"9-비즈니스-경어-실전-표현","text":"9. 비즈니스 경어 실전 표현","level":2},{"id":"방문접대","text":"방문·접대","level":3},{"id":"이메일문서","text":"이메일·문서","level":3},{"id":"10-경어-레벨-비교표--같은-의미-다른-정중도","text":"10. 경어 레벨 비교표 — 같은 의미, 다른 정중도","level":2},{"id":"11-실전-회화--비즈니스-방문","text":"11. 실전 회화 — 비즈니스 방문","level":2},{"id":"12-경어-문형-정리","text":"12. 경어 문형 정리","level":2},{"id":"-시리즈-완결--전체-18강-총복습","text":"🎉 시리즈 완결! — 전체 18강 총복습","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"japanese › japanese-lesson-18-keigo"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"일본어 18강: 경어 표현 완전 정복 — 존경어 · 겸양어 · 정중어"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"일본어 경어(敬語)의 세 가지 체계, 존경어·겸양어·정중어를 핵심 동사 변환표와 실전 회화로 완전히 마스터합니다. 시리즈 완결!"}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-04T12:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 4일"]}],"$L3","$L4","$L5"]}],"$L6"]}],"$L7","$L8",false,"$L9"]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
+3:["$","time",null,{"dateTime":"2026-05-04T12:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 4일"]}]
+4:["$","$Lc",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","japanese",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","japanese"]}],["$","span","keigo",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","keigo"]}],["$","span","sonkeigo",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","sonkeigo"]}],["$","span","kenjogo",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","kenjogo"]}],["$","span","teineigo",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","teineigo"]}],["$","span","honorifics",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","honorifics"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+e:T7f69,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-경어의-세-가지-체계">1. 경어의 세 가지 체계 </a></li><li><a href="#2-존경어---상대방-행동을-높이는-표현">2. 존경어 (尊敬語) — 상대방 행동을 높이는 표현 </a><ul><li><a href="#핵심-존경어-동사-변환표">핵심 존경어 동사 변환표 </a></li><li><a href="#존경어-예문">존경어 예문 </a></li></ul></li><li><a href="#3---동사형----일반-존경어-패턴">3. お/ご + 동사ます형 + になる — 일반 존경어 패턴 </a></li><li><a href="#4-겸양어---나의-행동을-낮추는-표현">4. 겸양어 (謙譲語) — 나의 행동을 낮추는 표현 </a><ul><li><a href="#핵심-겸양어-동사-변환표">핵심 겸양어 동사 변환표 </a></li><li><a href="#겸양어-예문">겸양어 예문 </a></li></ul></li><li><a href="#5---동사형----겸양어-패턴">5. お/ご + 동사ます형 + する — 겸양어 패턴 </a></li><li><a href="#6-정중어---말투-자체를-정중하게">6. 정중어 (丁寧語) — 말투 자체를 정중하게 </a><ul><li><a href="#-체">① です·ます체 </a></li><li><a href="#---명사--정중한-명사-표현">② お/ご + 명사 — 정중한 명사 표현 </a></li><li><a href="#---의-정중형">③ ございます — です의 정중형 </a></li></ul></li><li><a href="#7-존경어-vs-겸양어--혼동-주의">7. 존경어 vs 겸양어 — 혼동 주의 </a></li><li><a href="#8-전화-경어-표현">8. 전화 경어 표현 </a><ul><li><a href="#전화-받을-때">전화 받을 때 </a></li><li><a href="#담당자-부재-시">담당자 부재 시 </a></li></ul></li><li><a href="#9-비즈니스-경어-실전-표현">9. 비즈니스 경어 실전 표현 </a><ul><li><a href="#방문접대">방문·접대 </a></li><li><a href="#이메일문서">이메일·문서 </a></li></ul></li><li><a href="#10-경어-레벨-비교표--같은-의미-다른-정중도">10. 경어 레벨 비교표 — 같은 의미, 다른 정중도 </a></li><li><a href="#11-실전-회화--비즈니스-방문">11. 실전 회화 — 비즈니스 방문 </a></li><li><a href="#12-경어-문형-정리">12. 경어 문형 정리 </a></li><li><a href="#-시리즈-완결--전체-18강-총복습">🎉 시리즈 완결! — 전체 18강 총복습 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>일본어 경어(敬語)는 많은 학습자가 마지막까지 어려워하는 영역입니다.<br>
+그러나 원리를 이해하면 생각보다 체계적입니다.<br>
+경어는 크게 세 종류로 나뉘며, 각각의 역할이 명확합니다.</p>
+<p>이번 강은 1강부터 시작한 <strong>일본어 공부 시리즈의 마지막 강</strong>입니다.<br>
+경어 표현을 완전히 익히고 시리즈를 멋지게 마무리합시다!</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>존경어·겸양어·정중어의 차이를 명확히 이해할 수 있습니다.</li>
+<li>핵심 동사의 경어 변환(いく→いらっしゃる 등)을 익힐 수 있습니다.</li>
+<li>お/ご + 동사 패턴으로 경어를 만들 수 있습니다.</li>
+<li>비즈니스·일상 상황에서 자연스러운 경어를 구사할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-경어의-세-가지-체계" tabindex="-1" data-src-line="20">1. 경어의 세 가지 체계 <a class="header-anchor" href="#1-경어의-세-가지-체계" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">종류</th>
+<th scope="col">일본어</th>
+<th scope="col">역할</th>
+<th scope="col">방향</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>존경어</td>
+<td>尊敬語 (そんけいご)</td>
+<td>상대방의 행동을 높임</td>
+<td>상대↑</td>
+</tr>
+<tr>
+<td>겸양어</td>
+<td>謙譲語 (けんじょうご)</td>
+<td>나의 행동을 낮춤</td>
+<td>나↓</td>
+</tr>
+<tr>
+<td>정중어</td>
+<td>丁寧語 (ていねいご)</td>
+<td>말투 자체를 정중하게</td>
+<td>전체↑</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【존경어 — 상대방 행동을 높임】
+せんせいは いらっしゃいますか。
+선생님은 계십니까? (いる의 존경어)
+
+【겸양어 — 내 행동을 낮춤】
+わたしが ごあんないいたします。
+제가 안내해 드리겠습니다. (する의 겸양어)
+
+【정중어 — 말투 자체를 정중하게】
+これは わたしの ほんです。
+이것은 저의 책입니다. (です·ます체)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-존경어---상대방-행동을-높이는-표현" tabindex="-1" data-src-line="44">2. 존경어 (尊敬語) — 상대방 행동을 높이는 표현 <a class="header-anchor" href="#2-존경어---상대방-행동을-높이는-표현" aria-hidden="true">#</a></h2>
+<h3 id="핵심-존경어-동사-변환표" tabindex="-1" data-src-line="46">핵심 존경어 동사 변환표 <a class="header-anchor" href="#핵심-존경어-동사-변환표" aria-hidden="true">#</a></h3>
+<p>가장 중요한 불규칙 존경어 동사입니다. <strong>통째로 암기</strong>해야 합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기본형</th>
+<th scope="col">존경어</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>いる</td>
+<td>いらっしゃる</td>
+<td>계시다</td>
+</tr>
+<tr>
+<td>いく</td>
+<td>いらっしゃる</td>
+<td>가시다</td>
+</tr>
+<tr>
+<td>くる</td>
+<td>いらっしゃる</td>
+<td>오시다</td>
+</tr>
+<tr>
+<td>する</td>
+<td>なさる</td>
+<td>하시다</td>
+</tr>
+<tr>
+<td>いう</td>
+<td>おっしゃる</td>
+<td>말씀하시다</td>
+</tr>
+<tr>
+<td>たべる · のむ</td>
+<td>めしあがる</td>
+<td>드시다</td>
+</tr>
+<tr>
+<td>もらう</td>
+<td>いただく</td>
+<td>받으시다 (※겸양으로도 사용)</td>
+</tr>
+<tr>
+<td>くれる</td>
+<td>くださる</td>
+<td>주시다</td>
+</tr>
+<tr>
+<td>みる</td>
+<td>ごらんになる</td>
+<td>보시다</td>
+</tr>
+<tr>
+<td>しっている</td>
+<td>ごぞんじだ</td>
+<td>알고 계시다</td>
+</tr>
+<tr>
+<td>きる(着る)</td>
+<td>おめしになる</td>
+<td>입으시다</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="존경어-예문" tabindex="-1" data-src-line="64">존경어 예문 <a class="header-anchor" href="#존경어-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">せんせいは いらっしゃいますか。
+선생님은 계십니까?
+
+しゃちょうは もう おかえりに なりましたか。
+사장님은 이미 돌아가셨습니까?
+
+先生は 何と おっしゃいましたか。
+선생님은 뭐라고 말씀하셨습니까?
+
+どうぞ めしあがってください。
+어서 드십시오.
+
+この えを ごらんになりましたか。
+이 그림을 보셨습니까?
+
+たなかさんの れんらくさきを ごぞんじですか。
+다나카 씨의 연락처를 알고 계십니까?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3---동사형----일반-존경어-패턴" tabindex="-1" data-src-line="88">3. お/ご + 동사ます형 + になる — 일반 존경어 패턴 <a class="header-anchor" href="#3---동사형----일반-존경어-패턴" aria-hidden="true">#</a></h2>
+<p>불규칙 변환 외에, 대부분의 동사는 아래 패턴으로 존경어를 만들 수 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">お + 동사ます형 + になります (존경)
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기본형</th>
+<th scope="col">존경어 패턴</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>よむ</td>
+<td>お よみに なります</td>
+</tr>
+<tr>
+<td>かく</td>
+<td>お かきに なります</td>
+</tr>
+<tr>
+<td>まつ</td>
+<td>お まちに なります</td>
+</tr>
+<tr>
+<td>つかう</td>
+<td>お つかいに なります</td>
+</tr>
+<tr>
+<td>でかける</td>
+<td>お でかけに なります</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">もう およみに なりましたか。
+이미 읽으셨습니까?
+
+すこし おまちください。
+잠시 기다려 주십시오.
+
+どちらへ おでかけですか。
+어디에 외출하십니까?
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>お vs ご</strong></p>
+<ul>
+<li><strong>お</strong>: 주로 일본어 고유어 앞 (おなまえ·おしごと·おでんわ)</li>
+<li><strong>ご</strong>: 주로 한자어 앞 (ごかぞく·ごじゅうしょ·ごれんらく)<br>
+예외도 있으므로 자주 쓰이는 것은 통째로 익히는 것이 효과적입니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="4-겸양어---나의-행동을-낮추는-표현" tabindex="-1" data-src-line="122">4. 겸양어 (謙譲語) — 나의 행동을 낮추는 표현 <a class="header-anchor" href="#4-겸양어---나의-행동을-낮추는-표현" aria-hidden="true">#</a></h2>
+<h3 id="핵심-겸양어-동사-변환표" tabindex="-1" data-src-line="124">핵심 겸양어 동사 변환표 <a class="header-anchor" href="#핵심-겸양어-동사-변환표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기본형</th>
+<th scope="col">겸양어</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>いる</td>
+<td>おる</td>
+<td>있다 (저는 ~에 있습니다)</td>
+</tr>
+<tr>
+<td>いく</td>
+<td>まいる</td>
+<td>가다</td>
+</tr>
+<tr>
+<td>くる</td>
+<td>まいる</td>
+<td>오다</td>
+</tr>
+<tr>
+<td>する</td>
+<td>いたす</td>
+<td>하다</td>
+</tr>
+<tr>
+<td>いう</td>
+<td>もうす / もうしあげる</td>
+<td>말씀드리다</td>
+</tr>
+<tr>
+<td>たべる · のむ</td>
+<td>いただく</td>
+<td>먹다·마시다 (받아 먹다)</td>
+</tr>
+<tr>
+<td>もらう</td>
+<td>いただく</td>
+<td>받다</td>
+</tr>
+<tr>
+<td>あげる</td>
+<td>さしあげる</td>
+<td>드리다</td>
+</tr>
+<tr>
+<td>みる</td>
+<td>はいけんする</td>
+<td>보다 (삼가 보다)</td>
+</tr>
+<tr>
+<td>しっている</td>
+<td>ぞんじている</td>
+<td>알고 있다</td>
+</tr>
+<tr>
+<td>たずねる</td>
+<td>うかがう</td>
+<td>방문하다·여쭤보다</td>
+</tr>
+<tr>
+<td>きく</td>
+<td>うかがう / おうかがいする</td>
+<td>여쭤보다</td>
+</tr>
+<tr>
+<td>もらう·きく</td>
+<td>うかがう</td>
+<td>듣다·여쭤보다</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="겸양어-예문" tabindex="-1" data-src-line="142">겸양어 예문 <a class="header-anchor" href="#겸양어-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">わたしは やまだと もうします。
+저는 야마다라고 합니다. (= 야마다입니다)
+
+ただいま たんとうしゃが おりません。
+지금 담당자가 자리에 없습니다.
+
+あした ごじに まいります。
+내일 5시에 가겠습니다.
+
+しょうしょう おまちいただけますか。
+잠시 기다려 주시겠습니까?
+
+こちらの しょるいを はいけんいたします。
+이쪽 서류를 삼가 살펴보겠습니다.
+
+せんせいの おたくに うかがいました。
+선생님 댁을 방문했습니다.
+
+すこし うかがってもよろしいでしょうか。
+조금 여쭤봐도 괜찮겠습니까?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5---동사형----겸양어-패턴" tabindex="-1" data-src-line="169">5. お/ご + 동사ます형 + する — 겸양어 패턴 <a class="header-anchor" href="#5---동사형----겸양어-패턴" aria-hidden="true">#</a></h2>
+<p>겸양어도 규칙 패턴이 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">お + 동사ます형 + します (겸양)
+</code></pre></div></code></pre>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기본형</th>
+<th scope="col">겸양어 패턴</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>でんわする</td>
+<td>おでんわします</td>
+<td>전화드리다</td>
+</tr>
+<tr>
+<td>おくる</td>
+<td>おおくりします</td>
+<td>보내드리다</td>
+</tr>
+<tr>
+<td>つたえる</td>
+<td>おつたえします</td>
+<td>전해드리다</td>
+</tr>
+<tr>
+<td>てつだう</td>
+<td>おてつだいします</td>
+<td>도와드리다</td>
+</tr>
+<tr>
+<td>もちする</td>
+<td>おもちします</td>
+<td>들어드리다</td>
+</tr>
+<tr>
+<td>あんないする</td>
+<td>ごあんないします</td>
+<td>안내해드리다</td>
+</tr>
+<tr>
+<td>せつめいする</td>
+<td>ごせつめいします</td>
+<td>설명드리다</td>
+</tr>
+<tr>
+<td>れんらくする</td>
+<td>ごれんらくします</td>
+<td>연락드리다</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">のちほど こちらから おでんわします。
+나중에 이쪽에서 전화드리겠습니다.
+
+おにもつを おもちしましょうか。
+짐을 들어드릴까요?
+
+ごあんないいたします。
+안내해 드리겠습니다.
+
+けっかを ごれんらくいたします。
+결과를 연락드리겠습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-정중어---말투-자체를-정중하게" tabindex="-1" data-src-line="204">6. 정중어 (丁寧語) — 말투 자체를 정중하게 <a class="header-anchor" href="#6-정중어---말투-자체를-정중하게" aria-hidden="true">#</a></h2>
+<p>정중어는 특정 동사를 높이거나 낮추는 것이 아니라, <strong>말투 전체를 정중하게</strong> 만드는 표현입니다.</p>
+<h3 id="-체" tabindex="-1" data-src-line="208">① です·ます체 <a class="header-anchor" href="#-체" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">これは ほんです。
+이것은 책입니다.
+
+まいにち べんきょうします。
+매일 공부합니다.
+</code></pre></div></code></pre>
+<h3 id="---명사--정중한-명사-표현" tabindex="-1" data-src-line="218">② お/ご + 명사 — 정중한 명사 표현 <a class="header-anchor" href="#---명사--정중한-명사-표현" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기본 명사</th>
+<th scope="col">정중 표현</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>なまえ</td>
+<td>おなまえ</td>
+</tr>
+<tr>
+<td>でんわ</td>
+<td>おでんわ</td>
+</tr>
+<tr>
+<td>しごと</td>
+<td>おしごと</td>
+</tr>
+<tr>
+<td>かね</td>
+<td>おかね</td>
+</tr>
+<tr>
+<td>きゃく</td>
+<td>おきゃくさま</td>
+</tr>
+<tr>
+<td>かいしゃ</td>
+<td>かいしゃさま / 御社(おんしゃ)</td>
+</tr>
+<tr>
+<td>じゅうしょ</td>
+<td>ごじゅうしょ</td>
+</tr>
+<tr>
+<td>かぞく</td>
+<td>ごかぞく</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">おなまえを おきかせください。
+성함을 알려주십시오.
+
+おでんわ ありがとうございます。
+전화 감사합니다.
+
+ごじゅうしょを おしえていただけますか。
+주소를 알려주시겠습니까?
+</code></pre></div></code></pre>
+<h3 id="---의-정중형" tabindex="-1" data-src-line="242">③ ございます — です의 정중형 <a class="header-anchor" href="#---의-정중형" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">こちらが ぱんふれっとで ございます。
+이쪽이 팸플릿입니다. (더 정중한 です)
+
+ありがとうございます。
+감사합니다.
+
+おてあらいは あちらに ございます。
+화장실은 저쪽에 있습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-존경어-vs-겸양어--혼동-주의" tabindex="-1" data-src-line="257">7. 존경어 vs 겸양어 — 혼동 주의 <a class="header-anchor" href="#7-존경어-vs-겸양어--혼동-주의" aria-hidden="true">#</a></h2>
+<p>가장 많이 혼동하는 쌍을 정리합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">상황</th>
+<th scope="col">잘못된 표현</th>
+<th scope="col">올바른 표현</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>내가 갑니다</td>
+<td>❌ いらっしゃいます</td>
+<td>✅ まいります</td>
+</tr>
+<tr>
+<td>선생님이 오셨다</td>
+<td>❌ まいりました</td>
+<td>✅ いらっしゃいました</td>
+</tr>
+<tr>
+<td>내가 먹다</td>
+<td>❌ めしあがります</td>
+<td>✅ いただきます</td>
+</tr>
+<tr>
+<td>손님이 드시다</td>
+<td>❌ いただきます</td>
+<td>✅ めしあがります</td>
+</tr>
+<tr>
+<td>내가 말하다</td>
+<td>❌ おっしゃいます</td>
+<td>✅ もうします</td>
+</tr>
+<tr>
+<td>부장님이 말씀하시다</td>
+<td>❌ もうしました</td>
+<td>✅ おっしゃいました</td>
+</tr>
+</tbody>
+</table>
+</div><blockquote>
+<p>⚠️ <strong>핵심 원칙</strong></p>
+<ul>
+<li><strong>존경어</strong>: 상대방(손윗사람)의 행동에 사용</li>
+<li><strong>겸양어</strong>: 나(자신·자기편)의 행동에 사용<br>
+이 원칙을 지키지 않으면 오히려 실례가 됩니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="8-전화-경어-표현" tabindex="-1" data-src-line="277">8. 전화 경어 표현 <a class="header-anchor" href="#8-전화-경어-표현" aria-hidden="true">#</a></h2>
+<p>전화는 경어를 집중적으로 사용하는 대표적인 상황입니다.</p>
+<h3 id="전화-받을-때" tabindex="-1" data-src-line="281">전화 받을 때 <a class="header-anchor" href="#전화-받을-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">はい、（かいしゃ名）でございます。
+네, (회사명)입니다.
+
+いつも おせわに なっております。
+항상 신세 지고 있습니다. (인사 표현)
+
+しょうしょう おまちくださいませ。
+잠시 기다려 주십시오.
+
+たんとうの ものに おつなぎいたします。
+담당자에게 연결해 드리겠습니다.
+</code></pre></div></code></pre>
+<h3 id="담당자-부재-시" tabindex="-1" data-src-line="297">담당자 부재 시 <a class="header-anchor" href="#담당자-부재-시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">もうしわけございませんが、
+야마다는 자리를 비웠습니다.
+やまだは ただいま せきを はずしております。
+
+よろしければ、折り返し おでんわいたしましょうか。
+괜찮으시면, 다시 전화드릴까요?
+
+おなまえと おでんわばんごうを おきかせいただけますか。
+성함과 전화번호를 알려주시겠습니까?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-비즈니스-경어-실전-표현" tabindex="-1" data-src-line="313">9. 비즈니스 경어 실전 표현 <a class="header-anchor" href="#9-비즈니스-경어-실전-표현" aria-hidden="true">#</a></h2>
+<h3 id="방문접대" tabindex="-1" data-src-line="315">방문·접대 <a class="header-anchor" href="#방문접대" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ようこそ いらっしゃいました。
+잘 오셨습니다.
+
+こちらへ どうぞ。
+이쪽으로 오십시오.
+
+おかけに なってください。
+앉으십시오.
+
+なにか おのみものは いかがでしょうか。
+음료는 어떻게 하시겠습니까?
+</code></pre></div></code></pre>
+<h3 id="이메일문서" tabindex="-1" data-src-line="331">이메일·문서 <a class="header-anchor" href="#이메일문서" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">お世話に なっております。
+신세 지고 있습니다. (이메일 인사)
+
+いつも おせわに なっております。
+항상 신세 지고 있습니다.
+
+よろしく おねがいいたします。
+잘 부탁드립니다.
+
+ご確認の ほど よろしく おねがいいたします。
+확인해 주시기 바랍니다.
+
+ご不明な点が ございましたら、おきがるに おもうしつけください。
+궁금한 점이 있으시면, 편하게 말씀해 주십시오.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-경어-레벨-비교표--같은-의미-다른-정중도" tabindex="-1" data-src-line="352">10. 경어 레벨 비교표 — 같은 의미, 다른 정중도 <a class="header-anchor" href="#10-경어-레벨-비교표--같은-의미-다른-정중도" aria-hidden="true">#</a></h2>
+<p>&quot;회의에 참석하겠습니까?&quot;를 정중도 순으로:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【반말】
+かいぎ、でる？
+회의 나와?
+
+【보통 정중 — ます체】
+かいぎに でますか。
+회의에 나오십니까?
+
+【정중 — 존경어】
+かいぎに いらっしゃいますか。
+회의에 오십니까?
+
+【매우 정중 — 존경어 + 정중어】
+かいぎに ご出席いただけますでしょうか。
+회의에 참석해 주시겠습니까?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-실전-회화--비즈니스-방문" tabindex="-1" data-src-line="376">11. 실전 회화 — 비즈니스 방문 <a class="header-anchor" href="#11-실전-회화--비즈니스-방문" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【회사 방문 상황】
+
+うけつけ：いらっしゃいませ。
+         이랏샤이마세。
+         (어서 오십시오.)
+
+きゃく：はじめまして。ABC商事の キムと もうします。
+       하지메마시테。ABC쇼우지노 키무토 모우시마스。
+       (처음 뵙겠습니다. ABC상사의 김이라고 합니다.)
+
+       じゅうじに やまださまと おやくそくが
+       ございまして、まいりました。
+       쥬우지니 야마다사마토 오야쿠소쿠가
+       고자이마시테、마이리마시타。
+       (10시에 야마다 님과 약속이 있어 왔습니다.)
+
+うけつけ：かしこまりました。
+         카시코마리마시타。
+         (알겠습니다.)
+
+         しょうしょう おまちいただけますでしょうか。
+         쇼우쇼우 오마치이타다케마스데쇼우카?
+         (잠시 기다려 주시겠습니까?)
+
+きゃく：はい、よろしく おねがいいたします。
+       하이、요로시쿠 오네가이이타시마스。
+       (네, 잘 부탁드립니다.)
+
+【잠시 후】
+
+やまだ：おまたせいたしました。やまだで ございます。
+       오마타세이타시마시타。야마다데 고자이마스。
+       (오래 기다리셨습니다. 야마다입니다.)
+
+       はじめまして、どうぞ よろしく おねがいいたします。
+       하지메마시테、도우조 요로시쿠 오네가이이타시마스。
+       (처음 뵙겠습니다, 잘 부탁드립니다.)
+
+きゃく：こちらこそ、どうぞ よろしく おねがいいたします。
+       코치라코소、도우조 요로시쿠 오네가이이타시마스。
+       (저야말로, 잘 부탁드립니다.)
+
+       ほんじつは おじかんを いただきまして、
+       혼지츠와 오지칸오 이타다키마시테、
+       (오늘 시간을 내주셔서,)
+
+       ありがとうございます。
+       아리가토우고자이마스。
+       (감사합니다.)
+
+やまだ：こちらこそ。では、こちらへ どうぞ。
+       코치라코소。데와、코치라에 도우조。
+       (저야말로요. 그럼, 이쪽으로 오십시오.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="12-경어-문형-정리" tabindex="-1" data-src-line="436">12. 경어 문형 정리 <a class="header-anchor" href="#12-경어-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">기본형</th>
+<th scope="col">존경어</th>
+<th scope="col">겸양어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>いる</td>
+<td>いらっしゃいます</td>
+<td>おります</td>
+</tr>
+<tr>
+<td>いく</td>
+<td>いらっしゃいます</td>
+<td>まいります</td>
+</tr>
+<tr>
+<td>くる</td>
+<td>いらっしゃいます</td>
+<td>まいります</td>
+</tr>
+<tr>
+<td>する</td>
+<td>なさいます</td>
+<td>いたします</td>
+</tr>
+<tr>
+<td>いう</td>
+<td>おっしゃいます</td>
+<td>もうします</td>
+</tr>
+<tr>
+<td>たべる</td>
+<td>めしあがります</td>
+<td>いただきます</td>
+</tr>
+<tr>
+<td>みる</td>
+<td>ごらんになります</td>
+<td>はいけんします</td>
+</tr>
+<tr>
+<td>しっている</td>
+<td>ごぞんじです</td>
+<td>ぞんじております</td>
+</tr>
+<tr>
+<td>もらう</td>
+<td>—</td>
+<td>いただきます</td>
+</tr>
+<tr>
+<td>あげる</td>
+<td>くださいます</td>
+<td>さしあげます</td>
+</tr>
+<tr>
+<td>たずねる</td>
+<td>—</td>
+<td>うかがいます</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="-시리즈-완결--전체-18강-총복습" tabindex="-1" data-src-line="454">🎉 시리즈 완결! — 전체 18강 총복습 <a class="header-anchor" href="#-시리즈-완결--전체-18강-총복습" aria-hidden="true">#</a></h2>
+<p>드디어 <strong>일본어 공부 시리즈 전 18강이 완성</strong>되었습니다!<br>
+지금까지 달려온 길을 한 번 돌아봅니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">강</th>
+<th scope="col">주제</th>
+<th scope="col">핵심 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1강</td>
+<td>히라가나·가타카나</td>
+<td>일본어 문자 체계 전체</td>
+</tr>
+<tr>
+<td>2강</td>
+<td>발음 규칙</td>
+<td>탁음·요음·촉음·장음</td>
+</tr>
+<tr>
+<td>3강</td>
+<td>자기소개</td>
+<td>～は～です / じゃありません</td>
+</tr>
+<tr>
+<td>4강</td>
+<td>지시대명사</td>
+<td>こそあど 전체 체계</td>
+</tr>
+<tr>
+<td>5강</td>
+<td>숫자·시간·날짜</td>
+<td>～時·～分·～円·불규칙 읽기</td>
+</tr>
+<tr>
+<td>6강</td>
+<td>동사 기초</td>
+<td>3그룹 분류·ます형·이동 표현</td>
+</tr>
+<tr>
+<td>7강</td>
+<td>조사</td>
+<td>を·で·と·に·へ·が 전체</td>
+</tr>
+<tr>
+<td>8강</td>
+<td>수수 표현 기초</td>
+<td>あげます·もらいます·くれます</td>
+</tr>
+<tr>
+<td>9강</td>
+<td>형용사</td>
+<td>い형·な형 4가지 활용</td>
+</tr>
+<tr>
+<td>10강</td>
+<td>존재 표현</td>
+<td>います·あります·위치 표현</td>
+</tr>
+<tr>
+<td>11강</td>
+<td>て형</td>
+<td>그룹별 변환 규칙·た형 파생</td>
+</tr>
+<tr>
+<td>12강</td>
+<td>～ている</td>
+<td>진행·상태·습관 3가지 용법</td>
+</tr>
+<tr>
+<td>13강</td>
+<td>의뢰·허가·금지</td>
+<td>てください·てもいいです·てはいけません</td>
+</tr>
+<tr>
+<td>14강</td>
+<td>가능 표현</td>
+<td>가능형·ことができます</td>
+</tr>
+<tr>
+<td>15강</td>
+<td>경험 표현</td>
+<td>たことがあります·たばかり·たり</td>
+</tr>
+<tr>
+<td>16강</td>
+<td>조건 표현</td>
+<td>たら·ば·と·なら 비교</td>
+</tr>
+<tr>
+<td>17강</td>
+<td>수수 표현 심화</td>
+<td>てあげる·てもらう·てくれる</td>
+</tr>
+<tr>
+<td>18강</td>
+<td>경어 표현</td>
+<td>존경어·겸양어·정중어 완전 정리</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="482">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>경어는 단기간에 완벽하게 익히기 어렵습니다.<br>
+중요한 것은 <strong>원칙을 이해하고, 자주 쓰이는 표현부터 하나씩 쌓아가는 것</strong>입니다.</p>
+<p>경어 학습의 실용적인 출발점을 제안합니다:</p>
+<ol>
+<li><strong>ます·です체 완전 정착</strong> — 모든 경어의 기반</li>
+<li><strong>いらっしゃいます·まいります·いたします·もうします</strong> — 4개만 먼저 완벽히</li>
+<li><strong>おまちください·よろしくおねがいいたします</strong> — 실전에서 바로 쓸 수 있는 표현</li>
+<li><strong>실제 일본 회사 이메일·전화 표현 반복 읽기</strong> — 패턴 감각 익히기</li>
+</ol>
+<p>이로써 N5 기초부터 N4 중급, 그리고 경어까지 — 긴 여정이 마무리되었습니다.<br>
+이 시리즈를 끝낸 여러분은 일본어로 기본적인 의사소통을 할 수 있는 실력을 갖추게 되었습니다. おつかれさまでした！🎌</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차 ✅ 전체 완료</strong></p>
+<p><strong>[초급 전반 — N5 레벨] ✅</strong></p>
+<ul>
+<li>1강 ~ 10강 완료</li>
+</ul>
+<p><strong>[초급 후반 — N4 레벨] ✅</strong></p>
+<ul>
+<li>11강: て형 만들기</li>
+<li>12강: ~ている</li>
+<li>13강: ~てください · ~てもいいです · ~てはいけません</li>
+<li>14강: 가능 표현</li>
+<li>15강: 경험 표현</li>
+<li>16강: 조건 표현</li>
+<li>17강: 수수 표현 심화</li>
+<li><strong>18강</strong>: 경어 표현 — 존경어 · 겸양어 · 정중어 ✅ 완결</li>
+</ul>
+</blockquote>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Ld",null,{"content":"$e"}]}]}]
+8:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-17-te-giving-receiving","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 17강: 수수 표현 심화 — ～てあげる · ～てもらう · ～てくれる"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Lf",null,{"href":"/post/english/english-lesson-15-passive-voice","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 15강: 수동태 완전 정복 — be동사 + p.p."}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","japanese/japanese-lesson-17-te-giving-receiving",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-17-te-giving-receiving","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 17강: 수수 표현 심화 — ～てあげる · ～てもらう · ～てくれる"}]}],["$","li","japanese/japanese-lesson-16-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-16-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 16강: 조건 표현 완전 정복 — ～たら · ～ば · ～と · ～なら"}]}],["$","li","japanese/japanese-lesson-15-experience",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/japanese/japanese-lesson-15-experience","className":"text-sm font-medium hover:text-[var(--primary)]","children":"일본어 15강: 경험 표현 완전 정복 — ～たことがあります"}]}]]}]]}]]}]
+9:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"] { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+b:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
+12:null

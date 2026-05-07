@@ -1,0 +1,765 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+9:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+b:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+e:I[484,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"vEFln49GSsrPZ4JvGGo_M","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72 ","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-18-conditionals\"},\"headline\":\"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료\",\"description\":\"영어 가정법 0~3형과 혼합 가정법, I wish/If only, unless까지 조건 표현의 모든 것을 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-06T11:31:00.000Z\",\"dateModified\":\"2026-05-06T11:31:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-18-conditionals\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"conditionals\",\"if-clauses\",\"subjunctive\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료","slugPath":"english/english-lesson-18-conditionals","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-가정법-개요--현실성에-따른-4가지-유형","text":"1. 가정법 개요 — 현실성에 따른 4가지 유형","level":2},{"id":"2-0형-가정법--항상-사실인-조건","text":"2. 0형 가정법 — 항상 사실인 조건","level":2},{"id":"구조","text":"구조","level":3},{"id":"3-1형-가정법--실현-가능한-미래-조건","text":"3. 1형 가정법 — 실현 가능한 미래 조건","level":2},{"id":"구조-1","text":"구조","level":3},{"id":"1형에서-will-외-다른-조동사-사용","text":"1형에서 will 외 다른 조동사 사용","level":3},{"id":"unless--if--not-하지-않는다면","text":"unless — if ~ not (~하지 않는다면)","level":3},{"id":"4-2형-가정법--비현실적-현재미래-가정","text":"4. 2형 가정법 — 비현실적 현재·미래 가정","level":2},{"id":"구조-2","text":"구조","level":3},{"id":"were--be동사의-특별한-2형-가정법","text":"were — be동사의 특별한 2형 가정법","level":3},{"id":"5-3형-가정법--과거의-비현실적-가정","text":"5. 3형 가정법 — 과거의 비현실적 가정","level":2},{"id":"구조-3","text":"구조","level":3},{"id":"3형에서-다른-조동사-사용","text":"3형에서 다른 조동사 사용","level":3},{"id":"6-가정법-4가지-완전-비교","text":"6. 가정법 4가지 완전 비교","level":2},{"id":"7-혼합-가정법-mixed-conditionals","text":"7. 혼합 가정법 (Mixed Conditionals)","level":2},{"id":"유형--과거-조건--현재-결과","text":"유형 ① 과거 조건 + 현재 결과","level":3},{"id":"유형--현재-조건--과거-결과","text":"유형 ② 현재 조건 + 과거 결과","level":3},{"id":"8-i-wish--if-only--소원후회-표현","text":"8. I wish / If only — 소원·후회 표현","level":2},{"id":"i-wish--과거시제--현재-상황에-대한-소원","text":"I wish + 과거시제 — 현재 상황에 대한 소원","level":3},{"id":"i-wish--had--pp--과거에-대한-후회","text":"I wish + had + p.p. — 과거에 대한 후회","level":3},{"id":"i-wish--would--다른-사람의-행동-변화를-바랄-때","text":"I wish + would — 다른 사람의 행동 변화를 바랄 때","level":3},{"id":"if-only--i-wish보다-강한-감정","text":"If only — I wish보다 강한 감정","level":3},{"id":"9-as-if--as-though--인-것처럼","text":"9. as if / as though — ~인 것처럼","level":2},{"id":"10-다양한-조건-접속사","text":"10. 다양한 조건 접속사","level":2},{"id":"unless-하지-않으면","text":"unless (~하지 않으면)","level":3},{"id":"as-long-as--provided-that--providing-that-하는-한","text":"as long as / provided (that) / providing (that) (~하는 한)","level":3},{"id":"even-if-이라도","text":"even if (~이라도)","level":3},{"id":"suppose--supposing-만약-라면","text":"suppose / supposing (만약 ~라면)","level":3},{"id":"in-case-혹시-에-대비하여","text":"in case (혹시 ~에 대비하여)","level":3},{"id":"11-도치-가정법--격식체문어체","text":"11. 도치 가정법 — 격식체·문어체","level":2},{"id":"12-가정법-총정리표","text":"12. 가정법 총정리표","level":2},{"id":"13-실전-회화--가정법-총동원","text":"13. 실전 회화 — 가정법 총동원","level":2},{"id":"상황--진로-상담","text":"상황 ① 진로 상담","level":3},{"id":"상황--사고를-돌이켜보며","text":"상황 ② 사고를 돌이켜보며","level":3},{"id":"상황--일상-대화","text":"상황 ③ 일상 대화","level":3},{"id":"14-자주-틀리는-실수-정리","text":"14. 자주 틀리는 실수 정리","level":2},{"id":"실수--if절에-will-사용","text":"실수 ① if절에 will 사용","level":3},{"id":"실수--2형에서-was-사용-격식체에서","text":"실수 ② 2형에서 was 사용 (격식체에서)","level":3},{"id":"실수--3형에서-would-have를-if절에-사용","text":"실수 ③ 3형에서 would have를 if절에 사용","level":3},{"id":"실수--i-wish--현재시제","text":"실수 ④ I wish + 현재시제","level":3},{"id":"실수--unless와-if--not-혼용-오류","text":"실수 ⑤ unless와 if ~ not 혼용 오류","level":3},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"-a2-레벨-완주--1118강-전체-복습","text":"🎉 A2 레벨 완주! — 11~18강 전체 복습","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5",false,"$L6"]}],["$L7"],"$L8"]}],"loading":null,"isPartial":false}
+3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-18-conditionals"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 가정법 0~3형과 혼합 가정법, I wish/If only, unless까지 조건 표현의 모든 것을 교과서 수준으로 완전히 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T11:31:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T11:31:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$L9",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","conditionals",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","conditionals"]}],["$","span","if-clauses",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","if-clauses"]}],["$","span","subjunctive",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","subjunctive"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}],"$La"]}]
+c:Tb5f3,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-가정법-개요--현실성에-따른-4가지-유형">1. 가정법 개요 — 현실성에 따른 4가지 유형 </a></li><li><a href="#2-0형-가정법--항상-사실인-조건">2. 0형 가정법 — 항상 사실인 조건 </a><ul><li><a href="#구조">구조 </a></li></ul></li><li><a href="#3-1형-가정법--실현-가능한-미래-조건">3. 1형 가정법 — 실현 가능한 미래 조건 </a><ul><li><a href="#구조-1">구조 </a></li><li><a href="#1형에서-will-외-다른-조동사-사용">1형에서 will 외 다른 조동사 사용 </a></li><li><a href="#unless--if--not-하지-않는다면">unless — if ~ not (~하지 않는다면) </a></li></ul></li><li><a href="#4-2형-가정법--비현실적-현재미래-가정">4. 2형 가정법 — 비현실적 현재·미래 가정 </a><ul><li><a href="#구조-2">구조 </a></li><li><a href="#were--be동사의-특별한-2형-가정법">were — be동사의 특별한 2형 가정법 </a></li></ul></li><li><a href="#5-3형-가정법--과거의-비현실적-가정">5. 3형 가정법 — 과거의 비현실적 가정 </a><ul><li><a href="#구조-3">구조 </a></li><li><a href="#3형에서-다른-조동사-사용">3형에서 다른 조동사 사용 </a></li></ul></li><li><a href="#6-가정법-4가지-완전-비교">6. 가정법 4가지 완전 비교 </a></li><li><a href="#7-혼합-가정법-mixed-conditionals">7. 혼합 가정법 (Mixed Conditionals) </a><ul><li><a href="#유형--과거-조건--현재-결과">유형 ① 과거 조건 + 현재 결과 </a></li><li><a href="#유형--현재-조건--과거-결과">유형 ② 현재 조건 + 과거 결과 </a></li></ul></li><li><a href="#8-i-wish--if-only--소원후회-표현">8. I wish / If only — 소원·후회 표현 </a><ul><li><a href="#i-wish--과거시제--현재-상황에-대한-소원">I wish + 과거시제 — 현재 상황에 대한 소원 </a></li><li><a href="#i-wish--had--pp--과거에-대한-후회">I wish + had + p.p. — 과거에 대한 후회 </a></li><li><a href="#i-wish--would--다른-사람의-행동-변화를-바랄-때">I wish + would — 다른 사람의 행동 변화를 바랄 때 </a></li><li><a href="#if-only--i-wish보다-강한-감정">If only — I wish보다 강한 감정 </a></li></ul></li><li><a href="#9-as-if--as-though--인-것처럼">9. as if / as though — ~인 것처럼 </a></li><li><a href="#10-다양한-조건-접속사">10. 다양한 조건 접속사 </a><ul><li><a href="#unless-하지-않으면">unless (~하지 않으면) </a></li><li><a href="#as-long-as--provided-that--providing-that-하는-한">as long as / provided (that) / providing (that) (~하는 한) </a></li><li><a href="#even-if-이라도">even if (~이라도) </a></li><li><a href="#suppose--supposing-만약-라면">suppose / supposing (만약 ~라면) </a></li><li><a href="#in-case-혹시-에-대비하여">in case (혹시 ~에 대비하여) </a></li></ul></li><li><a href="#11-도치-가정법--격식체문어체">11. 도치 가정법 — 격식체·문어체 </a></li><li><a href="#12-가정법-총정리표">12. 가정법 총정리표 </a></li><li><a href="#13-실전-회화--가정법-총동원">13. 실전 회화 — 가정법 총동원 </a><ul><li><a href="#상황--진로-상담">상황 ① 진로 상담 </a></li><li><a href="#상황--사고를-돌이켜보며">상황 ② 사고를 돌이켜보며 </a></li><li><a href="#상황--일상-대화">상황 ③ 일상 대화 </a></li></ul></li><li><a href="#14-자주-틀리는-실수-정리">14. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--if절에-will-사용">실수 ① if절에 will 사용 </a></li><li><a href="#실수--2형에서-was-사용-격식체에서">실수 ② 2형에서 was 사용 (격식체에서) </a></li><li><a href="#실수--3형에서-would-have를-if절에-사용">실수 ③ 3형에서 would have를 if절에 사용 </a></li><li><a href="#실수--i-wish--현재시제">실수 ④ I wish + 현재시제 </a></li><li><a href="#실수--unless와-if--not-혼용-오류">실수 ⑤ unless와 if ~ not 혼용 오류 </a></li></ul></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#-a2-레벨-완주--1118강-전체-복습">🎉 A2 레벨 완주! — 11~18강 전체 복습 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>“만약 내가 더 열심히 공부했다면 시험을 통과했을 텐데”,<br>
+“만약 복권에 당첨된다면 뭘 할 것 같아요?”,<br>
+“비가 오면 나는 우산을 가져가요” —</p>
+<p>이 세 문장은 모두 if(만약)를 쓰지만 <strong>시제와 의미가 전혀 다릅니다.</strong></p>
+<p>영어 가정법은 <strong>얼마나 현실적인 상황인지</strong>에 따라 시제가 달라집니다.<br>
+이 원리를 이해하면 모든 가정법이 자연스럽게 연결됩니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>0형·1형·2형·3형 조건문의 구조와 의미를 정확히 구분할 수 있습니다.</li>
+<li>현실적 가정과 비현실적 가정을 영어로 자연스럽게 표현할 수 있습니다.</li>
+<li>I wish / If only / As if 표현을 익힐 수 있습니다.</li>
+<li>unless / as long as / provided that 등 조건 표현을 익힐 수 있습니다.</li>
+<li>혼합 가정법을 이해할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-가정법-개요--현실성에-따른-4가지-유형" tabindex="-1" data-src-line="23">1. 가정법 개요 — 현실성에 따른 4가지 유형 <a class="header-anchor" href="#1-가정법-개요--현실성에-따른-4가지-유형" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">유형</th>
+<th scope="col">이름</th>
+<th scope="col">현실성</th>
+<th scope="col">if절 시제</th>
+<th scope="col">주절 시제</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0형</td>
+<td>Zero Conditional</td>
+<td>항상 사실</td>
+<td>현재시제</td>
+<td>현재시제</td>
+</tr>
+<tr>
+<td>1형</td>
+<td>First Conditional</td>
+<td>실현 가능</td>
+<td>현재시제</td>
+<td>will + 동사원형</td>
+</tr>
+<tr>
+<td>2형</td>
+<td>Second Conditional</td>
+<td>비현실적·가상</td>
+<td>과거시제</td>
+<td>would + 동사원형</td>
+</tr>
+<tr>
+<td>3형</td>
+<td>Third Conditional</td>
+<td>과거의 비현실</td>
+<td>had + p.p.</td>
+<td>would have + p.p.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="2-0형-가정법--항상-사실인-조건" tabindex="-1" data-src-line="34">2. 0형 가정법 — 항상 사실인 조건 <a class="header-anchor" href="#2-0형-가정법--항상-사실인-조건" aria-hidden="true">#</a></h2>
+<h3 id="구조" tabindex="-1" data-src-line="36">구조 <a class="header-anchor" href="#구조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + 현재시제, 현재시제.
+</code></pre></div></code></pre>
+<p><strong>과학적 사실, 일반적 진리, 자동적 결과</strong>를 나타냅니다.<br>
+&quot;만약 ~하면 항상 ~하다&quot;의 의미로, <code>if</code> 대신 <code>when</code>으로 바꿔도 됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If you heat water to 100°C, it boils.
+물을 100도로 가열하면 끓습니다. (과학적 사실)
+
+If it rains, the streets get wet.
+비가 오면 거리가 젖어요. (자동적 결과)
+
+If I don&#039;t eat breakfast, I feel tired.
+아침을 먹지 않으면 피곤함을 느껴요. (습관적 사실)
+
+If you mix red and blue, you get purple.
+빨강과 파랑을 섞으면 보라색이 나와요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-1형-가정법--실현-가능한-미래-조건" tabindex="-1" data-src-line="61">3. 1형 가정법 — 실현 가능한 미래 조건 <a class="header-anchor" href="#3-1형-가정법--실현-가능한-미래-조건" aria-hidden="true">#</a></h2>
+<h3 id="구조-1" tabindex="-1" data-src-line="63">구조 <a class="header-anchor" href="#구조-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + 현재시제, will + 동사원형.
+</code></pre></div></code></pre>
+<p><strong>실제로 일어날 가능성이 있는</strong> 미래 상황을 나타냅니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If it rains tomorrow, I&#039;ll take an umbrella.
+내일 비가 오면, 우산을 가져갈 거예요.
+
+If you study hard, you will pass the exam.
+열심히 공부하면, 시험에 합격할 거예요.
+
+If she calls, tell her I&#039;ll be home by 7.
+그녀가 전화하면, 7시까지 집에 있을 거라고 말해줘요.
+
+If we leave now, we won&#039;t be late.
+지금 떠나면, 늦지 않을 거예요.
+
+If I get the job, I&#039;ll celebrate with you.
+직장을 얻으면, 같이 축하할게요.
+</code></pre></div></code></pre>
+<h3 id="1형에서-will-외-다른-조동사-사용" tabindex="-1" data-src-line="88">1형에서 will 외 다른 조동사 사용 <a class="header-anchor" href="#1형에서-will-외-다른-조동사-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If you&#039;re tired, you can rest.
+피곤하면, 쉬어도 돼요. (can — 허가)
+
+If you have any questions, you should ask.
+질문이 있으면, 물어봐야 해요. (should — 충고)
+
+If it doesn&#039;t rain, we might go hiking.
+비가 안 오면, 등산을 갈 수도 있어요. (might — 가능성)
+
+If you finish early, you could come with us.
+일찍 끝나면, 우리와 함께 올 수도 있어요. (could — 제안)
+</code></pre></div></code></pre>
+<h3 id="unless--if--not-하지-않는다면" tabindex="-1" data-src-line="104">unless — if ~ not (~하지 않는다면) <a class="header-anchor" href="#unless--if--not-하지-않는다면" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Unless you study, you won&#039;t pass.
+= If you don&#039;t study, you won&#039;t pass.
+공부하지 않으면, 합격하지 못할 거예요.
+
+I&#039;ll go unless it rains.
+= I&#039;ll go if it doesn&#039;t rain.
+비가 오지 않으면 갈 거예요.
+
+Unless you apologize, she won&#039;t forgive you.
+사과하지 않으면, 그녀는 용서하지 않을 거예요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-2형-가정법--비현실적-현재미래-가정" tabindex="-1" data-src-line="121">4. 2형 가정법 — 비현실적 현재·미래 가정 <a class="header-anchor" href="#4-2형-가정법--비현실적-현재미래-가정" aria-hidden="true">#</a></h2>
+<h3 id="구조-2" tabindex="-1" data-src-line="123">구조 <a class="header-anchor" href="#구조-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + 과거시제, would + 동사원형.
+</code></pre></div></code></pre>
+<p><strong>현실과 반대되거나 실현 가능성이 낮은</strong> 현재/미래 상황을 가정합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If I had more money, I would travel the world.
+돈이 더 있다면, 세계여행을 할 텐데.
+(실제로는 돈이 없음)
+
+If I were you, I wouldn&#039;t do that.
+내가 당신이라면, 그렇게 하지 않을 텐데.
+(실제로는 내가 당신이 아님)
+
+If she lived closer, we would see each other more often.
+그녀가 더 가까이 살았다면, 더 자주 만났을 텐데.
+(실제로는 멀리 삼)
+
+What would you do if you won the lottery?
+복권에 당첨된다면 뭘 하시겠어요?
+(당첨될 가능성이 낮음)
+
+If I could fly, I would visit every country.
+날 수 있다면, 모든 나라를 방문할 텐데.
+(불가능한 가정)
+</code></pre></div></code></pre>
+<h3 id="were--be동사의-특별한-2형-가정법" tabindex="-1" data-src-line="153">were — be동사의 특별한 2형 가정법 <a class="header-anchor" href="#were--be동사의-특별한-2형-가정법" aria-hidden="true">#</a></h3>
+<p>2형 가정법에서 be동사는 주어에 상관없이 <strong>were</strong>를 씁니다.<br>
+(현대 영어에서 was도 사용되지만, 격식체에서는 were가 정확합니다.)</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If I were rich, I would buy a big house.
+내가 부자라면, 큰 집을 살 텐데.
+(❌ If I was rich — 비격식체에서만 허용)
+
+If she were here, she would know what to do.
+그녀가 여기 있다면, 어떻게 해야 할지 알 텐데.
+
+If he were in my position, what would he do?
+그가 내 상황이라면, 어떻게 하겠어?
+
+If I were you, I&#039;d talk to him directly.
+내가 당신이라면, 그에게 직접 말할 텐데.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-3형-가정법--과거의-비현실적-가정" tabindex="-1" data-src-line="175">5. 3형 가정법 — 과거의 비현실적 가정 <a class="header-anchor" href="#5-3형-가정법--과거의-비현실적-가정" aria-hidden="true">#</a></h2>
+<h3 id="구조-3" tabindex="-1" data-src-line="177">구조 <a class="header-anchor" href="#구조-3" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + had + p.p., would have + p.p.
+</code></pre></div></code></pre>
+<p><strong>과거에 일어나지 않은 일</strong>을 가정합니다. 이미 지나간 일이므로 되돌릴 수 없습니다.<br>
+주로 <strong>후회나 안도</strong>를 표현할 때 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If I had studied harder, I would have passed the exam.
+더 열심히 공부했다면, 시험에 합격했을 텐데.
+(실제로는 공부를 덜 해서 떨어짐)
+
+If she had arrived earlier, she wouldn&#039;t have missed the train.
+더 일찍 도착했다면, 기차를 놓치지 않았을 텐데.
+(실제로는 늦게 도착해서 놓침)
+
+If you had told me, I would have helped you.
+말해줬다면, 도와줬을 텐데.
+(실제로는 말하지 않음)
+
+If we hadn&#039;t taken that shortcut, we would have been late.
+그 지름길을 택하지 않았다면, 늦었을 거예요.
+(실제로는 지름길을 택해서 제시간에 도착)
+
+What would you have done if you had been there?
+거기 있었다면 어떻게 했을 것 같아요?
+</code></pre></div></code></pre>
+<h3 id="3형에서-다른-조동사-사용" tabindex="-1" data-src-line="207">3형에서 다른 조동사 사용 <a class="header-anchor" href="#3형에서-다른-조동사-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If I had known, I might have done things differently.
+알았다면, 다르게 했을 수도 있어요. (might have)
+
+If she had asked for help, I could have assisted her.
+도움을 요청했다면, 도와줄 수 있었을 텐데. (could have)
+
+If they had prepared more, they should have done better.
+더 준비했다면, 더 잘 했어야 했는데. (should have)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-가정법-4가지-완전-비교" tabindex="-1" data-src-line="222">6. 가정법 4가지 완전 비교 <a class="header-anchor" href="#6-가정법-4가지-완전-비교" aria-hidden="true">#</a></h2>
+<p>같은 상황을 4가지 가정법으로 표현합니다.</p>
+<p><strong>주제: 비가 오는 상황과 우산</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【0형 — 항상 사실】
+If it rains, I take an umbrella.
+비가 오면 (항상) 우산을 가져가요.
+
+【1형 — 실현 가능한 미래】
+If it rains tomorrow, I&#039;ll take an umbrella.
+내일 비가 오면, 우산을 가져갈 거예요.
+
+【2형 — 비현실적 현재 가정】
+If it rained every day, I would buy a better umbrella.
+매일 비가 온다면, 더 좋은 우산을 살 텐데.
+(실제로는 매일 비가 오지 않음)
+
+【3형 — 과거의 비현실】
+If it had rained yesterday, I would have taken an umbrella.
+어제 비가 왔다면, 우산을 가져갔을 텐데.
+(실제로는 어제 비가 오지 않았음)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-혼합-가정법-mixed-conditionals" tabindex="-1" data-src-line="250">7. 혼합 가정법 (Mixed Conditionals) <a class="header-anchor" href="#7-혼합-가정법-mixed-conditionals" aria-hidden="true">#</a></h2>
+<p><strong>과거의 조건</strong>과 <strong>현재의 결과</strong>를 섞거나 그 반대를 조합합니다.</p>
+<h3 id="유형--과거-조건--현재-결과" tabindex="-1" data-src-line="254">유형 ① 과거 조건 + 현재 결과 <a class="header-anchor" href="#유형--과거-조건--현재-결과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + had + p.p., would + 동사원형 (현재).
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If I had studied medicine, I would be a doctor now.
+의학을 공부했다면, 지금 의사일 텐데.
+(과거에 의학을 공부하지 않음 → 현재 의사가 아님)
+
+If she had taken the job in Seoul, she would live here now.
+서울에서 일자리를 받아들였다면, 지금 여기 살고 있을 텐데.
+
+If he hadn&#039;t spent all his money, he wouldn&#039;t be in debt now.
+돈을 다 쓰지 않았다면, 지금 빚이 없을 텐데.
+</code></pre></div></code></pre>
+<h3 id="유형--현재-조건--과거-결과" tabindex="-1" data-src-line="272">유형 ② 현재 조건 + 과거 결과 <a class="header-anchor" href="#유형--현재-조건--과거-결과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + 과거시제, would have + p.p.
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If I were more organized, I would have finished the project on time.
+내가 더 체계적이었다면, 프로젝트를 제시간에 끝냈을 텐데.
+(현재 체계적이지 않음 → 과거에 제시간에 못 끝냄)
+
+If she were braver, she would have spoken up at the meeting.
+그녀가 더 용감했다면, 회의에서 말했을 텐데.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-i-wish--if-only--소원후회-표현" tabindex="-1" data-src-line="289">8. I wish / If only — 소원·후회 표현 <a class="header-anchor" href="#8-i-wish--if-only--소원후회-표현" aria-hidden="true">#</a></h2>
+<h3 id="i-wish--과거시제--현재-상황에-대한-소원" tabindex="-1" data-src-line="291">I wish + 과거시제 — 현재 상황에 대한 소원 <a class="header-anchor" href="#i-wish--과거시제--현재-상황에-대한-소원" aria-hidden="true">#</a></h3>
+<p>현실과 반대되는 현재 상황을 바랄 때 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I wish I had more time.
+시간이 더 있었으면 좋겠어요.
+(실제로는 시간이 없음)
+
+I wish I could speak French.
+프랑스어를 할 수 있으면 좋겠어요.
+(실제로는 못 함)
+
+I wish the weather were better.
+날씨가 더 좋으면 좋겠어요.
+
+I wish I lived closer to work.
+직장에서 더 가까이 살면 좋겠어요.
+
+She wishes she had a better job.
+그녀는 더 좋은 직업이 있으면 좋겠다고 생각해요.
+</code></pre></div></code></pre>
+<h3 id="i-wish--had--pp--과거에-대한-후회" tabindex="-1" data-src-line="314">I wish + had + p.p. — 과거에 대한 후회 <a class="header-anchor" href="#i-wish--had--pp--과거에-대한-후회" aria-hidden="true">#</a></h3>
+<p>과거에 하지 않은(또는 한) 것을 아쉬워할 때 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I wish I had studied harder.
+더 열심히 공부했으면 좋았을 텐데. (후회)
+
+I wish I hadn&#039;t said that.
+그말을 하지 않았으면 좋았을 텐데. (후회)
+
+I wish I had taken that opportunity.
+그 기회를 잡았으면 좋았을 텐데.
+
+She wishes she had listened to the advice.
+그녀는 그 조언을 들었으면 좋았을 텐데라고 생각해요.
+</code></pre></div></code></pre>
+<h3 id="i-wish--would--다른-사람의-행동-변화를-바랄-때" tabindex="-1" data-src-line="332">I wish + would — 다른 사람의 행동 변화를 바랄 때 <a class="header-anchor" href="#i-wish--would--다른-사람의-행동-변화를-바랄-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I wish you would stop interrupting me.
+당신이 내 말을 끊지 않았으면 좋겠어요.
+
+I wish it would stop raining.
+비가 그쳤으면 좋겠어요.
+
+I wish she would reply to my messages.
+그녀가 내 메시지에 답장해줬으면 좋겠어요.
+</code></pre></div></code></pre>
+<h3 id="if-only--i-wish보다-강한-감정" tabindex="-1" data-src-line="345">If only — I wish보다 강한 감정 <a class="header-anchor" href="#if-only--i-wish보다-강한-감정" aria-hidden="true">#</a></h3>
+<p><code>If only</code>는 I wish와 같은 구조지만 <strong>더 강한 후회나 소망</strong>을 나타냅니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If only I had more money!
+돈이 더 있다면 얼마나 좋을까!
+
+If only I hadn&#039;t made that mistake.
+그 실수를 하지 않았다면 얼마나 좋았을까.
+
+If only she were here with us now.
+그녀가 지금 우리와 함께 있다면 얼마나 좋을까.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-as-if--as-though--인-것처럼" tabindex="-1" data-src-line="362">9. as if / as though — ~인 것처럼 <a class="header-anchor" href="#9-as-if--as-though--인-것처럼" aria-hidden="true">#</a></h2>
+<p>현실과 다른 방식으로 행동하거나 말할 때 씁니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He talks as if he knows everything.
+그는 모든 것을 아는 것처럼 말해요. (실제로는 모름)
+
+She acts as if she were the boss.
+그녀는 자신이 상사인 것처럼 행동해요. (상사가 아님)
+
+He looked as if he had seen a ghost.
+그는 귀신을 본 것처럼 보였어요. (귀신을 본 것은 아님)
+
+She spoke as though she had been there herself.
+그녀는 자신이 직접 거기 있었던 것처럼 말했어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-다양한-조건-접속사" tabindex="-1" data-src-line="382">10. 다양한 조건 접속사 <a class="header-anchor" href="#10-다양한-조건-접속사" aria-hidden="true">#</a></h2>
+<p>if 외에도 다양한 조건 접속사가 있습니다.</p>
+<h3 id="unless-하지-않으면" tabindex="-1" data-src-line="386">unless (~하지 않으면) <a class="header-anchor" href="#unless-하지-않으면" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Unless you leave now, you&#039;ll miss the bus.
+지금 떠나지 않으면, 버스를 놓칠 거예요.
+
+I won&#039;t go unless you come with me.
+당신이 함께 오지 않으면, 나도 가지 않을 거예요.
+</code></pre></div></code></pre>
+<h3 id="as-long-as--provided-that--providing-that-하는-한" tabindex="-1" data-src-line="396">as long as / provided (that) / providing (that) (~하는 한) <a class="header-anchor" href="#as-long-as--provided-that--providing-that-하는-한" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You can borrow my car as long as you drive carefully.
+조심해서 운전하는 한 내 차를 빌릴 수 있어요.
+
+I&#039;ll help you provided (that) you help me in return.
+대신 나를 도와주는 한 도와드릴게요.
+
+You can stay here as long as you need.
+필요한 한 여기 있어도 돼요.
+</code></pre></div></code></pre>
+<h3 id="even-if-이라도" tabindex="-1" data-src-line="409">even if (~이라도) <a class="header-anchor" href="#even-if-이라도" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Even if I had the money, I wouldn&#039;t buy it.
+돈이 있다 해도, 사지 않을 거예요.
+
+She&#039;ll come even if it rains.
+비가 와도 올 거예요.
+
+Even if you apologize, she might not forgive you.
+사과해도, 그녀가 용서하지 않을 수도 있어요.
+</code></pre></div></code></pre>
+<h3 id="suppose--supposing-만약-라면" tabindex="-1" data-src-line="422">suppose / supposing (만약 ~라면) <a class="header-anchor" href="#suppose--supposing-만약-라면" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Suppose you won the lottery, what would you do?
+복권에 당첨된다면, 뭘 하겠어요?
+
+Supposing it doesn&#039;t work, what&#039;s your backup plan?
+그것이 안 된다면, 대안은 뭔가요?
+</code></pre></div></code></pre>
+<h3 id="in-case-혹시-에-대비하여" tabindex="-1" data-src-line="432">in case (혹시 ~에 대비하여) <a class="header-anchor" href="#in-case-혹시-에-대비하여" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Take an umbrella in case it rains.
+혹시 비가 올 경우를 대비해서 우산을 가져가요.
+
+I&#039;ll write it down in case I forget.
+혹시 잊을 경우를 대비해서 적어둘게요.
+
+She keeps a spare key in case she loses hers.
+혹시 잃어버릴 경우를 대비해서 여분 열쇠를 갖고 있어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-도치-가정법--격식체문어체" tabindex="-1" data-src-line="447">11. 도치 가정법 — 격식체·문어체 <a class="header-anchor" href="#11-도치-가정법--격식체문어체" aria-hidden="true">#</a></h2>
+<p><code>if</code>를 생략하고 조동사를 앞으로 보내는 <strong>도치 구문</strong>입니다. 격식체·글쓰기에서 자주 쓰입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【1형 도치】
+If you should need any help → Should you need any help
+If you should have any questions → Should you have any questions
+
+Should you need any assistance, please contact us.
+도움이 필요하시면, 연락해 주세요.
+
+【2형 도치】
+If I were you → Were I you
+If it were possible → Were it possible
+
+Were I in your position, I would do the same.
+내가 당신 입장이라면, 똑같이 할 거예요.
+
+【3형 도치】
+If I had known → Had I known
+If she had been there → Had she been there
+
+Had I known earlier, I would have helped.
+더 일찍 알았다면, 도와줬을 텐데.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="12-가정법-총정리표" tabindex="-1" data-src-line="476">12. 가정법 총정리표 <a class="header-anchor" href="#12-가정법-총정리표" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">유형</th>
+<th scope="col">if절</th>
+<th scope="col">주절</th>
+<th scope="col">의미</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0형</td>
+<td>현재시제</td>
+<td>현재시제</td>
+<td>항상 사실</td>
+<td>If it rains, I take an umbrella.</td>
+</tr>
+<tr>
+<td>1형</td>
+<td>현재시제</td>
+<td>will + 동사원형</td>
+<td>실현 가능 미래</td>
+<td>If it rains, I’ll take an umbrella.</td>
+</tr>
+<tr>
+<td>2형</td>
+<td>과거시제</td>
+<td>would + 동사원형</td>
+<td>비현실적 현재</td>
+<td>If it rained, I would take an umbrella.</td>
+</tr>
+<tr>
+<td>3형</td>
+<td>had + p.p.</td>
+<td>would have + p.p.</td>
+<td>과거의 비현실</td>
+<td>If it had rained, I would have taken it.</td>
+</tr>
+<tr>
+<td>혼합</td>
+<td>had + p.p.</td>
+<td>would + 동사원형</td>
+<td>과거조건+현재결과</td>
+<td>If I had studied, I would be a doctor now.</td>
+</tr>
+<tr>
+<td>I wish + 과거</td>
+<td></td>
+<td></td>
+<td>현재 소원</td>
+<td>I wish I had more time.</td>
+</tr>
+<tr>
+<td>I wish + had pp</td>
+<td></td>
+<td></td>
+<td>과거 후회</td>
+<td>I wish I had studied harder.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="13-실전-회화--가정법-총동원" tabindex="-1" data-src-line="490">13. 실전 회화 — 가정법 총동원 <a class="header-anchor" href="#13-실전-회화--가정법-총동원" aria-hidden="true">#</a></h2>
+<h3 id="상황--진로-상담" tabindex="-1" data-src-line="492">상황 ① 진로 상담 <a class="header-anchor" href="#상황--진로-상담" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: If you could do anything for work,
+   what would you choose?
+   직업으로 무엇이든 할 수 있다면,
+   무엇을 선택하겠어요?
+
+B: Honestly, if money weren&#039;t an issue,
+   I&#039;d be a musician. I&#039;ve always loved music.
+   솔직히, 돈이 문제가 아니라면,
+   음악가가 될 거예요. 항상 음악을 좋아했어요.
+
+A: Why didn&#039;t you pursue it?
+   왜 그 길을 걷지 않았나요?
+
+B: If I had taken music seriously earlier,
+   I might have had a chance.
+   But I focused on getting a stable job.
+   더 일찍 음악을 진지하게 받아들였다면,
+   기회가 있었을 수도 있어요.
+   하지만 안정적인 직업을 구하는 데 집중했어요.
+
+A: Do you regret it?
+   후회하나요?
+
+B: Sometimes. I wish I had been braver
+   when I was younger.
+   But if I hadn&#039;t taken this path,
+   I wouldn&#039;t have met such great colleagues.
+   가끔요. 더 어릴 때 더 용감했으면 좋았을 텐데.
+   하지만 이 길을 걷지 않았다면,
+   이런 훌륭한 동료들을 만나지 못했겠죠.
+</code></pre></div></code></pre>
+<h3 id="상황--사고를-돌이켜보며" tabindex="-1" data-src-line="527">상황 ② 사고를 돌이켜보며 <a class="header-anchor" href="#상황--사고를-돌이켜보며" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: If you hadn&#039;t caught that early,
+   what do you think would have happened?
+   그것을 일찍 발견하지 못했다면,
+   어떻게 됐을 것 같아요?
+
+B: If we hadn&#039;t spotted the error,
+   the whole project would have failed.
+   실수를 발견하지 못했다면,
+   프로젝트 전체가 실패했을 거예요.
+
+A: That was lucky. What would you do
+   differently if this happened again?
+   운이 좋았네요. 다시 이런 일이 생긴다면
+   어떻게 다르게 하겠어요?
+
+B: If something like this happened again,
+   I would implement a double-checking system.
+   이런 일이 다시 생긴다면,
+   이중 확인 시스템을 도입할 거예요.
+
+   And if I had had that system in place,
+   we wouldn&#039;t have had the problem
+   in the first place.
+   그리고 그 시스템이 있었다면,
+   애초에 문제가 없었을 거예요.
+</code></pre></div></code></pre>
+<h3 id="상황--일상-대화" tabindex="-1" data-src-line="557">상황 ③ 일상 대화 <a class="header-anchor" href="#상황--일상-대화" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: I wish this meeting were shorter.
+   이 회의가 더 짧으면 좋겠어요.
+
+B: Ha! If only we could skip it entirely.
+   하하! 아예 건너뛸 수 있다면 얼마나 좋을까요.
+
+A: If the agenda were clearer,
+   it probably would have been done
+   in half the time.
+   회의 안건이 더 명확했다면,
+   아마 절반의 시간에 끝났을 거예요.
+
+B: Agreed. Unless we change how we
+   run these meetings, they&#039;ll always
+   take forever.
+   맞아요. 회의 진행 방식을 바꾸지 않는 한,
+   항상 영원히 걸릴 거예요.
+
+A: I&#039;ll suggest a new format provided
+   the manager agrees.
+   매니저가 동의하는 한 새로운 형식을
+   제안할게요.
+
+B: Good idea. And if the new format works,
+   everyone will be happier.
+   좋은 생각이에요. 그리고 새로운 형식이
+   효과가 있다면, 모두가 더 행복할 거예요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="14-자주-틀리는-실수-정리" tabindex="-1" data-src-line="591">14. 자주 틀리는 실수 정리 <a class="header-anchor" href="#14-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--if절에-will-사용" tabindex="-1" data-src-line="593">실수 ① if절에 will 사용 <a class="header-anchor" href="#실수--if절에-will-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ If it will rain tomorrow, I&#039;ll take an umbrella.
+✅ If it rains tomorrow, I&#039;ll take an umbrella.
+→ if절 안에서는 will을 쓰지 않음 (현재시제로 미래 표현)
+</code></pre></div></code></pre>
+<h3 id="실수--2형에서-was-사용-격식체에서" tabindex="-1" data-src-line="601">실수 ② 2형에서 was 사용 (격식체에서) <a class="header-anchor" href="#실수--2형에서-was-사용-격식체에서" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ If I was you, I wouldn&#039;t do that. (비격식체)
+✅ If I were you, I wouldn&#039;t do that.
+→ 격식체·시험에서는 were 사용
+</code></pre></div></code></pre>
+<h3 id="실수--3형에서-would-have를-if절에-사용" tabindex="-1" data-src-line="609">실수 ③ 3형에서 would have를 if절에 사용 <a class="header-anchor" href="#실수--3형에서-would-have를-if절에-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ If I would have known, I would have helped.
+✅ If I had known, I would have helped.
+→ if절 안에서 would have 사용 불가 → had + p.p.
+</code></pre></div></code></pre>
+<h3 id="실수--i-wish--현재시제" tabindex="-1" data-src-line="617">실수 ④ I wish + 현재시제 <a class="header-anchor" href="#실수--i-wish--현재시제" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I wish I have more money.
+✅ I wish I had more money.
+→ 현재 소원 → I wish + 과거시제
+
+❌ I wish I studied harder yesterday.
+✅ I wish I had studied harder yesterday.
+→ 과거 후회 → I wish + had + p.p.
+</code></pre></div></code></pre>
+<h3 id="실수--unless와-if--not-혼용-오류" tabindex="-1" data-src-line="629">실수 ⑤ unless와 if ~ not 혼용 오류 <a class="header-anchor" href="#실수--unless와-if--not-혼용-오류" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Unless you don&#039;t come, we&#039;ll cancel.
+✅ Unless you come, we&#039;ll cancel.
+= If you don&#039;t come, we&#039;ll cancel.
+→ unless = if ~ not 이므로 not 중복 불가
+</code></pre></div></code></pre>
+<hr>
+<h2 id="15-문형-정리" tabindex="-1" data-src-line="640">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">문형</th>
+<th scope="col">if절</th>
+<th scope="col">주절</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0형</td>
+<td>현재시제</td>
+<td>현재시제</td>
+<td>If I’m late, I call.</td>
+</tr>
+<tr>
+<td>1형</td>
+<td>현재시제</td>
+<td>will/can/should + 동사원형</td>
+<td>If it rains, I’ll stay.</td>
+</tr>
+<tr>
+<td>2형</td>
+<td>과거시제 (were)</td>
+<td>would/could + 동사원형</td>
+<td>If I were rich, I would travel.</td>
+</tr>
+<tr>
+<td>3형</td>
+<td>had + p.p.</td>
+<td>would/could have + p.p.</td>
+<td>If I had known, I would have come.</td>
+</tr>
+<tr>
+<td>혼합</td>
+<td>had + p.p.</td>
+<td>would + 동사원형</td>
+<td>If I had studied, I’d be a doctor now.</td>
+</tr>
+<tr>
+<td>I wish (현재)</td>
+<td>I wish + 과거시제</td>
+<td></td>
+<td>I wish I had more time.</td>
+</tr>
+<tr>
+<td>I wish (과거)</td>
+<td>I wish + had + p.p.</td>
+<td></td>
+<td>I wish I had gone.</td>
+</tr>
+<tr>
+<td>I wish (will)</td>
+<td>I wish + would + 동사원형</td>
+<td></td>
+<td>I wish you would stop.</td>
+</tr>
+<tr>
+<td>as if</td>
+<td>as if + 과거/had pp</td>
+<td></td>
+<td>He acts as if he were the boss.</td>
+</tr>
+<tr>
+<td>unless</td>
+<td>unless + 현재시제</td>
+<td>will/won’t + 동사원형</td>
+<td>Unless you hurry, we’ll be late.</td>
+</tr>
+<tr>
+<td>in case</td>
+<td>주절, in case + 현재시제</td>
+<td></td>
+<td>Take an umbrella in case it rains.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="-a2-레벨-완주--1118강-전체-복습" tabindex="-1" data-src-line="658">🎉 A2 레벨 완주! — 11~18강 전체 복습 <a class="header-anchor" href="#-a2-레벨-완주--1118강-전체-복습" aria-hidden="true">#</a></h2>
+<p>드디어 <strong>A2 초급 후반 8강이 완성</strong>되었습니다!<br>
+지금까지 익힌 A2 레벨 핵심 문법을 한눈에 정리합니다.</p>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">강</th>
+<th scope="col">주제</th>
+<th scope="col">핵심 내용</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11강</td>
+<td>조동사</td>
+<td>can/could/may/might/must/should/would</td>
+</tr>
+<tr>
+<td>12강</td>
+<td>전치사</td>
+<td>in/on/at/to/for/with/by/of/about</td>
+</tr>
+<tr>
+<td>13강</td>
+<td>비교 표현</td>
+<td>-er/more + than / the -est/most / as~as</td>
+</tr>
+<tr>
+<td>14강</td>
+<td>현재완료</td>
+<td>have/has + p.p. — 경험/완료/계속/결과</td>
+</tr>
+<tr>
+<td>15강</td>
+<td>수동태</td>
+<td>be + p.p. — 시제별 변형</td>
+</tr>
+<tr>
+<td>16강</td>
+<td>to부정사·동명사</td>
+<td>to do / doing — 용법과 동사별 선택</td>
+</tr>
+<tr>
+<td>17강</td>
+<td>관계대명사</td>
+<td>who/which/that/whose + 제한·비제한</td>
+</tr>
+<tr>
+<td>18강</td>
+<td>가정법</td>
+<td>0/1/2/3형 + I wish + unless</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="676">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>가정법의 핵심 원칙을 기억하세요.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">현실적 → 현재시제 (0형, 1형)
+비현실적 현재 → 과거시제 + would (2형)
+비현실적 과거 → had p.p. + would have p.p. (3형)
+</code></pre></div></code></pre>
+<p>그리고 자주 틀리는 포인트:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① if절 안에 will/would 쓰지 않기
+② if I were (격식체) — if I was (비격식체)
+③ I wish + 과거시제 (현재 소원)
+   I wish + had p.p. (과거 후회)
+④ unless = if ~ not → not 중복 금지
+</code></pre></div></code></pre>
+<p>이로써 <strong>A2 레벨 전체 8강이 완성</strong>되었습니다! 🎊<br>
+다음 강부터는 <strong>B1 레벨 진입</strong> — 비즈니스·이메일 영어와 원어민 표현으로 마무리합니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — A1 레벨] ✅ 완료</strong></p>
+<ul>
+<li>1강 ~ 10강 완료</li>
+</ul>
+<p><strong>[초급 후반 — A2 레벨] ✅ 완료</strong></p>
+<ul>
+<li>11강 ~ 17강 완료</li>
+<li><strong>18강</strong>: 가정법 — If + 현재 · 과거 · 과거완료 ← 현재 글</li>
+</ul>
+<p><strong>[실용 영어 — B1 레벨 진입]</strong></p>
+<ul>
+<li>19강: 비즈니스 · 일상 이메일 영어</li>
+<li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
+</ul>
+</blockquote>
+4:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lb",null,{"content":"$c"}]}]}]
+5:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Ld",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Ld",null,{"href":"/post/english/english-lesson-19-email-english","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}],["$","li","english/english-lesson-16-infinitives-gerunds",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english/english-lesson-16-infinitives-gerunds","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 16강: to부정사 · 동명사 완전 정복 — to do / doing"}]}],["$","li","english/english-lesson-15-passive-voice",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english/english-lesson-15-passive-voice","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 15강: 수동태 완전 정복 — be동사 + p.p."}]}]]}]]}]]}]
+6:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"] { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+7:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+8:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+a:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+10:null

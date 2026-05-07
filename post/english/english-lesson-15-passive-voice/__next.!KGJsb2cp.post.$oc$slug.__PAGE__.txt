@@ -1,0 +1,717 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+f:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+11:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+12:I[484,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"vEFln49GSsrPZ4JvGGo_M","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto w-full max-w-6xl xl:pr-72 ","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-15-passive-voice\"},\"headline\":\"영어 15강: 수동태 완전 정복 — be동사 + p.p.\",\"description\":\"능동태와 수동태의 차이부터 시제별 수동태, by 생략 규칙, 수동태를 쓰는 상황까지 교과서 수준으로 완전히 정복합니다.\",\"datePublished\":\"2026-05-04T12:55:00.000Z\",\"dateModified\":\"2026-05-04T12:55:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-15-passive-voice\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"passive-voice\",\"grammar\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 15강: 수동태 완전 정복 — be동사 + p.p.","slugPath":"english/english-lesson-15-passive-voice","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-능동태-vs-수동태","text":"1. 능동태 vs 수동태","level":2},{"id":"2-수동태-기본-구조","text":"2. 수동태 기본 구조","level":2},{"id":"3-능동태--수동태-변환-방법","text":"3. 능동태 → 수동태 변환 방법","level":2},{"id":"변환-연습","text":"변환 연습","level":3},{"id":"4-시제별-수동태","text":"4. 시제별 수동태","level":2},{"id":"-현재시제-수동태--amisare--pp","text":"① 현재시제 수동태 — am/is/are + p.p.","level":3},{"id":"-과거시제-수동태--waswere--pp","text":"② 과거시제 수동태 — was/were + p.p.","level":3},{"id":"-미래시제-수동태--will-be--pp","text":"③ 미래시제 수동태 — will be + p.p.","level":3},{"id":"-현재완료-수동태--havehas-been--pp","text":"④ 현재완료 수동태 — have/has been + p.p.","level":3},{"id":"-현재진행-수동태--amisare-being--pp","text":"⑤ 현재진행 수동태 — am/is/are being + p.p.","level":3},{"id":"-과거진행-수동태--waswere-being--pp","text":"⑥ 과거진행 수동태 — was/were being + p.p.","level":3},{"id":"-과거완료-수동태--had-been--pp","text":"⑦ 과거완료 수동태 — had been + p.p.","level":3},{"id":"5-시제별-수동태-총정리표","text":"5. 시제별 수동태 총정리표","level":2},{"id":"6-조동사--수동태","text":"6. 조동사 + 수동태","level":2},{"id":"7-by--행위자--언제-쓰고-언제-생략하나","text":"7. by + 행위자 — 언제 쓰고 언제 생략하나?","level":2},{"id":"by를-쓰는-경우--행위자가-중요하거나-새로운-정보일-때","text":"by를 쓰는 경우 — 행위자가 중요하거나 새로운 정보일 때","level":3},{"id":"by를-생략하는-경우--행위자가-불명확하거나-중요하지-않을-때","text":"by를 생략하는 경우 — 행위자가 불명확하거나 중요하지 않을 때","level":3},{"id":"8-수동태를-쓰는-상황","text":"8. 수동태를 쓰는 상황","level":2},{"id":"-행위자가-불명확하거나-중요하지-않을-때","text":"① 행위자가 불명확하거나 중요하지 않을 때","level":3},{"id":"-과학기술공식-문서에서-객관성-강조","text":"② 과학·기술·공식 문서에서 객관성 강조","level":3},{"id":"-뉴스공지사항","text":"③ 뉴스·공지사항","level":3},{"id":"-대상에-초점을-맞출-때","text":"④ 대상에 초점을 맞출 때","level":3},{"id":"9-수동태-부정문의문문","text":"9. 수동태 부정문·의문문","level":2},{"id":"부정문","text":"부정문","level":3},{"id":"의문문","text":"의문문","level":3},{"id":"10-주의해야-할-수동태-패턴","text":"10. 주의해야 할 수동태 패턴","level":2},{"id":"-이중-목적어-동사의-수동태","text":"① 이중 목적어 동사의 수동태","level":3},{"id":"-지각동사사역동사의-수동태","text":"② 지각동사·사역동사의 수동태","level":3},{"id":"-get--pp--구어체-수동태","text":"③ get + p.p. — 구어체 수동태","level":3},{"id":"11-능동태가-더-자연스러운-경우","text":"11. 능동태가 더 자연스러운 경우","level":2},{"id":"12-수동태-관련-자주-쓰이는-표현","text":"12. 수동태 관련 자주 쓰이는 표현","level":2},{"id":"13-실전-회화--수동태-총동원","text":"13. 실전 회화 — 수동태 총동원","level":2},{"id":"상황--뉴스-읽기","text":"상황 ① 뉴스 읽기","level":3},{"id":"상황--직장에서","text":"상황 ② 직장에서","level":3},{"id":"상황--관광지에서","text":"상황 ③ 관광지에서","level":3},{"id":"14-자주-틀리는-실수-정리","text":"14. 자주 틀리는 실수 정리","level":2},{"id":"실수--be동사-누락","text":"실수 ① be동사 누락","level":3},{"id":"실수--과거형과-과거분사-혼동","text":"실수 ② 과거형과 과거분사 혼동","level":3},{"id":"실수--by-없이-행위자-표현","text":"실수 ③ by 없이 행위자 표현","level":3},{"id":"실수--수동태에서-시제-일치-오류","text":"실수 ④ 수동태에서 시제 일치 오류","level":3},{"id":"실수--자동사의-수동태","text":"실수 ⑤ 자동사의 수동태","level":3},{"id":"15-문형-정리","text":"15. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":["$L3","POST"]}],"$L4"]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La",false,"$Lb"]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-15-passive-voice"}]
+5:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 15강: 수동태 완전 정복 — be동사 + p.p."}]
+6:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"능동태와 수동태의 차이부터 시제별 수동태, by 생략 규칙, 수동태를 쓰는 상황까지 교과서 수준으로 완전히 정복합니다."}]
+7:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-04T12:55:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 4일"]}],["$","time",null,{"dateTime":"2026-05-04T12:55:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 4일"]}],["$","$Le",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","passive-voice",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","passive-voice"]}],["$","span","grammar",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","grammar"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+8:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+10:Ta77a,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-능동태-vs-수동태">1. 능동태 vs 수동태 </a></li><li><a href="#2-수동태-기본-구조">2. 수동태 기본 구조 </a></li><li><a href="#3-능동태--수동태-변환-방법">3. 능동태 → 수동태 변환 방법 </a><ul><li><a href="#변환-연습">변환 연습 </a></li></ul></li><li><a href="#4-시제별-수동태">4. 시제별 수동태 </a><ul><li><a href="#-현재시제-수동태--amisare--pp">① 현재시제 수동태 — am/is/are + p.p. </a></li><li><a href="#-과거시제-수동태--waswere--pp">② 과거시제 수동태 — was/were + p.p. </a></li><li><a href="#-미래시제-수동태--will-be--pp">③ 미래시제 수동태 — will be + p.p. </a></li><li><a href="#-현재완료-수동태--havehas-been--pp">④ 현재완료 수동태 — have/has been + p.p. </a></li><li><a href="#-현재진행-수동태--amisare-being--pp">⑤ 현재진행 수동태 — am/is/are being + p.p. </a></li><li><a href="#-과거진행-수동태--waswere-being--pp">⑥ 과거진행 수동태 — was/were being + p.p. </a></li><li><a href="#-과거완료-수동태--had-been--pp">⑦ 과거완료 수동태 — had been + p.p. </a></li></ul></li><li><a href="#5-시제별-수동태-총정리표">5. 시제별 수동태 총정리표 </a></li><li><a href="#6-조동사--수동태">6. 조동사 + 수동태 </a></li><li><a href="#7-by--행위자--언제-쓰고-언제-생략하나">7. by + 행위자 — 언제 쓰고 언제 생략하나? </a><ul><li><a href="#by를-쓰는-경우--행위자가-중요하거나-새로운-정보일-때">by를 쓰는 경우 — 행위자가 중요하거나 새로운 정보일 때 </a></li><li><a href="#by를-생략하는-경우--행위자가-불명확하거나-중요하지-않을-때">by를 생략하는 경우 — 행위자가 불명확하거나 중요하지 않을 때 </a></li></ul></li><li><a href="#8-수동태를-쓰는-상황">8. 수동태를 쓰는 상황 </a><ul><li><a href="#-행위자가-불명확하거나-중요하지-않을-때">① 행위자가 불명확하거나 중요하지 않을 때 </a></li><li><a href="#-과학기술공식-문서에서-객관성-강조">② 과학·기술·공식 문서에서 객관성 강조 </a></li><li><a href="#-뉴스공지사항">③ 뉴스·공지사항 </a></li><li><a href="#-대상에-초점을-맞출-때">④ 대상에 초점을 맞출 때 </a></li></ul></li><li><a href="#9-수동태-부정문의문문">9. 수동태 부정문·의문문 </a><ul><li><a href="#부정문">부정문 </a></li><li><a href="#의문문">의문문 </a></li></ul></li><li><a href="#10-주의해야-할-수동태-패턴">10. 주의해야 할 수동태 패턴 </a><ul><li><a href="#-이중-목적어-동사의-수동태">① 이중 목적어 동사의 수동태 </a></li><li><a href="#-지각동사사역동사의-수동태">② 지각동사·사역동사의 수동태 </a></li><li><a href="#-get--pp--구어체-수동태">③ get + p.p. — 구어체 수동태 </a></li></ul></li><li><a href="#11-능동태가-더-자연스러운-경우">11. 능동태가 더 자연스러운 경우 </a></li><li><a href="#12-수동태-관련-자주-쓰이는-표현">12. 수동태 관련 자주 쓰이는 표현 </a></li><li><a href="#13-실전-회화--수동태-총동원">13. 실전 회화 — 수동태 총동원 </a><ul><li><a href="#상황--뉴스-읽기">상황 ① 뉴스 읽기 </a></li><li><a href="#상황--직장에서">상황 ② 직장에서 </a></li><li><a href="#상황--관광지에서">상황 ③ 관광지에서 </a></li></ul></li><li><a href="#14-자주-틀리는-실수-정리">14. 자주 틀리는 실수 정리 </a><ul><li><a href="#실수--be동사-누락">실수 ① be동사 누락 </a></li><li><a href="#실수--과거형과-과거분사-혼동">실수 ② 과거형과 과거분사 혼동 </a></li><li><a href="#실수--by-없이-행위자-표현">실수 ③ by 없이 행위자 표현 </a></li><li><a href="#실수--수동태에서-시제-일치-오류">실수 ④ 수동태에서 시제 일치 오류 </a></li><li><a href="#실수--자동사의-수동태">실수 ⑤ 자동사의 수동태 </a></li></ul></li><li><a href="#15-문형-정리">15. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>“이 책은 헤밍웨이가 썼습니다” vs “이 책은 헤밍웨이에 의해 쓰였습니다” —<br>
+같은 의미지만 관점이 다릅니다. 전자는 능동태, 후자는 수동태입니다.</p>
+<p>수동태는 뉴스, 공식 문서, 과학 글쓰기, 공지사항에서 매우 자주 등장합니다.<br>
+“The road is being repaired”, “Mistakes were made” — 이런 표현이 모두 수동태입니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>능동태를 수동태로 정확히 변환할 수 있습니다.</li>
+<li>현재·과거·미래·완료 시제의 수동태를 만들 수 있습니다.</li>
+<li>by를 생략하는 규칙과 생략하지 않는 경우를 구분할 수 있습니다.</li>
+<li>수동태를 써야 하는 상황과 쓰면 안 되는 상황을 이해할 수 있습니다.</li>
+<li>조동사와 함께 쓰는 수동태를 익힐 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-능동태-vs-수동태" tabindex="-1" data-src-line="20">1. 능동태 vs 수동태 <a class="header-anchor" href="#1-능동태-vs-수동태" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">능동태 (Active)</th>
+<th scope="col">수동태 (Passive)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>초점</td>
+<td>행위자(누가 했는가)</td>
+<td>대상(무엇이 됐는가)</td>
+</tr>
+<tr>
+<td>구조</td>
+<td>주어 + 동사 + 목적어</td>
+<td>주어 + be + p.p.</td>
+</tr>
+<tr>
+<td>예시</td>
+<td>Tom wrote the report.</td>
+<td>The report was written by Tom.</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【능동태】
+The chef cooked the meal.
+요리사가 식사를 요리했습니다.
+
+【수동태】
+The meal was cooked by the chef.
+식사가 요리사에 의해 요리됐습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-수동태-기본-구조" tabindex="-1" data-src-line="40">2. 수동태 기본 구조 <a class="header-anchor" href="#2-수동태-기본-구조" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [be동사] + [과거분사(p.p.)] + (by + 행위자)
+</code></pre></div></code></pre>
+<p>수동태에서 <strong>be동사는 시제에 따라 변하고</strong>, 과거분사는 변하지 않습니다.</p>
+<hr>
+<h2 id="3-능동태--수동태-변환-방법" tabindex="-1" data-src-line="50">3. 능동태 → 수동태 변환 방법 <a class="header-anchor" href="#3-능동태--수동태-변환-방법" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 능동태의 목적어를 수동태의 주어로
+② 동사를 be + p.p.로 변환
+③ 능동태의 주어를 by + 목적격으로 (생략 가능)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【능동태】
+Tom    wrote    the report.
+주어   동사     목적어
+
+【수동태】
+The report   was written   by Tom.
+주어         be+p.p.      by+행위자
+</code></pre></div></code></pre>
+<h3 id="변환-연습" tabindex="-1" data-src-line="68">변환 연습 <a class="header-anchor" href="#변환-연습" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① People speak English all over the world.
+→ English is spoken all over the world.
+
+② Shakespeare wrote Hamlet.
+→ Hamlet was written by Shakespeare.
+
+③ They will announce the results tomorrow.
+→ The results will be announced tomorrow.
+
+④ Someone has stolen my wallet.
+→ My wallet has been stolen.
+
+⑤ The company is building a new factory.
+→ A new factory is being built by the company.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-시제별-수동태" tabindex="-1" data-src-line="89">4. 시제별 수동태 <a class="header-anchor" href="#4-시제별-수동태" aria-hidden="true">#</a></h2>
+<h3 id="-현재시제-수동태--amisare--pp" tabindex="-1" data-src-line="91">① 현재시제 수동태 — am/is/are + p.p. <a class="header-anchor" href="#-현재시제-수동태--amisare--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">English is spoken in many countries.
+영어는 많은 나라에서 사용됩니다.
+
+This car is made in Korea.
+이 차는 한국에서 만들어집니다.
+
+The reports are sent every Monday.
+보고서는 매주 월요일에 보내집니다.
+
+The café is closed on Sundays.
+그 카페는 일요일에 문을 닫습니다.
+</code></pre></div></code></pre>
+<h3 id="-과거시제-수동태--waswere--pp" tabindex="-1" data-src-line="107">② 과거시제 수동태 — was/were + p.p. <a class="header-anchor" href="#-과거시제-수동태--waswere--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The Eiffel Tower was built in 1889.
+에펠탑은 1889년에 지어졌습니다.
+
+The windows were broken during the storm.
+창문들이 폭풍 중에 깨졌습니다.
+
+I was told to wait here.
+나는 여기서 기다리라는 말을 들었습니다.
+
+The documents were signed yesterday.
+서류들이 어제 서명됐습니다.
+</code></pre></div></code></pre>
+<h3 id="-미래시제-수동태--will-be--pp" tabindex="-1" data-src-line="123">③ 미래시제 수동태 — will be + p.p. <a class="header-anchor" href="#-미래시제-수동태--will-be--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The new building will be completed next year.
+새 건물은 내년에 완공될 것입니다.
+
+The results will be announced on Friday.
+결과는 금요일에 발표될 것입니다.
+
+You will be contacted within 24 hours.
+24시간 내에 연락을 받으실 것입니다.
+
+The meeting will be held in Conference Room A.
+회의는 A 회의실에서 열릴 것입니다.
+</code></pre></div></code></pre>
+<h3 id="-현재완료-수동태--havehas-been--pp" tabindex="-1" data-src-line="139">④ 현재완료 수동태 — have/has been + p.p. <a class="header-anchor" href="#-현재완료-수동태--havehas-been--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The problem has been solved.
+문제가 해결됐습니다.
+
+My phone has been repaired.
+내 전화기가 수리됐습니다.
+
+Several mistakes have been found in the report.
+보고서에서 여러 실수가 발견됐습니다.
+
+He has been promoted to manager.
+그는 매니저로 승진됐습니다.
+</code></pre></div></code></pre>
+<h3 id="-현재진행-수동태--amisare-being--pp" tabindex="-1" data-src-line="155">⑤ 현재진행 수동태 — am/is/are being + p.p. <a class="header-anchor" href="#-현재진행-수동태--amisare-being--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The road is being repaired.
+도로가 수리 중입니다.
+
+A new policy is being developed.
+새 정책이 개발되고 있습니다.
+
+The suspect is being questioned by the police.
+용의자가 경찰에 의해 심문받고 있습니다.
+
+The building is being renovated.
+건물이 리모델링 중입니다.
+</code></pre></div></code></pre>
+<h3 id="-과거진행-수동태--waswere-being--pp" tabindex="-1" data-src-line="171">⑥ 과거진행 수동태 — was/were being + p.p. <a class="header-anchor" href="#-과거진행-수동태--waswere-being--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The bridge was being built when I visited.
+내가 방문했을 때 다리가 건설 중이었습니다.
+
+The packages were being delivered all morning.
+오전 내내 패키지들이 배달되고 있었습니다.
+</code></pre></div></code></pre>
+<h3 id="-과거완료-수동태--had-been--pp" tabindex="-1" data-src-line="181">⑦ 과거완료 수동태 — had been + p.p. <a class="header-anchor" href="#-과거완료-수동태--had-been--pp" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The project had been completed before the deadline.
+마감 전에 프로젝트가 완료됐었습니다.
+
+The email had been sent before she arrived.
+그녀가 도착하기 전에 이메일이 발송됐었습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-시제별-수동태-총정리표" tabindex="-1" data-src-line="193">5. 시제별 수동태 총정리표 <a class="header-anchor" href="#5-시제별-수동태-총정리표" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">시제</th>
+<th scope="col">능동태</th>
+<th scope="col">수동태</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>현재</td>
+<td>writes</td>
+<td>is/are written</td>
+</tr>
+<tr>
+<td>과거</td>
+<td>wrote</td>
+<td>was/were written</td>
+</tr>
+<tr>
+<td>미래</td>
+<td>will write</td>
+<td>will be written</td>
+</tr>
+<tr>
+<td>현재완료</td>
+<td>has written</td>
+<td>has/have been written</td>
+</tr>
+<tr>
+<td>과거완료</td>
+<td>had written</td>
+<td>had been written</td>
+</tr>
+<tr>
+<td>현재진행</td>
+<td>is writing</td>
+<td>is/are being written</td>
+</tr>
+<tr>
+<td>과거진행</td>
+<td>was writing</td>
+<td>was/were being written</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="6-조동사--수동태" tabindex="-1" data-src-line="207">6. 조동사 + 수동태 <a class="header-anchor" href="#6-조동사--수동태" aria-hidden="true">#</a></h2>
+<p>조동사와 함께 수동태를 쓸 때는 <code>조동사 + be + p.p.</code> 구조를 사용합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[조동사] + be + p.p.
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This must be done immediately.
+이것은 즉시 완료돼야 합니다.
+
+The report should be submitted by Friday.
+보고서는 금요일까지 제출돼야 합니다.
+
+The meeting can be rescheduled.
+회의는 일정을 변경할 수 있습니다.
+
+The project might be delayed.
+프로젝트가 지연될 수도 있습니다.
+
+All visitors must be registered at reception.
+모든 방문객은 접수처에서 등록해야 합니다.
+
+This medicine should be kept refrigerated.
+이 약은 냉장 보관해야 합니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-by--행위자--언제-쓰고-언제-생략하나" tabindex="-1" data-src-line="237">7. by + 행위자 — 언제 쓰고 언제 생략하나? <a class="header-anchor" href="#7-by--행위자--언제-쓰고-언제-생략하나" aria-hidden="true">#</a></h2>
+<h3 id="by를-쓰는-경우--행위자가-중요하거나-새로운-정보일-때" tabindex="-1" data-src-line="239">by를 쓰는 경우 — 행위자가 중요하거나 새로운 정보일 때 <a class="header-anchor" href="#by를-쓰는-경우--행위자가-중요하거나-새로운-정보일-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Hamlet was written by Shakespeare.
+햄릿은 셰익스피어에 의해 쓰였습니다.
+(누가 썼는지가 중요한 정보)
+
+The painting was created by a local artist.
+그 그림은 지역 예술가가 만들었습니다.
+
+The bridge was designed by a famous architect.
+그 다리는 유명한 건축가가 설계했습니다.
+</code></pre></div></code></pre>
+<h3 id="by를-생략하는-경우--행위자가-불명확하거나-중요하지-않을-때" tabindex="-1" data-src-line="253">by를 생략하는 경우 — 행위자가 불명확하거나 중요하지 않을 때 <a class="header-anchor" href="#by를-생략하는-경우--행위자가-불명확하거나-중요하지-않을-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">My car was stolen last night.
+내 차가 어젯밤 도난당했습니다.
+(누가 훔쳤는지 모르거나 중요하지 않음)
+
+English is spoken here.
+여기서 영어를 사용합니다.
+(누가 사용하는지 일반적으로 알려진 사실)
+
+The streets are cleaned every morning.
+거리는 매일 아침 청소됩니다.
+(누가 청소하는지 불명확)
+
+Mistakes were made.
+실수가 있었습니다.
+(행위자를 의도적으로 언급하지 않음)
+</code></pre></div></code></pre>
+<blockquote>
+<p>💡 <strong>by를 생략하는 주요 이유</strong></p>
+<ul>
+<li>행위자가 누구인지 모를 때</li>
+<li>행위자가 “사람들” 일반 (people/someone/they)</li>
+<li>행위자가 중요하지 않을 때</li>
+<li>행위자를 의도적으로 숨기려 할 때 (정치·뉴스에서 자주)</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="8-수동태를-쓰는-상황" tabindex="-1" data-src-line="281">8. 수동태를 쓰는 상황 <a class="header-anchor" href="#8-수동태를-쓰는-상황" aria-hidden="true">#</a></h2>
+<h3 id="-행위자가-불명확하거나-중요하지-않을-때" tabindex="-1" data-src-line="283">① 행위자가 불명확하거나 중요하지 않을 때 <a class="header-anchor" href="#-행위자가-불명확하거나-중요하지-않을-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The window was broken.
+창문이 깨졌습니다. (누가 깼는지 모름)
+
+Three people were arrested.
+세 명이 체포됐습니다. (경찰이라는 것은 당연)
+</code></pre></div></code></pre>
+<h3 id="-과학기술공식-문서에서-객관성-강조" tabindex="-1" data-src-line="293">② 과학·기술·공식 문서에서 객관성 강조 <a class="header-anchor" href="#-과학기술공식-문서에서-객관성-강조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The experiment was conducted at low temperature.
+실험은 낮은 온도에서 수행됐습니다.
+
+The data was collected over three months.
+데이터는 3개월에 걸쳐 수집됐습니다.
+
+The samples were analyzed in the laboratory.
+샘플들은 실험실에서 분석됐습니다.
+</code></pre></div></code></pre>
+<h3 id="-뉴스공지사항" tabindex="-1" data-src-line="306">③ 뉴스·공지사항 <a class="header-anchor" href="#-뉴스공지사항" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Three people have been injured in the accident.
+사고로 세 명이 부상을 입었습니다.
+
+The highway is expected to be reopened by 6 PM.
+고속도로는 오후 6시까지 재개통될 것으로 예상됩니다.
+
+The event has been postponed due to bad weather.
+악천후로 행사가 연기됐습니다.
+</code></pre></div></code></pre>
+<h3 id="-대상에-초점을-맞출-때" tabindex="-1" data-src-line="319">④ 대상에 초점을 맞출 때 <a class="header-anchor" href="#-대상에-초점을-맞출-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">능동: The manager reviewed the applications.
+수동: The applications were reviewed carefully.
+(지원서에 초점 → 수동태)
+
+능동: They have built a new stadium.
+수동: A new stadium has been built.
+(경기장에 초점 → 수동태)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-수동태-부정문의문문" tabindex="-1" data-src-line="333">9. 수동태 부정문·의문문 <a class="header-anchor" href="#9-수동태-부정문의문문" aria-hidden="true">#</a></h2>
+<h3 id="부정문" tabindex="-1" data-src-line="335">부정문 <a class="header-anchor" href="#부정문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주어] + [be동사] + not + [p.p.]
+
+The report was not submitted on time.
+보고서가 제때 제출되지 않았습니다.
+
+English isn&#039;t spoken in this region.
+이 지역에서는 영어가 사용되지 않습니다.
+
+The problem hasn&#039;t been solved yet.
+문제가 아직 해결되지 않았습니다.
+
+The meeting won&#039;t be held tomorrow.
+내일 회의가 열리지 않을 것입니다.
+</code></pre></div></code></pre>
+<h3 id="의문문" tabindex="-1" data-src-line="353">의문문 <a class="header-anchor" href="#의문문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[Be동사] + [주어] + [p.p.]?
+
+Was the report submitted on time?
+보고서가 제때 제출됐나요?
+
+Is this product made in Korea?
+이 제품이 한국에서 만들어졌나요?
+
+Has the problem been solved?
+문제가 해결됐나요?
+
+Will the meeting be held tomorrow?
+내일 회의가 열릴 건가요?
+
+When was this building constructed?
+이 건물은 언제 지어졌나요?
+
+Where are the meetings usually held?
+회의는 보통 어디서 열리나요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-주의해야-할-수동태-패턴" tabindex="-1" data-src-line="379">10. 주의해야 할 수동태 패턴 <a class="header-anchor" href="#10-주의해야-할-수동태-패턴" aria-hidden="true">#</a></h2>
+<h3 id="-이중-목적어-동사의-수동태" tabindex="-1" data-src-line="381">① 이중 목적어 동사의 수동태 <a class="header-anchor" href="#-이중-목적어-동사의-수동태" aria-hidden="true">#</a></h3>
+<p><code>give, send, tell, show, teach, offer</code> 등 두 개의 목적어를 가지는 동사는<br>
+두 가지 방식으로 수동태를 만들 수 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【능동태】
+The teacher gave the students a book.
+선생님이 학생들에게 책을 주었습니다.
+
+【수동태 ①】
+The students were given a book (by the teacher).
+학생들은 (선생님에게) 책을 받았습니다.
+
+【수동태 ②】
+A book was given to the students (by the teacher).
+책이 (선생님에 의해) 학생들에게 주어졌습니다.
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">They told me the news.
+→ I was told the news.
+→ The news was told to me.
+
+She showed us the photos.
+→ We were shown the photos.
+→ The photos were shown to us.
+</code></pre></div></code></pre>
+<h3 id="-지각동사사역동사의-수동태" tabindex="-1" data-src-line="410">② 지각동사·사역동사의 수동태 <a class="header-anchor" href="#-지각동사사역동사의-수동태" aria-hidden="true">#</a></h3>
+<p>능동태에서 목적보어로 동사원형을 쓰는 경우, 수동태에서는 <strong>to + 동사원형</strong>으로 바뀝니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【능동태】
+They made him work overtime.
+그들은 그에게 야근을 시켰습니다.
+
+【수동태】
+He was made to work overtime.
+그는 야근하게 됐습니다.
+
+---
+
+They saw her leave the building.
+→ She was seen to leave the building.
+
+The police heard the suspect confess.
+→ The suspect was heard to confess.
+</code></pre></div></code></pre>
+<h3 id="-get--pp--구어체-수동태" tabindex="-1" data-src-line="432">③ get + p.p. — 구어체 수동태 <a class="header-anchor" href="#-get--pp--구어체-수동태" aria-hidden="true">#</a></h3>
+<p><code>be + p.p.</code> 대신 <code>get + p.p.</code>를 쓰는 구어체 수동태도 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">My bike got stolen last week.
+지난주에 자전거를 도난당했어요.
+
+She got promoted last month.
+그녀는 지난달에 승진했어요.
+
+He got hurt during the game.
+그는 경기 중에 부상당했어요.
+
+Don&#039;t get distracted.
+산만해지지 마세요.
+
+I got caught in the rain.
+빗속에 갇혔어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-능동태가-더-자연스러운-경우" tabindex="-1" data-src-line="455">11. 능동태가 더 자연스러운 경우 <a class="header-anchor" href="#11-능동태가-더-자연스러운-경우" aria-hidden="true">#</a></h2>
+<p>수동태를 항상 쓰는 것이 좋은 것은 아닙니다.<br>
+다음 경우에는 능동태가 더 자연스럽습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【어색한 수동태】
+❌ Dinner was eaten by us at 7 PM.
+✅ We ate dinner at 7 PM.
+→ 행위자(us)가 명확하고 중요 → 능동태
+
+【어색한 수동태】
+❌ The book was enjoyed by me.
+✅ I enjoyed the book.
+→ 개인적 감정·경험 → 능동태
+
+【자연스러운 수동태】
+✅ The Eiffel Tower was built in 1889.
+→ 행위자(누가 지었는지)보다 사실 자체가 중요
+</code></pre></div></code></pre>
+<hr>
+<h2 id="12-수동태-관련-자주-쓰이는-표현" tabindex="-1" data-src-line="478">12. 수동태 관련 자주 쓰이는 표현 <a class="header-anchor" href="#12-수동태-관련-자주-쓰이는-표현" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">be known as (~로 알려지다)
+Seoul is known as the shopping capital of Korea.
+
+be made of/from (~로 만들어지다)
+This table is made of wood.
+Wine is made from grapes.
+
+be based on (~에 기반하다)
+The movie is based on a true story.
+
+be covered with/in (~으로 덮이다)
+The mountains are covered with snow.
+
+be divided into (~로 나뉘다)
+The country is divided into nine provinces.
+
+be involved in (~에 관여하다)
+She&#039;s involved in three different projects.
+
+be interested in (~에 관심이 있다)
+He&#039;s interested in photography.
+
+be surprised at/by (~에 놀라다)
+I was surprised by the news.
+
+be satisfied with (~에 만족하다)
+Are you satisfied with the results?
+
+be disappointed with/at (~에 실망하다)
+She was disappointed with her grade.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="13-실전-회화--수동태-총동원" tabindex="-1" data-src-line="515">13. 실전 회화 — 수동태 총동원 <a class="header-anchor" href="#13-실전-회화--수동태-총동원" aria-hidden="true">#</a></h2>
+<h3 id="상황--뉴스-읽기" tabindex="-1" data-src-line="517">상황 ① 뉴스 읽기 <a class="header-anchor" href="#상황--뉴스-읽기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Have you heard? Three people were injured
+   in a traffic accident near City Hall.
+   들었어요? 시청 근처에서 교통사고로
+   세 명이 부상을 입었대요.
+
+B: Yes, I saw it on the news.
+   The road is being investigated by the police.
+   네, 뉴스에서 봤어요.
+   경찰이 도로를 조사 중이래요.
+
+A: Was anyone seriously hurt?
+   심각하게 부상을 입은 사람이 있나요?
+
+B: Two people have been taken to hospital,
+   but they&#039;re expected to recover quickly.
+   두 명이 병원으로 이송됐는데,
+   빨리 회복될 것으로 예상된다고 해요.
+
+A: What caused it?
+   원인이 뭔가요?
+
+B: It&#039;s still being investigated,
+   but it&#039;s believed the driver
+   was distracted by their phone.
+   아직 조사 중인데,
+   운전자가 전화기에 정신이 팔렸던 것으로
+   여겨지고 있어요.
+</code></pre></div></code></pre>
+<h3 id="상황--직장에서" tabindex="-1" data-src-line="549">상황 ② 직장에서 <a class="header-anchor" href="#상황--직장에서" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Has the project been approved yet?
+   프로젝트가 승인됐나요?
+
+B: Not yet. It was reviewed by the board
+   yesterday, but a decision hasn&#039;t been
+   made yet.
+   아직요. 어제 이사회에서 검토됐는데,
+   아직 결정이 내려지지 않았어요.
+
+A: When will we be informed?
+   우리는 언제 통보받나요?
+
+B: We&#039;re expected to be told by the end
+   of the week.
+   이번 주 말까지 통보받을 것으로 예상돼요.
+
+A: And if it&#039;s approved, when will the
+   work be started?
+   승인되면 언제 일을 시작하나요?
+
+B: It would be launched next month.
+   A team has already been assembled,
+   and the resources have been allocated.
+   다음 달에 시작될 거예요.
+   이미 팀이 구성됐고, 자원도 배분됐어요.
+</code></pre></div></code></pre>
+<h3 id="상황--관광지에서" tabindex="-1" data-src-line="579">상황 ③ 관광지에서 <a class="header-anchor" href="#상황--관광지에서" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: This palace is amazing.
+   When was it built?
+   이 궁궐 정말 멋지네요.
+   언제 지어진 건가요?
+
+B: Gyeongbokgung was built in 1395.
+   It was destroyed several times throughout
+   history and has been restored multiple times.
+   경복궁은 1395년에 지어졌어요.
+   역사 속에서 여러 번 파괴됐고,
+   여러 번 복원됐어요.
+
+A: Was it always used as a royal palace?
+   항상 왕궁으로 사용됐나요?
+
+B: Yes, it was used as the main royal palace
+   of the Joseon Dynasty.
+   The buildings are now being preserved
+   as cultural heritage sites.
+   네, 조선왕조의 주요 왕궁으로 사용됐어요.
+   건물들은 현재 문화유산으로 보존되고 있어요.
+
+A: I&#039;m so impressed. Who is it managed by now?
+   정말 감동적이네요. 지금은 누가 관리하나요?
+
+B: It&#039;s managed by the Cultural Heritage Administration.
+   Several restoration projects are currently
+   being carried out.
+   문화재청에 의해 관리돼요.
+   현재 여러 복원 사업이 진행 중이에요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="14-자주-틀리는-실수-정리" tabindex="-1" data-src-line="616">14. 자주 틀리는 실수 정리 <a class="header-anchor" href="#14-자주-틀리는-실수-정리" aria-hidden="true">#</a></h2>
+<h3 id="실수--be동사-누락" tabindex="-1" data-src-line="618">실수 ① be동사 누락 <a class="header-anchor" href="#실수--be동사-누락" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ The report written by Tom.
+✅ The report was written by Tom.
+→ 수동태에는 반드시 be동사 필요
+</code></pre></div></code></pre>
+<h3 id="실수--과거형과-과거분사-혼동" tabindex="-1" data-src-line="626">실수 ② 과거형과 과거분사 혼동 <a class="header-anchor" href="#실수--과거형과-과거분사-혼동" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ The window was broke.
+✅ The window was broken.
+→ break의 과거분사는 broken (과거형 broke 아님)
+
+❌ The email was wrote last night.
+✅ The email was written last night.
+→ write의 과거분사는 written
+</code></pre></div></code></pre>
+<h3 id="실수--by-없이-행위자-표현" tabindex="-1" data-src-line="638">실수 ③ by 없이 행위자 표현 <a class="header-anchor" href="#실수--by-없이-행위자-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ The book was written Shakespeare.
+✅ The book was written by Shakespeare.
+→ 행위자 앞에 반드시 by
+</code></pre></div></code></pre>
+<h3 id="실수--수동태에서-시제-일치-오류" tabindex="-1" data-src-line="646">실수 ④ 수동태에서 시제 일치 오류 <a class="header-anchor" href="#실수--수동태에서-시제-일치-오류" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ The results are announced yesterday.
+✅ The results were announced yesterday.
+→ 과거 시제 → was/were + p.p.
+
+❌ The problem will been solved.
+✅ The problem will be solved.
+→ will + be + p.p. (will + been 불가)
+</code></pre></div></code></pre>
+<h3 id="실수--자동사의-수동태" tabindex="-1" data-src-line="658">실수 ⑤ 자동사의 수동태 <a class="header-anchor" href="#실수--자동사의-수동태" aria-hidden="true">#</a></h3>
+<p>목적어가 없는 자동사는 수동태를 만들 수 없습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ The accident was happened.
+✅ The accident happened.
+→ happen은 자동사 → 수동태 불가
+
+❌ She was arrived late.
+✅ She arrived late.
+→ arrive는 자동사 → 수동태 불가
+</code></pre></div></code></pre>
+<hr>
+<h2 id="15-문형-정리" tabindex="-1" data-src-line="674">15. 문형 정리 <a class="header-anchor" href="#15-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">시제</th>
+<th scope="col">수동태 구조</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>현재</td>
+<td>am/is/are + p.p.</td>
+<td>It is made in Korea.</td>
+</tr>
+<tr>
+<td>과거</td>
+<td>was/were + p.p.</td>
+<td>It was built in 1895.</td>
+</tr>
+<tr>
+<td>미래</td>
+<td>will be + p.p.</td>
+<td>It will be announced soon.</td>
+</tr>
+<tr>
+<td>현재완료</td>
+<td>have/has been + p.p.</td>
+<td>It has been repaired.</td>
+</tr>
+<tr>
+<td>과거완료</td>
+<td>had been + p.p.</td>
+<td>It had been completed.</td>
+</tr>
+<tr>
+<td>현재진행</td>
+<td>am/is/are being + p.p.</td>
+<td>It is being repaired.</td>
+</tr>
+<tr>
+<td>과거진행</td>
+<td>was/were being + p.p.</td>
+<td>It was being built.</td>
+</tr>
+<tr>
+<td>조동사</td>
+<td>조동사 + be + p.p.</td>
+<td>It must be done now.</td>
+</tr>
+<tr>
+<td>부정문</td>
+<td>be + not + p.p.</td>
+<td>It isn’t made here.</td>
+</tr>
+<tr>
+<td>의문문</td>
+<td>Be + 주어 + p.p.?</td>
+<td>Was it made here?</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="691">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>수동태의 핵심 원칙 세 가지를 기억하세요.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 구조: be동사(시제 변함) + p.p.(변하지 않음)
+② by + 행위자: 행위자가 중요하면 씀, 불명확하면 생략
+③ 자동사(happen, arrive, appear)는 수동태 불가
+</code></pre></div></code></pre>
+<p>그리고 시제별 핵심:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">현재 → is/are + p.p.
+과거 → was/were + p.p.
+미래 → will be + p.p.
+완료 → have/has been + p.p.
+진행 → is/are being + p.p.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>to부정사와 동명사</strong> — <code>to do</code>와 <code>doing</code>의 차이와 각각의 용법을 완전히 정복합니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>시리즈 목차</strong></p>
+<p><strong>[초급 전반 — A1 레벨] ✅ 완료</strong></p>
+<ul>
+<li>1강 ~ 10강 완료</li>
+</ul>
+<p><strong>[초급 후반 — A2 레벨]</strong></p>
+<ul>
+<li>11강: 조동사 완전 정복 — can · must · should · may</li>
+<li>12강: 전치사 완전 정복 — in · on · at · to · for · with</li>
+<li>13강: 비교 표현 — 비교급 · 최상급</li>
+<li>14강: 현재완료 — have + p.p.</li>
+<li><strong>15강</strong>: 수동태 — be동사 + p.p. ← 현재 글</li>
+<li>16강: to부정사 · 동명사 — to do / doing</li>
+<li>17강: 관계대명사 — who · which · that</li>
+<li>18강: 가정법 — If + 현재 · 과거 · 과거완료</li>
+</ul>
+<p><strong>[실용 영어 — B1 레벨 진입]</strong></p>
+<ul>
+<li>19강: 비즈니스 · 일상 이메일 영어</li>
+<li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
+</ul>
+</blockquote>
+9:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lf",null,{"content":"$10"}]}]}]
+a:["$","section",null,{"className":"mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L11",null,{"href":"/post/japanese/japanese-lesson-18-keigo","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 18강: 경어 표현 완전 정복 — 존경어 · 겸양어 · 정중어"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L11",null,{"href":"/post/english/english-lesson-16-infinitives-gerunds","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 16강: to부정사 · 동명사 완전 정복 — to do / doing"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-18-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L11",null,{"href":"/post/english/english-lesson-18-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]}],["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L11",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}],["$","li","english/english-lesson-16-infinitives-gerunds",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L11",null,{"href":"/post/english/english-lesson-16-infinitives-gerunds","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 16강: to부정사 · 동명사 완전 정복 — to do / doing"}]}]]}]]}]]}]
+b:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"] { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+d:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
+14:null

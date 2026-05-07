@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[484,[],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"xe9qGrHhV_8jNhgiPBrG5","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-4xl space-y-4","children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Contact"}],["$","p",null,{"children":["문의: ",["$","a",null,{"className":"underline","href":"mailto:rxnovx@gmail.com","children":"rxnovx@gmail.com"}]]}],["$","p",null,{"children":"오탈자, 정책 이슈, 콘텐츠 수정 요청은 메일로 보내주세요."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"vEFln49GSsrPZ4JvGGo_M","rsc":["$","$1","c",{"children":[["$","section",null,{"className":"mx-auto max-w-4xl space-y-4","children":[["$","h1",null,{"className":"text-3xl font-bold","children":"Contact"}],["$","p",null,{"children":["문의: ",["$","a",null,{"className":"underline","href":"mailto:rxnovx@gmail.com","children":"rxnovx@gmail.com"}]]}],["$","p",null,{"children":"오탈자, 정책 이슈, 콘텐츠 수정 요청은 메일로 보내주세요."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
