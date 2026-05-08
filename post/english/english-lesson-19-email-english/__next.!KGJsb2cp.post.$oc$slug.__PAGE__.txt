@@ -1,16 +1,18 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
-c:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
-d:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
-f:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
-10:I[484,[],"OutletBoundary"]
-11:"$Sreact.suspense"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"r3yyh0R7hVVph6PY0-dUB","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-19-email-english\"},\"headline\":\"영어 19강: 비즈니스·일상 이메일 영어 완전 정복\",\"description\":\"영어 이메일의 기본 구조부터 정중한 요청·사과·감사·거절 표현, 격식체와 비격식체 차이까지 실전 이메일 예시와 함께 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-07T09:57:00.000Z\",\"dateModified\":\"2026-05-07T09:57:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-19-email-english\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"email\",\"business-english\",\"writing\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복","slugPath":"english/english-lesson-19-email-english","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-영어-이메일-기본-구조","text":"1. 영어 이메일 기본 구조","level":2},{"id":"2-제목-subject-line","text":"2. 제목 (Subject Line)","level":2},{"id":"좋은-제목-예시","text":"좋은 제목 예시","level":3},{"id":"피해야-할-제목","text":"피해야 할 제목","level":3},{"id":"3-인사--수신자-호칭-salutation","text":"3. 인사 / 수신자 호칭 (Salutation)","level":2},{"id":"4-도입부-opening","text":"4. 도입부 (Opening)","level":2},{"id":"처음-연락하는-경우","text":"처음 연락하는 경우","level":3},{"id":"기존-관계에서","text":"기존 관계에서","level":3},{"id":"5-상황별-핵심-표현","text":"5. 상황별 핵심 표현","level":2},{"id":"-요청-request","text":"① 요청 (Request)","level":3},{"id":"-감사-thanking","text":"② 감사 (Thanking)","level":3},{"id":"-사과-apologizing","text":"③ 사과 (Apologizing)","level":3},{"id":"-거절-declining","text":"④ 거절 (Declining)","level":3},{"id":"-확인공지-confirming--informing","text":"⑤ 확인·공지 (Confirming / Informing)","level":3},{"id":"-첨부파일-언급","text":"⑥ 첨부파일 언급","level":3},{"id":"-마감후속-조치","text":"⑦ 마감·후속 조치","level":3},{"id":"6-마무리-closing","text":"6. 마무리 (Closing)","level":2},{"id":"격식체-마무리","text":"격식체 마무리","level":3},{"id":"비격식체-마무리","text":"비격식체 마무리","level":3},{"id":"7-서명-인사-sign-off","text":"7. 서명 인사 (Sign-off)","level":2},{"id":"8-격식체-vs-비격식체-완전-비교","text":"8. 격식체 vs 비격식체 완전 비교","level":2},{"id":"9-자주-쓰이는-이메일-표현-50개","text":"9. 자주 쓰이는 이메일 표현 50개","level":2},{"id":"도입","text":"도입","level":3},{"id":"요청문의","text":"요청·문의","level":3},{"id":"정보-제공","text":"정보 제공","level":3},{"id":"첨부동봉","text":"첨부·동봉","level":3},{"id":"감사","text":"감사","level":3},{"id":"사과","text":"사과","level":3},{"id":"마무리","text":"마무리","level":3},{"id":"서명","text":"서명","level":3},{"id":"10-실전-이메일-예시","text":"10. 실전 이메일 예시","level":2},{"id":"예시--비즈니스-미팅-요청","text":"예시 ① 비즈니스 미팅 요청","level":3},{"id":"예시--프로젝트-업데이트","text":"예시 ② 프로젝트 업데이트","level":3},{"id":"예시--정중한-거절","text":"예시 ③ 정중한 거절","level":3},{"id":"예시--일상-이메일-친한-동료","text":"예시 ④ 일상 이메일 (친한 동료)","level":3},{"id":"11-이메일-작성-주의사항","text":"11. 이메일 작성 주의사항","level":2},{"id":"-명확한-제목-작성","text":"① 명확한 제목 작성","level":3},{"id":"-짧고-명확하게","text":"② 짧고 명확하게","level":3},{"id":"-문단-나누기","text":"③ 문단 나누기","level":3},{"id":"-프루프리딩-교정","text":"④ 프루프리딩 (교정)","level":3},{"id":"-reply-all-주의","text":"⑤ Reply All 주의","level":3},{"id":"12-이메일-약어","text":"12. 이메일 약어","level":2},{"id":"13-자동-부재-회신-out-of-office-작성법","text":"13. 자동 부재 회신 (Out of Office) 작성법","level":2},{"id":"14-문형-정리","text":"14. 문형 정리","level":2},{"id":"마무리-1","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-19-email-english"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}],"$L3","$L4","$L5"]}],"$L6","$L7","$L8","$L9"]}],["$La"],"$Lb"]}],"loading":null,"isPartial":false}
-3:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 이메일의 기본 구조부터 정중한 요청·사과·감사·거절 표현, 격식체와 비격식체 차이까지 실전 이메일 예시와 함께 완전히 익혀봅니다."}]
-4:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-07T09:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-07T09:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 7일"]}],["$","$Lc",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","email",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","email"]}],["$","span","business-english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","business-english"]}],["$","span","writing",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","writing"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
-5:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-e:Tafa9,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-영어-이메일-기본-구조">1. 영어 이메일 기본 구조 </a></li><li><a href="#2-제목-subject-line">2. 제목 (Subject Line) </a><ul><li><a href="#좋은-제목-예시">좋은 제목 예시 </a></li><li><a href="#피해야-할-제목">피해야 할 제목 </a></li></ul></li><li><a href="#3-인사--수신자-호칭-salutation">3. 인사 / 수신자 호칭 (Salutation) </a></li><li><a href="#4-도입부-opening">4. 도입부 (Opening) </a><ul><li><a href="#처음-연락하는-경우">처음 연락하는 경우 </a></li><li><a href="#기존-관계에서">기존 관계에서 </a></li></ul></li><li><a href="#5-상황별-핵심-표현">5. 상황별 핵심 표현 </a><ul><li><a href="#-요청-request">① 요청 (Request) </a></li><li><a href="#-감사-thanking">② 감사 (Thanking) </a></li><li><a href="#-사과-apologizing">③ 사과 (Apologizing) </a></li><li><a href="#-거절-declining">④ 거절 (Declining) </a></li><li><a href="#-확인공지-confirming--informing">⑤ 확인·공지 (Confirming / Informing) </a></li><li><a href="#-첨부파일-언급">⑥ 첨부파일 언급 </a></li><li><a href="#-마감후속-조치">⑦ 마감·후속 조치 </a></li></ul></li><li><a href="#6-마무리-closing">6. 마무리 (Closing) </a><ul><li><a href="#격식체-마무리">격식체 마무리 </a></li><li><a href="#비격식체-마무리">비격식체 마무리 </a></li></ul></li><li><a href="#7-서명-인사-sign-off">7. 서명 인사 (Sign-off) </a></li><li><a href="#8-격식체-vs-비격식체-완전-비교">8. 격식체 vs 비격식체 완전 비교 </a></li><li><a href="#9-자주-쓰이는-이메일-표현-50개">9. 자주 쓰이는 이메일 표현 50개 </a><ul><li><a href="#도입">도입 </a></li><li><a href="#요청문의">요청·문의 </a></li><li><a href="#정보-제공">정보 제공 </a></li><li><a href="#첨부동봉">첨부·동봉 </a></li><li><a href="#감사">감사 </a></li><li><a href="#사과">사과 </a></li><li><a href="#마무리">마무리 </a></li><li><a href="#서명">서명 </a></li></ul></li><li><a href="#10-실전-이메일-예시">10. 실전 이메일 예시 </a><ul><li><a href="#예시--비즈니스-미팅-요청">예시 ① 비즈니스 미팅 요청 </a></li><li><a href="#예시--프로젝트-업데이트">예시 ② 프로젝트 업데이트 </a></li><li><a href="#예시--정중한-거절">예시 ③ 정중한 거절 </a></li><li><a href="#예시--일상-이메일-친한-동료">예시 ④ 일상 이메일 (친한 동료) </a></li></ul></li><li><a href="#11-이메일-작성-주의사항">11. 이메일 작성 주의사항 </a><ul><li><a href="#-명확한-제목-작성">① 명확한 제목 작성 </a></li><li><a href="#-짧고-명확하게">② 짧고 명확하게 </a></li><li><a href="#-문단-나누기">③ 문단 나누기 </a></li><li><a href="#-프루프리딩-교정">④ 프루프리딩 (교정) </a></li><li><a href="#-reply-all-주의">⑤ Reply All 주의 </a></li></ul></li><li><a href="#12-이메일-약어">12. 이메일 약어 </a></li><li><a href="#13-자동-부재-회신-out-of-office-작성법">13. 자동 부재 회신 (Out of Office) 작성법 </a></li><li><a href="#14-문형-정리">14. 문형 정리 </a></li><li><a href="#마무리-1">마무리 </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+0:{"buildId":"-4xHgbaKB_tycaBBfL-S-","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-19-email-english\"},\"headline\":\"영어 19강: 비즈니스·일상 이메일 영어 완전 정복\",\"description\":\"영어 이메일의 기본 구조부터 정중한 요청·사과·감사·거절 표현, 격식체와 비격식체 차이까지 실전 이메일 예시와 함께 완전히 익혀봅니다.\",\"datePublished\":\"2026-05-07T09:57:00.000Z\",\"dateModified\":\"2026-05-07T09:57:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-19-email-english\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"email\",\"business-english\",\"writing\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복","slugPath":"english/english-lesson-19-email-english","headings":[{"id":"영어-19강-비즈니스일상-이메일-영어-완전-정복","text":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-영어-이메일-기본-구조","text":"1. 영어 이메일 기본 구조","level":2},{"id":"2-제목-subject-line","text":"2. 제목 (Subject Line)","level":2},{"id":"좋은-제목-예시","text":"좋은 제목 예시","level":3},{"id":"피해야-할-제목","text":"피해야 할 제목","level":3},{"id":"3-인사--수신자-호칭-salutation","text":"3. 인사 / 수신자 호칭 (Salutation)","level":2},{"id":"4-도입부-opening","text":"4. 도입부 (Opening)","level":2},{"id":"처음-연락하는-경우","text":"처음 연락하는 경우","level":3},{"id":"기존-관계에서","text":"기존 관계에서","level":3},{"id":"5-상황별-핵심-표현","text":"5. 상황별 핵심 표현","level":2},{"id":"-요청-request","text":"① 요청 (Request)","level":3},{"id":"-감사-thanking","text":"② 감사 (Thanking)","level":3},{"id":"-사과-apologizing","text":"③ 사과 (Apologizing)","level":3},{"id":"-거절-declining","text":"④ 거절 (Declining)","level":3},{"id":"-확인공지-confirming--informing","text":"⑤ 확인·공지 (Confirming / Informing)","level":3},{"id":"-첨부파일-언급","text":"⑥ 첨부파일 언급","level":3},{"id":"-마감후속-조치","text":"⑦ 마감·후속 조치","level":3},{"id":"6-마무리-closing","text":"6. 마무리 (Closing)","level":2},{"id":"격식체-마무리","text":"격식체 마무리","level":3},{"id":"비격식체-마무리","text":"비격식체 마무리","level":3},{"id":"7-서명-인사-sign-off","text":"7. 서명 인사 (Sign-off)","level":2},{"id":"8-격식체-vs-비격식체-완전-비교","text":"8. 격식체 vs 비격식체 완전 비교","level":2},{"id":"9-자주-쓰이는-이메일-표현-50개","text":"9. 자주 쓰이는 이메일 표현 50개","level":2},{"id":"도입","text":"도입","level":3},{"id":"요청문의","text":"요청·문의","level":3},{"id":"정보-제공","text":"정보 제공","level":3},{"id":"첨부동봉","text":"첨부·동봉","level":3},{"id":"감사","text":"감사","level":3},{"id":"사과","text":"사과","level":3},{"id":"마무리","text":"마무리","level":3},{"id":"서명","text":"서명","level":3},{"id":"10-실전-이메일-예시","text":"10. 실전 이메일 예시","level":2},{"id":"예시--비즈니스-미팅-요청","text":"예시 ① 비즈니스 미팅 요청","level":3},{"id":"예시--프로젝트-업데이트","text":"예시 ② 프로젝트 업데이트","level":3},{"id":"예시--정중한-거절","text":"예시 ③ 정중한 거절","level":3},{"id":"예시--일상-이메일-친한-동료","text":"예시 ④ 일상 이메일 (친한 동료)","level":3},{"id":"11-이메일-작성-주의사항","text":"11. 이메일 작성 주의사항","level":2},{"id":"-명확한-제목-작성","text":"① 명확한 제목 작성","level":3},{"id":"-짧고-명확하게","text":"② 짧고 명확하게","level":3},{"id":"-문단-나누기","text":"③ 문단 나누기","level":3},{"id":"-프루프리딩-교정","text":"④ 프루프리딩 (교정)","level":3},{"id":"-reply-all-주의","text":"⑤ Reply All 주의","level":3},{"id":"12-이메일-약어","text":"12. 이메일 약어","level":2},{"id":"13-자동-부재-회신-out-of-office-작성법","text":"13. 자동 부재 회신 (Out of Office) 작성법","level":2},{"id":"14-문형-정리","text":"14. 문형 정리","level":2},{"id":"마무리-1","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-19-email-english"}]]}],"$L3","$L4","$L5","$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]
+4:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"영어 이메일의 기본 구조부터 정중한 요청·사과·감사·거절 표현, 격식체와 비격식체 차이까지 실전 이메일 예시와 함께 완전히 익혀봅니다."}]
+5:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-07T09:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-07T09:57:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 7일"]}],["$","$Ld",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","email",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","email"]}],["$","span","business-english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","business-english"]}],["$","span","writing",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","writing"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:Tb173,<h1 id="영어-19강-비즈니스일상-이메일-영어-완전-정복" tabindex="-1" data-src-line="1">영어 19강: 비즈니스·일상 이메일 영어 완전 정복 <a class="header-anchor" href="#영어-19강-비즈니스일상-이메일-영어-완전-정복" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#영어-19강-비즈니스일상-이메일-영어-완전-정복">영어 19강: 비즈니스·일상 이메일 영어 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-영어-이메일-기본-구조">1. 영어 이메일 기본 구조 </a></li><li><a href="#2-제목-subject-line">2. 제목 (Subject Line) </a><ul><li><a href="#좋은-제목-예시">좋은 제목 예시 </a></li><li><a href="#피해야-할-제목">피해야 할 제목 </a></li></ul></li><li><a href="#3-인사--수신자-호칭-salutation">3. 인사 / 수신자 호칭 (Salutation) </a></li><li><a href="#4-도입부-opening">4. 도입부 (Opening) </a><ul><li><a href="#처음-연락하는-경우">처음 연락하는 경우 </a></li><li><a href="#기존-관계에서">기존 관계에서 </a></li></ul></li><li><a href="#5-상황별-핵심-표현">5. 상황별 핵심 표현 </a><ul><li><a href="#-요청-request">① 요청 (Request) </a></li><li><a href="#-감사-thanking">② 감사 (Thanking) </a></li><li><a href="#-사과-apologizing">③ 사과 (Apologizing) </a></li><li><a href="#-거절-declining">④ 거절 (Declining) </a></li><li><a href="#-확인공지-confirming--informing">⑤ 확인·공지 (Confirming / Informing) </a></li><li><a href="#-첨부파일-언급">⑥ 첨부파일 언급 </a></li><li><a href="#-마감후속-조치">⑦ 마감·후속 조치 </a></li></ul></li><li><a href="#6-마무리-closing">6. 마무리 (Closing) </a><ul><li><a href="#격식체-마무리">격식체 마무리 </a></li><li><a href="#비격식체-마무리">비격식체 마무리 </a></li></ul></li><li><a href="#7-서명-인사-sign-off">7. 서명 인사 (Sign-off) </a></li><li><a href="#8-격식체-vs-비격식체-완전-비교">8. 격식체 vs 비격식체 완전 비교 </a></li><li><a href="#9-자주-쓰이는-이메일-표현-50개">9. 자주 쓰이는 이메일 표현 50개 </a><ul><li><a href="#도입">도입 </a></li><li><a href="#요청문의">요청·문의 </a></li><li><a href="#정보-제공">정보 제공 </a></li><li><a href="#첨부동봉">첨부·동봉 </a></li><li><a href="#감사">감사 </a></li><li><a href="#사과">사과 </a></li><li><a href="#마무리">마무리 </a></li><li><a href="#서명">서명 </a></li></ul></li><li><a href="#10-실전-이메일-예시">10. 실전 이메일 예시 </a><ul><li><a href="#예시--비즈니스-미팅-요청">예시 ① 비즈니스 미팅 요청 </a></li><li><a href="#예시--프로젝트-업데이트">예시 ② 프로젝트 업데이트 </a></li><li><a href="#예시--정중한-거절">예시 ③ 정중한 거절 </a></li><li><a href="#예시--일상-이메일-친한-동료">예시 ④ 일상 이메일 (친한 동료) </a></li></ul></li><li><a href="#11-이메일-작성-주의사항">11. 이메일 작성 주의사항 </a><ul><li><a href="#-명확한-제목-작성">① 명확한 제목 작성 </a></li><li><a href="#-짧고-명확하게">② 짧고 명확하게 </a></li><li><a href="#-문단-나누기">③ 문단 나누기 </a></li><li><a href="#-프루프리딩-교정">④ 프루프리딩 (교정) </a></li><li><a href="#-reply-all-주의">⑤ Reply All 주의 </a></li></ul></li><li><a href="#12-이메일-약어">12. 이메일 약어 </a></li><li><a href="#13-자동-부재-회신-out-of-office-작성법">13. 자동 부재 회신 (Out of Office) 작성법 </a></li><li><a href="#14-문형-정리">14. 문형 정리 </a></li><li><a href="#마무리-1">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>영어 이메일은 직장 생활과 일상에서 피할 수 없는 소통 수단입니다.<br>
 하지만 한국어와는 다른 구조와 표현 방식 때문에 처음에는 어렵게 느껴집니다.</p>
 <p>이번 강에서는 <strong>이메일의 기본 구조</strong>부터 <strong>상황별 핵심 표현</strong>, <strong>격식체와 비격식체 구분</strong>, 그리고 <strong>완성된 실전 예시</strong>까지 완전히 익혀봅니다.</p>
@@ -25,7 +27,7 @@ e:Tafa9,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-영어-이메일-기본-구조" tabindex="-1" data-src-line="19">1. 영어 이메일 기본 구조 <a class="header-anchor" href="#1-영어-이메일-기본-구조" aria-hidden="true">#</a></h2>
+<h2 id="1-영어-이메일-기본-구조" tabindex="-1" data-src-line="21">1. 영어 이메일 기본 구조 <a class="header-anchor" href="#1-영어-이메일-기본-구조" aria-hidden="true">#</a></h2>
 <p>영어 이메일은 다음 6가지 요소로 구성됩니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① Subject Line (제목)
 ② Salutation (인사/수신자 호칭)
@@ -35,10 +37,10 @@ e:Tafa9,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 
 ⑥ Sign-off (서명 인사) + Signature (서명)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="2-제목-subject-line" tabindex="-1" data-src-line="34">2. 제목 (Subject Line) <a class="header-anchor" href="#2-제목-subject-line" aria-hidden="true">#</a></h2>
+<h2 id="2-제목-subject-line" tabindex="-1" data-src-line="36">2. 제목 (Subject Line) <a class="header-anchor" href="#2-제목-subject-line" aria-hidden="true">#</a></h2>
 <p>이메일에서 가장 중요한 부분 중 하나입니다.<br>
 <strong>짧고 명확하게</strong>, 이메일의 목적을 바로 알 수 있어야 합니다.</p>
-<h3 id="좋은-제목-예시" tabindex="-1" data-src-line="39">좋은 제목 예시 <a class="header-anchor" href="#좋은-제목-예시" aria-hidden="true">#</a></h3>
+<h3 id="좋은-제목-예시" tabindex="-1" data-src-line="41">좋은 제목 예시 <a class="header-anchor" href="#좋은-제목-예시" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Meeting Request — Q3 Review (회의 요청 — 3분기 검토)
 Follow-up: Project Proposal (후속 조치: 프로젝트 제안)
 Question About Invoice #1234 (인보이스 #1234에 대한 질문)
@@ -47,14 +49,14 @@ Urgent: System Outage Update (긴급: 시스템 장애 업데이트)
 Thank You for Your Help (도움 감사드립니다)
 Application for Marketing Manager Position (마케팅 매니저 직책 지원)
 </code></pre></div></code></pre>
-<h3 id="피해야-할-제목" tabindex="-1" data-src-line="51">피해야 할 제목 <a class="header-anchor" href="#피해야-할-제목" aria-hidden="true">#</a></h3>
+<h3 id="피해야-할-제목" tabindex="-1" data-src-line="53">피해야 할 제목 <a class="header-anchor" href="#피해야-할-제목" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Hi (너무 모호)
 ❌ URGENT!!! READ THIS NOW (과도한 강조)
 ❌ (빈 제목) (제목 없음)
 ❌ Please read this email (내용이 없음)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="3-인사--수신자-호칭-salutation" tabindex="-1" data-src-line="62">3. 인사 / 수신자 호칭 (Salutation) <a class="header-anchor" href="#3-인사--수신자-호칭-salutation" aria-hidden="true">#</a></h2>
+<h2 id="3-인사--수신자-호칭-salutation" tabindex="-1" data-src-line="64">3. 인사 / 수신자 호칭 (Salutation) <a class="header-anchor" href="#3-인사--수신자-호칭-salutation" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -121,8 +123,8 @@ To Whom It May Concern, (수신자 전혀 모를 때)
 </ul>
 </blockquote>
 <hr>
-<h2 id="4-도입부-opening" tabindex="-1" data-src-line="94">4. 도입부 (Opening) <a class="header-anchor" href="#4-도입부-opening" aria-hidden="true">#</a></h2>
-<h3 id="처음-연락하는-경우" tabindex="-1" data-src-line="96">처음 연락하는 경우 <a class="header-anchor" href="#처음-연락하는-경우" aria-hidden="true">#</a></h3>
+<h2 id="4-도입부-opening" tabindex="-1" data-src-line="96">4. 도입부 (Opening) <a class="header-anchor" href="#4-도입부-opening" aria-hidden="true">#</a></h2>
+<h3 id="처음-연락하는-경우" tabindex="-1" data-src-line="98">처음 연락하는 경우 <a class="header-anchor" href="#처음-연락하는-경우" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">My name is [이름] and I am [직책/소속].
 저는 [이름]이고 [직책/소속]입니다.
 
@@ -138,7 +140,7 @@ I was referred to you by [이름].
 I came across your company&#039;s website and...
 귀사 웹사이트를 통해...
 </code></pre></div></code></pre>
-<h3 id="기존-관계에서" tabindex="-1" data-src-line="115">기존 관계에서 <a class="header-anchor" href="#기존-관계에서" aria-hidden="true">#</a></h3>
+<h3 id="기존-관계에서" tabindex="-1" data-src-line="117">기존 관계에서 <a class="header-anchor" href="#기존-관계에서" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you for your prompt reply.
 빠른 답장 감사합니다.
 
@@ -158,8 +160,8 @@ Further to my email of [날짜], ...
 [날짜]에 보낸 이메일에 이어,...
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-상황별-핵심-표현" tabindex="-1" data-src-line="139">5. 상황별 핵심 표현 <a class="header-anchor" href="#5-상황별-핵심-표현" aria-hidden="true">#</a></h2>
-<h3 id="-요청-request" tabindex="-1" data-src-line="141">① 요청 (Request) <a class="header-anchor" href="#-요청-request" aria-hidden="true">#</a></h3>
+<h2 id="5-상황별-핵심-표현" tabindex="-1" data-src-line="141">5. 상황별 핵심 표현 <a class="header-anchor" href="#5-상황별-핵심-표현" aria-hidden="true">#</a></h2>
+<h3 id="-요청-request" tabindex="-1" data-src-line="143">① 요청 (Request) <a class="header-anchor" href="#-요청-request" aria-hidden="true">#</a></h3>
 <p><strong>정중도 순서로 — 격식체일수록 더 정중</strong></p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【캐주얼】
 Can you send me the file?
@@ -203,7 +205,7 @@ At your earliest convenience, ...
 I would appreciate your help with...
 ~와 관련하여 도움을 주시면 감사하겠습니다.
 </code></pre></div></code></pre>
-<h3 id="-감사-thanking" tabindex="-1" data-src-line="192">② 감사 (Thanking) <a class="header-anchor" href="#-감사-thanking" aria-hidden="true">#</a></h3>
+<h3 id="-감사-thanking" tabindex="-1" data-src-line="194">② 감사 (Thanking) <a class="header-anchor" href="#-감사-thanking" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you for your time.
 시간 내주셔서 감사합니다.
 
@@ -225,7 +227,7 @@ Many thanks for...
 I wanted to take a moment to thank you for...
 ~에 대해 감사 인사를 드리고 싶었습니다.
 </code></pre></div></code></pre>
-<h3 id="-사과-apologizing" tabindex="-1" data-src-line="217">③ 사과 (Apologizing) <a class="header-anchor" href="#-사과-apologizing" aria-hidden="true">#</a></h3>
+<h3 id="-사과-apologizing" tabindex="-1" data-src-line="219">③ 사과 (Apologizing) <a class="header-anchor" href="#-사과-apologizing" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I apologize for the delay.
 지연에 대해 사과드립니다.
 
@@ -247,7 +249,7 @@ This should not have happened, and...
 We are taking steps to ensure this doesn&#039;t happen again.
 이런 일이 다시 발생하지 않도록 조치를 취하고 있습니다.
 </code></pre></div></code></pre>
-<h3 id="-거절-declining" tabindex="-1" data-src-line="242">④ 거절 (Declining) <a class="header-anchor" href="#-거절-declining" aria-hidden="true">#</a></h3>
+<h3 id="-거절-declining" tabindex="-1" data-src-line="244">④ 거절 (Declining) <a class="header-anchor" href="#-거절-declining" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you for the offer, but unfortunately...
 제안해 주셔서 감사합니다만, 아쉽게도...
 
@@ -266,7 +268,7 @@ After careful consideration, we have decided not to...
 We will keep your details on file for future opportunities.
 향후 기회를 위해 귀하의 정보를 보관하겠습니다.
 </code></pre></div></code></pre>
-<h3 id="-확인공지-confirming--informing" tabindex="-1" data-src-line="264">⑤ 확인·공지 (Confirming / Informing) <a class="header-anchor" href="#-확인공지-confirming--informing" aria-hidden="true">#</a></h3>
+<h3 id="-확인공지-confirming--informing" tabindex="-1" data-src-line="266">⑤ 확인·공지 (Confirming / Informing) <a class="header-anchor" href="#-확인공지-confirming--informing" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I am writing to confirm...
 ~을 확인드리기 위해 이메일을 드립니다.
 
@@ -288,7 +290,7 @@ I&#039;m happy to confirm that...
 Please note that...
 ~에 유의해 주시기 바랍니다.
 </code></pre></div></code></pre>
-<h3 id="-첨부파일-언급" tabindex="-1" data-src-line="289">⑥ 첨부파일 언급 <a class="header-anchor" href="#-첨부파일-언급" aria-hidden="true">#</a></h3>
+<h3 id="-첨부파일-언급" tabindex="-1" data-src-line="291">⑥ 첨부파일 언급 <a class="header-anchor" href="#-첨부파일-언급" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Please find attached...
 첨부 파일을 확인해 주세요.
 
@@ -304,7 +306,7 @@ Please see the attached file.
 I&#039;ve attached [파일명] as discussed.
 논의된 대로 [파일명]을 첨부합니다.
 </code></pre></div></code></pre>
-<h3 id="-마감후속-조치" tabindex="-1" data-src-line="308">⑦ 마감·후속 조치 <a class="header-anchor" href="#-마감후속-조치" aria-hidden="true">#</a></h3>
+<h3 id="-마감후속-조치" tabindex="-1" data-src-line="310">⑦ 마감·후속 조치 <a class="header-anchor" href="#-마감후속-조치" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I look forward to hearing from you.
 답변 기다리겠습니다.
 
@@ -321,8 +323,8 @@ I will follow up with you on [날짜].
 [날짜]에 다시 연락드리겠습니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="6-마무리-closing" tabindex="-1" data-src-line="329">6. 마무리 (Closing) <a class="header-anchor" href="#6-마무리-closing" aria-hidden="true">#</a></h2>
-<h3 id="격식체-마무리" tabindex="-1" data-src-line="331">격식체 마무리 <a class="header-anchor" href="#격식체-마무리" aria-hidden="true">#</a></h3>
+<h2 id="6-마무리-closing" tabindex="-1" data-src-line="331">6. 마무리 (Closing) <a class="header-anchor" href="#6-마무리-closing" aria-hidden="true">#</a></h2>
+<h3 id="격식체-마무리" tabindex="-1" data-src-line="333">격식체 마무리 <a class="header-anchor" href="#격식체-마무리" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you for your time and consideration.
 시간과 검토에 감사드립니다.
 
@@ -335,7 +337,7 @@ Please do not hesitate to contact me if you need any further information.
 Thank you for your continued support.
 지속적인 지원에 감사드립니다.
 </code></pre></div></code></pre>
-<h3 id="비격식체-마무리" tabindex="-1" data-src-line="347">비격식체 마무리 <a class="header-anchor" href="#비격식체-마무리" aria-hidden="true">#</a></h3>
+<h3 id="비격식체-마무리" tabindex="-1" data-src-line="349">비격식체 마무리 <a class="header-anchor" href="#비격식체-마무리" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thanks again for your help!
 도움에 다시 한번 감사해요!
 
@@ -349,7 +351,7 @@ Talk soon!
 곧 얘기해요!
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-서명-인사-sign-off" tabindex="-1" data-src-line="365">7. 서명 인사 (Sign-off) <a class="header-anchor" href="#7-서명-인사-sign-off" aria-hidden="true">#</a></h2>
+<h2 id="7-서명-인사-sign-off" tabindex="-1" data-src-line="367">7. 서명 인사 (Sign-off) <a class="header-anchor" href="#7-서명-인사-sign-off" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -417,7 +419,7 @@ Talk soon!
 </tbody>
 </table>
 </div><hr>
-<h2 id="8-격식체-vs-비격식체-완전-비교" tabindex="-1" data-src-line="383">8. 격식체 vs 비격식체 완전 비교 <a class="header-anchor" href="#8-격식체-vs-비격식체-완전-비교" aria-hidden="true">#</a></h2>
+<h2 id="8-격식체-vs-비격식체-완전-비교" tabindex="-1" data-src-line="385">8. 격식체 vs 비격식체 완전 비교 <a class="header-anchor" href="#8-격식체-vs-비격식체-완전-비교" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -470,8 +472,8 @@ Talk soon!
 </tbody>
 </table>
 </div><hr>
-<h2 id="9-자주-쓰이는-이메일-표현-50개" tabindex="-1" data-src-line="398">9. 자주 쓰이는 이메일 표현 50개 <a class="header-anchor" href="#9-자주-쓰이는-이메일-표현-50개" aria-hidden="true">#</a></h2>
-<h3 id="도입" tabindex="-1" data-src-line="400">도입 <a class="header-anchor" href="#도입" aria-hidden="true">#</a></h3>
+<h2 id="9-자주-쓰이는-이메일-표현-50개" tabindex="-1" data-src-line="400">9. 자주 쓰이는 이메일 표현 50개 <a class="header-anchor" href="#9-자주-쓰이는-이메일-표현-50개" aria-hidden="true">#</a></h2>
+<h3 id="도입" tabindex="-1" data-src-line="402">도입 <a class="header-anchor" href="#도입" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. I hope this email finds you well.
 2. I am writing with regard to...
 3. Further to our phone call,...
@@ -481,7 +483,7 @@ Talk soon!
 7. Thank you for your email.
 8. In response to your inquiry,...
 </code></pre></div></code></pre>
-<h3 id="요청문의" tabindex="-1" data-src-line="413">요청·문의 <a class="header-anchor" href="#요청문의" aria-hidden="true">#</a></h3>
+<h3 id="요청문의" tabindex="-1" data-src-line="415">요청·문의 <a class="header-anchor" href="#요청문의" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">9. Could you please...?
 10. I would appreciate it if you could...
 11. Would it be possible to...?
@@ -491,7 +493,7 @@ Talk soon!
 15. Could you send me...?
 16. I would be grateful if...
 </code></pre></div></code></pre>
-<h3 id="정보-제공" tabindex="-1" data-src-line="426">정보 제공 <a class="header-anchor" href="#정보-제공" aria-hidden="true">#</a></h3>
+<h3 id="정보-제공" tabindex="-1" data-src-line="428">정보 제공 <a class="header-anchor" href="#정보-제공" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">17. I am pleased to inform you that...
 18. Please be advised that...
 19. I wanted to update you on...
@@ -501,28 +503,28 @@ Talk soon!
 23. Please note that...
 24. I am happy to confirm that...
 </code></pre></div></code></pre>
-<h3 id="첨부동봉" tabindex="-1" data-src-line="439">첨부·동봉 <a class="header-anchor" href="#첨부동봉" aria-hidden="true">#</a></h3>
+<h3 id="첨부동봉" tabindex="-1" data-src-line="441">첨부·동봉 <a class="header-anchor" href="#첨부동봉" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">25. Please find attached...
 26. I have attached...for your review.
 27. Enclosed please find...
 28. The document is attached to this email.
 29. See the attached file for details.
 </code></pre></div></code></pre>
-<h3 id="감사" tabindex="-1" data-src-line="449">감사 <a class="header-anchor" href="#감사" aria-hidden="true">#</a></h3>
+<h3 id="감사" tabindex="-1" data-src-line="451">감사 <a class="header-anchor" href="#감사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">30. Thank you for your prompt reply.
 31. I really appreciate your help.
 32. Many thanks for your assistance.
 33. Thank you for taking the time to...
 34. I&#039;m grateful for your support.
 </code></pre></div></code></pre>
-<h3 id="사과" tabindex="-1" data-src-line="459">사과 <a class="header-anchor" href="#사과" aria-hidden="true">#</a></h3>
+<h3 id="사과" tabindex="-1" data-src-line="461">사과 <a class="header-anchor" href="#사과" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">35. I apologize for the inconvenience.
 36. I&#039;m sorry for the delay.
 37. Please accept my apologies for...
 38. I regret that...
 39. I sincerely apologize for...
 </code></pre></div></code></pre>
-<h3 id="마무리" tabindex="-1" data-src-line="469">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h3>
+<h3 id="마무리" tabindex="-1" data-src-line="471">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">40. I look forward to hearing from you.
 41. Please don&#039;t hesitate to contact me.
 42. Feel free to reach out if you need anything.
@@ -530,7 +532,7 @@ Talk soon!
 44. Looking forward to your reply.
 45. Should you have any questions, please let me know.
 </code></pre></div></code></pre>
-<h3 id="서명" tabindex="-1" data-src-line="480">서명 <a class="header-anchor" href="#서명" aria-hidden="true">#</a></h3>
+<h3 id="서명" tabindex="-1" data-src-line="482">서명 <a class="header-anchor" href="#서명" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">46. Best regards,
 47. Kind regards,
 48. Sincerely,
@@ -538,8 +540,8 @@ Talk soon!
 50. With warm regards,
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-실전-이메일-예시" tabindex="-1" data-src-line="492">10. 실전 이메일 예시 <a class="header-anchor" href="#10-실전-이메일-예시" aria-hidden="true">#</a></h2>
-<h3 id="예시--비즈니스-미팅-요청" tabindex="-1" data-src-line="494">예시 ① 비즈니스 미팅 요청 <a class="header-anchor" href="#예시--비즈니스-미팅-요청" aria-hidden="true">#</a></h3>
+<h2 id="10-실전-이메일-예시" tabindex="-1" data-src-line="494">10. 실전 이메일 예시 <a class="header-anchor" href="#10-실전-이메일-예시" aria-hidden="true">#</a></h2>
+<h3 id="예시--비즈니스-미팅-요청" tabindex="-1" data-src-line="496">예시 ① 비즈니스 미팅 요청 <a class="header-anchor" href="#예시--비즈니스-미팅-요청" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Subject: Meeting Request — Q3 Marketing Strategy
 
 Dear Ms. Johnson,
@@ -594,7 +596,7 @@ Email: jiwon.park@abckorea.com
 감사합니다,
 박지원
 </code></pre></div></code></pre>
-<h3 id="예시--프로젝트-업데이트" tabindex="-1" data-src-line="552">예시 ② 프로젝트 업데이트 <a class="header-anchor" href="#예시--프로젝트-업데이트" aria-hidden="true">#</a></h3>
+<h3 id="예시--프로젝트-업데이트" tabindex="-1" data-src-line="554">예시 ② 프로젝트 업데이트 <a class="header-anchor" href="#예시--프로젝트-업데이트" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Subject: Project Update — Website Redesign (Week 3)
 
 Hi Team,
@@ -653,7 +655,7 @@ Sarah
 감사합니다,
 Sarah
 </code></pre></div></code></pre>
-<h3 id="예시--정중한-거절" tabindex="-1" data-src-line="614">예시 ③ 정중한 거절 <a class="header-anchor" href="#예시--정중한-거절" aria-hidden="true">#</a></h3>
+<h3 id="예시--정중한-거절" tabindex="-1" data-src-line="616">예시 ③ 정중한 거절 <a class="header-anchor" href="#예시--정중한-거절" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Subject: Re: Partnership Proposal
 
 Dear Mr. Chen,
@@ -711,7 +713,7 @@ Business Development Director | XYZ Corp
 감사합니다,
 이민준
 </code></pre></div></code></pre>
-<h3 id="예시--일상-이메일-친한-동료" tabindex="-1" data-src-line="675">예시 ④ 일상 이메일 (친한 동료) <a class="header-anchor" href="#예시--일상-이메일-친한-동료" aria-hidden="true">#</a></h3>
+<h3 id="예시--일상-이메일-친한-동료" tabindex="-1" data-src-line="677">예시 ④ 일상 이메일 (친한 동료) <a class="header-anchor" href="#예시--일상-이메일-친한-동료" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Subject: Quick Question About the Report
 
 Hi Sarah,
@@ -750,24 +752,24 @@ Minjun
 민준
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-이메일-작성-주의사항" tabindex="-1" data-src-line="718">11. 이메일 작성 주의사항 <a class="header-anchor" href="#11-이메일-작성-주의사항" aria-hidden="true">#</a></h2>
-<h3 id="-명확한-제목-작성" tabindex="-1" data-src-line="720">① 명확한 제목 작성 <a class="header-anchor" href="#-명확한-제목-작성" aria-hidden="true">#</a></h3>
+<h2 id="11-이메일-작성-주의사항" tabindex="-1" data-src-line="720">11. 이메일 작성 주의사항 <a class="header-anchor" href="#11-이메일-작성-주의사항" aria-hidden="true">#</a></h2>
+<h3 id="-명확한-제목-작성" tabindex="-1" data-src-line="722">① 명확한 제목 작성 <a class="header-anchor" href="#-명확한-제목-작성" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Hello
 ✅ Meeting Request — Budget Review for Q4
 </code></pre></div></code></pre>
-<h3 id="-짧고-명확하게" tabindex="-1" data-src-line="727">② 짧고 명확하게 <a class="header-anchor" href="#-짧고-명확하게" aria-hidden="true">#</a></h3>
+<h3 id="-짧고-명확하게" tabindex="-1" data-src-line="729">② 짧고 명확하게 <a class="header-anchor" href="#-짧고-명확하게" aria-hidden="true">#</a></h3>
 <ul>
 <li>핵심 내용을 먼저 작성</li>
 <li>한 이메일에 하나의 주제</li>
 <li>불필요한 문장 제거</li>
 </ul>
-<h3 id="-문단-나누기" tabindex="-1" data-src-line="733">③ 문단 나누기 <a class="header-anchor" href="#-문단-나누기" aria-hidden="true">#</a></h3>
+<h3 id="-문단-나누기" tabindex="-1" data-src-line="735">③ 문단 나누기 <a class="header-anchor" href="#-문단-나누기" aria-hidden="true">#</a></h3>
 <ul>
 <li>한 문단에 하나의 생각</li>
 <li>3~5줄 이내로 유지</li>
 <li>중요 사항은 bullet point 사용</li>
 </ul>
-<h3 id="-프루프리딩-교정" tabindex="-1" data-src-line="739">④ 프루프리딩 (교정) <a class="header-anchor" href="#-프루프리딩-교정" aria-hidden="true">#</a></h3>
+<h3 id="-프루프리딩-교정" tabindex="-1" data-src-line="741">④ 프루프리딩 (교정) <a class="header-anchor" href="#-프루프리딩-교정" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">보내기 전 반드시 확인:
 - 수신자 이름/이메일 주소 맞는지
 - 첨부 파일 실제로 첨부했는지
@@ -775,12 +777,12 @@ Minjun
 - 적절한 격식도
 - 답장 필요 여부와 기한 명시
 </code></pre></div></code></pre>
-<h3 id="-reply-all-주의" tabindex="-1" data-src-line="750">⑤ Reply All 주의 <a class="header-anchor" href="#-reply-all-주의" aria-hidden="true">#</a></h3>
+<h3 id="-reply-all-주의" tabindex="-1" data-src-line="752">⑤ Reply All 주의 <a class="header-anchor" href="#-reply-all-주의" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Reply All (전체 답장)은 정말 모든 수신자에게
 답장이 필요할 때만 사용합니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="12-이메일-약어" tabindex="-1" data-src-line="759">12. 이메일 약어 <a class="header-anchor" href="#12-이메일-약어" aria-hidden="true">#</a></h2>
+<h2 id="12-이메일-약어" tabindex="-1" data-src-line="761">12. 이메일 약어 <a class="header-anchor" href="#12-이메일-약어" aria-hidden="true">#</a></h2>
 <p>비즈니스 이메일에서 자주 쓰이는 약어들입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -859,7 +861,7 @@ Minjun
 </tbody>
 </table>
 </div><hr>
-<h2 id="13-자동-부재-회신-out-of-office-작성법" tabindex="-1" data-src-line="781">13. 자동 부재 회신 (Out of Office) 작성법 <a class="header-anchor" href="#13-자동-부재-회신-out-of-office-작성법" aria-hidden="true">#</a></h2>
+<h2 id="13-자동-부재-회신-out-of-office-작성법" tabindex="-1" data-src-line="783">13. 자동 부재 회신 (Out of Office) 작성법 <a class="header-anchor" href="#13-자동-부재-회신-out-of-office-작성법" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Subject: Out of Office — [이름], [날짜]
 
 Thank you for your email.
@@ -895,7 +897,7 @@ Best regards,
 [이름]
 </code></pre></div></code></pre>
 <hr>
-<h2 id="14-문형-정리" tabindex="-1" data-src-line="821">14. 문형 정리 <a class="header-anchor" href="#14-문형-정리" aria-hidden="true">#</a></h2>
+<h2 id="14-문형-정리" tabindex="-1" data-src-line="823">14. 문형 정리 <a class="header-anchor" href="#14-문형-정리" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -953,7 +955,7 @@ Best regards,
 </tbody>
 </table>
 </div><hr>
-<h2 id="마무리-1" tabindex="-1" data-src-line="837">마무리 <a class="header-anchor" href="#마무리-1" aria-hidden="true">#</a></h2>
+<h2 id="마무리-1" tabindex="-1" data-src-line="839">마무리 <a class="header-anchor" href="#마무리-1" aria-hidden="true">#</a></h2>
 <p>영어 이메일의 핵심 원칙 세 가지를 기억하세요.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 명확한 제목 → 받는 사람이 내용을 바로 파악
 ② 격식도에 맞는 표현 선택:
@@ -981,10 +983,10 @@ Best regards,
 <li>20강: 발음 교정 · 원어민 표현 · 시리즈 총복습</li>
 </ul>
 </blockquote>
-6:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Ld",null,{"content":"$e"}]}]}]
-7:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Lf",null,{"href":"/post/english/english-lesson-18-conditionals","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-18-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/english/english-lesson-18-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]}],["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}],["$","li","english/english-lesson-16-infinitives-gerunds",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Lf",null,{"href":"/post/english/english-lesson-16-infinitives-gerunds","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 16강: to부정사 · 동명사 완전 정복 — to do / doing"}]}]]}]]}]]}]
-8:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
-9:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
-a:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
-b:["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]
-12:null
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english/english-lesson-18-conditionals","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english/english-lesson-20-pronunciation-native-expressions-review","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-20-pronunciation-native-expressions-review",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english/english-lesson-20-pronunciation-native-expressions-review","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습"}]}],["$","li","english/english-lesson-18-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english/english-lesson-18-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]}],["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
