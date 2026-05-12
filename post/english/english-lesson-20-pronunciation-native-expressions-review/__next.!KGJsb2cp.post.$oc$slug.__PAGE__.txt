@@ -1,19 +1,19 @@
 1:"$Sreact.fragment"
-2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],"default"]
-e:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],"default"]
-f:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],"default"]
-11:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-cb75689b11765a95.js"],""]
-12:I[484,[],"OutletBoundary"]
-13:"$Sreact.suspense"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+f:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+12:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+13:I[484,[],"OutletBoundary"]
+14:"$Sreact.suspense"
 :HL["/_next/static/css/b581b0ddd08f3771.css","style"]
-0:{"buildId":"-4xHgbaKB_tycaBBfL-S-","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-20-pronunciation-native-expressions-review\"},\"headline\":\"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습\",\"description\":\"한국인 발음 교정 TOP 10, 원어민이 실제로 쓰는 줄임 표현, 구동사 30선, 혼동 단어쌍, 그리고 1~19강 전체 핵심 문법 총복습으로 영어 공부 시리즈를 완성합니다.\",\"datePublished\":\"2026-05-07T14:43:00.000Z\",\"dateModified\":\"2026-05-07T14:43:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-20-pronunciation-native-expressions-review\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"pronunciation\",\"native-expressions\",\"phrasal-verbs\",\"review\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습","slugPath":"english/english-lesson-20-pronunciation-native-expressions-review","headings":[{"id":"영어-20강-발음-교정--원어민-표현--시리즈-완결-총복습","text":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-한국인-발음-교정-심화-top-10","text":"1. 한국인 발음 교정 심화 TOP 10","level":2},{"id":"-r-발음--혀를-어디에도-닿지-않게","text":"① r 발음 — 혀를 어디에도 닿지 않게","level":3},{"id":"-l-발음--혀끝을-잇몸에-붙이기","text":"② l 발음 — 혀끝을 잇몸에 붙이기","level":3},{"id":"-v-발음--윗니를-아랫입술에","text":"③ v 발음 — 윗니를 아랫입술에","level":3},{"id":"-th-발음--혀를-이-사이에","text":"④ th 발음 — 혀를 이 사이에","level":3},{"id":"-단어-끝-자음-완전히-발음하기","text":"⑤ 단어 끝 자음 완전히 발음하기","level":3},{"id":"-단모음---입을-크게-벌려","text":"⑥ 단모음 æ — 입을 크게 벌려","level":3},{"id":"-강세-stress--틀리면-이해를-못-함","text":"⑦ 강세 (Stress) — 틀리면 이해를 못 함","level":3},{"id":"-연음-linking--이어서-발음하기","text":"⑧ 연음 (Linking) — 이어서 발음하기","level":3},{"id":"-약모음-슈와-schwa-","text":"⑨ 약모음 슈와 (Schwa /ə/)","level":3},{"id":"-억양-패턴--감정을-담아서","text":"⑩ 억양 패턴 — 감정을 담아서","level":3},{"id":"2-원어민이-실제로-쓰는-줄임-표현","text":"2. 원어민이 실제로 쓰는 줄임 표현","level":2},{"id":"3-구동사-phrasal-verbs-30선","text":"3. 구동사 (Phrasal Verbs) 30선","level":2},{"id":"일상-동작","text":"일상 동작","level":3},{"id":"관계소통","text":"관계·소통","level":3},{"id":"생각결정","text":"생각·결정","level":3},{"id":"일진행","text":"일·진행","level":3},{"id":"4-자주-혼동되는-단어쌍","text":"4. 자주 혼동되는 단어쌍","level":2},{"id":"-affect-vs-effect","text":"① affect vs effect","level":3},{"id":"-lay-vs-lie","text":"② lay vs lie","level":3},{"id":"-rise-vs-raise","text":"③ rise vs raise","level":3},{"id":"-lend-vs-borrow","text":"④ lend vs borrow","level":3},{"id":"-bring-vs-take","text":"⑤ bring vs take","level":3},{"id":"-make-vs-do","text":"⑥ make vs do","level":3},{"id":"-say-vs-tell","text":"⑦ say vs tell","level":3},{"id":"-hear-vs-listen","text":"⑧ hear vs listen","level":3},{"id":"-watch-vs-see-vs-look","text":"⑨ watch vs see vs look","level":3},{"id":"-advise-vs-advice","text":"⑩ advise vs advice","level":3},{"id":"5-유용한-관용-표현-idioms-20선","text":"5. 유용한 관용 표현 (Idioms) 20선","level":2},{"id":"6-자연스러운-영어-회화-팁","text":"6. 자연스러운 영어 회화 팁","level":2},{"id":"-필러filler-표현--생각할-시간-벌기","text":"① 필러(Filler) 표현 — 생각할 시간 벌기","level":3},{"id":"-동의반응-표현","text":"② 동의·반응 표현","level":3},{"id":"-부드럽게-반론하기","text":"③ 부드럽게 반론하기","level":3},{"id":"7-시험에-자주-나오는-헷갈리는-문법-포인트","text":"7. 시험에 자주 나오는 헷갈리는 문법 포인트","level":2},{"id":"-관사","text":"① 관사","level":3},{"id":"-시제","text":"② 시제","level":3},{"id":"-조동사","text":"③ 조동사","level":3},{"id":"-가정법","text":"④ 가정법","level":3},{"id":"-관계대명사","text":"⑤ 관계대명사","level":3},{"id":"8--전체-시리즈-완결-총복습","text":"8. 🎉 전체 시리즈 완결 총복습","level":2},{"id":"9-이후-학습-로드맵--b1-이후를-향해","text":"9. 이후 학습 로드맵 — B1 이후를 향해","level":2},{"id":"b1-레벨-목표-중급","text":"B1 레벨 목표 (중급)","level":3},{"id":"추천-학습-방법","text":"추천 학습 방법","level":3},{"id":"10-실전-회화--영어-실력-향상에-대해","text":"10. 실전 회화 — 영어 실력 향상에 대해","level":2},{"id":"11-마지막-당부--영어-학습의-진실","text":"11. 마지막 당부 — 영어 학습의 진실","level":2},{"id":"-시리즈-완결","text":"🎊 시리즈 완결!","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,"$L3","$L4","$L5","$L6","$L7"]}],"$L8","$L9","$La","$Lb"]}],["$Lc"],"$Ld"]}],"loading":null,"isPartial":false}
-3:["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-20-pronunciation-native-expressions-review"}]]}]
-4:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습"}]
-5:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"한국인 발음 교정 TOP 10, 원어민이 실제로 쓰는 줄임 표현, 구동사 30선, 혼동 단어쌍, 그리고 1~19강 전체 핵심 문법 총복습으로 영어 공부 시리즈를 완성합니다."}]
-6:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-07T14:43:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-07T14:43:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 7일"]}],["$","$Le",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","pronunciation",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","pronunciation"]}],["$","span","native-expressions",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","native-expressions"]}],["$","span","phrasal-verbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","phrasal-verbs"]}],["$","span","review",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","review"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
-7:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
-10:Tb9c4,<h1 id="영어-20강-발음-교정--원어민-표현--시리즈-완결-총복습" tabindex="-1" data-src-line="1">영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습 <a class="header-anchor" href="#영어-20강-발음-교정--원어민-표현--시리즈-완결-총복습" aria-hidden="true">#</a></h1>
-<nav class="md-toc"><ul><li><a href="#영어-20강-발음-교정--원어민-표현--시리즈-완결-총복습">영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-한국인-발음-교정-심화-top-10">1. 한국인 발음 교정 심화 TOP 10 </a><ul><li><a href="#-r-발음--혀를-어디에도-닿지-않게">① r 발음 — 혀를 어디에도 닿지 않게 </a></li><li><a href="#-l-발음--혀끝을-잇몸에-붙이기">② l 발음 — 혀끝을 잇몸에 붙이기 </a></li><li><a href="#-v-발음--윗니를-아랫입술에">③ v 발음 — 윗니를 아랫입술에 </a></li><li><a href="#-th-발음--혀를-이-사이에">④ th 발음 — 혀를 이 사이에 </a></li><li><a href="#-단어-끝-자음-완전히-발음하기">⑤ 단어 끝 자음 완전히 발음하기 </a></li><li><a href="#-단모음---입을-크게-벌려">⑥ 단모음 æ — 입을 크게 벌려 </a></li><li><a href="#-강세-stress--틀리면-이해를-못-함">⑦ 강세 (Stress) — 틀리면 이해를 못 함 </a></li><li><a href="#-연음-linking--이어서-발음하기">⑧ 연음 (Linking) — 이어서 발음하기 </a></li><li><a href="#-약모음-슈와-schwa-">⑨ 약모음 슈와 (Schwa /ə/) </a></li><li><a href="#-억양-패턴--감정을-담아서">⑩ 억양 패턴 — 감정을 담아서 </a></li></ul></li><li><a href="#2-원어민이-실제로-쓰는-줄임-표현">2. 원어민이 실제로 쓰는 줄임 표현 </a></li><li><a href="#3-구동사-phrasal-verbs-30선">3. 구동사 (Phrasal Verbs) 30선 </a><ul><li><a href="#일상-동작">일상 동작 </a></li><li><a href="#관계소통">관계·소통 </a></li><li><a href="#생각결정">생각·결정 </a></li><li><a href="#일진행">일·진행 </a></li></ul></li><li><a href="#4-자주-혼동되는-단어쌍">4. 자주 혼동되는 단어쌍 </a><ul><li><a href="#-affect-vs-effect">① affect vs effect </a></li><li><a href="#-lay-vs-lie">② lay vs lie </a></li><li><a href="#-rise-vs-raise">③ rise vs raise </a></li><li><a href="#-lend-vs-borrow">④ lend vs borrow </a></li><li><a href="#-bring-vs-take">⑤ bring vs take </a></li><li><a href="#-make-vs-do">⑥ make vs do </a></li><li><a href="#-say-vs-tell">⑦ say vs tell </a></li><li><a href="#-hear-vs-listen">⑧ hear vs listen </a></li><li><a href="#-watch-vs-see-vs-look">⑨ watch vs see vs look </a></li><li><a href="#-advise-vs-advice">⑩ advise vs advice </a></li></ul></li><li><a href="#5-유용한-관용-표현-idioms-20선">5. 유용한 관용 표현 (Idioms) 20선 </a></li><li><a href="#6-자연스러운-영어-회화-팁">6. 자연스러운 영어 회화 팁 </a><ul><li><a href="#-필러filler-표현--생각할-시간-벌기">① 필러(Filler) 표현 — 생각할 시간 벌기 </a></li><li><a href="#-동의반응-표현">② 동의·반응 표현 </a></li><li><a href="#-부드럽게-반론하기">③ 부드럽게 반론하기 </a></li></ul></li><li><a href="#7-시험에-자주-나오는-헷갈리는-문법-포인트">7. 시험에 자주 나오는 헷갈리는 문법 포인트 </a><ul><li><a href="#-관사">① 관사 </a></li><li><a href="#-시제">② 시제 </a></li><li><a href="#-조동사">③ 조동사 </a></li><li><a href="#-가정법">④ 가정법 </a></li><li><a href="#-관계대명사">⑤ 관계대명사 </a></li></ul></li><li><a href="#8--전체-시리즈-완결-총복습">8. 🎉 전체 시리즈 완결 총복습 </a></li><li><a href="#9-이후-학습-로드맵--b1-이후를-향해">9. 이후 학습 로드맵 — B1 이후를 향해 </a><ul><li><a href="#b1-레벨-목표-중급">B1 레벨 목표 (중급) </a></li><li><a href="#추천-학습-방법">추천 학습 방법 </a></li></ul></li><li><a href="#10-실전-회화--영어-실력-향상에-대해">10. 실전 회화 — 영어 실력 향상에 대해 </a></li><li><a href="#11-마지막-당부--영어-학습의-진실">11. 마지막 당부 — 영어 학습의 진실 </a></li><li><a href="#-시리즈-완결">🎊 시리즈 완결! </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+0:{"buildId":"gWkA9N3ynkW0NaS9ZXsja","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english/english-lesson-20-pronunciation-native-expressions-review\"},\"headline\":\"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습\",\"description\":\"한국인 발음 교정 TOP 10, 원어민이 실제로 쓰는 줄임 표현, 구동사 30선, 혼동 단어쌍, 그리고 1~19강 전체 핵심 문법 총복습으로 영어 공부 시리즈를 완성합니다.\",\"datePublished\":\"2026-05-07T14:43:00.000Z\",\"dateModified\":\"2026-05-07T14:43:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english/english-lesson-20-pronunciation-native-expressions-review\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"pronunciation\",\"native-expressions\",\"phrasal-verbs\",\"review\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습","slugPath":"english/english-lesson-20-pronunciation-native-expressions-review","headings":[{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-한국인-발음-교정-심화-top-10","text":"1. 한국인 발음 교정 심화 TOP 10","level":2},{"id":"-r-발음--혀를-어디에도-닿지-않게","text":"① r 발음 — 혀를 어디에도 닿지 않게","level":3},{"id":"-l-발음--혀끝을-잇몸에-붙이기","text":"② l 발음 — 혀끝을 잇몸에 붙이기","level":3},{"id":"-v-발음--윗니를-아랫입술에","text":"③ v 발음 — 윗니를 아랫입술에","level":3},{"id":"-th-발음--혀를-이-사이에","text":"④ th 발음 — 혀를 이 사이에","level":3},{"id":"-단어-끝-자음-완전히-발음하기","text":"⑤ 단어 끝 자음 완전히 발음하기","level":3},{"id":"-단모음---입을-크게-벌려","text":"⑥ 단모음 æ — 입을 크게 벌려","level":3},{"id":"-강세-stress--틀리면-이해를-못-함","text":"⑦ 강세 (Stress) — 틀리면 이해를 못 함","level":3},{"id":"-연음-linking--이어서-발음하기","text":"⑧ 연음 (Linking) — 이어서 발음하기","level":3},{"id":"-약모음-슈와-schwa-","text":"⑨ 약모음 슈와 (Schwa /ə/)","level":3},{"id":"-억양-패턴--감정을-담아서","text":"⑩ 억양 패턴 — 감정을 담아서","level":3},{"id":"2-원어민이-실제로-쓰는-줄임-표현","text":"2. 원어민이 실제로 쓰는 줄임 표현","level":2},{"id":"3-구동사-phrasal-verbs-30선","text":"3. 구동사 (Phrasal Verbs) 30선","level":2},{"id":"일상-동작","text":"일상 동작","level":3},{"id":"관계소통","text":"관계·소통","level":3},{"id":"생각결정","text":"생각·결정","level":3},{"id":"일진행","text":"일·진행","level":3},{"id":"4-자주-혼동되는-단어쌍","text":"4. 자주 혼동되는 단어쌍","level":2},{"id":"-affect-vs-effect","text":"① affect vs effect","level":3},{"id":"-lay-vs-lie","text":"② lay vs lie","level":3},{"id":"-rise-vs-raise","text":"③ rise vs raise","level":3},{"id":"-lend-vs-borrow","text":"④ lend vs borrow","level":3},{"id":"-bring-vs-take","text":"⑤ bring vs take","level":3},{"id":"-make-vs-do","text":"⑥ make vs do","level":3},{"id":"-say-vs-tell","text":"⑦ say vs tell","level":3},{"id":"-hear-vs-listen","text":"⑧ hear vs listen","level":3},{"id":"-watch-vs-see-vs-look","text":"⑨ watch vs see vs look","level":3},{"id":"-advise-vs-advice","text":"⑩ advise vs advice","level":3},{"id":"5-유용한-관용-표현-idioms-20선","text":"5. 유용한 관용 표현 (Idioms) 20선","level":2},{"id":"6-자연스러운-영어-회화-팁","text":"6. 자연스러운 영어 회화 팁","level":2},{"id":"-필러filler-표현--생각할-시간-벌기","text":"① 필러(Filler) 표현 — 생각할 시간 벌기","level":3},{"id":"-동의반응-표현","text":"② 동의·반응 표현","level":3},{"id":"-부드럽게-반론하기","text":"③ 부드럽게 반론하기","level":3},{"id":"7-시험에-자주-나오는-헷갈리는-문법-포인트","text":"7. 시험에 자주 나오는 헷갈리는 문법 포인트","level":2},{"id":"-관사","text":"① 관사","level":3},{"id":"-시제","text":"② 시제","level":3},{"id":"-조동사","text":"③ 조동사","level":3},{"id":"-가정법","text":"④ 가정법","level":3},{"id":"-관계대명사","text":"⑤ 관계대명사","level":3},{"id":"8--전체-시리즈-완결-총복습","text":"8. 🎉 전체 시리즈 완결 총복습","level":2},{"id":"9-이후-학습-로드맵--b1-이후를-향해","text":"9. 이후 학습 로드맵 — B1 이후를 향해","level":2},{"id":"b1-레벨-목표-중급","text":"B1 레벨 목표 (중급)","level":3},{"id":"추천-학습-방법","text":"추천 학습 방법","level":3},{"id":"10-실전-회화--영어-실력-향상에-대해","text":"10. 실전 회화 — 영어 실력 향상에 대해","level":2},{"id":"11-마지막-당부--영어-학습의-진실","text":"11. 마지막 당부 — 영어 학습의 진실","level":2},{"id":"-시리즈-완결","text":"🎊 시리즈 완결!","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":["$L3","$L4"]}],"$L5","$L6","$L7","$L8"]}],"$L9","$La","$Lb","$Lc"]}],["$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+3:["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}]
+4:["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english › english-lesson-20-pronunciation-native-expressions-review"}]
+5:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습"}]
+6:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"한국인 발음 교정 TOP 10, 원어민이 실제로 쓰는 줄임 표현, 구동사 30선, 혼동 단어쌍, 그리고 1~19강 전체 핵심 문법 총복습으로 영어 공부 시리즈를 완성합니다."}]
+7:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-07T14:43:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-07T14:43:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 7일"]}],["$","$Lf",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","pronunciation",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","pronunciation"]}],["$","span","native-expressions",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","native-expressions"]}],["$","span","phrasal-verbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","phrasal-verbs"]}],["$","span","review",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","review"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+8:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+11:Tb7c4,<nav class="md-toc"><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-한국인-발음-교정-심화-top-10">1. 한국인 발음 교정 심화 TOP 10 </a><ul><li><a href="#-r-발음--혀를-어디에도-닿지-않게">① r 발음 — 혀를 어디에도 닿지 않게 </a></li><li><a href="#-l-발음--혀끝을-잇몸에-붙이기">② l 발음 — 혀끝을 잇몸에 붙이기 </a></li><li><a href="#-v-발음--윗니를-아랫입술에">③ v 발음 — 윗니를 아랫입술에 </a></li><li><a href="#-th-발음--혀를-이-사이에">④ th 발음 — 혀를 이 사이에 </a></li><li><a href="#-단어-끝-자음-완전히-발음하기">⑤ 단어 끝 자음 완전히 발음하기 </a></li><li><a href="#-단모음---입을-크게-벌려">⑥ 단모음 æ — 입을 크게 벌려 </a></li><li><a href="#-강세-stress--틀리면-이해를-못-함">⑦ 강세 (Stress) — 틀리면 이해를 못 함 </a></li><li><a href="#-연음-linking--이어서-발음하기">⑧ 연음 (Linking) — 이어서 발음하기 </a></li><li><a href="#-약모음-슈와-schwa-">⑨ 약모음 슈와 (Schwa /ə/) </a></li><li><a href="#-억양-패턴--감정을-담아서">⑩ 억양 패턴 — 감정을 담아서 </a></li></ul></li><li><a href="#2-원어민이-실제로-쓰는-줄임-표현">2. 원어민이 실제로 쓰는 줄임 표현 </a></li><li><a href="#3-구동사-phrasal-verbs-30선">3. 구동사 (Phrasal Verbs) 30선 </a><ul><li><a href="#일상-동작">일상 동작 </a></li><li><a href="#관계소통">관계·소통 </a></li><li><a href="#생각결정">생각·결정 </a></li><li><a href="#일진행">일·진행 </a></li></ul></li><li><a href="#4-자주-혼동되는-단어쌍">4. 자주 혼동되는 단어쌍 </a><ul><li><a href="#-affect-vs-effect">① affect vs effect </a></li><li><a href="#-lay-vs-lie">② lay vs lie </a></li><li><a href="#-rise-vs-raise">③ rise vs raise </a></li><li><a href="#-lend-vs-borrow">④ lend vs borrow </a></li><li><a href="#-bring-vs-take">⑤ bring vs take </a></li><li><a href="#-make-vs-do">⑥ make vs do </a></li><li><a href="#-say-vs-tell">⑦ say vs tell </a></li><li><a href="#-hear-vs-listen">⑧ hear vs listen </a></li><li><a href="#-watch-vs-see-vs-look">⑨ watch vs see vs look </a></li><li><a href="#-advise-vs-advice">⑩ advise vs advice </a></li></ul></li><li><a href="#5-유용한-관용-표현-idioms-20선">5. 유용한 관용 표현 (Idioms) 20선 </a></li><li><a href="#6-자연스러운-영어-회화-팁">6. 자연스러운 영어 회화 팁 </a><ul><li><a href="#-필러filler-표현--생각할-시간-벌기">① 필러(Filler) 표현 — 생각할 시간 벌기 </a></li><li><a href="#-동의반응-표현">② 동의·반응 표현 </a></li><li><a href="#-부드럽게-반론하기">③ 부드럽게 반론하기 </a></li></ul></li><li><a href="#7-시험에-자주-나오는-헷갈리는-문법-포인트">7. 시험에 자주 나오는 헷갈리는 문법 포인트 </a><ul><li><a href="#-관사">① 관사 </a></li><li><a href="#-시제">② 시제 </a></li><li><a href="#-조동사">③ 조동사 </a></li><li><a href="#-가정법">④ 가정법 </a></li><li><a href="#-관계대명사">⑤ 관계대명사 </a></li></ul></li><li><a href="#8--전체-시리즈-완결-총복습">8. 🎉 전체 시리즈 완결 총복습 </a></li><li><a href="#9-이후-학습-로드맵--b1-이후를-향해">9. 이후 학습 로드맵 — B1 이후를 향해 </a><ul><li><a href="#b1-레벨-목표-중급">B1 레벨 목표 (중급) </a></li><li><a href="#추천-학습-방법">추천 학습 방법 </a></li></ul></li><li><a href="#10-실전-회화--영어-실력-향상에-대해">10. 실전 회화 — 영어 실력 향상에 대해 </a></li><li><a href="#11-마지막-당부--영어-학습의-진실">11. 마지막 당부 — 영어 학습의 진실 </a></li><li><a href="#-시리즈-완결">🎊 시리즈 완결! </a></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="3">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
 <p>드디어 마지막 강입니다!</p>
 <p>이번 강에서는 두 가지를 다룹니다.</p>
 <p>첫째, <strong>실용 영어의 마무리</strong> — 원어민이 실제로 쓰는 줄임 표현, 구동사, 혼동 단어쌍, 관용 표현을 익힙니다.</p>
@@ -29,9 +29,9 @@ f:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app
 </ul>
 </blockquote>
 <hr>
-<h2 id="1-한국인-발음-교정-심화-top-10" tabindex="-1" data-src-line="24">1. 한국인 발음 교정 심화 TOP 10 <a class="header-anchor" href="#1-한국인-발음-교정-심화-top-10" aria-hidden="true">#</a></h2>
+<h2 id="1-한국인-발음-교정-심화-top-10" tabindex="-1" data-src-line="22">1. 한국인 발음 교정 심화 TOP 10 <a class="header-anchor" href="#1-한국인-발음-교정-심화-top-10" aria-hidden="true">#</a></h2>
 <p>1강에서 기초 발음을 다뤘다면, 이번에는 중급 수준의 발음 교정을 다룹니다.</p>
-<h3 id="-r-발음--혀를-어디에도-닿지-않게" tabindex="-1" data-src-line="28">① r 발음 — 혀를 어디에도 닿지 않게 <a class="header-anchor" href="#-r-발음--혀를-어디에도-닿지-않게" aria-hidden="true">#</a></h3>
+<h3 id="-r-발음--혀를-어디에도-닿지-않게" tabindex="-1" data-src-line="26">① r 발음 — 혀를 어디에도 닿지 않게 <a class="header-anchor" href="#-r-발음--혀를-어디에도-닿지-않게" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">red, right, road, restaurant, really, rain
 </code></pre></div></code></pre>
 <p><strong>연습 방법</strong>: 혀끝을 말아올리되 어디에도 닿지 않게 합니다.<br>
@@ -39,20 +39,20 @@ f:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[틀린 발음] &quot;라이트&quot; → [올바른 발음] /raɪt/ (혀 공중에)
 [틀린 발음] &quot;레스토랑&quot; → [올바른 발음] /ˈrɛstərɑːnt/
 </code></pre></div></code></pre>
-<h3 id="-l-발음--혀끝을-잇몸에-붙이기" tabindex="-1" data-src-line="42">② l 발음 — 혀끝을 잇몸에 붙이기 <a class="header-anchor" href="#-l-발음--혀끝을-잇몸에-붙이기" aria-hidden="true">#</a></h3>
+<h3 id="-l-발음--혀끝을-잇몸에-붙이기" tabindex="-1" data-src-line="40">② l 발음 — 혀끝을 잇몸에 붙이기 <a class="header-anchor" href="#-l-발음--혀끝을-잇몸에-붙이기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">love, light, left, language, long, already
 </code></pre></div></code></pre>
 <p><strong>연습 방법</strong>: 혀끝을 윗니 바로 뒤 잇몸에 가볍게 붙였다 떼며 발음합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">really /ˈriːli/ — r과 l이 모두 들어간 단어로 연습
 rally, rally, rally
 </code></pre></div></code></pre>
-<h3 id="-v-발음--윗니를-아랫입술에" tabindex="-1" data-src-line="55">③ v 발음 — 윗니를 아랫입술에 <a class="header-anchor" href="#-v-발음--윗니를-아랫입술에" aria-hidden="true">#</a></h3>
+<h3 id="-v-발음--윗니를-아랫입술에" tabindex="-1" data-src-line="53">③ v 발음 — 윗니를 아랫입술에 <a class="header-anchor" href="#-v-발음--윗니를-아랫입술에" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">very, visit, video, value, over, love
 </code></pre></div></code></pre>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[틀린 발음] &quot;베리&quot; → [올바른 발음] /ˈvɛri/ (윗니를 아랫입술에 대고 진동)
 very → berry와 명확히 다르게 발음해야 함
 </code></pre></div></code></pre>
-<h3 id="-th-발음--혀를-이-사이에" tabindex="-1" data-src-line="66">④ th 발음 — 혀를 이 사이에 <a class="header-anchor" href="#-th-발음--혀를-이-사이에" aria-hidden="true">#</a></h3>
+<h3 id="-th-발음--혀를-이-사이에" tabindex="-1" data-src-line="64">④ th 발음 — 혀를 이 사이에 <a class="header-anchor" href="#-th-발음--혀를-이-사이에" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">think /θɪŋk/, this /ðɪs/, three /θriː/, the /ðə/
 </code></pre></div></code></pre>
 <p><strong>무성 th (θ)</strong>: think, three, thank, through, truth<br>
@@ -60,7 +60,7 @@ very → berry와 명확히 다르게 발음해야 함
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[연습] 거울을 보며 혀끝이 이 사이에 살짝 나오는지 확인
 thin → sin → fin (다른 소리와 비교 연습)
 </code></pre></div></code></pre>
-<h3 id="-단어-끝-자음-완전히-발음하기" tabindex="-1" data-src-line="80">⑤ 단어 끝 자음 완전히 발음하기 <a class="header-anchor" href="#-단어-끝-자음-완전히-발음하기" aria-hidden="true">#</a></h3>
+<h3 id="-단어-끝-자음-완전히-발음하기" tabindex="-1" data-src-line="78">⑤ 단어 끝 자음 완전히 발음하기 <a class="header-anchor" href="#-단어-끝-자음-완전히-발음하기" aria-hidden="true">#</a></h3>
 <p>한국어는 받침 발음이 약하지만, 영어는 끝 자음을 명확히 발음합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">stop /stɒp/ — p를 완전히
 bed /bɛd/ — d를 완전히
@@ -72,7 +72,7 @@ be vs. bed (끝 d 유무)
 sea vs. seat (끝 t 유무)
 go vs. goal (끝 l 유무)
 </code></pre></div></code></pre>
-<h3 id="-단모음---입을-크게-벌려" tabindex="-1" data-src-line="98">⑥ 단모음 æ — 입을 크게 벌려 <a class="header-anchor" href="#-단모음---입을-크게-벌려" aria-hidden="true">#</a></h3>
+<h3 id="-단모음---입을-크게-벌려" tabindex="-1" data-src-line="96">⑥ 단모음 æ — 입을 크게 벌려 <a class="header-anchor" href="#-단모음---입을-크게-벌려" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">cat, man, bad, sad, happy, black, add, apple
 </code></pre></div></code></pre>
 <p>한국어의 '애’보다 훨씬 크게 입을 벌리고, 턱을 아래로 내립니다.</p>
@@ -80,7 +80,7 @@ go vs. goal (끝 l 유무)
 man /mæn/ — &quot;매앤&quot;처럼
 bat vs. but: /bæt/ vs. /bʌt/ (서로 다른 모음)
 </code></pre></div></code></pre>
-<h3 id="-강세-stress--틀리면-이해를-못-함" tabindex="-1" data-src-line="112">⑦ 강세 (Stress) — 틀리면 이해를 못 함 <a class="header-anchor" href="#-강세-stress--틀리면-이해를-못-함" aria-hidden="true">#</a></h3>
+<h3 id="-강세-stress--틀리면-이해를-못-함" tabindex="-1" data-src-line="110">⑦ 강세 (Stress) — 틀리면 이해를 못 함 <a class="header-anchor" href="#-강세-stress--틀리면-이해를-못-함" aria-hidden="true">#</a></h3>
 <p>영어는 강세가 의미를 결정합니다. 강세 위치가 틀리면 원어민이 알아듣지 못합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">phoTOgraphy (사진술) — 두 번째 음절 강세
 PHOtograph (사진) — 첫 번째 음절 강세
@@ -89,7 +89,7 @@ photoGRAPHic (사진의) — 세 번째 음절 강세
 REcord (명사: 기록) vs. reCORD (동사: 녹음하다)
 PERmit (명사: 허가증) vs. perMIT (동사: 허락하다)
 </code></pre></div></code></pre>
-<h3 id="-연음-linking--이어서-발음하기" tabindex="-1" data-src-line="125">⑧ 연음 (Linking) — 이어서 발음하기 <a class="header-anchor" href="#-연음-linking--이어서-발음하기" aria-hidden="true">#</a></h3>
+<h3 id="-연음-linking--이어서-발음하기" tabindex="-1" data-src-line="123">⑧ 연음 (Linking) — 이어서 발음하기 <a class="header-anchor" href="#-연음-linking--이어서-발음하기" aria-hidden="true">#</a></h3>
 <p>원어민은 단어를 이어서 발음합니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">pick it up → &quot;피킷업&quot;
 an apple → &quot;어내플&quot;
@@ -97,14 +97,14 @@ I want it → &quot;아이워닛&quot;
 turn it off → &quot;터닛오프&quot;
 what are you doing → &quot;워랴유두잉&quot;
 </code></pre></div></code></pre>
-<h3 id="-약모음-슈와-schwa-" tabindex="-1" data-src-line="137">⑨ 약모음 슈와 (Schwa /ə/) <a class="header-anchor" href="#-약모음-슈와-schwa-" aria-hidden="true">#</a></h3>
+<h3 id="-약모음-슈와-schwa-" tabindex="-1" data-src-line="135">⑨ 약모음 슈와 (Schwa /ə/) <a class="header-anchor" href="#-약모음-슈와-schwa-" aria-hidden="true">#</a></h3>
 <p>강세 없는 음절의 모음은 대부분 /ə/로 약화됩니다.</p>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">banana /bəˈnænə/ — ba가 /bə/
 about /əˈbaʊt/ — a가 /ə/
 today /təˈdeɪ/ — to가 /tə/
 the /ðə/ — 자음 앞에서 약화
 </code></pre></div></code></pre>
-<h3 id="-억양-패턴--감정을-담아서" tabindex="-1" data-src-line="148">⑩ 억양 패턴 — 감정을 담아서 <a class="header-anchor" href="#-억양-패턴--감정을-담아서" aria-hidden="true">#</a></h3>
+<h3 id="-억양-패턴--감정을-담아서" tabindex="-1" data-src-line="146">⑩ 억양 패턴 — 감정을 담아서 <a class="header-anchor" href="#-억양-패턴--감정을-담아서" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">평서문: 끝이 내려감 ↓
 일반 의문문(Yes/No): 끝이 올라감 ↑
 wh- 의문문: 끝이 내려감 ↓
@@ -113,7 +113,7 @@ wh- 의문문: 끝이 내려감 ↓
 &quot;I like coffee ↑, tea ↑, and juice ↓.&quot;
 </code></pre></div></code></pre>
 <hr>
-<h2 id="2-원어민이-실제로-쓰는-줄임-표현" tabindex="-1" data-src-line="161">2. 원어민이 실제로 쓰는 줄임 표현 <a class="header-anchor" href="#2-원어민이-실제로-쓰는-줄임-표현" aria-hidden="true">#</a></h2>
+<h2 id="2-원어민이-실제로-쓰는-줄임-표현" tabindex="-1" data-src-line="159">2. 원어민이 실제로 쓰는 줄임 표현 <a class="header-anchor" href="#2-원어민이-실제로-쓰는-줄임-표현" aria-hidden="true">#</a></h2>
 <p>공식적인 자리에서는 쓰지 않지만, 일상 회화에서는 거의 항상 쓰입니다.</p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -228,10 +228,10 @@ Whatcha doing? (= What are you doing?)
 <p>⚠️ <strong>공식 이메일, 비즈니스, 글쓰기에서는 절대 사용하지 않습니다.</strong></p>
 </blockquote>
 <hr>
-<h2 id="3-구동사-phrasal-verbs-30선" tabindex="-1" data-src-line="208">3. 구동사 (Phrasal Verbs) 30선 <a class="header-anchor" href="#3-구동사-phrasal-verbs-30선" aria-hidden="true">#</a></h2>
+<h2 id="3-구동사-phrasal-verbs-30선" tabindex="-1" data-src-line="206">3. 구동사 (Phrasal Verbs) 30선 <a class="header-anchor" href="#3-구동사-phrasal-verbs-30선" aria-hidden="true">#</a></h2>
 <p>구동사는 <strong>동사 + 전치사/부사</strong>의 조합으로 새로운 의미를 만듭니다.<br>
 원어민이 매우 자주 쓰는 표현이므로 통째로 익혀야 합니다.</p>
-<h3 id="일상-동작" tabindex="-1" data-src-line="213">일상 동작 <a class="header-anchor" href="#일상-동작" aria-hidden="true">#</a></h3>
+<h3 id="일상-동작" tabindex="-1" data-src-line="211">일상 동작 <a class="header-anchor" href="#일상-동작" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -278,7 +278,7 @@ Whatcha doing? (= What are you doing?)
 </tr>
 </tbody>
 </table>
-</div><h3 id="관계소통" tabindex="-1" data-src-line="225">관계·소통 <a class="header-anchor" href="#관계소통" aria-hidden="true">#</a></h3>
+</div><h3 id="관계소통" tabindex="-1" data-src-line="223">관계·소통 <a class="header-anchor" href="#관계소통" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -325,7 +325,7 @@ Whatcha doing? (= What are you doing?)
 </tr>
 </tbody>
 </table>
-</div><h3 id="생각결정" tabindex="-1" data-src-line="237">생각·결정 <a class="header-anchor" href="#생각결정" aria-hidden="true">#</a></h3>
+</div><h3 id="생각결정" tabindex="-1" data-src-line="235">생각·결정 <a class="header-anchor" href="#생각결정" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -367,7 +367,7 @@ Whatcha doing? (= What are you doing?)
 </tr>
 </tbody>
 </table>
-</div><h3 id="일진행" tabindex="-1" data-src-line="248">일·진행 <a class="header-anchor" href="#일진행" aria-hidden="true">#</a></h3>
+</div><h3 id="일진행" tabindex="-1" data-src-line="246">일·진행 <a class="header-anchor" href="#일진행" aria-hidden="true">#</a></h3>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -425,8 +425,8 @@ Whatcha doing? (= What are you doing?)
 </tbody>
 </table>
 </div><hr>
-<h2 id="4-자주-혼동되는-단어쌍" tabindex="-1" data-src-line="264">4. 자주 혼동되는 단어쌍 <a class="header-anchor" href="#4-자주-혼동되는-단어쌍" aria-hidden="true">#</a></h2>
-<h3 id="-affect-vs-effect" tabindex="-1" data-src-line="266">① affect vs effect <a class="header-anchor" href="#-affect-vs-effect" aria-hidden="true">#</a></h3>
+<h2 id="4-자주-혼동되는-단어쌍" tabindex="-1" data-src-line="262">4. 자주 혼동되는 단어쌍 <a class="header-anchor" href="#4-자주-혼동되는-단어쌍" aria-hidden="true">#</a></h2>
+<h3 id="-affect-vs-effect" tabindex="-1" data-src-line="264">① affect vs effect <a class="header-anchor" href="#-affect-vs-effect" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">affect (동사): ~에 영향을 미치다
 effect (명사): 영향, 결과
 
@@ -436,7 +436,7 @@ The weather affected my mood.
 The medicine had a positive effect.
 약이 긍정적인 효과를 냈어요.
 </code></pre></div></code></pre>
-<h3 id="-lay-vs-lie" tabindex="-1" data-src-line="279">② lay vs lie <a class="header-anchor" href="#-lay-vs-lie" aria-hidden="true">#</a></h3>
+<h3 id="-lay-vs-lie" tabindex="-1" data-src-line="277">② lay vs lie <a class="header-anchor" href="#-lay-vs-lie" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">lay (타동사): 놓다, 두다 (lay-laid-laid)
 lie (자동사): 눕다, 거짓말하다 (lie-lay-lain / lie-lied-lied)
 
@@ -446,7 +446,7 @@ Please lay the book on the table.
 I need to lie down for a while.
 잠깐 누워야 할 것 같아요.
 </code></pre></div></code></pre>
-<h3 id="-rise-vs-raise" tabindex="-1" data-src-line="292">③ rise vs raise <a class="header-anchor" href="#-rise-vs-raise" aria-hidden="true">#</a></h3>
+<h3 id="-rise-vs-raise" tabindex="-1" data-src-line="290">③ rise vs raise <a class="header-anchor" href="#-rise-vs-raise" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">rise (자동사): 오르다, 떠오르다 (rise-rose-risen)
 raise (타동사): 올리다, 기르다 (raise-raised-raised)
 
@@ -456,7 +456,7 @@ The sun rises in the east.
 She raised her hand.
 그녀는 손을 들었어요.
 </code></pre></div></code></pre>
-<h3 id="-lend-vs-borrow" tabindex="-1" data-src-line="305">④ lend vs borrow <a class="header-anchor" href="#-lend-vs-borrow" aria-hidden="true">#</a></h3>
+<h3 id="-lend-vs-borrow" tabindex="-1" data-src-line="303">④ lend vs borrow <a class="header-anchor" href="#-lend-vs-borrow" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">lend: 빌려주다 (내가 상대에게 줌)
 borrow: 빌리다 (내가 상대에게서 받음)
 
@@ -466,7 +466,7 @@ Can you lend me your pen?
 Can I borrow your pen?
 펜 좀 빌릴 수 있을까요?
 </code></pre></div></code></pre>
-<h3 id="-bring-vs-take" tabindex="-1" data-src-line="318">⑤ bring vs take <a class="header-anchor" href="#-bring-vs-take" aria-hidden="true">#</a></h3>
+<h3 id="-bring-vs-take" tabindex="-1" data-src-line="316">⑤ bring vs take <a class="header-anchor" href="#-bring-vs-take" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">bring: 데려오다, 가져오다 (이쪽으로)
 take: 데려가다, 가져가다 (저쪽으로)
 
@@ -476,14 +476,14 @@ Bring an umbrella when you come.
 Take an umbrella when you go out.
 외출할 때 우산 가져가요.
 </code></pre></div></code></pre>
-<h3 id="-make-vs-do" tabindex="-1" data-src-line="331">⑥ make vs do <a class="header-anchor" href="#-make-vs-do" aria-hidden="true">#</a></h3>
+<h3 id="-make-vs-do" tabindex="-1" data-src-line="329">⑥ make vs do <a class="header-anchor" href="#-make-vs-do" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">make: 만들어내다, 새로 생성
 do: 수행하다, 활동하다
 
 make a decision / make a mistake / make money / make coffee
 do homework / do exercise / do the dishes / do business
 </code></pre></div></code></pre>
-<h3 id="-say-vs-tell" tabindex="-1" data-src-line="341">⑦ say vs tell <a class="header-anchor" href="#-say-vs-tell" aria-hidden="true">#</a></h3>
+<h3 id="-say-vs-tell" tabindex="-1" data-src-line="339">⑦ say vs tell <a class="header-anchor" href="#-say-vs-tell" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">say: 말하다 (내용 중심)
 tell: 말하다, 알리다 (대상 중심 — 항상 사람 목적어)
 
@@ -493,7 +493,7 @@ She told me &quot;hello.&quot; (me가 목적어)
 He said that he was tired.
 He told me that he was tired.
 </code></pre></div></code></pre>
-<h3 id="-hear-vs-listen" tabindex="-1" data-src-line="354">⑧ hear vs listen <a class="header-anchor" href="#-hear-vs-listen" aria-hidden="true">#</a></h3>
+<h3 id="-hear-vs-listen" tabindex="-1" data-src-line="352">⑧ hear vs listen <a class="header-anchor" href="#-hear-vs-listen" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">hear: 들리다 (의도 없이, 자연스럽게)
 listen: 듣다 (의도적으로, 집중해서)
 
@@ -503,7 +503,7 @@ I heard a strange noise.
 I&#039;m listening to music.
 음악을 듣고 있어요.
 </code></pre></div></code></pre>
-<h3 id="-watch-vs-see-vs-look" tabindex="-1" data-src-line="367">⑨ watch vs see vs look <a class="header-anchor" href="#-watch-vs-see-vs-look" aria-hidden="true">#</a></h3>
+<h3 id="-watch-vs-see-vs-look" tabindex="-1" data-src-line="365">⑨ watch vs see vs look <a class="header-anchor" href="#-watch-vs-see-vs-look" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">watch: 주의를 기울여 보다 (움직이는 것)
 see: 보이다, 보다 (자연스럽게)
 look: 보다 (방향, 시선)
@@ -512,7 +512,7 @@ I watch TV / watch a game / watch a movie.
 I see a bird / I saw it happen.
 Look at this! / Look over there!
 </code></pre></div></code></pre>
-<h3 id="-advise-vs-advice" tabindex="-1" data-src-line="379">⑩ advise vs advice <a class="header-anchor" href="#-advise-vs-advice" aria-hidden="true">#</a></h3>
+<h3 id="-advise-vs-advice" tabindex="-1" data-src-line="377">⑩ advise vs advice <a class="header-anchor" href="#-advise-vs-advice" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">advise (동사): 조언하다
 advice (명사): 조언 (불가산 명사!)
 
@@ -524,7 +524,7 @@ She gave me some good advice.
 (❌ an advice / ❌ advices)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="5-유용한-관용-표현-idioms-20선" tabindex="-1" data-src-line="395">5. 유용한 관용 표현 (Idioms) 20선 <a class="header-anchor" href="#5-유용한-관용-표현-idioms-20선" aria-hidden="true">#</a></h2>
+<h2 id="5-유용한-관용-표현-idioms-20선" tabindex="-1" data-src-line="393">5. 유용한 관용 표현 (Idioms) 20선 <a class="header-anchor" href="#5-유용한-관용-표현-idioms-20선" aria-hidden="true">#</a></h2>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
 <tr>
@@ -637,8 +637,8 @@ She gave me some good advice.
 </tbody>
 </table>
 </div><hr>
-<h2 id="6-자연스러운-영어-회화-팁" tabindex="-1" data-src-line="422">6. 자연스러운 영어 회화 팁 <a class="header-anchor" href="#6-자연스러운-영어-회화-팁" aria-hidden="true">#</a></h2>
-<h3 id="-필러filler-표현--생각할-시간-벌기" tabindex="-1" data-src-line="424">① 필러(Filler) 표현 — 생각할 시간 벌기 <a class="header-anchor" href="#-필러filler-표현--생각할-시간-벌기" aria-hidden="true">#</a></h3>
+<h2 id="6-자연스러운-영어-회화-팁" tabindex="-1" data-src-line="420">6. 자연스러운 영어 회화 팁 <a class="header-anchor" href="#6-자연스러운-영어-회화-팁" aria-hidden="true">#</a></h2>
+<h3 id="-필러filler-표현--생각할-시간-벌기" tabindex="-1" data-src-line="422">① 필러(Filler) 표현 — 생각할 시간 벌기 <a class="header-anchor" href="#-필러filler-표현--생각할-시간-벌기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Um / Uh (음...)
 Well... (음, 그러니까...)
 Let me think... (생각해볼게요...)
@@ -648,7 +648,7 @@ How can I put this... (어떻게 말하면 좋을까...)
 So, basically... (기본적으로...)
 Right, so... (맞아요, 그래서...)
 </code></pre></div></code></pre>
-<h3 id="-동의반응-표현" tabindex="-1" data-src-line="437">② 동의·반응 표현 <a class="header-anchor" href="#-동의반응-표현" aria-hidden="true">#</a></h3>
+<h3 id="-동의반응-표현" tabindex="-1" data-src-line="435">② 동의·반응 표현 <a class="header-anchor" href="#-동의반응-표현" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Exactly! (정확해요!)
 Absolutely! (완전히 동의해요!)
 That makes sense. (말이 되네요.)
@@ -658,7 +658,7 @@ You have a point. (그 말도 맞네요.)
 I couldn&#039;t agree more. (전적으로 동의해요.)
 Good point! (좋은 지적이에요!)
 </code></pre></div></code></pre>
-<h3 id="-부드럽게-반론하기" tabindex="-1" data-src-line="450">③ 부드럽게 반론하기 <a class="header-anchor" href="#-부드럽게-반론하기" aria-hidden="true">#</a></h3>
+<h3 id="-부드럽게-반론하기" tabindex="-1" data-src-line="448">③ 부드럽게 반론하기 <a class="header-anchor" href="#-부드럽게-반론하기" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s true, but... (맞는 말이지만...)
 I see your point, however... (이해하지만, 그러나...)
 I&#039;d have to disagree on that. (그 점은 동의하기 어렵네요.)
@@ -667,33 +667,33 @@ With all due respect, ... (실례지만,...)
 I&#039;m not sure I agree with that. (그것에 동의하기 어려운 것 같아요.)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="7-시험에-자주-나오는-헷갈리는-문법-포인트" tabindex="-1" data-src-line="463">7. 시험에 자주 나오는 헷갈리는 문법 포인트 <a class="header-anchor" href="#7-시험에-자주-나오는-헷갈리는-문법-포인트" aria-hidden="true">#</a></h2>
-<h3 id="-관사" tabindex="-1" data-src-line="465">① 관사 <a class="header-anchor" href="#-관사" aria-hidden="true">#</a></h3>
+<h2 id="7-시험에-자주-나오는-헷갈리는-문법-포인트" tabindex="-1" data-src-line="461">7. 시험에 자주 나오는 헷갈리는 문법 포인트 <a class="header-anchor" href="#7-시험에-자주-나오는-헷갈리는-문법-포인트" aria-hidden="true">#</a></h2>
+<h3 id="-관사" tabindex="-1" data-src-line="463">① 관사 <a class="header-anchor" href="#-관사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a vs an: 소리 기준 (an hour, a university)
 the: 특정한 것, 이미 언급된 것
 무관사: 일반적 복수, 추상명사, 고유명사
 </code></pre></div></code></pre>
-<h3 id="-시제" tabindex="-1" data-src-line="473">② 시제 <a class="header-anchor" href="#-시제" aria-hidden="true">#</a></h3>
+<h3 id="-시제" tabindex="-1" data-src-line="471">② 시제 <a class="header-anchor" href="#-시제" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">과거 + 특정 시점 → 과거시제 (yesterday, last year)
 경험/완료/계속 → 현재완료 (ever, already, for, since)
 과거 이전 → 과거완료 (had + p.p.)
 </code></pre></div></code></pre>
-<h3 id="-조동사" tabindex="-1" data-src-line="481">③ 조동사 <a class="header-anchor" href="#-조동사" aria-hidden="true">#</a></h3>
+<h3 id="-조동사" tabindex="-1" data-src-line="479">③ 조동사 <a class="header-anchor" href="#-조동사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">must not = 금지 (forbidden)
 don&#039;t have to = 의무 없음 (not necessary)
 </code></pre></div></code></pre>
-<h3 id="-가정법" tabindex="-1" data-src-line="488">④ 가정법 <a class="header-anchor" href="#-가정법" aria-hidden="true">#</a></h3>
+<h3 id="-가정법" tabindex="-1" data-src-line="486">④ 가정법 <a class="header-anchor" href="#-가정법" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If + 현재 → will (1형, 가능한 미래)
 If + 과거 → would (2형, 비현실 현재)
 If + had p.p. → would have p.p. (3형, 비현실 과거)
 </code></pre></div></code></pre>
-<h3 id="-관계대명사" tabindex="-1" data-src-line="496">⑤ 관계대명사 <a class="header-anchor" href="#-관계대명사" aria-hidden="true">#</a></h3>
+<h3 id="-관계대명사" tabindex="-1" data-src-line="494">⑤ 관계대명사 <a class="header-anchor" href="#-관계대명사" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">목적격 → 생략 가능
 주격 → 생략 불가
 비제한적(콤마) → that 불가
 </code></pre></div></code></pre>
 <hr>
-<h2 id="8--전체-시리즈-완결-총복습" tabindex="-1" data-src-line="506">8. 🎉 전체 시리즈 완결 총복습 <a class="header-anchor" href="#8--전체-시리즈-완결-총복습" aria-hidden="true">#</a></h2>
+<h2 id="8--전체-시리즈-완결-총복습" tabindex="-1" data-src-line="504">8. 🎉 전체 시리즈 완결 총복습 <a class="header-anchor" href="#8--전체-시리즈-완결-총복습" aria-hidden="true">#</a></h2>
 <p><strong>영어 공부 시리즈 1~20강 핵심 정리</strong></p>
 <div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
 <thead>
@@ -807,10 +807,10 @@ If + had p.p. → would have p.p. (3형, 비현실 과거)
 </tbody>
 </table>
 </div><hr>
-<h2 id="9-이후-학습-로드맵--b1-이후를-향해" tabindex="-1" data-src-line="535">9. 이후 학습 로드맵 — B1 이후를 향해 <a class="header-anchor" href="#9-이후-학습-로드맵--b1-이후를-향해" aria-hidden="true">#</a></h2>
+<h2 id="9-이후-학습-로드맵--b1-이후를-향해" tabindex="-1" data-src-line="533">9. 이후 학습 로드맵 — B1 이후를 향해 <a class="header-anchor" href="#9-이후-학습-로드맵--b1-이후를-향해" aria-hidden="true">#</a></h2>
 <p>20강을 완주한 여러분은 <strong>A2 수준을 완전히 갖춘</strong> 상태입니다.<br>
 이제 어떻게 나아가면 좋을지 방향을 안내드립니다.</p>
-<h3 id="b1-레벨-목표-중급" tabindex="-1" data-src-line="540">B1 레벨 목표 (중급) <a class="header-anchor" href="#b1-레벨-목표-중급" aria-hidden="true">#</a></h3>
+<h3 id="b1-레벨-목표-중급" tabindex="-1" data-src-line="538">B1 레벨 목표 (중급) <a class="header-anchor" href="#b1-레벨-목표-중급" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">문법:
 - 더 복잡한 시제 조합 (과거완료진행형 등)
 - 간접화법 (reported speech)
@@ -827,7 +827,7 @@ If + had p.p. → would have p.p. (3형, 비현실 과거)
 - 의견 표현·반론
 - 복잡한 감정·상황 설명
 </code></pre></div></code></pre>
-<h3 id="추천-학습-방법" tabindex="-1" data-src-line="560">추천 학습 방법 <a class="header-anchor" href="#추천-학습-방법" aria-hidden="true">#</a></h3>
+<h3 id="추천-학습-방법" tabindex="-1" data-src-line="558">추천 학습 방법 <a class="header-anchor" href="#추천-학습-방법" aria-hidden="true">#</a></h3>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 영어 팟캐스트 매일 15~30분 듣기
   (BBC Learning English, 6 Minute English, etc.)
 
@@ -844,7 +844,7 @@ If + had p.p. → would have p.p. (3형, 비현실 과거)
   (언어교환 앱, 튜터링 플랫폼 활용)
 </code></pre></div></code></pre>
 <hr>
-<h2 id="10-실전-회화--영어-실력-향상에-대해" tabindex="-1" data-src-line="581">10. 실전 회화 — 영어 실력 향상에 대해 <a class="header-anchor" href="#10-실전-회화--영어-실력-향상에-대해" aria-hidden="true">#</a></h2>
+<h2 id="10-실전-회화--영어-실력-향상에-대해" tabindex="-1" data-src-line="579">10. 실전 회화 — 영어 실력 향상에 대해 <a class="header-anchor" href="#10-실전-회화--영어-실력-향상에-대해" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Your English has improved so much!
    What&#039;s your secret?
    영어 실력이 정말 많이 늘었네요!
@@ -897,7 +897,7 @@ B: Just start. That&#039;s the thing about
    일단 하면, 점점 쉬워져요.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="11-마지막-당부--영어-학습의-진실" tabindex="-1" data-src-line="638">11. 마지막 당부 — 영어 학습의 진실 <a class="header-anchor" href="#11-마지막-당부--영어-학습의-진실" aria-hidden="true">#</a></h2>
+<h2 id="11-마지막-당부--영어-학습의-진실" tabindex="-1" data-src-line="636">11. 마지막 당부 — 영어 학습의 진실 <a class="header-anchor" href="#11-마지막-당부--영어-학습의-진실" aria-hidden="true">#</a></h2>
 <pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ 완벽하지 않아도 말하세요.
    원어민도 실수합니다.
 
@@ -914,7 +914,7 @@ B: Just start. That&#039;s the thing about
    실수는 배움의 증거입니다.
 </code></pre></div></code></pre>
 <hr>
-<h2 id="-시리즈-완결" tabindex="-1" data-src-line="659">🎊 시리즈 완결! <a class="header-anchor" href="#-시리즈-완결" aria-hidden="true">#</a></h2>
+<h2 id="-시리즈-완결" tabindex="-1" data-src-line="657">🎊 시리즈 완결! <a class="header-anchor" href="#-시리즈-완결" aria-hidden="true">#</a></h2>
 <p><strong>영어 공부 시리즈 20강 완주를 축하드립니다!</strong></p>
 <p>A1의 알파벳부터 A2의 가정법까지, 비즈니스 이메일부터 원어민 표현까지 —<br>
 이 시리즈를 끝까지 따라오신 여러분은 이미 영어로 기본적인 모든 상황을 소통할 수 있는 실력을 갖추셨습니다.</p>
@@ -938,10 +938,10 @@ B: Just start. That&#039;s the thing about
 <li><strong>20강</strong>: 발음 교정 · 원어민 표현 · 시리즈 총복습 ✅ <strong>완결!</strong></li>
 </ul>
 </blockquote>
-8:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lf",null,{"content":"$10"}]}]}]
-9:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L11",null,{"href":"/post/english/english-lesson-19-email-english","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-19-email-english",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L11",null,{"href":"/post/english/english-lesson-19-email-english","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]}],["$","li","english/english-lesson-18-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L11",null,{"href":"/post/english/english-lesson-18-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]}],["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L11",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}]]}]]}]]}]
-a:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
-b:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
-c:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
-d:["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]
-14:null
+9:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L10",null,{"content":"$11"}]}]}]
+a:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L12",null,{"href":"/post/english/english-lesson-19-email-english","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-19-email-english",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L12",null,{"href":"/post/english/english-lesson-19-email-english","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]}],["$","li","english/english-lesson-18-conditionals",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L12",null,{"href":"/post/english/english-lesson-18-conditionals","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]}],["$","li","english/english-lesson-17-relative-pronouns",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L12",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]}]]}]]}]]}]
+b:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+c:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+d:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+e:["$","$L13",null,{"children":["$","$14",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]
+15:null
