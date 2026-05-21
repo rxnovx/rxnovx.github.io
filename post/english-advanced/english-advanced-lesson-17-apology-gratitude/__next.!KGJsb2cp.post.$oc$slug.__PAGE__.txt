@@ -1,0 +1,322 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-17-apology-gratitude\"},\"headline\":\"중급 영어 17강: 사과·감사·칭찬을 자연스럽게\",\"description\":\"Sorry와 I sincerely apologize의 차이, 진심 어린 감사 vs 형식적 감사, 칭찬 주고받기와 겸손하게 수락하는 법을 완전 정복합니다.\",\"datePublished\":\"2026-05-06T16:00:00.000Z\",\"dateModified\":\"2026-05-06T16:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-17-apology-gratitude\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"apology\",\"gratitude\",\"compliments\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 17강: 사과·감사·칭찬을 자연스럽게","slugPath":"english-advanced/english-advanced-lesson-17-apology-gratitude","headings":[{"id":"중급-영어-17강-사과감사칭찬을-자연스럽게","text":"중급 영어 17강: 사과·감사·칭찬을 자연스럽게","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-사과의-깊이--6단계","text":"1. 사과의 깊이 — 6단계","level":2},{"id":"가벼운-사과","text":"가벼운 사과","level":3},{"id":"일반적-사과","text":"일반적 사과","level":3},{"id":"격식-사과","text":"격식 사과","level":3},{"id":"깊은-사과","text":"깊은 사과","level":3},{"id":"완전한-사과의-구조--araa","text":"완전한 사과의 구조 — ARAA","level":3},{"id":"2-사과-받을-때","text":"2. 사과 받을 때","level":2},{"id":"3-감사-표현--깊이별-정리","text":"3. 감사 표현 — 깊이별 정리","level":2},{"id":"가벼운-감사","text":"가벼운 감사","level":3},{"id":"일반적-감사","text":"일반적 감사","level":3},{"id":"격식진심-감사","text":"격식·진심 감사","level":3},{"id":"감사--이유-구조","text":"감사 + 이유 구조","level":3},{"id":"4-감사-받을-때","text":"4. 감사 받을 때","level":2},{"id":"5-칭찬-표현--상황별","text":"5. 칭찬 표현 — 상황별","level":2},{"id":"외모스타일-칭찬","text":"외모·스타일 칭찬","level":3},{"id":"능력성과-칭찬","text":"능력·성과 칭찬","level":3},{"id":"성격행동-칭찬","text":"성격·행동 칭찬","level":3},{"id":"6-칭찬-받을-때--겸손하게-수락하기","text":"6. 칭찬 받을 때 — 겸손하게 수락하기","level":2},{"id":"감사하며-수락하기-권장","text":"감사하며 수락하기 (권장)","level":3},{"id":"칭찬을-완전히-거부하면-어색한-이유","text":"칭찬을 완전히 거부하면 어색한 이유","level":3},{"id":"7-실전-회화","text":"7. 실전 회화","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-17-apology-gratitude"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 17강: 사과·감사·칭찬을 자연스럽게"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"Sorry와 I sincerely apologize의 차이, 진심 어린 감사 vs 형식적 감사, 칭찬 주고받기와 겸손하게 수락하는 법을 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T16:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-06T16:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 5월 7일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","apology",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","apology"]}],["$","span","gratitude",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","gratitude"]}],["$","span","compliments",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","compliments"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T4c3a,<h1 id="중급-영어-17강-사과감사칭찬을-자연스럽게" tabindex="-1" data-src-line="1">중급 영어 17강: 사과·감사·칭찬을 자연스럽게 <a class="header-anchor" href="#중급-영어-17강-사과감사칭찬을-자연스럽게" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-17강-사과감사칭찬을-자연스럽게">중급 영어 17강: 사과·감사·칭찬을 자연스럽게 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-사과의-깊이--6단계">1. 사과의 깊이 — 6단계 </a><ul><li><a href="#가벼운-사과">가벼운 사과 </a></li><li><a href="#일반적-사과">일반적 사과 </a></li><li><a href="#격식-사과">격식 사과 </a></li><li><a href="#깊은-사과">깊은 사과 </a></li><li><a href="#완전한-사과의-구조--araa">완전한 사과의 구조 — ARAA </a></li></ul></li><li><a href="#2-사과-받을-때">2. 사과 받을 때 </a></li><li><a href="#3-감사-표현--깊이별-정리">3. 감사 표현 — 깊이별 정리 </a><ul><li><a href="#가벼운-감사">가벼운 감사 </a></li><li><a href="#일반적-감사">일반적 감사 </a></li><li><a href="#격식진심-감사">격식·진심 감사 </a></li><li><a href="#감사--이유-구조">감사 + 이유 구조 </a></li></ul></li><li><a href="#4-감사-받을-때">4. 감사 받을 때 </a></li><li><a href="#5-칭찬-표현--상황별">5. 칭찬 표현 — 상황별 </a><ul><li><a href="#외모스타일-칭찬">외모·스타일 칭찬 </a></li><li><a href="#능력성과-칭찬">능력·성과 칭찬 </a></li><li><a href="#성격행동-칭찬">성격·행동 칭찬 </a></li></ul></li><li><a href="#6-칭찬-받을-때--겸손하게-수락하기">6. 칭찬 받을 때 — 겸손하게 수락하기 </a><ul><li><a href="#감사하며-수락하기-권장">감사하며 수락하기 (권장) </a></li><li><a href="#칭찬을-완전히-거부하면-어색한-이유">칭찬을 완전히 거부하면 어색한 이유 </a></li></ul></li><li><a href="#7-실전-회화">7. 실전 회화 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>&quot;Sorry&quot;와 &quot;I sincerely apologize&quot;는 둘 다 사과지만 전혀 다른 무게를 가집니다.<br>
+&quot;Thanks&quot;와 &quot;I’m deeply grateful&quot;도 마찬가지입니다.</p>
+<p>감사·사과·칭찬은 인간관계의 핵심입니다.<br>
+이 표현들을 정확히 구사하면 관계가 더 깊어지고, 신뢰가 쌓입니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>사과의 깊이를 상황에 맞게 조절할 수 있습니다.</li>
+<li>진심 어린 감사와 형식적 감사를 구분해 쓸 수 있습니다.</li>
+<li>칭찬을 자연스럽게 주고받고, 겸손하게 수락할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-사과의-깊이--6단계" tabindex="-1" data-src-line="20">1. 사과의 깊이 — 6단계 <a class="header-anchor" href="#1-사과의-깊이--6단계" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Oops! → Sorry → I&#039;m sorry → I apologize → I sincerely apologize → I owe you a proper apology
+(가벼운) → (일반) → (진지) → (격식) → (깊은 사과) → (진지하게 사과할게요)
+</code></pre></div></code></pre>
+<h3 id="가벼운-사과" tabindex="-1" data-src-line="27">가벼운 사과 <a class="header-anchor" href="#가벼운-사과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Oops, my bad!
+이런, 내 실수야!
+
+Oh sorry, I didn&#039;t see you there.
+아 미안해요, 거기 있는 줄 몰랐어요.
+
+Sorry about that!
+미안해요!
+
+My bad.
+내 잘못이야.
+</code></pre></div></code></pre>
+<h3 id="일반적-사과" tabindex="-1" data-src-line="43">일반적 사과 <a class="header-anchor" href="#일반적-사과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m sorry for the confusion.
+혼란을 드려서 죄송해요.
+
+I&#039;m sorry I was late.
+늦어서 미안해요.
+
+Sorry to keep you waiting.
+기다리게 해서 죄송해요.
+</code></pre></div></code></pre>
+<h3 id="격식-사과" tabindex="-1" data-src-line="56">격식 사과 <a class="header-anchor" href="#격식-사과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I apologize for any inconvenience caused.
+불편을 드린 점에 대해 사과드립니다.
+
+I owe you an apology.
+사과드려야 할 것 같아요.
+
+I&#039;m truly sorry for what happened.
+일어난 일에 대해 진심으로 미안해요.
+</code></pre></div></code></pre>
+<h3 id="깊은-사과" tabindex="-1" data-src-line="69">깊은 사과 <a class="header-anchor" href="#깊은-사과" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I sincerely apologize for my behavior.
+제 행동에 대해 진심으로 사과드립니다.
+
+I deeply regret the impact this has had on you.
+이것이 당신에게 미친 영향을 깊이 후회합니다.
+
+I take full responsibility for this.
+이것에 대한 전적인 책임을 집니다.
+
+There&#039;s no excuse for what I did.
+제가 한 행동에는 변명의 여지가 없어요.
+</code></pre></div></code></pre>
+<h3 id="완전한-사과의-구조--araa" tabindex="-1" data-src-line="85">완전한 사과의 구조 — ARAA <a class="header-anchor" href="#완전한-사과의-구조--araa" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Acknowledge  — 잘못 인정
+R: Responsibility — 책임 수용
+A: Action        — 개선 행동
+A: Assurance     — 재발 방지 약속
+
+예시:
+&quot;I understand I missed the deadline, and I take full responsibility.
+I&#039;ll make sure the report is completed by tomorrow morning,
+and I&#039;ll set up reminders to prevent this from happening again.&quot;
+
+마감을 놓쳤다는 걸 알고, 전적으로 책임을 집니다.
+내일 아침까지 보고서를 완성하겠습니다,
+그리고 이런 일이 다시 생기지 않도록 알림을 설정할게요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-사과-받을-때" tabindex="-1" data-src-line="105">2. 사과 받을 때 <a class="header-anchor" href="#2-사과-받을-때" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s okay. / No worries.
+괜찮아요.
+
+Don&#039;t worry about it.
+걱정하지 마세요.
+
+These things happen.
+이런 일은 있을 수 있죠.
+
+I appreciate you saying that.
+그렇게 말해줘서 감사해요.
+
+Let&#039;s move on.
+이제 넘어가요.
+
+I understand — it happens to everyone.
+이해해요 — 누구나 그럴 수 있어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-감사-표현--깊이별-정리" tabindex="-1" data-src-line="129">3. 감사 표현 — 깊이별 정리 <a class="header-anchor" href="#3-감사-표현--깊이별-정리" aria-hidden="true">#</a></h2>
+<h3 id="가벼운-감사" tabindex="-1" data-src-line="131">가벼운 감사 <a class="header-anchor" href="#가벼운-감사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thanks!
+고마워요!
+
+Cheers! (영국식)
+고마워요!
+
+Ta! (영국 비격식)
+고마워요!
+
+Thanks a lot!
+정말 고마워요!
+</code></pre></div></code></pre>
+<h3 id="일반적-감사" tabindex="-1" data-src-line="147">일반적 감사 <a class="header-anchor" href="#일반적-감사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you so much.
+정말 감사해요.
+
+I really appreciate it.
+정말 감사해요.
+
+That means a lot.
+그게 큰 의미예요.
+
+I can&#039;t thank you enough.
+뭐라 감사해야 할지 모르겠어요.
+</code></pre></div></code></pre>
+<h3 id="격식진심-감사" tabindex="-1" data-src-line="163">격식·진심 감사 <a class="header-anchor" href="#격식진심-감사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m truly grateful for your support.
+진심으로 도움에 감사드립니다.
+
+Words can&#039;t express how grateful I am.
+얼마나 감사한지 말로 표현이 안 돼요.
+
+I wanted to take a moment to sincerely thank you.
+진심으로 감사드리고 싶었어요.
+
+Your help made all the difference.
+당신의 도움이 정말 큰 차이를 만들었어요.
+
+I wouldn&#039;t have been able to do this without you.
+당신 없이는 이걸 해낼 수 없었을 거예요.
+</code></pre></div></code></pre>
+<h3 id="감사--이유-구조" tabindex="-1" data-src-line="182">감사 + 이유 구조 <a class="header-anchor" href="#감사--이유-구조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you for + [명사/동명사]:
+
+Thank you for your patience.
+인내심에 감사드려요.
+
+Thank you for taking the time to meet with me.
+시간 내서 만나주셔서 감사해요.
+
+Thank you for believing in me.
+저를 믿어주셔서 감사해요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-감사-받을-때" tabindex="-1" data-src-line="199">4. 감사 받을 때 <a class="header-anchor" href="#4-감사-받을-때" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You&#039;re welcome.
+천만에요. (가장 기본적)
+
+Of course! / Absolutely!
+물론이죠!
+
+Anytime!
+언제든지요!
+
+Happy to help.
+기꺼이 도왔어요.
+
+Don&#039;t mention it.
+별말씀을요.
+
+It was nothing.
+별거 아닌걸요.
+
+It was my pleasure.
+제가 더 좋았어요. (격식체)
+
+The pleasure was mine.
+제가 더 즐거웠어요. (격식체)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-칭찬-표현--상황별" tabindex="-1" data-src-line="229">5. 칭찬 표현 — 상황별 <a class="header-anchor" href="#5-칭찬-표현--상황별" aria-hidden="true">#</a></h2>
+<h3 id="외모스타일-칭찬" tabindex="-1" data-src-line="231">외모·스타일 칭찬 <a class="header-anchor" href="#외모스타일-칭찬" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You look great today!
+오늘 정말 멋있어 보여요!
+
+I love your [item]!
+[아이템] 너무 좋아요!
+
+That really suits you.
+그거 정말 잘 어울려요.
+</code></pre></div></code></pre>
+<h3 id="능력성과-칭찬" tabindex="-1" data-src-line="244">능력·성과 칭찬 <a class="header-anchor" href="#능력성과-칭찬" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That was incredibly well done.
+정말 훌륭하게 해냈어요.
+
+You really nailed it.
+완전히 해냈어요.
+
+I&#039;m really impressed by your work.
+당신의 작업에 정말 감동받았어요.
+
+You have a real talent for this.
+이 부분에서 진짜 재능이 있어요.
+
+That was beyond impressive.
+인상을 훨씬 뛰어넘었어요.
+</code></pre></div></code></pre>
+<h3 id="성격행동-칭찬" tabindex="-1" data-src-line="263">성격·행동 칭찬 <a class="header-anchor" href="#성격행동-칭찬" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You&#039;re so thoughtful.
+정말 배려심이 깊어요.
+
+That was really kind of you.
+정말 친절하게 해주셨어요.
+
+You handled that so well.
+정말 잘 처리하셨어요.
+
+I really admire how you...
+...하는 방식이 정말 존경스러워요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-칭찬-받을-때--겸손하게-수락하기" tabindex="-1" data-src-line="281">6. 칭찬 받을 때 — 겸손하게 수락하기 <a class="header-anchor" href="#6-칭찬-받을-때--겸손하게-수락하기" aria-hidden="true">#</a></h2>
+<p>영어권 문화에서는 칭찬을 <strong>완전히 거부</strong>하면 오히려 어색합니다.<br>
+자연스럽게 감사하며 수락하는 것이 핵심입니다.</p>
+<h3 id="감사하며-수락하기-권장" tabindex="-1" data-src-line="286">감사하며 수락하기 (권장) <a class="header-anchor" href="#감사하며-수락하기-권장" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Thank you! I worked really hard on it.
+감사해요! 정말 열심히 했거든요.
+
+That&#039;s so kind of you to say.
+그렇게 말씀해주시다니 정말 친절하세요.
+
+I&#039;m glad you think so!
+그렇게 생각해주시니 기뻐요!
+
+Oh, thanks! I wasn&#039;t sure how it would turn out.
+오, 감사해요! 어떻게 될지 몰랐는데.
+</code></pre></div></code></pre>
+<h3 id="칭찬을-완전히-거부하면-어색한-이유" tabindex="-1" data-src-line="302">칭찬을 완전히 거부하면 어색한 이유 <a class="header-anchor" href="#칭찬을-완전히-거부하면-어색한-이유" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ &quot;Oh no, it&#039;s terrible, really.&quot;
+   (아니에요, 정말 별로예요.)
+→ 상대방의 판단력을 무시하는 것처럼 들릴 수 있어요.
+
+✅ &quot;Thank you! I really enjoyed working on it.&quot;
+   (감사해요! 작업하는 게 정말 즐거웠어요.)
+→ 진심으로 감사하면서 자연스럽게 수락.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-실전-회화" tabindex="-1" data-src-line="316">7. 실전 회화 <a class="header-anchor" href="#7-실전-회화" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[업무 후 감사와 칭찬]
+
+Manager: I just wanted to say — your presentation
+         today was outstanding.
+         오늘 발표 정말 훌륭했어요.
+
+Employee: Thank you so much. That really means a lot.
+          I put a lot of work into it.
+          정말 감사해요. 그 말이 정말 큰 의미예요.
+          많이 공들였거든요.
+
+Manager: It showed. And I really appreciate
+         how you handled the tough questions
+         from the client.
+         그게 느껴졌어요. 그리고 클라이언트의
+         어려운 질문들을 잘 처리한 것도
+         정말 감사해요.
+
+Employee: I&#039;m glad it came across well.
+          Honestly, I was a bit nervous.
+          잘 전달된 것 같아서 기뻐요.
+          사실 좀 긴장했거든요.
+
+Manager: You didn&#039;t show it at all.
+         전혀 안 보였어요.
+         Thank you for going the extra mile on this one.
+         이번에 기대 이상으로 해준 것에 감사해요.
+
+Employee: Of course. It was my pleasure.
+          And — I owe you a thank you too,
+          for the guidance you gave me beforehand.
+          물론이죠. 제가 더 좋았어요.
+          그리고 — 사전에 주신 지도에도
+          감사드려야 해요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="357">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>사과·감사·칭찬의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 사과는 깊이를 맞추세요:
+  가벼운 실수 → &quot;Sorry about that&quot;
+  심각한 상황 → &quot;I sincerely apologize / I take full responsibility&quot;
+
+② 감사는 이유를 붙이세요:
+  &quot;Thank you for your patience / for believing in me&quot;
+  → 구체적일수록 진심이 전달됩니다.
+
+③ 칭찬은 거부하지 말고 수락하세요:
+  &quot;That&#039;s so kind of you to say. Thank you!&quot;
+  → 문화적으로 자연스럽고 관계를 따뜻하게 합니다.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>조언·충고·걱정 표현하기</strong> — 강도 조절과 공감 기술!</p>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-16-storytelling","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 16강: 스토리텔링 영어 — 경험을 생생하게 전달하기"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-18-advice","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 18강: 조언·충고·걱정 표현하기"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-25-review-roadmap",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-25-review-roadmap","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵"}]}],["$","li","english-advanced/english-advanced-lesson-24-culture",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

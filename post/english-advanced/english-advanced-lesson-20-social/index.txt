@@ -1,0 +1,293 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-c11cec732cf2eb2f.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/65a17ec2a8589358.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"ASSEgGrCfNQXYJ8AxNYxM","c":["","post","english-advanced","english-advanced-lesson-20-social",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english-advanced/english-advanced-lesson-20-social","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65a17ec2a8589358.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
+9:["$","$L7",null,{"href":"/privacy-policy","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Privacy"}]
+a:["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}],["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]]}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+13:["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-20-social\"},\"headline\":\"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹\",\"description\":\"Small talk 완전 정복, 대화 이어가기·화제 전환하기, 대화 우아하게 끝내기, 네트워킹 이벤트 자기소개까지 소셜 영어를 완전 정복합니다.\",\"datePublished\":\"2026-05-06T19:00:00.000Z\",\"dateModified\":\"2026-05-06T19:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-20-social\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"social\",\"networking\",\"small-talk\",\"intermediate\"]}"}}],["$","$L1c",null,{"title":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹","slugPath":"english-advanced/english-advanced-lesson-20-social","headings":[{"id":"중급-영어-20강-소셜-영어--파티모임네트워킹","text":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-대화-시작하기--small-talk-완전-정복","text":"1. 대화 시작하기 — Small Talk 완전 정복","level":2},{"id":"상황별-첫-마디","text":"상황별 첫 마디","level":3},{"id":"small-talk-안전-주제-ford","text":"Small Talk 안전 주제 (FORD)","level":3},{"id":"2-대화-이어가기--깊이-있는-질문","text":"2. 대화 이어가기 — 깊이 있는 질문","level":2},{"id":"후속-질문-패턴","text":"후속 질문 패턴","level":3},{"id":"공감리액션으로-대화-유지하기","text":"공감·리액션으로 대화 유지하기","level":3},{"id":"3-화제-전환하기","text":"3. 화제 전환하기","level":2},{"id":"4-대화-우아하게-끝내기","text":"4. 대화 우아하게 끝내기","level":2},{"id":"5-네트워킹-이벤트-자기소개","text":"5. 네트워킹 이벤트 자기소개","level":2},{"id":"기본-elevator-pitch-구조","text":"기본 Elevator Pitch 구조","level":3},{"id":"예시","text":"예시","level":3},{"id":"업종별-자기소개-패턴","text":"업종별 자기소개 패턴","level":3},{"id":"6-어색한-침묵-다루기","text":"6. 어색한 침묵 다루기","level":2},{"id":"7-실전-회화--비즈니스-네트워킹-파티-시뮬레이션","text":"7. 실전 회화 — 비즈니스 네트워킹 파티 시뮬레이션","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-20-social"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"Small talk 완전 정복, 대화 이어가기·화제 전환하기, 대화 우아하게 끝내기, 네트워킹 이벤트 자기소개까지 소셜 영어를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T19:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-06T19:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 7일"]}],"$L1d","$L1e"]}],"$L1f"]}],"$L20","$L21","$L22","$L23"]}]
+24:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+25:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+1d:["$","$L24",null,{}]
+1e:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","social",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","social"]}],["$","span","networking",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","networking"]}],["$","span","small-talk",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","small-talk"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+1f:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+26:T414c,<h1 id="중급-영어-20강-소셜-영어--파티모임네트워킹" tabindex="-1" data-src-line="1">중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹 <a class="header-anchor" href="#중급-영어-20강-소셜-영어--파티모임네트워킹" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-20강-소셜-영어--파티모임네트워킹">중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-대화-시작하기--small-talk-완전-정복">1. 대화 시작하기 — Small Talk 완전 정복 </a><ul><li><a href="#상황별-첫-마디">상황별 첫 마디 </a></li><li><a href="#small-talk-안전-주제-ford">Small Talk 안전 주제 (FORD) </a></li></ul></li><li><a href="#2-대화-이어가기--깊이-있는-질문">2. 대화 이어가기 — 깊이 있는 질문 </a><ul><li><a href="#후속-질문-패턴">후속 질문 패턴 </a></li><li><a href="#공감리액션으로-대화-유지하기">공감·리액션으로 대화 유지하기 </a></li></ul></li><li><a href="#3-화제-전환하기">3. 화제 전환하기 </a></li><li><a href="#4-대화-우아하게-끝내기">4. 대화 우아하게 끝내기 </a></li><li><a href="#5-네트워킹-이벤트-자기소개">5. 네트워킹 이벤트 자기소개 </a><ul><li><a href="#기본-elevator-pitch-구조">기본 Elevator Pitch 구조 </a></li><li><a href="#예시">예시 </a></li><li><a href="#업종별-자기소개-패턴">업종별 자기소개 패턴 </a></li></ul></li><li><a href="#6-어색한-침묵-다루기">6. 어색한 침묵 다루기 </a></li><li><a href="#7-실전-회화--비즈니스-네트워킹-파티-시뮬레이션">7. 실전 회화 — 비즈니스 네트워킹 파티 시뮬레이션 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>언어를 잘 안다고 사교 상황에서 자연스럽게 말할 수 있는 건 아닙니다.<br>
+파티, 네트워킹 이벤트, 처음 만나는 사람과의 대화 — 이건 별도의 기술입니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>처음 만나는 사람과 자연스럽게 대화를 시작할 수 있습니다.</li>
+<li>대화를 이어가고 화제를 전환하는 기술을 익힐 수 있습니다.</li>
+<li>어색하지 않게 대화를 마무리할 수 있습니다.</li>
+<li>네트워킹 이벤트에서 자신을 효과적으로 소개할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-대화-시작하기--small-talk-완전-정복" tabindex="-1" data-src-line="18">1. 대화 시작하기 — Small Talk 완전 정복 <a class="header-anchor" href="#1-대화-시작하기--small-talk-완전-정복" aria-hidden="true">#</a></h2>
+<h3 id="상황별-첫-마디" tabindex="-1" data-src-line="20">상황별 첫 마디 <a class="header-anchor" href="#상황별-첫-마디" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【파티·모임】
+Great party, isn&#039;t it?
+파티 좋죠?
+
+How do you know [host name]?
+[호스트 이름]을 어떻게 알게 됐어요?
+
+Have you tried the food? It&#039;s amazing.
+음식 먹어봤어요? 정말 맛있더라고요.
+
+I love this place — have you been here before?
+여기 정말 좋다 — 전에 와본 적 있어요?
+
+【네트워킹 이벤트】
+Is this your first time at one of these events?
+이런 이벤트는 처음이에요?
+
+What brings you here today?
+오늘 어떻게 오셨어요?
+
+Which industry are you in?
+어느 업계에 계세요?
+
+【공통 상황】
+I don&#039;t think we&#039;ve met — I&#039;m [name].
+저희 만난 적이 없는 것 같은데요 — 저는 [이름]이에요.
+
+You look familiar — have we met before?
+낯이 익은데 — 전에 만난 적 있나요?
+</code></pre></div></code></pre>
+<h3 id="small-talk-안전-주제-ford" tabindex="-1" data-src-line="54">Small Talk 안전 주제 (FORD) <a class="header-anchor" href="#small-talk-안전-주제-ford" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">F — Family   (가족)    &quot;Do you have family in the area?&quot;
+O — Occupation (직업)  &quot;What do you do?&quot;
+R — Recreation (여가)  &quot;What do you like to do outside of work?&quot;
+D — Dreams   (꿈·계획) &quot;Do you have any exciting plans coming up?&quot;
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-대화-이어가기--깊이-있는-질문" tabindex="-1" data-src-line="65">2. 대화 이어가기 — 깊이 있는 질문 <a class="header-anchor" href="#2-대화-이어가기--깊이-있는-질문" aria-hidden="true">#</a></h2>
+<p>대화를 표면적 수준에서 벗어나게 하는 기술입니다.</p>
+<h3 id="후속-질문-패턴" tabindex="-1" data-src-line="69">후속 질문 패턴 <a class="header-anchor" href="#후속-질문-패턴" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What do you enjoy most about that?
+그 중에서 뭘 제일 좋아해요?
+
+How did you get into that?
+어떻게 그 분야에 들어가게 됐어요?
+
+What&#039;s that like?
+그게 어때요?
+
+That&#039;s interesting — tell me more.
+흥미롭네요 — 더 얘기해줘요.
+
+What made you decide to do that?
+그걸 결정하게 된 계기가 뭐예요?
+
+Has that always been something you wanted to do?
+그게 항상 하고 싶었던 건가요?
+</code></pre></div></code></pre>
+<h3 id="공감리액션으로-대화-유지하기" tabindex="-1" data-src-line="91">공감·리액션으로 대화 유지하기 <a class="header-anchor" href="#공감리액션으로-대화-유지하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Oh really? That&#039;s fascinating.
+정말요? 흥미롭네요.
+
+I never thought about it that way.
+그렇게 생각해본 적이 없었어요.
+
+That must be really rewarding.
+정말 보람 있겠다.
+
+I can imagine — that sounds like a lot of work.
+상상이 가요 — 정말 힘들겠다.
+
+Wow, how long have you been doing that?
+와, 얼마나 하셨어요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-화제-전환하기" tabindex="-1" data-src-line="112">3. 화제 전환하기 <a class="header-anchor" href="#3-화제-전환하기" aria-hidden="true">#</a></h2>
+<p>자연스럽게 주제를 바꾸는 표현입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">On a completely different note...
+완전히 다른 얘기인데...
+
+That actually reminds me —
+그 얘기를 들으니 생각나는 게 있는데 —
+
+Totally unrelated, but have you heard about...?
+완전 다른 얘기인데, ...에 대해 들어봤어요?
+
+Speaking of which...
+그 얘기를 하니까...
+
+By the way, did you know...?
+그나저나, ...인 거 알았어요?
+
+Anyway, enough about me — what about you?
+어쨌든, 내 얘기는 충분히 했는데 — 당신은요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-대화-우아하게-끝내기" tabindex="-1" data-src-line="138">4. 대화 우아하게 끝내기 <a class="header-anchor" href="#4-대화-우아하게-끝내기" aria-hidden="true">#</a></h2>
+<p>대화를 갑자기 끊지 않고 자연스럽게 마무리하는 기술입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s been really great talking to you.
+얘기 나눠서 정말 좋았어요.
+
+I don&#039;t want to monopolize your evening — I&#039;ll let you mingle.
+저만 너무 붙잡아두면 안 되죠 — 다른 분들도 만나세요.
+
+I should go and say hi to a few other people,
+but let&#039;s definitely keep in touch.
+다른 분들한테도 인사하러 가야 할 것 같은데,
+꼭 계속 연락해요.
+
+I&#039;ll let you get back to [person they were with].
+[같이 있던 분]한테 돌아가세요.
+
+Can I grab your card / LinkedIn before you go?
+가시기 전에 명함 / LinkedIn 받을 수 있을까요?
+
+It was so nice to meet you — I hope we run into each other again.
+만나서 정말 좋았어요 — 또 만났으면 좋겠어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-네트워킹-이벤트-자기소개" tabindex="-1" data-src-line="166">5. 네트워킹 이벤트 자기소개 <a class="header-anchor" href="#5-네트워킹-이벤트-자기소개" aria-hidden="true">#</a></h2>
+<h3 id="기본-elevator-pitch-구조" tabindex="-1" data-src-line="168">기본 Elevator Pitch 구조 <a class="header-anchor" href="#기본-elevator-pitch-구조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. 이름 + 소속
+2. 하는 일 (간결하게)
+3. 현재 집중하는 것 또는 관심사
+4. 상대방에게 질문으로 마무리
+</code></pre></div></code></pre>
+<h3 id="예시" tabindex="-1" data-src-line="177">예시 <a class="header-anchor" href="#예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">&quot;Hi, I&#039;m Sora — I work in UX design at a fintech startup in Seoul.
+We&#039;re focused on making financial tools more accessible
+for first-time investors.
+What brings you to this event?&quot;
+
+안녕하세요, 저는 소라입니다 — 서울의 핀테크 스타트업에서
+UX 디자인을 해요.
+저희는 처음 투자하는 분들이 금융 도구를 더 쉽게 쓸 수 있도록
+하는 데 집중하고 있어요.
+오늘 이벤트는 어떻게 오셨어요?
+</code></pre></div></code></pre>
+<h3 id="업종별-자기소개-패턴" tabindex="-1" data-src-line="192">업종별 자기소개 패턴 <a class="header-anchor" href="#업종별-자기소개-패턴" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I work in [분야] at [회사/타입].
+I&#039;m currently focused on [현재 주력].
+I&#039;m particularly interested in [관심 분야].
+I&#039;m looking to connect with people in [타겟 분야].
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-어색한-침묵-다루기" tabindex="-1" data-src-line="203">6. 어색한 침묵 다루기 <a class="header-anchor" href="#6-어색한-침묵-다루기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">대화가 잠깐 멈출 때:
+So, what else have you been up to lately?
+그래서, 요즘 다른 건 어때요?
+
+Have you seen any good movies / shows lately?
+최근에 좋은 영화 / 드라마 본 거 있어요?
+
+Are you doing anything fun this weekend?
+이번 주말에 재미있는 거 해요?
+
+침묵을 자연스럽게 인정할 때:
+Ha, we&#039;ve hit a comfortable silence.
+하하, 편안한 침묵이 찾아왔네요. (유머로)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-실전-회화--비즈니스-네트워킹-파티-시뮬레이션" tabindex="-1" data-src-line="223">7. 실전 회화 — 비즈니스 네트워킹 파티 시뮬레이션 <a class="header-anchor" href="#7-실전-회화--비즈니스-네트워킹-파티-시뮬레이션" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Min:   Hi — I don&#039;t think we&#039;ve met. I&#039;m Min.
+       안녕하세요 — 저희 처음이죠. 저는 Min이에요.
+
+Alex:  Hey Min, I&#039;m Alex. Is this your first time
+       at one of these events?
+       안녕하세요 Min, 저는 Alex예요. 이런 이벤트는 처음이에요?
+
+Min:   It is, actually. I wasn&#039;t sure what to expect.
+       사실 그래요. 어떨지 몰랐어요.
+       What about you — do you come often?
+       당신은요 — 자주 오세요?
+
+Alex:  A few times a year. It&#039;s a good crowd.
+       일 년에 몇 번이요. 좋은 사람들이 오더라고요.
+       What do you do, if you don&#039;t mind me asking?
+       실례가 안 된다면, 무슨 일 하세요?
+
+Min:   I&#039;m in product management — mostly B2B SaaS.
+       You?
+       제품 관리 쪽이에요 — 주로 B2B SaaS요.
+       당신은요?
+
+Alex:  I run a small consultancy focused on
+       go-to-market strategy for tech companies.
+       We actually work with a few SaaS businesses.
+       테크 회사의 시장 진출 전략에 집중하는
+       작은 컨설팅 회사를 운영해요.
+       사실 SaaS 회사 몇 군데랑 일해요.
+
+Min:   Oh, interesting — how did you get into that?
+       오, 흥미롭네요 — 어떻게 그쪽으로 가게 됐어요?
+
+Alex:  [대화 계속됨...]
+
+       [잠시 후]
+       It&#039;s been really great talking to you.
+       I don&#039;t want to keep you from everyone else,
+       but can I grab your LinkedIn before we part ways?
+       얘기 나눠서 정말 좋았어요.
+       다른 분들한테도 가야 하시니까,
+       LinkedIn 받을 수 있을까요?
+
+Min:   Of course! And same — really enjoyed this.
+       물론이죠! 저도요 — 정말 즐거웠어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="274">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>소셜 영어의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 첫 마디가 전부:
+  &quot;How do you know [host]?&quot; / &quot;What brings you here?&quot;
+  → 공통점을 찾을 수 있는 열린 질문으로 시작하세요.
+
+② 후속 질문으로 깊이 있게:
+  &quot;How did you get into that?&quot; / &quot;What do you enjoy most?&quot;
+  → 표면적 대화를 벗어나 진짜 연결을 만드세요.
+
+③ 끝맺음을 우아하게:
+  &quot;I don&#039;t want to monopolize your evening —&quot;
+  → 갑자기 사라지지 말고, 다음을 기약하며 마무리하세요.
+</code></pre></div></code></pre>
+<p>Part 4 완료! 다음 강에서는 <strong>영어 뉴스·미디어 읽기·듣기 전략</strong>으로 Part 5를 시작합니다!</p>
+<hr>
+<blockquote>
+<p><strong>[Part 4 — 일상 심화]</strong> 완료<br>
+<strong>[Part 5 — 미디어·문화]</strong></p>
+<ul>
+<li><strong>20강</strong>: 소셜 영어 ← 현재 글</li>
+<li>21강: 영어 뉴스·미디어 읽기·듣기</li>
+<li>22강: 드라마·영화로 배우는 구어체</li>
+<li>23강: 소셜미디어·디지털 표현</li>
+<li>24강: 문화 차이와 영어</li>
+<li>25강: 총복습 + B2 이후 로드맵</li>
+</ul>
+</blockquote>
+20:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L25",null,{"content":"$26"}]}]}]
+21:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-19-complaints","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 19강: 불만·항의·컴플레인 영어"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-21-news-media","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-25-review-roadmap",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-25-review-roadmap","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵"}]}],["$","li","english-advanced/english-advanced-lesson-24-culture",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]}]]}]]}]]}]
+22:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+23:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+27:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"Small talk 완전 정복, 대화 이어가기·화제 전환하기, 대화 우아하게 끝내기, 네트워킹 이벤트 자기소개까지 소셜 영어를 완전 정복합니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-20-social/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹"}],["$","meta","11",{"property":"og:description","content":"Small talk 완전 정복, 대화 이어가기·화제 전환하기, 대화 우아하게 끝내기, 네트워킹 이벤트 자기소개까지 소셜 영어를 완전 정복합니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-20-social/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-06T19:00:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-06T19:00:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"advanced"}],["$","meta","23",{"property":"article:tag","content":"social"}],["$","meta","24",{"property":"article:tag","content":"networking"}],["$","meta","25",{"property":"article:tag","content":"small-talk"}],["$","meta","26",{"property":"article:tag","content":"intermediate"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹"}],["$","meta","29",{"name":"twitter:description","content":"Small talk 완전 정복, 대화 이어가기·화제 전환하기, 대화 우아하게 끝내기, 네트워킹 이벤트 자기소개까지 소셜 영어를 완전 정복합니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L27","32",{}]]
+16:null

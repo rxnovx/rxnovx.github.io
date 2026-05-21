@@ -1,0 +1,425 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-11-meetings\"},\"headline\":\"중급 영어 11강: 비즈니스 회의 영어 완전 정복\",\"description\":\"회의 시작부터 마무리까지, 발언권 얻기·의견 제시·결론 도출·액션 아이템 정리까지 비즈니스 회의 영어를 완전 정복합니다.\",\"datePublished\":\"2026-05-06T14:00:00.000Z\",\"dateModified\":\"2026-05-06T14:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-11-meetings\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"business\",\"meetings\",\"professional\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 11강: 비즈니스 회의 영어 완전 정복","slugPath":"english-advanced/english-advanced-lesson-11-meetings","headings":[{"id":"중급-영어-11강-비즈니스-회의-영어-완전-정복","text":"중급 영어 11강: 비즈니스 회의 영어 완전 정복","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-회의-시작-표현","text":"1. 회의 시작 표현","level":2},{"id":"회의를-열며","text":"회의를 열며","level":3},{"id":"참석자-확인","text":"참석자 확인","level":3},{"id":"안건-소개","text":"안건 소개","level":3},{"id":"2-발언권-얻기끼어들기","text":"2. 발언권 얻기·끼어들기","level":2},{"id":"발언권-요청","text":"발언권 요청","level":3},{"id":"발언권-유지","text":"발언권 유지","level":3},{"id":"발언권-넘기기","text":"발언권 넘기기","level":3},{"id":"3-의견-제시동의반론","text":"3. 의견 제시·동의·반론","level":2},{"id":"의견-제시","text":"의견 제시","level":3},{"id":"동의하며-추가","text":"동의하며 추가","level":3},{"id":"부드럽게-반론","text":"부드럽게 반론","level":3},{"id":"4-명확히-이해-확인하기","text":"4. 명확히 이해 확인하기","level":2},{"id":"확인명확화-요청","text":"확인·명확화 요청","level":3},{"id":"이해했음을-확인","text":"이해했음을 확인","level":3},{"id":"5-회의-진행-유지","text":"5. 회의 진행 유지","level":2},{"id":"주제로-돌아올-때","text":"주제로 돌아올 때","level":3},{"id":"다음-항목으로-넘어갈-때","text":"다음 항목으로 넘어갈 때","level":3},{"id":"6-결론-내리기요약하기","text":"6. 결론 내리기·요약하기","level":2},{"id":"7-액션-아이템-정리","text":"7. 액션 아이템 정리","level":2},{"id":"8-회의-마무리","text":"8. 회의 마무리","level":2},{"id":"9-온라인영상-회의-특유-표현","text":"9. 온라인·영상 회의 특유 표현","level":2},{"id":"10-실전-회화--국제-회의-시뮬레이션","text":"10. 실전 회화 — 국제 회의 시뮬레이션","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-11-meetings"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 11강: 비즈니스 회의 영어 완전 정복"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"회의 시작부터 마무리까지, 발언권 얻기·의견 제시·결론 도출·액션 아이템 정리까지 비즈니스 회의 영어를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T14:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T14:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 5월 6일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","business",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","business"]}],["$","span","meetings",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","meetings"]}],["$","span","professional",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","professional"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T5e03,<h1 id="중급-영어-11강-비즈니스-회의-영어-완전-정복" tabindex="-1" data-src-line="1">중급 영어 11강: 비즈니스 회의 영어 완전 정복 <a class="header-anchor" href="#중급-영어-11강-비즈니스-회의-영어-완전-정복" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-11강-비즈니스-회의-영어-완전-정복">중급 영어 11강: 비즈니스 회의 영어 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-회의-시작-표현">1. 회의 시작 표현 </a><ul><li><a href="#회의를-열며">회의를 열며 </a></li><li><a href="#참석자-확인">참석자 확인 </a></li><li><a href="#안건-소개">안건 소개 </a></li></ul></li><li><a href="#2-발언권-얻기끼어들기">2. 발언권 얻기·끼어들기 </a><ul><li><a href="#발언권-요청">발언권 요청 </a></li><li><a href="#발언권-유지">발언권 유지 </a></li><li><a href="#발언권-넘기기">발언권 넘기기 </a></li></ul></li><li><a href="#3-의견-제시동의반론">3. 의견 제시·동의·반론 </a><ul><li><a href="#의견-제시">의견 제시 </a></li><li><a href="#동의하며-추가">동의하며 추가 </a></li><li><a href="#부드럽게-반론">부드럽게 반론 </a></li></ul></li><li><a href="#4-명확히-이해-확인하기">4. 명확히 이해 확인하기 </a><ul><li><a href="#확인명확화-요청">확인·명확화 요청 </a></li><li><a href="#이해했음을-확인">이해했음을 확인 </a></li></ul></li><li><a href="#5-회의-진행-유지">5. 회의 진행 유지 </a><ul><li><a href="#주제로-돌아올-때">주제로 돌아올 때 </a></li><li><a href="#다음-항목으로-넘어갈-때">다음 항목으로 넘어갈 때 </a></li></ul></li><li><a href="#6-결론-내리기요약하기">6. 결론 내리기·요약하기 </a></li><li><a href="#7-액션-아이템-정리">7. 액션 아이템 정리 </a></li><li><a href="#8-회의-마무리">8. 회의 마무리 </a></li><li><a href="#9-온라인영상-회의-특유-표현">9. 온라인·영상 회의 특유 표현 </a></li><li><a href="#10-실전-회화--국제-회의-시뮬레이션">10. 실전 회화 — 국제 회의 시뮬레이션 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>국제 회의에서 영어로 발언하는 것은 많은 분들이 긴장하는 순간입니다.<br>
+아이디어는 있는데 적절한 표현이 바로 안 나와서 발언 기회를 놓친 경험이 있으신가요?</p>
+<p>이 강에서는 회의의 <strong>모든 단계</strong>에서 쓰이는 표현을 완전히 정복합니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>회의 시작·진행·마무리 표현을 자유롭게 구사할 수 있습니다.</li>
+<li>발언권을 얻고 넘기는 표현을 자연스럽게 쓸 수 있습니다.</li>
+<li>이해를 확인하고 명확히 하는 표현을 익힐 수 있습니다.</li>
+<li>결론을 내리고 액션 아이템을 정리하는 표현을 쓸 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-회의-시작-표현" tabindex="-1" data-src-line="20">1. 회의 시작 표현 <a class="header-anchor" href="#1-회의-시작-표현" aria-hidden="true">#</a></h2>
+<h3 id="회의를-열며" tabindex="-1" data-src-line="22">회의를 열며 <a class="header-anchor" href="#회의를-열며" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Shall we get started?
+시작할까요?
+
+Let&#039;s get the meeting underway.
+회의를 시작합시다.
+
+Right, let&#039;s begin.
+자, 시작하죠.
+
+Good morning / afternoon, everyone. 
+Thanks for joining.
+안녕하세요, 여러분. 참석해주셔서 감사합니다.
+
+Thank you all for being here today.
+오늘 모두 참석해주셔서 감사합니다.
+</code></pre></div></code></pre>
+<h3 id="참석자-확인" tabindex="-1" data-src-line="42">참석자 확인 <a class="header-anchor" href="#참석자-확인" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Is everyone here?
+모두 참석하셨나요?
+
+Are we waiting for anyone?
+더 기다릴 분 계신가요?
+
+I think we&#039;re all here — let&#039;s go ahead.
+모두 오신 것 같으니 시작하겠습니다.
+
+We&#039;re still missing [Name] — should we wait?
+[이름]이 아직 안 오셨는데 — 기다릴까요?
+</code></pre></div></code></pre>
+<h3 id="안건-소개" tabindex="-1" data-src-line="58">안건 소개 <a class="header-anchor" href="#안건-소개" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Today&#039;s agenda has three main items.
+오늘 안건은 크게 세 가지입니다.
+
+Let me walk you through today&#039;s agenda.
+오늘 안건을 설명해 드리겠습니다.
+
+We have about an hour, so let&#039;s keep things moving.
+한 시간 정도 있으니 진행을 이어가겠습니다.
+
+Before we dive in, does anyone have anything
+to add to the agenda?
+시작하기 전에, 안건에 추가할 것이 있는 분 계신가요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-발언권-얻기끼어들기" tabindex="-1" data-src-line="77">2. 발언권 얻기·끼어들기 <a class="header-anchor" href="#2-발언권-얻기끼어들기" aria-hidden="true">#</a></h2>
+<h3 id="발언권-요청" tabindex="-1" data-src-line="79">발언권 요청 <a class="header-anchor" href="#발언권-요청" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can I just jump in here?
+잠깐 끼어들어도 될까요?
+
+Could I add something here?
+여기서 한마디 추가해도 될까요?
+
+I&#039;d like to raise a point, if I may.
+가능하다면 한 가지 말씀드리고 싶어요.
+
+Sorry to interrupt, but...
+끼어들어서 죄송한데...
+
+If I could just come in here...
+잠깐 말씀드려도 된다면...
+
+I&#039;d like to build on that point.
+그 포인트를 발전시키고 싶어요.
+</code></pre></div></code></pre>
+<h3 id="발언권-유지" tabindex="-1" data-src-line="101">발언권 유지 <a class="header-anchor" href="#발언권-유지" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If you&#039;ll just let me finish...
+마저 말씀드릴 수 있다면...
+
+I&#039;ll get to that in a moment.
+잠시 후에 그 부분을 말씀드릴게요.
+
+Bear with me for just a second.
+잠깐만 기다려 주세요.
+</code></pre></div></code></pre>
+<h3 id="발언권-넘기기" tabindex="-1" data-src-line="114">발언권 넘기기 <a class="header-anchor" href="#발언권-넘기기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What do you think, [Name]?
+[이름], 어떻게 생각하세요?
+
+I&#039;d like to hear [Name]&#039;s perspective on this.
+이것에 대한 [이름]의 의견을 듣고 싶어요.
+
+Does anyone else have any thoughts on this?
+이것에 대해 의견 있는 분 계신가요?
+
+Over to you, [Name].
+[이름], 말씀해 주세요.
+
+I&#039;ll hand it back to you.
+다시 넘겨드릴게요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-의견-제시동의반론" tabindex="-1" data-src-line="135">3. 의견 제시·동의·반론 <a class="header-anchor" href="#3-의견-제시동의반론" aria-hidden="true">#</a></h2>
+<h3 id="의견-제시" tabindex="-1" data-src-line="137">의견 제시 <a class="header-anchor" href="#의견-제시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">From my perspective, ...
+제 관점에서는...
+
+The way I see it, ...
+제가 보기에는...
+
+I&#039;d like to suggest that...
+...을 제안드리고 싶어요.
+
+I think we should consider...
+...을 고려해야 할 것 같아요.
+
+My recommendation would be to...
+제 추천은 ...하는 것이에요.
+</code></pre></div></code></pre>
+<h3 id="동의하며-추가" tabindex="-1" data-src-line="156">동의하며 추가 <a class="header-anchor" href="#동의하며-추가" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I agree, and I&#039;d also add that...
+동의해요, 그리고 덧붙이자면...
+
+That&#039;s a really valid point. Building on that...
+정말 유효한 지적이에요. 그것을 발전시키자면...
+
+Absolutely — and to take that further...
+맞아요 — 더 나아가자면...
+</code></pre></div></code></pre>
+<h3 id="부드럽게-반론" tabindex="-1" data-src-line="169">부드럽게 반론 <a class="header-anchor" href="#부드럽게-반론" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I see your point, but I wonder if...
+무슨 말인지 알겠는데, ...은 어떨지요.
+
+That&#039;s an interesting approach, although...
+흥미로운 접근이에요, 하지만...
+
+I&#039;d push back a little on that — my experience has been...
+그 부분에 살짝 반론을 제기하고 싶어요 — 제 경험으로는...
+
+Have we considered the alternative that...?
+...의 대안을 고려해봤나요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-명확히-이해-확인하기" tabindex="-1" data-src-line="187">4. 명확히 이해 확인하기 <a class="header-anchor" href="#4-명확히-이해-확인하기" aria-hidden="true">#</a></h2>
+<p>회의에서 모르는 척 넘어가지 마세요. 확인 표현은 오히려 전문적으로 들립니다.</p>
+<h3 id="확인명확화-요청" tabindex="-1" data-src-line="191">확인·명확화 요청 <a class="header-anchor" href="#확인명확화-요청" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Just to clarify, are you saying that...?
+명확히 하자면, ...라고 말씀하시는 건가요?
+
+If I understand correctly, ...
+제가 제대로 이해했다면...
+
+Could you elaborate on that?
+좀 더 자세히 설명해 주실 수 있어요?
+
+Could you give us an example?
+예시를 들어주실 수 있나요?
+
+What do you mean exactly by...?
+...이 정확히 무슨 의미인가요?
+
+Sorry, I didn&#039;t quite catch that. Could you repeat it?
+죄송한데, 잘 못 들었어요. 반복해 주실 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="이해했음을-확인" tabindex="-1" data-src-line="213">이해했음을 확인 <a class="header-anchor" href="#이해했음을-확인" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">So if I&#039;m hearing you right, ...
+제가 제대로 듣고 있다면...
+
+So essentially what you&#039;re saying is...
+기본적으로 말씀하시는 것은...
+
+Let me make sure I&#039;ve understood this correctly.
+제가 제대로 이해했는지 확인해 볼게요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-회의-진행-유지" tabindex="-1" data-src-line="228">5. 회의 진행 유지 <a class="header-anchor" href="#5-회의-진행-유지" aria-hidden="true">#</a></h2>
+<h3 id="주제로-돌아올-때" tabindex="-1" data-src-line="230">주제로 돌아올 때 <a class="header-anchor" href="#주제로-돌아올-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let&#039;s get back on track.
+주제로 돌아갑시다.
+
+That&#039;s a great point, but let&#039;s table that
+for now and come back to it.
+좋은 포인트인데, 지금은 보류하고 나중에 다루겠습니다.
+
+Let&#039;s stay focused on the agenda.
+안건에 집중합시다.
+
+We&#039;re running short on time, so let&#039;s move on.
+시간이 부족하니 다음으로 넘어가겠습니다.
+</code></pre></div></code></pre>
+<h3 id="다음-항목으로-넘어갈-때" tabindex="-1" data-src-line="247">다음 항목으로 넘어갈 때 <a class="header-anchor" href="#다음-항목으로-넘어갈-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Moving on to the next item...
+다음 항목으로 넘어가겠습니다.
+
+Let&#039;s turn to the next point.
+다음 포인트로 넘어갑시다.
+
+Right, I think we&#039;ve covered that.
+자, 그 부분은 다 다룬 것 같아요.
+
+Let&#039;s park that for now.
+그것은 지금은 보류합시다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-결론-내리기요약하기" tabindex="-1" data-src-line="265">6. 결론 내리기·요약하기 <a class="header-anchor" href="#6-결론-내리기요약하기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let me summarize what we&#039;ve agreed on.
+합의한 내용을 요약하겠습니다.
+
+To recap the key points...
+핵심 포인트를 요약하면...
+
+So, in conclusion...
+결론적으로...
+
+It seems like the consensus is...
+합의가 이루어진 것 같은데...
+
+We&#039;ve agreed that...
+...에 동의했습니다.
+
+The main takeaways from today are...
+오늘의 주요 내용은...
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-액션-아이템-정리" tabindex="-1" data-src-line="289">7. 액션 아이템 정리 <a class="header-anchor" href="#7-액션-아이템-정리" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let&#039;s assign action items.
+액션 아이템을 배분합시다.
+
+Who will be responsible for...?
+...을 누가 담당할 건가요?
+
+Can you take ownership of that?
+그것을 맡아주실 수 있어요?
+
+What&#039;s the deadline for this?
+이것의 마감은 언제예요?
+
+Let&#039;s aim to have this done by...
+...까지 마무리하는 것을 목표로 합시다.
+
+I&#039;ll send around the meeting minutes after this.
+회의록을 이후에 공유하겠습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-회의-마무리" tabindex="-1" data-src-line="313">8. 회의 마무리 <a class="header-anchor" href="#8-회의-마무리" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I think that covers everything for today.
+오늘 모든 내용을 다룬 것 같아요.
+
+Thank you all for your time and input.
+시간과 의견 주셔서 모두 감사합니다.
+
+Let&#039;s wrap up there.
+거기서 마무리합시다.
+
+Thanks everyone — great discussion today.
+모두 감사해요 — 오늘 좋은 논의였습니다.
+
+We&#039;ll follow up via email.
+이메일로 후속 연락드리겠습니다.
+
+Same time next week?
+다음 주 같은 시간에 볼까요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-온라인영상-회의-특유-표현" tabindex="-1" data-src-line="337">9. 온라인·영상 회의 특유 표현 <a class="header-anchor" href="#9-온라인영상-회의-특유-표현" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You&#039;re on mute.
+음소거 상태예요.
+
+Can everyone hear me okay?
+모두 잘 들리나요?
+
+I&#039;m having some audio issues.
+오디오에 문제가 있어요.
+
+Sorry, you cut out there.
+죄송해요, 중간에 끊겼어요.
+
+Could you say that again? 
+You were breaking up.
+다시 말해주실 수 있어요?
+연결이 끊겼어요.
+
+I&#039;ll share my screen now.
+지금 화면을 공유하겠습니다.
+
+Can everyone see my screen?
+모두 제 화면이 보이나요?
+
+Let me stop sharing.
+공유를 중단할게요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-실전-회화--국제-회의-시뮬레이션" tabindex="-1" data-src-line="369">10. 실전 회화 — 국제 회의 시뮬레이션 <a class="header-anchor" href="#10-실전-회화--국제-회의-시뮬레이션" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Chair:   Good morning, everyone. Thanks for joining.
+         Shall we get started?
+         안녕하세요. 참석해주셔서 감사해요. 시작할까요?
+         
+         Today we have three items:
+         the Q3 results, the new product roadmap,
+         and resource allocation.
+         오늘 세 가지 안건이 있습니다:
+         3분기 결과, 새 제품 로드맵, 그리고 자원 배분이에요.
+
+Kim:     Before we start, I&#039;d like to add
+         one point to the agenda if that&#039;s okay —
+         시작 전에 괜찮다면 안건에 한 가지 추가하고 싶은데요 —
+         the timeline for the design phase.
+         디자인 단계 타임라인이요.
+
+Chair:   Sure. Let&#039;s cover that under the roadmap.
+         물론이죠. 로드맵에서 다루겠습니다.
+         
+         Tom, could you walk us through the Q3 results?
+         Tom, 3분기 결과를 설명해 주실 수 있어요?
+
+Tom:     Of course. Revenue was up 12% year-on-year,
+         which is above our forecast.
+         물론이죠. 매출이 전년 대비 12% 증가했는데,
+         예측치를 상회합니다.
+
+Lisa:    Sorry, could I just jump in?
+         Just to clarify — is that 12% across all regions,
+         or just APAC?
+         죄송한데, 잠깐 끼어들어도 될까요?
+         명확히 하자면 — 그게 전 지역 합산인가요,
+         아니면 APAC만인가요?
+
+Tom:     Good question — that&#039;s across all regions.
+         좋은 질문이에요 — 전 지역 합산이에요.
+         APAC actually outperformed at 18%.
+         APAC은 실제로 18%로 더 높은 성과를 냈어요.
+
+Chair:   Great. Let&#039;s move on to the roadmap.
+         좋아요. 로드맵으로 넘어갑시다.
+         Kim, do you want to kick us off?
+         Kim, 시작해 주시겠어요?
+
+Kim:     Sure. Building on what Tom mentioned,
+         I&#039;d suggest we align the product launch
+         with the strong APAC momentum.
+         물론이죠. Tom이 언급한 것을 발전시켜서,
+         강력한 APAC 모멘텀에 맞춰 제품 출시를
+         조정하는 것을 제안합니다.
+
+Chair:   That makes sense. Any pushback on that?
+         말이 되네요. 반론 있으신 분 있나요?
+
+Lisa:    I&#039;d just flag that the design timeline
+         might be tight. Could we build in
+         a two-week buffer?
+         디자인 타임라인이 빡빡할 수 있다는 점을 
+         지적하고 싶어요. 2주 버퍼를 넣을 수 있을까요?
+
+Chair:   Good point. Let&#039;s do that.
+         좋은 지적이에요. 그렇게 합시다.
+         
+         Okay, to summarize:
+         좋아요, 요약하면:
+         Tom — send out the full Q3 report by Friday.
+         Tom — 금요일까지 전체 3분기 보고서를 보내주세요.
+         Kim — update the roadmap with the two-week buffer.
+         Kim — 2주 버퍼를 반영한 로드맵을 업데이트해 주세요.
+         
+         I&#039;ll send around the minutes this afternoon.
+         Today was a great discussion — thank you all.
+         오늘 오후에 회의록을 공유하겠습니다.
+         오늘 좋은 논의였어요 — 모두 감사합니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="450">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>비즈니스 회의 영어의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 발언권 얻기를 두려워하지 마세요:
+  &quot;Can I just jump in?&quot;
+  &quot;I&#039;d like to add something here.&quot;
+  → 이 표현만 알아도 발언 기회를 만들 수 있습니다.
+
+② 모르면 확인하세요:
+  &quot;Just to clarify, are you saying...?&quot;
+  &quot;Could you elaborate on that?&quot;
+  → 확인 표현은 전문적으로 들립니다.
+
+③ 항상 액션 아이템으로 마무리하세요:
+  누가, 무엇을, 언제까지 할지 명확히 정리해야
+  회의가 결과로 이어집니다.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>비즈니스 프레젠테이션 영어</strong> — 청중의 관심을 끄는 오프닝부터<br>
+데이터 설명, 전환 표현, Q&amp;A 대처법까지 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 3 — 비즈니스 영어]</strong></p>
+<ul>
+<li><strong>11강</strong>: 비즈니스 회의 영어 ← 현재 글</li>
+<li>12강: 비즈니스 프레젠테이션</li>
+<li>13강: 협상·설득 영어</li>
+<li>14강: 전화·영상통화 영어</li>
+<li>15강: 비즈니스 글쓰기 심화</li>
+</ul>
+</blockquote>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-10-humor","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 10강: 영어 유머와 위트 — 농담하고 웃기는 법"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-16-storytelling","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 16강: 스토리텔링 영어 — 경험을 생생하게 전달하기"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-13-negotiation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-13-negotiation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 13강: 비즈니스 협상·설득 영어"}]}],["$","li","english-advanced/english-advanced-lesson-14-phone-calls",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-14-phone-calls","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 14강: 비즈니스 전화·영상통화 영어"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

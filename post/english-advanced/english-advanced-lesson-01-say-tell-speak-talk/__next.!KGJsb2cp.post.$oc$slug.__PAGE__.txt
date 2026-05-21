@@ -1,0 +1,612 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+b:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+c:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-01-say-tell-speak-talk\"},\"headline\":\"중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss\",\"description\":\"say/tell/speak/talk부터 mention/discuss/claim/state까지, 한국어로 모두 '말하다'지만 영어에서는 전혀 다른 동사들의 뉘앙스를 완전히 정복합니다.\",\"datePublished\":\"2026-05-06T04:00:00.000Z\",\"dateModified\":\"2026-05-06T04:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-01-say-tell-speak-talk\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"nuance\",\"say-tell-speak-talk\",\"vocabulary\",\"intermediate\",\"language-learning\"]}"}}],["$","$L2",null,{"title":"중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss","slugPath":"english-advanced/english-advanced-lesson-01-say-tell-speak-talk","headings":[{"id":"중급-영어-1강-비슷한-동사-다른-뉘앙스--say--tell--speak--talk--mention--discuss","text":"중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-say-vs-tell--가장-기본적인-차이","text":"1. say vs tell — 가장 기본적인 차이","level":2},{"id":"핵심-구조-차이","text":"핵심 구조 차이","level":3},{"id":"say--내용-중심","text":"say — 내용 중심","level":3},{"id":"tell--대상-중심","text":"tell — 대상 중심","level":3},{"id":"고정-표현--tell-only--say-only","text":"고정 표현 — tell only / say only","level":3},{"id":"비교-예문","text":"비교 예문","level":3},{"id":"2-speak-vs-talk--두-번째-혼동-쌍","text":"2. speak vs talk — 두 번째 혼동 쌍","level":2},{"id":"speak--격식체-일방향적","text":"speak — 격식체, 일방향적","level":3},{"id":"talk--비격식체-쌍방향적","text":"talk — 비격식체, 쌍방향적","level":3},{"id":"speak-vs-talk-비교","text":"speak vs talk 비교","level":3},{"id":"3-mention--가볍게-언급하다","text":"3. mention — 가볍게 언급하다","level":2},{"id":"4-discuss--깊이-논의하다","text":"4. discuss — 깊이 논의하다","level":2},{"id":"5-말하기-동사-심화--뉘앙스별-정리","text":"5. 말하기 동사 심화 — 뉘앙스별 정리","level":2},{"id":"주장선언-계열","text":"주장·선언 계열","level":3},{"id":"대화상호작용-계열","text":"대화·상호작용 계열","level":3},{"id":"공식-발언-계열","text":"공식 발언 계열","level":3},{"id":"6-말하기-동사-선택-가이드","text":"6. 말하기 동사 선택 가이드","level":2},{"id":"7-간접화법에서의-say-vs-tell","text":"7. 간접화법에서의 say vs tell","level":2},{"id":"8-실수하면-어색해지는-top-10","text":"8. 실수하면 어색해지는 TOP 10","level":2},{"id":"9-실전-회화--회의에서-의견-표현하기","text":"9. 실전 회화 — 회의에서 의견 표현하기","level":2},{"id":"10-문형-정리","text":"10. 문형 정리","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-01-say-tell-speak-talk"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"say/tell/speak/talk부터 mention/discuss/claim/state까지, 한국어로 모두 '말하다'지만 영어에서는 전혀 다른 동사들의 뉘앙스를 완전히 정복합니다."}],"$L3","$L4"]}],"$L5","$L6","$L7","$L8"]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+3:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T04:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T04:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$Lb",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","nuance",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","nuance"]}],["$","span","say-tell-speak-talk",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","say-tell-speak-talk"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+4:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+d:T7017,<h1 id="중급-영어-1강-비슷한-동사-다른-뉘앙스--say--tell--speak--talk--mention--discuss" tabindex="-1" data-src-line="1">중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss <a class="header-anchor" href="#중급-영어-1강-비슷한-동사-다른-뉘앙스--say--tell--speak--talk--mention--discuss" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-1강-비슷한-동사-다른-뉘앙스--say--tell--speak--talk--mention--discuss">중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-say-vs-tell--가장-기본적인-차이">1. say vs tell — 가장 기본적인 차이 </a><ul><li><a href="#핵심-구조-차이">핵심 구조 차이 </a></li><li><a href="#say--내용-중심">say — 내용 중심 </a></li><li><a href="#tell--대상-중심">tell — 대상 중심 </a></li><li><a href="#고정-표현--tell-only--say-only">고정 표현 — tell only / say only </a></li><li><a href="#비교-예문">비교 예문 </a></li></ul></li><li><a href="#2-speak-vs-talk--두-번째-혼동-쌍">2. speak vs talk — 두 번째 혼동 쌍 </a><ul><li><a href="#speak--격식체-일방향적">speak — 격식체, 일방향적 </a></li><li><a href="#talk--비격식체-쌍방향적">talk — 비격식체, 쌍방향적 </a></li><li><a href="#speak-vs-talk-비교">speak vs talk 비교 </a></li></ul></li><li><a href="#3-mention--가볍게-언급하다">3. mention — 가볍게 언급하다 </a></li><li><a href="#4-discuss--깊이-논의하다">4. discuss — 깊이 논의하다 </a></li><li><a href="#5-말하기-동사-심화--뉘앙스별-정리">5. 말하기 동사 심화 — 뉘앙스별 정리 </a><ul><li><a href="#주장선언-계열">주장·선언 계열 </a></li><li><a href="#대화상호작용-계열">대화·상호작용 계열 </a></li><li><a href="#공식-발언-계열">공식 발언 계열 </a></li></ul></li><li><a href="#6-말하기-동사-선택-가이드">6. 말하기 동사 선택 가이드 </a></li><li><a href="#7-간접화법에서의-say-vs-tell">7. 간접화법에서의 say vs tell </a></li><li><a href="#8-실수하면-어색해지는-top-10">8. 실수하면 어색해지는 TOP 10 </a></li><li><a href="#9-실전-회화--회의에서-의견-표현하기">9. 실전 회화 — 회의에서 의견 표현하기 </a></li><li><a href="#10-문형-정리">10. 문형 정리 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>한국어에서 “말하다” 하나로 해결되는 상황이, 영어에서는 <strong>say, tell, speak, talk, mention, discuss, state, claim, announce</strong> 등 수십 가지 동사로 나뉩니다.</p>
+<p>이 동사들을 잘못 선택하면 문법적으로는 맞아도 <strong>원어민에게는 어색하게</strong> 들립니다.<br>
+이번 강에서는 각 동사의 핵심 차이와 자연스러운 선택 기준을 완전히 정리합니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>say/tell/speak/talk의 구조적 차이를 완벽히 구분할 수 있습니다.</li>
+<li>mention/discuss/chat/argue/claim/state/announce를 상황에 맞게 쓸 수 있습니다.</li>
+<li>같은 상황에서 어떤 동사가 더 자연스러운지 감각을 익힐 수 있습니다.</li>
+<li>영어 원어민이 자주 쓰는 말하기 관련 표현 패턴을 익힐 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-say-vs-tell--가장-기본적인-차이" tabindex="-1" data-src-line="20">1. say vs tell — 가장 기본적인 차이 <a class="header-anchor" href="#1-say-vs-tell--가장-기본적인-차이" aria-hidden="true">#</a></h2>
+<p>이 두 동사는 가장 자주 혼동됩니다. 구조 차이를 먼저 이해하면 모든 것이 쉬워집니다.</p>
+<h3 id="핵심-구조-차이" tabindex="-1" data-src-line="24">핵심 구조 차이 <a class="header-anchor" href="#핵심-구조-차이" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">say + (that절 / 내용)          → 사람 목적어 없음
+tell + 사람 + (that절 / to부정사) → 반드시 사람 목적어 있음
+</code></pre></div></code></pre>
+<h3 id="say--내용-중심" tabindex="-1" data-src-line="31">say — 내용 중심 <a class="header-anchor" href="#say--내용-중심" aria-hidden="true">#</a></h3>
+<p><code>say</code>는 <strong>말한 내용</strong> 자체에 초점을 맞춥니다.<br>
+뒤에 사람이 바로 오지 않습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She said &quot;hello.&quot;
+그녀가 &quot;안녕&quot;이라고 말했습니다.
+
+He said that he was tired.
+그는 피곤하다고 말했습니다.
+
+She said she would be late.
+그녀는 늦을 것이라고 말했습니다.
+</code></pre></div></code></pre>
+<p>사람을 언급하려면 <strong>to</strong>를 써야 합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She said to me that she was leaving.
+그녀는 나에게 떠날 거라고 말했습니다.
+(❌ She said me that...)
+</code></pre></div></code></pre>
+<h3 id="tell--대상-중심" tabindex="-1" data-src-line="55">tell — 대상 중심 <a class="header-anchor" href="#tell--대상-중심" aria-hidden="true">#</a></h3>
+<p><code>tell</code>은 <strong>누구에게</strong> 말하는지가 중심입니다.<br>
+반드시 <strong>사람 목적어</strong>가 따라옵니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She told me &quot;hello.&quot;
+그녀는 나에게 &quot;안녕&quot;이라고 말했습니다.
+
+He told me that he was tired.
+그는 나에게 피곤하다고 말했습니다.
+
+She told him to sit down.
+그녀는 그에게 앉으라고 말했습니다.
+(tell + 사람 + to부정사 → 지시·명령)
+</code></pre></div></code></pre>
+<h3 id="고정-표현--tell-only--say-only" tabindex="-1" data-src-line="72">고정 표현 — tell only / say only <a class="header-anchor" href="#고정-표현--tell-only--say-only" aria-hidden="true">#</a></h3>
+<p><strong>tell만 쓰는 표현:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">tell the truth (사실을 말하다)
+tell a lie (거짓말하다)
+tell a story (이야기하다)
+tell a joke (농담하다)
+tell the difference (차이를 구별하다)
+tell the time (시간을 말하다)
+tell someone&#039;s fortune (점을 봐주다)
+</code></pre></div></code></pre>
+<p><strong>say만 쓰는 표현:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">say a prayer (기도하다)
+say a word (한마디 하다)
+say goodbye / hello
+say sorry (사과하다)
+say yes / no
+It goes without saying that... (말할 필요도 없이...)
+</code></pre></div></code></pre>
+<h3 id="비교-예문" tabindex="-1" data-src-line="95">비교 예문 <a class="header-anchor" href="#비교-예문" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ He said a joke. ❌ / He told a joke. ✅
+✅ She said the truth. ❌ / She told the truth. ✅
+✅ Tell me your name. ✅ / Say me your name. ❌
+✅ She said she was sorry. ✅ / She said sorry. ✅
+✅ He told me he was sorry. ✅
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-speak-vs-talk--두-번째-혼동-쌍" tabindex="-1" data-src-line="107">2. speak vs talk — 두 번째 혼동 쌍 <a class="header-anchor" href="#2-speak-vs-talk--두-번째-혼동-쌍" aria-hidden="true">#</a></h2>
+<h3 id="speak--격식체-일방향적" tabindex="-1" data-src-line="109">speak — 격식체, 일방향적 <a class="header-anchor" href="#speak--격식체-일방향적" aria-hidden="true">#</a></h3>
+<p><code>speak</code>는 비교적 <strong>격식체</strong>이며, 한 사람이 말하는 상황이나<br>
+언어 능력을 나타낼 때 자주 쓰입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can you speak English?
+영어를 할 수 있나요?
+
+The president will speak at the conference.
+대통령이 컨퍼런스에서 연설할 것입니다.
+
+Could I speak to the manager, please?
+매니저와 통화할 수 있을까요?
+
+She spoke for an hour without stopping.
+그녀는 한 시간 동안 쉬지 않고 말했습니다.
+</code></pre></div></code></pre>
+<h3 id="talk--비격식체-쌍방향적" tabindex="-1" data-src-line="128">talk — 비격식체, 쌍방향적 <a class="header-anchor" href="#talk--비격식체-쌍방향적" aria-hidden="true">#</a></h3>
+<p><code>talk</code>는 <strong>대화·상호작용</strong>에 초점을 맞춥니다.<br>
+두 사람 이상이 주고받는 상황에 자연스럽습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to talk.
+우리 이야기해야 해요. (심각한 대화 예고)
+
+She was talking to her friend on the phone.
+그녀는 친구와 전화로 이야기하고 있었습니다.
+
+Let&#039;s talk about this later.
+나중에 이것에 대해 이야기해요.
+
+Stop talking and listen!
+그만 말하고 들어요!
+</code></pre></div></code></pre>
+<h3 id="speak-vs-talk-비교" tabindex="-1" data-src-line="147">speak vs talk 비교 <a class="header-anchor" href="#speak-vs-talk-비교" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">speak</th>
+<th scope="col">talk</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>격식도</td>
+<td>격식체</td>
+<td>비격식체</td>
+</tr>
+<tr>
+<td>방향성</td>
+<td>일방향 가능</td>
+<td>주로 쌍방향</td>
+</tr>
+<tr>
+<td>언어 능력</td>
+<td>✅ speak English</td>
+<td>❌</td>
+</tr>
+<tr>
+<td>공식 발언</td>
+<td>✅ speak at a conference</td>
+<td>△</td>
+</tr>
+<tr>
+<td>일상 대화</td>
+<td>△</td>
+<td>✅ talk to friends</td>
+</tr>
+<tr>
+<td>심각한 대화</td>
+<td>✅</td>
+<td>✅ We need to talk</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【speak 자연스러운 경우】
+Can you speak more slowly? ✅
+She spoke at the graduation ceremony. ✅
+I&#039;d like to speak with your supervisor. ✅
+
+【talk 자연스러운 경우】
+We were just talking about you! ✅
+He talks too much. ✅
+Can we talk later? ✅
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-mention--가볍게-언급하다" tabindex="-1" data-src-line="172">3. mention — 가볍게 언급하다 <a class="header-anchor" href="#3-mention--가볍게-언급하다" aria-hidden="true">#</a></h2>
+<p><code>mention</code>은 <strong>짧게, 지나가듯</strong> 언급할 때 씁니다.<br>
+중요하게 다루는 것이 아니라 스치듯 말하는 뉘앙스입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She mentioned that she might be late.
+그녀가 늦을 수도 있다고 (가볍게) 언급했어요.
+
+Did I mention that I&#039;m getting married?
+내가 결혼한다고 말했나요?
+
+He mentioned something about a meeting.
+그가 회의에 대해 뭔가 말했어요.
+
+Now that you mention it, I remember.
+그 말을 들으니, 기억이 나네요.
+
+Don&#039;t mention it! (천만에요!)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-discuss--깊이-논의하다" tabindex="-1" data-src-line="195">4. discuss — 깊이 논의하다 <a class="header-anchor" href="#4-discuss--깊이-논의하다" aria-hidden="true">#</a></h2>
+<p><code>discuss</code>는 <strong>주제를 깊이, 여러 각도에서</strong> 다룰 때 씁니다.<br>
+<code>discuss about</code>은 잘못된 표현입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We discussed the budget for next year.
+우리는 내년 예산을 논의했습니다.
+(❌ We discussed about the budget)
+
+Let&#039;s discuss this further.
+이것을 더 깊이 논의합시다.
+
+The team discussed several options.
+팀이 여러 옵션을 논의했습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-말하기-동사-심화--뉘앙스별-정리" tabindex="-1" data-src-line="214">5. 말하기 동사 심화 — 뉘앙스별 정리 <a class="header-anchor" href="#5-말하기-동사-심화--뉘앙스별-정리" aria-hidden="true">#</a></h2>
+<h3 id="주장선언-계열" tabindex="-1" data-src-line="216">주장·선언 계열 <a class="header-anchor" href="#주장선언-계열" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>claim</td>
+<td>주장하다</td>
+<td>증거 없이 주장 (의심 뉘앙스 가능)</td>
+</tr>
+<tr>
+<td>state</td>
+<td>진술하다</td>
+<td>공식적·명확하게</td>
+</tr>
+<tr>
+<td>declare</td>
+<td>선언하다</td>
+<td>공식·강력하게</td>
+</tr>
+<tr>
+<td>assert</td>
+<td>단언하다</td>
+<td>자신감 있게</td>
+</tr>
+<tr>
+<td>insist</td>
+<td>주장하다</td>
+<td>반대에도 불구하고 고집</td>
+</tr>
+<tr>
+<td>argue</td>
+<td>주장하다</td>
+<td>논거를 들어</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He claimed he was innocent.
+그는 자신이 무죄라고 주장했습니다.
+(믿기 어려울 수도 있다는 뉘앙스)
+
+The report states that sales have increased.
+보고서는 판매가 증가했다고 명시합니다.
+
+She insisted that she was right.
+그녀는 자신이 옳다고 주장했습니다. (반대에도 불구하고)
+
+He argued that the policy was unfair.
+그는 정책이 불공정하다고 논거를 들어 주장했습니다.
+</code></pre></div></code></pre>
+<h3 id="대화상호작용-계열" tabindex="-1" data-src-line="242">대화·상호작용 계열 <a class="header-anchor" href="#대화상호작용-계열" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>chat</td>
+<td>잡담하다</td>
+<td>가볍고 친근한 대화</td>
+</tr>
+<tr>
+<td>gossip</td>
+<td>험담하다</td>
+<td>남 이야기, 소문</td>
+</tr>
+<tr>
+<td>whisper</td>
+<td>속삭이다</td>
+<td>조용하게</td>
+</tr>
+<tr>
+<td>shout / yell</td>
+<td>소리치다</td>
+<td>크게, 화나서</td>
+</tr>
+<tr>
+<td>mumble</td>
+<td>중얼거리다</td>
+<td>불명확하게</td>
+</tr>
+<tr>
+<td>stutter</td>
+<td>말을 더듬다</td>
+<td>긴장·장애</td>
+</tr>
+<tr>
+<td>ramble</td>
+<td>횡설수설하다</td>
+<td>두서없이 길게</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We were just chatting about the weekend.
+우리는 그냥 주말에 대해 잡담하고 있었어요.
+
+Stop mumbling — I can&#039;t hear you!
+중얼거리지 마요 — 들리지 않아요!
+
+She whispered something in his ear.
+그녀가 그의 귀에 무언가 속삭였습니다.
+</code></pre></div></code></pre>
+<h3 id="공식-발언-계열" tabindex="-1" data-src-line="265">공식 발언 계열 <a class="header-anchor" href="#공식-발언-계열" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">의미</th>
+<th scope="col">뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>announce</td>
+<td>발표하다</td>
+<td>공식적·공개적</td>
+</tr>
+<tr>
+<td>present</td>
+<td>발표하다</td>
+<td>준비된 내용 제시</td>
+</tr>
+<tr>
+<td>report</td>
+<td>보고하다</td>
+<td>사실 전달</td>
+</tr>
+<tr>
+<td>propose</td>
+<td>제안하다</td>
+<td>공식적 제안</td>
+</tr>
+<tr>
+<td>recommend</td>
+<td>추천하다</td>
+<td>조언 형태의 제안</td>
+</tr>
+<tr>
+<td>advise</td>
+<td>충고하다</td>
+<td>전문가적 조언</td>
+</tr>
+</tbody>
+</table>
+</div><pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The CEO announced a merger.
+CEO가 합병을 발표했습니다.
+
+She presented her findings to the board.
+그녀는 이사회에 연구 결과를 발표했습니다.
+
+I&#039;d like to propose a new approach.
+새로운 접근법을 제안드리고 싶습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-말하기-동사-선택-가이드" tabindex="-1" data-src-line="289">6. 말하기 동사 선택 가이드 <a class="header-anchor" href="#6-말하기-동사-선택-가이드" aria-hidden="true">#</a></h2>
+<p>헷갈릴 때 이 기준으로 선택하세요.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">누구에게 말하는지가 중요하다 → tell
+말한 내용이 중요하다 → say
+언어 능력 / 공식 발언 → speak
+쌍방향 대화 → talk
+가볍게 지나가며 → mention
+깊이 여러 측면에서 → discuss
+증거 없이 주장 → claim
+공식적으로 진술 → state
+공개적으로 발표 → announce
+가볍게 수다 → chat
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-간접화법에서의-say-vs-tell" tabindex="-1" data-src-line="308">7. 간접화법에서의 say vs tell <a class="header-anchor" href="#7-간접화법에서의-say-vs-tell" aria-hidden="true">#</a></h2>
+<p>간접화법(Reported Speech)에서도 say와 tell의 구조 차이가 그대로 적용됩니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">직접화법: &quot;I&#039;m tired,&quot; she said.
+간접화법: She said (that) she was tired. ✅
+간접화법: She told me (that) she was tired. ✅
+
+직접화법: &quot;Sit down,&quot; he said to her.
+간접화법: He told her to sit down. ✅
+간접화법: He said to her to sit down. ✅ (가능하지만 어색)
+
+직접화법: &quot;Are you coming?&quot; she asked.
+간접화법: She asked if I was coming. ✅
+(ask는 say/tell 둘 다와 다른 구조)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-실수하면-어색해지는-top-10" tabindex="-1" data-src-line="328">8. 실수하면 어색해지는 TOP 10 <a class="header-anchor" href="#8-실수하면-어색해지는-top-10" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ She said me that she was late.
+✅ She told me that she was late.
+   또는 She said (to me) that she was late.
+
+❌ Can you talk English?
+✅ Can you speak English?
+
+❌ We discussed about the issue.
+✅ We discussed the issue.
+
+❌ He told that he was happy.
+✅ He said that he was happy.
+   또는 He told me that he was happy.
+
+❌ She spoke me about her problems.
+✅ She talked to me about her problems.
+   또는 She told me about her problems.
+
+❌ I want to speak with you about this.
+(격식체이지만 틀린 건 아님 — 단, 캐주얼하게는)
+✅ I want to talk to you about this.
+
+❌ He said me to leave.
+✅ He told me to leave.
+   또는 He said I should leave.
+
+❌ Can I say to the manager?
+✅ Can I speak to the manager?
+
+❌ We need to speak about this later.
+(가능하지만 딱딱함 — 일상 대화에서는)
+✅ We need to talk about this later.
+
+❌ She mentioned about her new job.
+✅ She mentioned her new job.
+   (mention + 목적어 직접, about 불필요)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-실전-회화--회의에서-의견-표현하기" tabindex="-1" data-src-line="371">9. 실전 회화 — 회의에서 의견 표현하기 <a class="header-anchor" href="#9-실전-회화--회의에서-의견-표현하기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Manager: Before we start, I&#039;d like to mention
+         that today&#039;s agenda has been updated.
+         시작 전에 오늘 안건이 업데이트됐다는 것을
+         말씀드리고 싶습니다.
+
+Team A:  I&#039;ve been meaning to speak to you
+         about the budget allocation.
+         예산 배분에 대해 말씀드리고 싶었습니다.
+
+Manager: Sure. Why don&#039;t we discuss that
+         after we go over the main points?
+         좋아요. 주요 사항을 검토한 후에 논의해볼까요?
+
+Team B:  Actually, I&#039;d like to raise something.
+         사실 한 가지 말씀드리고 싶은 게 있어요.
+         
+         Tom mentioned in his email that
+         the deadline might be moved.
+         Tom이 이메일에서 마감일이 변경될 수도
+         있다고 언급했는데요.
+         
+         Can someone tell me if that&#039;s confirmed?
+         확정된 건지 누가 알려주실 수 있나요?
+
+Manager: Tom, would you like to address that?
+         Tom, 그것에 대해 말씀해 주시겠어요?
+
+Tom:     I did say something about it, yes.
+         제가 그것에 대해 말하긴 했죠.
+         
+         What I stated in the email was that
+         we&#039;re considering a two-week extension,
+         but nothing has been decided yet.
+         이메일에서 제가 진술한 것은 2주 연장을
+         고려 중이라는 것이었고, 아직 결정된 건 없어요.
+
+Team A:  I&#039;m glad you clarified that.
+         For the record, I&#039;d argue that
+         more time would significantly
+         improve the quality.
+         명확히 해주셔서 좋네요.
+         기록을 위해 말씀드리자면, 시간이 더 있으면
+         품질이 크게 향상될 것이라고 주장하고 싶어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-문형-정리" tabindex="-1" data-src-line="421">10. 문형 정리 <a class="header-anchor" href="#10-문형-정리" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">동사</th>
+<th scope="col">구조</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>say</td>
+<td>say + (that절/내용)</td>
+<td>She said she was tired.</td>
+</tr>
+<tr>
+<td>say to</td>
+<td>say + to + 사람 + that절</td>
+<td>He said to me that…</td>
+</tr>
+<tr>
+<td>tell</td>
+<td>tell + 사람 + (that절)</td>
+<td>She told me she was tired.</td>
+</tr>
+<tr>
+<td>tell to</td>
+<td>tell + 사람 + to부정사</td>
+<td>He told me to leave.</td>
+</tr>
+<tr>
+<td>speak</td>
+<td>speak + (to/with + 사람)</td>
+<td>Can I speak to you?</td>
+</tr>
+<tr>
+<td>speak</td>
+<td>speak + 언어</td>
+<td>She speaks French.</td>
+</tr>
+<tr>
+<td>talk</td>
+<td>talk + to/with + 사람</td>
+<td>Let’s talk later.</td>
+</tr>
+<tr>
+<td>talk about</td>
+<td>talk about + 주제</td>
+<td>We talked about it.</td>
+</tr>
+<tr>
+<td>mention</td>
+<td>mention + 목적어 (about ❌)</td>
+<td>She mentioned the meeting.</td>
+</tr>
+<tr>
+<td>discuss</td>
+<td>discuss + 목적어 (about ❌)</td>
+<td>We discussed the plan.</td>
+</tr>
+<tr>
+<td>claim</td>
+<td>claim + that절</td>
+<td>He claimed he was right.</td>
+</tr>
+<tr>
+<td>state</td>
+<td>state + that절</td>
+<td>The report states that…</td>
+</tr>
+<tr>
+<td>announce</td>
+<td>announce + that절 / 목적어</td>
+<td>They announced the results.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="441">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>말하기 동사 선택의 핵심 세 가지를 기억하세요.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① say vs tell:
+  사람 목적어 있음 → tell
+  사람 목적어 없음 → say
+  (❌ say me / ❌ told that → 반드시 tell + 사람)
+
+② speak vs talk:
+  언어 능력·공식 발언 → speak
+  일상 쌍방향 대화 → talk
+
+③ mention vs discuss:
+  가볍게 지나가며 → mention (about ❌)
+  깊이 여러 각도로 → discuss (about ❌)
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>감정 표현의 온도</strong> — happy부터 ecstatic까지,<br>
+같은 감정도 강도에 따라 전혀 다른 단어를 쓰는 영어 감정 표현의 세계를 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 1 — 뉘앙스와 어감]</strong></p>
+<ul>
+<li><strong>1강</strong>: say · tell · speak · talk · mention · discuss ← 현재 글</li>
+<li>2강: 감정 표현의 온도 — happy부터 ecstatic까지</li>
+<li>3강: 동의와 반론의 뉘앙스</li>
+<li>4강: 확실성의 정도 — maybe부터 absolutely까지</li>
+<li>5강: 요청의 온도 — 반말부터 초격식까지</li>
+</ul>
+<p><strong>[Part 2 — 슬랭과 구어체]</strong></p>
+<ul>
+<li>6강 ~ 10강</li>
+</ul>
+<p><strong>[Part 3 — 비즈니스 영어]</strong></p>
+<ul>
+<li>11강 ~ 15강</li>
+</ul>
+<p><strong>[Part 4 — 일상 심화]</strong></p>
+<ul>
+<li>16강 ~ 20강</li>
+</ul>
+<p><strong>[Part 5 — 미디어·문화]</strong></p>
+<ul>
+<li>21강 ~ 25강</li>
+</ul>
+</blockquote>
+5:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lc",null,{"content":"$d"}]}]}]
+6:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Le",null,{"href":"/post/english/english-lesson-16-infinitives-gerunds","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 16강: to부정사 · 동명사 완전 정복 — to do / doing"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-02-emotions","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-02-emotions",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-02-emotions","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic"}]}],["$","li","english-advanced/english-advanced-lesson-08-phrasal-verbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]}],["$","li","english-advanced/english-advanced-lesson-07-british-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]}]]}]]}]]}]
+7:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+8:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+9:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

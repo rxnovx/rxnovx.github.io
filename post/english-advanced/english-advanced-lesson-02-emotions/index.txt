@@ -1,0 +1,748 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-c11cec732cf2eb2f.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/65a17ec2a8589358.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"ASSEgGrCfNQXYJ8AxNYxM","c":["","post","english-advanced","english-advanced-lesson-02-emotions",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english-advanced/english-advanced-lesson-02-emotions","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65a17ec2a8589358.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
+9:["$","$L7",null,{"href":"/privacy-policy","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Privacy"}]
+a:["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}],["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]]}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+13:["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-02-emotions\"},\"headline\":\"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic\",\"description\":\"happy 하나로 모든 기쁨을 표현하고 있다면? 감정의 강도에 따라 전혀 다른 단어를 쓰는 영어 감정 표현의 세계를 완전히 정복합니다.\",\"datePublished\":\"2026-05-06T05:00:00.000Z\",\"dateModified\":\"2026-05-06T05:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-02-emotions\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"emotions\",\"vocabulary\",\"nuance\",\"intermediate\",\"language-learning\"]}"}}],["$","$L1c",null,{"title":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic","slugPath":"english-advanced/english-advanced-lesson-02-emotions","headings":[{"id":"중급-영어-2강-감정-표현의-온도--happy--pleased--delighted--thrilled--ecstatic","text":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-긍정-감정의-스펙트럼--기쁨","text":"1. 긍정 감정의 스펙트럼 — 기쁨","level":2},{"id":"기쁨-스펙트럼-약--강","text":"기쁨 스펙트럼 (약 → 강)","level":3},{"id":"각-단어별-뉘앙스","text":"각 단어별 뉘앙스","level":3},{"id":"강도-비교표","text":"강도 비교표","level":3},{"id":"2-긍정-감정의-스펙트럼--감사안도자부심","text":"2. 긍정 감정의 스펙트럼 — 감사·안도·자부심","level":2},{"id":"감사-gratitude","text":"감사 (Gratitude)","level":3},{"id":"안도-relief","text":"안도 (Relief)","level":3},{"id":"자부심-pride","text":"자부심 (Pride)","level":3},{"id":"3-부정-감정의-스펙트럼--슬픔","text":"3. 부정 감정의 스펙트럼 — 슬픔","level":2},{"id":"슬픔-스펙트럼-약--강","text":"슬픔 스펙트럼 (약 → 강)","level":3},{"id":"슬픔-강도-비교표","text":"슬픔 강도 비교표","level":3},{"id":"4-부정-감정의-스펙트럼--분노","text":"4. 부정 감정의 스펙트럼 — 분노","level":2},{"id":"분노-스펙트럼-약--강","text":"분노 스펙트럼 (약 → 강)","level":3},{"id":"5-부정-감정의-스펙트럼--두려움불안","text":"5. 부정 감정의 스펙트럼 — 두려움·불안","level":2},{"id":"두려움-스펙트럼-약--강","text":"두려움 스펙트럼 (약 → 강)","level":3},{"id":"6-부정-감정의-스펙트럼--놀라움충격","text":"6. 부정 감정의 스펙트럼 — 놀라움·충격","level":2},{"id":"놀라움-스펙트럼-긍정부정-공통","text":"놀라움 스펙트럼 (긍정·부정 공통)","level":3},{"id":"7-과장-표현-vs-절제-표현","text":"7. 과장 표현 vs 절제 표현","level":2},{"id":"과장-표현-intensifiers","text":"과장 표현 (Intensifiers)","level":3},{"id":"절제-표현-understatement--영국식에-특히-많음","text":"절제 표현 (Understatement — 영국식에 특히 많음)","level":3},{"id":"언제-과장하고-언제-절제할까","text":"언제 과장하고 언제 절제할까?","level":3},{"id":"8-감정을-자연스럽게-표현하는-문장-패턴","text":"8. 감정을 자연스럽게 표현하는 문장 패턴","level":2},{"id":"감정--이유-연결하기","text":"감정 + 이유 연결하기","level":3},{"id":"상대방-감정에-공감하기","text":"상대방 감정에 공감하기","level":3},{"id":"감정의-변화-표현하기","text":"감정의 변화 표현하기","level":3},{"id":"9-복합-감정-표현--두-감정이-동시에","text":"9. 복합 감정 표현 — 두 감정이 동시에","level":2},{"id":"10-감정-관련-유용한-표현들","text":"10. 감정 관련 유용한 표현들","level":2},{"id":"감정이-너무-강할-때","text":"감정이 너무 강할 때","level":3},{"id":"감정을-숨기거나-조절할-때","text":"감정을 숨기거나 조절할 때","level":3},{"id":"감정이-지나간-후","text":"감정이 지나간 후","level":3},{"id":"11-실수하면-어색해지는-top-10","text":"11. 실수하면 어색해지는 TOP 10","level":2},{"id":"12--ing-vs--ed-형용사--자주-하는-실수","text":"12. -ing vs -ed 형용사 — 자주 하는 실수","level":2},{"id":"13-실전-회화--감정을-섬세하게-전달하기","text":"13. 실전 회화 — 감정을 섬세하게 전달하기","level":2},{"id":"상황-1-좋은-소식을-전하며","text":"상황 1: 좋은 소식을 전하며","level":3},{"id":"상황-2-어려운-상황-공감하기","text":"상황 2: 어려운 상황 공감하기","level":3},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],"$L1d"]}],"$L1e","$L1f","$L20","$L21"]}],"$L22","$L23","$L24","$L25"]}]
+26:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+27:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+1d:["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-02-emotions"}]
+1e:["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic"}]
+1f:["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"happy 하나로 모든 기쁨을 표현하고 있다면? 감정의 강도에 따라 전혀 다른 단어를 쓰는 영어 감정 표현의 세계를 완전히 정복합니다."}]
+20:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T05:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T05:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$L26",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","emotions",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","emotions"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","nuance",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","nuance"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}],["$","span","language-learning",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","language-learning"]}]]}]]}]
+21:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+28:Tce8c,<h1 id="중급-영어-2강-감정-표현의-온도--happy--pleased--delighted--thrilled--ecstatic" tabindex="-1" data-src-line="1">중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic <a class="header-anchor" href="#중급-영어-2강-감정-표현의-온도--happy--pleased--delighted--thrilled--ecstatic" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-2강-감정-표현의-온도--happy--pleased--delighted--thrilled--ecstatic">중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-긍정-감정의-스펙트럼--기쁨">1. 긍정 감정의 스펙트럼 — 기쁨 </a><ul><li><a href="#기쁨-스펙트럼-약--강">기쁨 스펙트럼 (약 → 강) </a></li><li><a href="#각-단어별-뉘앙스">각 단어별 뉘앙스 </a></li><li><a href="#강도-비교표">강도 비교표 </a></li></ul></li><li><a href="#2-긍정-감정의-스펙트럼--감사안도자부심">2. 긍정 감정의 스펙트럼 — 감사·안도·자부심 </a><ul><li><a href="#감사-gratitude">감사 (Gratitude) </a></li><li><a href="#안도-relief">안도 (Relief) </a></li><li><a href="#자부심-pride">자부심 (Pride) </a></li></ul></li><li><a href="#3-부정-감정의-스펙트럼--슬픔">3. 부정 감정의 스펙트럼 — 슬픔 </a><ul><li><a href="#슬픔-스펙트럼-약--강">슬픔 스펙트럼 (약 → 강) </a></li><li><a href="#슬픔-강도-비교표">슬픔 강도 비교표 </a></li></ul></li><li><a href="#4-부정-감정의-스펙트럼--분노">4. 부정 감정의 스펙트럼 — 분노 </a><ul><li><a href="#분노-스펙트럼-약--강">분노 스펙트럼 (약 → 강) </a></li></ul></li><li><a href="#5-부정-감정의-스펙트럼--두려움불안">5. 부정 감정의 스펙트럼 — 두려움·불안 </a><ul><li><a href="#두려움-스펙트럼-약--강">두려움 스펙트럼 (약 → 강) </a></li></ul></li><li><a href="#6-부정-감정의-스펙트럼--놀라움충격">6. 부정 감정의 스펙트럼 — 놀라움·충격 </a><ul><li><a href="#놀라움-스펙트럼-긍정부정-공통">놀라움 스펙트럼 (긍정·부정 공통) </a></li></ul></li><li><a href="#7-과장-표현-vs-절제-표현">7. 과장 표현 vs 절제 표현 </a><ul><li><a href="#과장-표현-intensifiers">과장 표현 (Intensifiers) </a></li><li><a href="#절제-표현-understatement--영국식에-특히-많음">절제 표현 (Understatement — 영국식에 특히 많음) </a></li><li><a href="#언제-과장하고-언제-절제할까">언제 과장하고 언제 절제할까? </a></li></ul></li><li><a href="#8-감정을-자연스럽게-표현하는-문장-패턴">8. 감정을 자연스럽게 표현하는 문장 패턴 </a><ul><li><a href="#감정--이유-연결하기">감정 + 이유 연결하기 </a></li><li><a href="#상대방-감정에-공감하기">상대방 감정에 공감하기 </a></li><li><a href="#감정의-변화-표현하기">감정의 변화 표현하기 </a></li></ul></li><li><a href="#9-복합-감정-표현--두-감정이-동시에">9. 복합 감정 표현 — 두 감정이 동시에 </a></li><li><a href="#10-감정-관련-유용한-표현들">10. 감정 관련 유용한 표현들 </a><ul><li><a href="#감정이-너무-강할-때">감정이 너무 강할 때 </a></li><li><a href="#감정을-숨기거나-조절할-때">감정을 숨기거나 조절할 때 </a></li><li><a href="#감정이-지나간-후">감정이 지나간 후 </a></li></ul></li><li><a href="#11-실수하면-어색해지는-top-10">11. 실수하면 어색해지는 TOP 10 </a></li><li><a href="#12--ing-vs--ed-형용사--자주-하는-실수">12. -ing vs -ed 형용사 — 자주 하는 실수 </a></li><li><a href="#13-실전-회화--감정을-섬세하게-전달하기">13. 실전 회화 — 감정을 섬세하게 전달하기 </a><ul><li><a href="#상황-1-좋은-소식을-전하며">상황 1: 좋은 소식을 전하며 </a></li><li><a href="#상황-2-어려운-상황-공감하기">상황 2: 어려운 상황 공감하기 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>영어를 배울 때 감정 표현은 보통 이렇게 시작합니다.</p>
+<ul>
+<li>기쁘다 → happy</li>
+<li>슬프다 → sad</li>
+<li>화났다 → angry</li>
+</ul>
+<p>하지만 원어민은 이 세 단어만으로는 감정을 제대로 전달하지 않습니다.<br>
+같은 &quot;기쁨&quot;이어도 <strong>조용한 만족감</strong>인지, <strong>뛸 듯한 흥분</strong>인지에 따라 완전히 다른 단어를 씁니다.</p>
+<p>감정 표현을 정밀하게 쓸수록 여러분의 영어는 훨씬 <strong>입체적이고 자연스럽게</strong> 들립니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>긍정 감정의 강도 스펙트럼을 완벽히 구분할 수 있습니다.</li>
+<li>부정 감정(슬픔·분노·두려움·놀라움)을 세밀하게 표현할 수 있습니다.</li>
+<li>과장 표현과 절제 표현을 상황에 맞게 선택할 수 있습니다.</li>
+<li>감정을 자연스럽게 전달하는 문장 패턴을 익힐 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-긍정-감정의-스펙트럼--기쁨" tabindex="-1" data-src-line="26">1. 긍정 감정의 스펙트럼 — 기쁨 <a class="header-anchor" href="#1-긍정-감정의-스펙트럼--기쁨" aria-hidden="true">#</a></h2>
+<p>기쁨을 나타내는 단어들은 <strong>강도</strong> 순서로 배열됩니다.<br>
+단어가 강할수록 더 강렬하고 표현적인 감정입니다.</p>
+<h3 id="기쁨-스펙트럼-약--강" tabindex="-1" data-src-line="31">기쁨 스펙트럼 (약 → 강) <a class="header-anchor" href="#기쁨-스펙트럼-약--강" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">content → pleased → glad → happy → delighted → thrilled → ecstatic
+(만족)    (흡족)   (다행) (행복) (아주 기쁜)  (설레는)   (황홀한)
+</code></pre></div></code></pre>
+<h3 id="각-단어별-뉘앙스" tabindex="-1" data-src-line="38">각 단어별 뉘앙스 <a class="header-anchor" href="#각-단어별-뉘앙스" aria-hidden="true">#</a></h3>
+<p><strong>content</strong> — 조용한 만족감. 흥분보다는 평온한 충족감.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m content with my life right now.
+나는 지금 내 삶에 만족하고 있습니다.
+
+She seemed perfectly content just reading by the window.
+그녀는 창가에서 책을 읽는 것만으로 완전히 만족스러워 보였습니다.
+</code></pre></div></code></pre>
+<p><strong>pleased</strong> — 흡족함. 기대가 충족됐을 때의 긍정적 반응.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m pleased to meet you.
+만나서 반갑습니다. (격식체)
+
+She was pleased with the results.
+그녀는 결과에 만족했습니다.
+
+We&#039;re pleased to announce...
+~을 발표하게 되어 기쁩니다. (공식 발표에 자주 쓰임)
+</code></pre></div></code></pre>
+<p><strong>glad</strong> — 안도감이 섞인 기쁨. &quot;다행이다&quot;에 가까운 뉘앙스.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m glad you could make it.
+오실 수 있어서 다행이에요.
+
+I&#039;m glad to hear you&#039;re feeling better.
+몸이 좋아졌다니 다행이에요.
+
+I&#039;m so glad that&#039;s over.
+그게 끝나서 정말 다행이에요.
+</code></pre></div></code></pre>
+<p><strong>happy</strong> — 가장 일반적인 행복감. 중간 강도.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m really happy for you!
+정말 잘 됐다!
+
+Are you happy with your decision?
+당신의 결정에 만족하나요?
+</code></pre></div></code></pre>
+<p><strong>delighted</strong> — 즐거움이 넘치는 상태. 격식체에서도 자주 쓰임.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m absolutely delighted!
+정말 너무 기쁩니다!
+
+She was delighted to receive the award.
+그녀는 상을 받아 매우 기뻐했습니다.
+
+We&#039;d be delighted to join you.
+함께하게 되어 정말 기쁠 것 같아요. (초대 수락 시 격식체)
+</code></pre></div></code></pre>
+<p><strong>thrilled</strong> — 흥분과 기대감이 섞인 강렬한 기쁨.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m thrilled about the new project!
+새 프로젝트 생각에 너무 설레요!
+
+She was thrilled to get the job offer.
+그녀는 입사 제안을 받고 너무 기뻐했습니다.
+
+The kids were absolutely thrilled.
+아이들은 정말 신이 났습니다.
+</code></pre></div></code></pre>
+<p><strong>ecstatic</strong> — 최고조의 기쁨. 거의 황홀할 정도.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We were ecstatic when we heard the news.
+그 소식을 들었을 때 우리는 너무너무 기뻤습니다.
+
+She was ecstatic about getting into her dream school.
+그녀는 꿈에 그리던 학교에 합격해서 황홀해했습니다.
+</code></pre></div></code></pre>
+<h3 id="강도-비교표" tabindex="-1" data-src-line="115">강도 비교표 <a class="header-anchor" href="#강도-비교표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">단어</th>
+<th scope="col">강도</th>
+<th scope="col">핵심 뉘앙스</th>
+<th scope="col">대표 상황</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>content</td>
+<td>★☆☆☆☆</td>
+<td>조용한 만족</td>
+<td>현재 삶에 만족할 때</td>
+</tr>
+<tr>
+<td>pleased</td>
+<td>★★☆☆☆</td>
+<td>흡족함</td>
+<td>기대가 충족됐을 때</td>
+</tr>
+<tr>
+<td>glad</td>
+<td>★★☆☆☆</td>
+<td>안도 섞인 기쁨</td>
+<td>&quot;다행이다&quot;의 뉘앙스</td>
+</tr>
+<tr>
+<td>happy</td>
+<td>★★★☆☆</td>
+<td>일반적 행복</td>
+<td>대부분의 긍정 상황</td>
+</tr>
+<tr>
+<td>delighted</td>
+<td>★★★★☆</td>
+<td>즐거움 넘침</td>
+<td>격식·일상 모두</td>
+</tr>
+<tr>
+<td>thrilled</td>
+<td>★★★★☆</td>
+<td>흥분+기대</td>
+<td>좋은 소식·이벤트</td>
+</tr>
+<tr>
+<td>ecstatic</td>
+<td>★★★★★</td>
+<td>황홀한 기쁨</td>
+<td>최고의 순간</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="2-긍정-감정의-스펙트럼--감사안도자부심" tabindex="-1" data-src-line="129">2. 긍정 감정의 스펙트럼 — 감사·안도·자부심 <a class="header-anchor" href="#2-긍정-감정의-스펙트럼--감사안도자부심" aria-hidden="true">#</a></h2>
+<h3 id="감사-gratitude" tabindex="-1" data-src-line="131">감사 (Gratitude) <a class="header-anchor" href="#감사-gratitude" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">appreciative → grateful → thankful → deeply moved
+(고마워하는)  (감사하는)  (감사한)   (깊이 감동받은)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I appreciate your help.
+도움에 감사해요. (일상적, 가벼운 감사)
+
+I&#039;m really grateful for everything you&#039;ve done.
+당신이 해준 모든 것에 진심으로 감사해요.
+
+I&#039;m so thankful you were there.
+당신이 거기 있어줘서 정말 다행이에요.
+
+I was deeply moved by your kindness.
+당신의 친절에 깊이 감동받았습니다.
+</code></pre></div></code></pre>
+<h3 id="안도-relief" tabindex="-1" data-src-line="152">안도 (Relief) <a class="header-anchor" href="#안도-relief" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">relieved → reassured → unburdened
+(안심한)   (안심된)    (짐을 내려놓은)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m relieved to hear that.
+그 말을 들으니 안심이 되네요.
+
+That&#039;s such a relief!
+정말 다행이다! / 안심이다!
+
+I felt a huge weight lifted off my shoulders.
+어깨의 큰 짐을 내려놓은 것 같은 기분이었어요.
+</code></pre></div></code></pre>
+<h3 id="자부심-pride" tabindex="-1" data-src-line="170">자부심 (Pride) <a class="header-anchor" href="#자부심-pride" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">satisfied → proud → beaming with pride
+(만족한)   (자랑스러운)  (자랑스러움으로 빛나는)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m proud of what we&#039;ve achieved.
+우리가 이룬 것이 자랑스럽습니다.
+
+She was beaming with pride at her son&#039;s graduation.
+그녀는 아들의 졸업식에서 자랑스러움으로 빛났습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-부정-감정의-스펙트럼--슬픔" tabindex="-1" data-src-line="187">3. 부정 감정의 스펙트럼 — 슬픔 <a class="header-anchor" href="#3-부정-감정의-스펙트럼--슬픔" aria-hidden="true">#</a></h2>
+<h3 id="슬픔-스펙트럼-약--강" tabindex="-1" data-src-line="189">슬픔 스펙트럼 (약 → 강) <a class="header-anchor" href="#슬픔-스펙트럼-약--강" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a bit down → sad → unhappy → upset → heartbroken → devastated
+(약간 우울)  (슬픈) (불행한)  (속상한)  (마음이 부서진) (완전히 무너진)
+</code></pre></div></code></pre>
+<p><strong>a bit down / low</strong> — 가볍게 기분이 처진 상태.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ve been feeling a bit down lately.
+요즘 좀 기분이 처지더라고요.
+
+She seemed a little low today.
+그녀가 오늘 좀 기분이 가라앉아 보였어요.
+</code></pre></div></code></pre>
+<p><strong>sad</strong> — 일반적인 슬픔.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m sad to see you go.
+당신이 떠나는 게 슬퍼요.
+</code></pre></div></code></pre>
+<p><strong>unhappy</strong> — 불만족스럽거나 불행한 상태. 지속적인 슬픔.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was deeply unhappy in her job.
+그녀는 자신의 일에 깊이 불행해했습니다.
+</code></pre></div></code></pre>
+<p><strong>upset</strong> — 정서적으로 동요된 상태. 슬픔+불쾌함 복합.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Don&#039;t be upset — it wasn&#039;t your fault.
+속상해하지 마요 — 당신 잘못이 아니에요.
+
+I was really upset when I heard the news.
+그 소식을 들었을 때 정말 속상했어요.
+</code></pre></div></code></pre>
+<p><strong>heartbroken</strong> — 마음이 깊이 상한 상태. 사랑이나 가까운 관계의 상실.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was heartbroken after the breakup.
+그녀는 이별 후 마음이 무너졌습니다.
+
+He was heartbroken when his dog passed away.
+반려견이 세상을 떠났을 때 그는 가슴이 찢어지는 것 같았습니다.
+</code></pre></div></code></pre>
+<p><strong>devastated</strong> — 완전히 무너진 상태. 감당하기 어려운 충격.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We were devastated by the loss.
+우리는 그 손실에 완전히 무너졌습니다.
+
+She was absolutely devastated when she didn&#039;t get the role.
+그 역할을 맡지 못했을 때 그녀는 정말 망연자실했습니다.
+</code></pre></div></code></pre>
+<h3 id="슬픔-강도-비교표" tabindex="-1" data-src-line="244">슬픔 강도 비교표 <a class="header-anchor" href="#슬픔-강도-비교표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">단어</th>
+<th scope="col">강도</th>
+<th scope="col">핵심 뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a bit down</td>
+<td>★☆☆☆☆</td>
+<td>가볍게 기분 처짐</td>
+</tr>
+<tr>
+<td>sad</td>
+<td>★★☆☆☆</td>
+<td>일반적 슬픔</td>
+</tr>
+<tr>
+<td>unhappy</td>
+<td>★★☆☆☆</td>
+<td>지속적 불행감</td>
+</tr>
+<tr>
+<td>upset</td>
+<td>★★★☆☆</td>
+<td>정서적 동요</td>
+</tr>
+<tr>
+<td>heartbroken</td>
+<td>★★★★☆</td>
+<td>깊은 상실감</td>
+</tr>
+<tr>
+<td>devastated</td>
+<td>★★★★★</td>
+<td>완전한 충격·붕괴</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="4-부정-감정의-스펙트럼--분노" tabindex="-1" data-src-line="257">4. 부정 감정의 스펙트럼 — 분노 <a class="header-anchor" href="#4-부정-감정의-스펙트럼--분노" aria-hidden="true">#</a></h2>
+<h3 id="분노-스펙트럼-약--강" tabindex="-1" data-src-line="259">분노 스펙트럼 (약 → 강) <a class="header-anchor" href="#분노-스펙트럼-약--강" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">a bit annoyed → irritated → frustrated → angry → furious → livid / enraged
+(약간 짜증)    (짜증난)    (답답한)     (화난)   (격분한)   (극도로 분노한)
+</code></pre></div></code></pre>
+<p><strong>annoyed</strong> — 작은 일에 짜증이 난 상태.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was a bit annoyed by the noise.
+소음에 약간 짜증났어요.
+
+It&#039;s a bit annoying, but I&#039;ll manage.
+좀 짜증스럽긴 한데, 어떻게 될 거예요.
+</code></pre></div></code></pre>
+<p><strong>irritated</strong> — annoyed보다 약간 더 강한 짜증.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was clearly irritated by his comments.
+그녀는 그의 발언에 분명히 짜증을 냈습니다.
+</code></pre></div></code></pre>
+<p><strong>frustrated</strong> — 원하는 대로 되지 않아 답답하고 화가 난 상태.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m so frustrated — nothing is working.
+너무 답답해요 — 아무것도 안 되네요.
+
+He was frustrated with the lack of progress.
+그는 진전이 없는 것에 답답해했습니다.
+</code></pre></div></code></pre>
+<p><strong>angry</strong> — 일반적인 화남.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m not angry, I&#039;m disappointed.
+화난 게 아니라 실망한 거예요.
+
+She&#039;s angry about what happened.
+그녀는 일어난 일에 화가 났어요.
+</code></pre></div></code></pre>
+<p><strong>furious</strong> — 강렬하게 화난 상태.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He was absolutely furious.
+그는 정말 화가 났습니다.
+
+I was furious when I found out.
+알게 됐을 때 나는 분노가 치밀었습니다.
+</code></pre></div></code></pre>
+<p><strong>livid / enraged</strong> — 극도의 분노. 통제가 어려울 정도.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was absolutely livid.
+그녀는 완전히 노발대발했습니다.
+
+The crowd became enraged.
+군중은 격분했습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-부정-감정의-스펙트럼--두려움불안" tabindex="-1" data-src-line="319">5. 부정 감정의 스펙트럼 — 두려움·불안 <a class="header-anchor" href="#5-부정-감정의-스펙트럼--두려움불안" aria-hidden="true">#</a></h2>
+<h3 id="두려움-스펙트럼-약--강" tabindex="-1" data-src-line="321">두려움 스펙트럼 (약 → 강) <a class="header-anchor" href="#두려움-스펙트럼-약--강" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">uneasy → nervous → worried → anxious → scared → terrified → petrified
+(불편한) (긴장된)  (걱정되는) (불안한)   (무서운)  (겁에 질린) (완전 굳어버린)
+</code></pre></div></code></pre>
+<p><strong>uneasy</strong> — 뭔가 찜찜하고 불편한 느낌.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I have an uneasy feeling about this.
+이것에 대해 왠지 불편한 느낌이 들어요.
+</code></pre></div></code></pre>
+<p><strong>nervous</strong> — 앞으로의 일에 대한 긴장감.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m nervous about the interview.
+인터뷰가 긴장돼요.
+
+She always gets nervous before a performance.
+그녀는 공연 전에 항상 긴장합니다.
+</code></pre></div></code></pre>
+<p><strong>worried</strong> — 걱정하는 상태. 지속적인 불안.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m worried about you.
+당신이 걱정돼요.
+
+Don&#039;t worry — everything will be fine.
+걱정하지 마요 — 다 잘 될 거예요.
+</code></pre></div></code></pre>
+<p><strong>anxious</strong> — 걱정+긴장이 복합된 상태. 심리적으로 불안한.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She felt anxious about moving to a new city.
+새로운 도시로 이사하는 것에 불안함을 느꼈습니다.
+
+I&#039;ve been feeling really anxious lately.
+요즘 많이 불안하더라고요.
+</code></pre></div></code></pre>
+<p><strong>scared</strong> — 무섭다. 직접적인 두려움.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was scared of failing.
+실패하는 게 무서웠어요.
+
+Don&#039;t be scared — I&#039;m right here.
+무서워하지 마요 — 내가 바로 여기 있어요.
+</code></pre></div></code></pre>
+<p><strong>terrified</strong> — 매우 강한 공포.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was terrified of spiders.
+그녀는 거미를 너무나 무서워했습니다.
+
+I&#039;m terrified of public speaking.
+대중 앞에서 말하는 게 정말 무서워요.
+</code></pre></div></code></pre>
+<p><strong>petrified</strong> — 너무 무서워서 몸이 굳어버린 상태.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was absolutely petrified.
+너무 무서워서 몸이 완전히 굳었어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-부정-감정의-스펙트럼--놀라움충격" tabindex="-1" data-src-line="387">6. 부정 감정의 스펙트럼 — 놀라움·충격 <a class="header-anchor" href="#6-부정-감정의-스펙트럼--놀라움충격" aria-hidden="true">#</a></h2>
+<h3 id="놀라움-스펙트럼-긍정부정-공통" tabindex="-1" data-src-line="389">놀라움 스펙트럼 (긍정·부정 공통) <a class="header-anchor" href="#놀라움-스펙트럼-긍정부정-공통" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">surprised → shocked → stunned → astounded → flabbergasted
+(놀란)      (충격받은)  (경악한)   (깜짝 놀란)   (너무 놀라 말이 안 나오는)
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was surprised to see you here.
+여기서 당신을 보게 되다니 놀랐어요.
+
+I&#039;m shocked — I can&#039;t believe it.
+충격이에요 — 믿을 수가 없어요.
+
+We were stunned by the announcement.
+우리는 그 발표에 경악했습니다.
+
+I was absolutely astounded by her performance.
+그녀의 연기에 완전히 감탄했습니다.
+
+I was completely flabbergasted.
+너무 놀라서 말이 안 나왔어요.
+(비격식체, 유머스러운 뉘앙스 가능)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-과장-표현-vs-절제-표현" tabindex="-1" data-src-line="416">7. 과장 표현 vs 절제 표현 <a class="header-anchor" href="#7-과장-표현-vs-절제-표현" aria-hidden="true">#</a></h2>
+<p>영어에서는 감정을 <strong>과장</strong>하거나 <strong>절제</strong>하는 방식이 문화와 상황에 따라 크게 다릅니다.</p>
+<h3 id="과장-표현-intensifiers" tabindex="-1" data-src-line="420">과장 표현 (Intensifiers) <a class="header-anchor" href="#과장-표현-intensifiers" aria-hidden="true">#</a></h3>
+<p>감정 앞에 강조 부사를 붙여 강도를 높입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">absolutely / totally / completely / utterly / incredibly / ridiculously
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m absolutely thrilled!
+I&#039;m completely devastated.
+That&#039;s utterly ridiculous!
+I was totally shocked.
+She was incredibly excited.
+That was ridiculously funny.
+</code></pre></div></code></pre>
+<p><strong>감탄사 표현:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m over the moon! (너무 기뻐서 달 위에 있는 것 같아요!)
+I&#039;m on cloud nine! (너무 행복해요!)
+I&#039;m losing my mind with excitement!
+I could cry, I&#039;m so happy!
+This is literally the best day of my life!
+</code></pre></div></code></pre>
+<h3 id="절제-표현-understatement--영국식에-특히-많음" tabindex="-1" data-src-line="446">절제 표현 (Understatement — 영국식에 특히 많음) <a class="header-anchor" href="#절제-표현-understatement--영국식에-특히-많음" aria-hidden="true">#</a></h3>
+<p>실제 감정보다 훨씬 약하게 표현하는 방식. 특히 영국 영어에서 흔합니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m not exactly thrilled. (별로 안 기뻐요 — 실제로는 꽤 화가 남)
+That&#039;s not ideal. (별로 안 좋네요 — 실제로는 매우 실망함)
+I&#039;m a bit concerned. (좀 걱정돼요 — 실제로는 매우 걱정함)
+It&#039;s not my favorite. (제 취향은 아니에요 — 실제로는 싫어함)
+I was slightly surprised. (약간 놀랐어요 — 실제로는 충격받음)
+</code></pre></div></code></pre>
+<p><strong>절제 표현 예문:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">British colleague: &quot;The presentation was... interesting.&quot;
+(실제 의미: 별로였어요.)
+
+British friend: &quot;I&#039;m not entirely sure that was the best idea.&quot;
+(실제 의미: 그건 정말 나쁜 생각이었어요.)
+
+Boss: &quot;That&#039;s a little disappointing.&quot;
+(실제 의미: 매우 실망스럽습니다.)
+</code></pre></div></code></pre>
+<h3 id="언제-과장하고-언제-절제할까" tabindex="-1" data-src-line="470">언제 과장하고 언제 절제할까? <a class="header-anchor" href="#언제-과장하고-언제-절제할까" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【과장 표현이 자연스러운 상황】
+- 친한 친구들과의 대화
+- SNS·메시지
+- 좋은 소식을 공유할 때
+- 미국 영어 일상 대화
+
+【절제 표현이 자연스러운 상황】
+- 영국식 영어 대화
+- 격식체 비즈니스 상황
+- 불만을 점잖게 전달할 때
+- 대립을 피하고 싶을 때
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-감정을-자연스럽게-표현하는-문장-패턴" tabindex="-1" data-src-line="488">8. 감정을 자연스럽게 표현하는 문장 패턴 <a class="header-anchor" href="#8-감정을-자연스럽게-표현하는-문장-패턴" aria-hidden="true">#</a></h2>
+<h3 id="감정--이유-연결하기" tabindex="-1" data-src-line="490">감정 + 이유 연결하기 <a class="header-anchor" href="#감정--이유-연결하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I feel + [형용사] + because/when/about...
+I&#039;m + [형용사] + that절...
+It makes me + [형용사] + when...
+I can&#039;t help feeling + [형용사] + about...
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I feel frustrated because nothing is progressing.
+아무것도 진전이 없어서 답답해요.
+
+I&#039;m so glad that you called.
+전화해줘서 정말 다행이에요.
+
+It makes me angry when people aren&#039;t honest.
+사람들이 솔직하지 않을 때 화가 나요.
+
+I can&#039;t help feeling a bit anxious about the presentation.
+발표에 대해 약간 불안한 기분이 드는 걸 어쩔 수가 없네요.
+</code></pre></div></code></pre>
+<h3 id="상대방-감정에-공감하기" tabindex="-1" data-src-line="513">상대방 감정에 공감하기 <a class="header-anchor" href="#상대방-감정에-공감하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That must be + [상대방의 감정]...
+I can imagine how + [형용사] + you must feel.
+I understand why you&#039;re feeling + [형용사].
+It&#039;s completely understandable that you feel...
+I&#039;d feel the same way.
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That must be really frustrating.
+정말 답답하시겠어요.
+
+I can imagine how scared you must feel.
+얼마나 무서우실지 상상이 돼요.
+
+It&#039;s completely understandable that you&#039;re upset.
+화가 나시는 건 완전히 이해해요.
+
+I&#039;d feel exactly the same way in your position.
+제가 그 자리라도 똑같이 느꼈을 거예요.
+</code></pre></div></code></pre>
+<h3 id="감정의-변화-표현하기" tabindex="-1" data-src-line="537">감정의 변화 표현하기 <a class="header-anchor" href="#감정의-변화-표현하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I went from [감정A] to [감정B].
+At first I was [감정A], but then I felt [감정B].
+The more I thought about it, the more [형용사] I became.
+I started off [형용사], but ended up [형용사].
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I went from nervous to absolutely thrilled once I got on stage.
+무대에 올라가니 긴장에서 완전한 흥분으로 바뀌었어요.
+
+At first I was upset, but then I felt relieved when I understood his reasons.
+처음엔 속상했지만 그의 이유를 이해하고 나서 안도가 됐어요.
+
+The more I thought about it, the more excited I became.
+생각할수록 점점 더 설레더라고요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-복합-감정-표현--두-감정이-동시에" tabindex="-1" data-src-line="559">9. 복합 감정 표현 — 두 감정이 동시에 <a class="header-anchor" href="#9-복합-감정-표현--두-감정이-동시에" aria-hidden="true">#</a></h2>
+<p>실제 감정은 하나가 아닌 경우가 많습니다. 복합 감정을 자연스럽게 표현하는 방법입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I have mixed feelings about it.
+그것에 대해 복잡한 감정이 들어요.
+
+I&#039;m excited but also a little nervous.
+설레기도 하고 좀 긴장되기도 해요.
+
+It&#039;s bittersweet.
+기쁘면서도 슬픈 감정이에요. (달콤 쌉싸름한)
+
+I feel torn between excitement and fear.
+설렘과 두려움 사이에서 갈등이 돼요.
+
+I&#039;m relieved, but also a bit sad at the same time.
+안도되면서도 동시에 조금 슬프기도 해요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-감정-관련-유용한-표현들" tabindex="-1" data-src-line="582">10. 감정 관련 유용한 표현들 <a class="header-anchor" href="#10-감정-관련-유용한-표현들" aria-hidden="true">#</a></h2>
+<h3 id="감정이-너무-강할-때" tabindex="-1" data-src-line="584">감정이 너무 강할 때 <a class="header-anchor" href="#감정이-너무-강할-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m at a loss for words. (말이 안 나와요)
+I don&#039;t even know how to feel. (어떻게 느껴야 할지 모르겠어요)
+I&#039;m speechless. (말문이 막혔어요)
+I&#039;m overwhelmed. (압도돼요)
+I&#039;m in shock. (충격 상태예요)
+I can&#039;t process this right now. (지금 당장 받아들이기 힘들어요)
+</code></pre></div></code></pre>
+<h3 id="감정을-숨기거나-조절할-때" tabindex="-1" data-src-line="595">감정을 숨기거나 조절할 때 <a class="header-anchor" href="#감정을-숨기거나-조절할-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m trying to stay calm. (침착함을 유지하려고 해요)
+I&#039;m holding it together. (가까스로 버티고 있어요)
+I don&#039;t want to get too excited. (너무 흥분하고 싶지 않아요)
+I&#039;m trying not to let it get to me. (마음에 담아두지 않으려고 해요)
+I&#039;m keeping my feelings in check. (감정을 절제하고 있어요)
+</code></pre></div></code></pre>
+<h3 id="감정이-지나간-후" tabindex="-1" data-src-line="605">감정이 지나간 후 <a class="header-anchor" href="#감정이-지나간-후" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ve come to terms with it. (받아들이게 됐어요)
+I&#039;ve made peace with it. (마음을 정리했어요)
+I&#039;m over it now. (이제 극복했어요)
+I&#039;ve moved on. (이미 앞으로 나아갔어요)
+Looking back, I&#039;m glad it happened. (돌이켜 보면 잘 됐다 싶어요)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="11-실수하면-어색해지는-top-10" tabindex="-1" data-src-line="617">11. 실수하면 어색해지는 TOP 10 <a class="header-anchor" href="#11-실수하면-어색해지는-top-10" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ I&#039;m so happy. (강한 감정에 happy는 너무 약함)
+✅ I&#039;m absolutely thrilled / ecstatic / over the moon!
+
+❌ I&#039;m angry about this situation.
+✅ I&#039;m frustrated with this situation.
+   (상황에 막혀 답답할 땐 frustrated가 더 정확)
+
+❌ I&#039;m scared. (일상적 걱정에 scared는 너무 강함)
+✅ I&#039;m a bit nervous / worried about it.
+
+❌ I&#039;m very very happy.
+✅ I&#039;m absolutely delighted. (very를 반복하지 말 것)
+
+❌ I feel boring today.
+✅ I feel bored today.
+   (boring = 지루한 것/사람, bored = 지루함을 느끼는 사람)
+
+❌ I&#039;m so exciting about the trip!
+✅ I&#039;m so excited about the trip!
+   (exciting = 흥미로운 것, excited = 흥분한 사람)
+
+❌ I&#039;m very devastated.
+✅ I&#039;m absolutely devastated.
+   (강한 감정 단어에는 very 대신 absolutely/utterly)
+
+❌ She is frighten.
+✅ She is frightened.
+
+❌ I&#039;m disappointing with the result.
+✅ I&#039;m disappointed with the result.
+
+❌ He looked frighten when he heard the noise.
+✅ He looked frightened when he heard the noise.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="12--ing-vs--ed-형용사--자주-하는-실수" tabindex="-1" data-src-line="657">12. -ing vs -ed 형용사 — 자주 하는 실수 <a class="header-anchor" href="#12--ing-vs--ed-형용사--자주-하는-실수" aria-hidden="true">#</a></h2>
+<p>영어 감정 형용사에서 가장 많이 하는 실수입니다.</p>
+<p><strong>-ing</strong> = 그 감정을 <strong>유발하는</strong> 것/사람<br>
+<strong>-ed</strong> = 그 감정을 <strong>느끼는</strong> 사람</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">boring vs bored
+exciting vs excited
+interesting vs interested
+surprising vs surprised
+shocking vs shocked
+terrifying vs terrified
+exhausting vs exhausted
+frustrating vs frustrated
+overwhelming vs overwhelmed
+confusing vs confused
+</code></pre></div></code></pre>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The movie was boring. (영화가 지루했다 — 지루함을 유발)
+I was bored during the movie. (나는 지루했다 — 지루함을 느낌)
+
+The news was shocking. (뉴스가 충격적이었다)
+I was shocked by the news. (나는 충격을 받았다)
+
+It was an exhausting day. (힘든 하루였다)
+I&#039;m exhausted. (나는 지쳤다)
+
+The instructions were confusing. (설명이 헷갈렸다)
+I was confused by the instructions. (나는 헷갈렸다)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="13-실전-회화--감정을-섬세하게-전달하기" tabindex="-1" data-src-line="693">13. 실전 회화 — 감정을 섬세하게 전달하기 <a class="header-anchor" href="#13-실전-회화--감정을-섬세하게-전달하기" aria-hidden="true">#</a></h2>
+<h3 id="상황-1-좋은-소식을-전하며" tabindex="-1" data-src-line="695">상황 1: 좋은 소식을 전하며 <a class="header-anchor" href="#상황-1-좋은-소식을-전하며" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Mia:  I just found out I got into the graduate program!
+      나 대학원 프로그램에 합격했어!
+
+Jake: Oh my god — that&#039;s incredible! You must be ecstatic!
+      맙소사 — 대단하다! 완전 기쁘겠다!
+
+Mia:  Honestly? I&#039;m a bit overwhelmed.
+      I went from terrified I wouldn&#039;t get in,
+      to absolutely thrilled — I can&#039;t quite process it yet.
+      솔직히? 좀 압도된 기분이야.
+      못 들어갈까봐 너무 무섭다가,
+      완전히 기쁨으로 바뀌었거든 — 아직 실감이 안 나.
+
+Jake: That&#039;s so understandable. 
+      It&#039;s a huge deal. I&#039;m so proud of you.
+      충분히 이해돼. 엄청 큰 일이잖아.
+      정말 자랑스러워.
+
+Mia:  Thank you. I&#039;m still a bit nervous about
+      what comes next, but mostly just... delighted.
+      고마워. 다음에 뭐가 오는지 아직 좀 긴장되긴 한데,
+      그래도 주로는... 정말 기뻐.
+</code></pre></div></code></pre>
+<h3 id="상황-2-어려운-상황-공감하기" tabindex="-1" data-src-line="722">상황 2: 어려운 상황 공감하기 <a class="header-anchor" href="#상황-2-어려운-상황-공감하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Sara: I&#039;ve been feeling really down lately.
+      Work is frustrating, and I&#039;m just... exhausted.
+      요즘 많이 기분이 처져. 일이 답답하고,
+      그냥... 지쳤어.
+
+Tom:  I&#039;m sorry to hear that.
+      That must be really draining.
+      What&#039;s been frustrating you most?
+      그 말 듣으니 안타깝다.
+      정말 많이 소진되겠다. 뭐가 제일 답답해?
+
+Sara: Honestly, I think I&#039;m just overwhelmed.
+      There&#039;s too much going on and I feel like
+      I&#039;m not making any progress.
+      솔직히, 그냥 너무 압도된 것 같아.
+      일이 너무 많은데 아무 진전이 없는 것 같고.
+
+Tom:  That&#039;s completely understandable.
+      I&#039;ve felt that way too, and it&#039;s genuinely exhausting.
+      Have you been able to take any breaks?
+      그 기분 완전히 이해해.
+      나도 그런 적 있는데, 정말 지치는 거야.
+      좀 쉬었어?
+
+Sara: Not really. I&#039;m worried that if I stop,
+      things will fall apart.
+      별로. 멈추면 다 무너질까봐 걱정돼.
+
+Tom:  I hear you. But honestly, you&#039;d be surprised —
+      sometimes stepping back is what helps you move forward.
+      충분히 이해해. 근데 솔직히, 놀랄 거야 —
+      가끔 한 발 물러서는 게 앞으로 나아가는 데 도움이 되더라고.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="761">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>감정 표현의 핵심 세 가지를 기억하세요.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 강도를 선택하세요:
+  기쁨: content → pleased → glad → happy → delighted → thrilled → ecstatic
+  슬픔: down → sad → upset → heartbroken → devastated
+  분노: annoyed → irritated → frustrated → angry → furious → livid
+
+② -ing와 -ed를 구분하세요:
+  -ing = 감정을 유발하는 것 (The news was shocking.)
+  -ed  = 감정을 느끼는 사람 (I was shocked.)
+
+③ 강도에 맞는 강조어를 쓰세요:
+  약한 감정: a bit, slightly, rather, somewhat
+  강한 감정: absolutely, completely, utterly, totally
+  very는 되도록 피하고 더 생생한 단어를 선택하세요.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>동의와 반론의 뉘앙스</strong> — &quot;agree&quot;부터 &quot;strongly disagree&quot;까지,<br>
+상대방을 존중하면서도 내 의견을 명확히 전달하는 기술을 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 1 — 뉘앙스와 어감]</strong></p>
+<ul>
+<li>1강: say · tell · speak · talk · mention · discuss</li>
+<li><strong>2강</strong>: 감정 표현의 온도 — happy부터 ecstatic까지 ← 현재 글</li>
+<li>3강: 동의와 반론의 뉘앙스</li>
+<li>4강: 확실성의 정도 — maybe부터 absolutely까지</li>
+<li>5강: 요청의 온도 — 반말부터 초격식까지</li>
+</ul>
+<p><strong>[Part 2 — 슬랭과 구어체]</strong></p>
+<ul>
+<li>6강 ~ 10강</li>
+</ul>
+<p><strong>[Part 3 — 비즈니스 영어]</strong></p>
+<ul>
+<li>11강 ~ 15강</li>
+</ul>
+<p><strong>[Part 4 — 일상 심화]</strong></p>
+<ul>
+<li>16강 ~ 20강</li>
+</ul>
+<p><strong>[Part 5 — 미디어·문화]</strong></p>
+<ul>
+<li>21강 ~ 25강</li>
+</ul>
+</blockquote>
+22:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L27",null,{"content":"$28"}]}]}]
+23:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-01-say-tell-speak-talk","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-03-agree-disagree","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 3강: 동의와 반론의 뉘앙스 — agree부터 strongly disagree까지"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-01-say-tell-speak-talk",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-01-say-tell-speak-talk","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 1강: 비슷한 동사, 다른 뉘앙스 — say · tell · speak · talk · mention · discuss"}]}],["$","li","english-advanced/english-advanced-lesson-08-phrasal-verbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]}],["$","li","english-advanced/english-advanced-lesson-07-british-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]}]]}]]}]]}]
+24:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+25:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+29:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"happy 하나로 모든 기쁨을 표현하고 있다면? 감정의 강도에 따라 전혀 다른 단어를 쓰는 영어 감정 표현의 세계를 완전히 정복합니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-02-emotions/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic"}],["$","meta","11",{"property":"og:description","content":"happy 하나로 모든 기쁨을 표현하고 있다면? 감정의 강도에 따라 전혀 다른 단어를 쓰는 영어 감정 표현의 세계를 완전히 정복합니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-02-emotions/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-06T05:00:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-06T05:00:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"advanced"}],["$","meta","23",{"property":"article:tag","content":"emotions"}],["$","meta","24",{"property":"article:tag","content":"vocabulary"}],["$","meta","25",{"property":"article:tag","content":"nuance"}],["$","meta","26",{"property":"article:tag","content":"intermediate"}],["$","meta","27",{"property":"article:tag","content":"language-learning"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"중급 영어 2강: 감정 표현의 온도 — happy · pleased · delighted · thrilled · ecstatic"}],["$","meta","30",{"name":"twitter:description","content":"happy 하나로 모든 기쁨을 표현하고 있다면? 감정의 강도에 따라 전혀 다른 단어를 쓰는 영어 감정 표현의 세계를 완전히 정복합니다."}],["$","meta","31",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","32",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L29","33",{}]]
+16:null

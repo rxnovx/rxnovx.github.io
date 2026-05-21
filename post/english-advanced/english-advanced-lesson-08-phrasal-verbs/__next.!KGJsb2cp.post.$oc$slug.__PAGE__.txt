@@ -1,0 +1,735 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+a:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+b:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+e:I[484,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-08-phrasal-verbs\"},\"headline\":\"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들\",\"description\":\"pull off, follow up, fall for, sort out... 직장·관계·문제 해결 상황별로 원어민이 매일 쓰는 구동사 60개를 완전 정복합니다.\",\"datePublished\":\"2026-05-06T11:00:00.000Z\",\"dateModified\":\"2026-05-06T11:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-08-phrasal-verbs\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"phrasal-verbs\",\"vocabulary\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들","slugPath":"english-advanced/english-advanced-lesson-08-phrasal-verbs","headings":[{"id":"중급-영어-8강-구동사-심화-60--원어민이-매일-쓰는-것들","text":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-직장비즈니스-구동사-20","text":"1. 직장·비즈니스 구동사 20","level":2},{"id":"pull-off--해내다-성공적으로-완수하다","text":"pull off — 해내다, 성공적으로 완수하다","level":3},{"id":"follow-up--후속-조치를-취하다-추가로-확인하다","text":"follow up — 후속 조치를 취하다, 추가로 확인하다","level":3},{"id":"reach-out--연락하다-접촉하다","text":"reach out — 연락하다, 접촉하다","level":3},{"id":"sign-off--승인하다-마무리하다-퇴근하다","text":"sign off — 승인하다, 마무리하다, 퇴근하다","level":3},{"id":"hand-in--turn-in--제출하다","text":"hand in / turn in — 제출하다","level":3},{"id":"take-on--맡다-담당하다-고용하다","text":"take on — 맡다, 담당하다; 고용하다","level":3},{"id":"come-up-with--생각해내다-아이디어를-내다","text":"come up with — 생각해내다, 아이디어를 내다","level":3},{"id":"put-forward--제안하다-제출하다","text":"put forward — 제안하다, 제출하다","level":3},{"id":"back-up--뒷받침하다-백업하다","text":"back up — 뒷받침하다; 백업하다","level":3},{"id":"draw-up--작성하다-초안을-만들다","text":"draw up — 작성하다, 초안을 만들다","level":3},{"id":"wrap-up--마무리하다-끝내다","text":"wrap up — 마무리하다, 끝내다","level":3},{"id":"touch-base--간단히-연락하다-확인하다","text":"touch base — 간단히 연락하다, 확인하다","level":3},{"id":"phase-out--단계적으로-없애다","text":"phase out — 단계적으로 없애다","level":3},{"id":"roll-out--출시하다-단계적으로-도입하다","text":"roll out — 출시하다, 단계적으로 도입하다","level":3},{"id":"take-over--인수하다-대신-맡다","text":"take over — 인수하다; 대신 맡다","level":3},{"id":"step-up--한-단계-올라가다-더-많이-하다","text":"step up — 한 단계 올라가다; 더 많이 하다","level":3},{"id":"cut-back--줄이다-절감하다","text":"cut back — 줄이다, 절감하다","level":3},{"id":"get-across--전달하다-이해시키다","text":"get across — 전달하다, 이해시키다","level":3},{"id":"run-by--검토를-요청하다-알려주다","text":"run by — 검토를 요청하다, 알려주다","level":3},{"id":"flag-up--주의를-환기시키다-지적하다","text":"flag up — 주의를 환기시키다, 지적하다","level":3},{"id":"2-관계감정-구동사-20","text":"2. 관계·감정 구동사 20","level":2},{"id":"fall-for--사랑에-빠지다-속다","text":"fall for — 사랑에 빠지다; 속다","level":3},{"id":"grow-on--점점-마음에-들어지다","text":"grow on — 점점 마음에 들어지다","level":3},{"id":"drift-apart--사이가-멀어지다","text":"drift apart — 사이가 멀어지다","level":3},{"id":"open-up--마음을-열다-속마음을-털어놓다","text":"open up — 마음을 열다, 속마음을 털어놓다","level":3},{"id":"fall-out--사이가-나빠지다-다투다","text":"fall out — 사이가 나빠지다, 다투다","level":3},{"id":"make-up--화해하다-만들어내다","text":"make up — 화해하다; 만들어내다","level":3},{"id":"put-up-with--참다-견디다--tolerate","text":"put up with — 참다, 견디다 (= tolerate)","level":3},{"id":"look-up-to--존경하다","text":"look up to — 존경하다","level":3},{"id":"look-down-on--무시하다-깔보다","text":"look down on — 무시하다, 깔보다","level":3},{"id":"bring-out--끌어내다-성격의-일면을-드러내다","text":"bring out — 끌어내다; (성격의 일면을) 드러내다","level":3},{"id":"check-in--안부를-묻다-체크인하다","text":"check in — 안부를 묻다; 체크인하다","level":3},{"id":"let-down--실망시키다","text":"let down — 실망시키다","level":3},{"id":"stand-by--곁에-있어주다-지지하다","text":"stand by — 곁에 있어주다; 지지하다","level":3},{"id":"pull-away--멀어지다-물러나다","text":"pull away — 멀어지다, 물러나다","level":3},{"id":"move-on--앞으로-나아가다-극복하다","text":"move on — 앞으로 나아가다, 극복하다","level":3},{"id":"warm-up-to--서서히-친해지다-마음을-열다","text":"warm up to — 서서히 친해지다, 마음을 열다","level":3},{"id":"get-over--극복하다-회복하다","text":"get over — 극복하다, 회복하다","level":3},{"id":"count-on--믿다-의지하다","text":"count on — 믿다, 의지하다","level":3},{"id":"reach-out--손-내밀다-연락하다-비즈니스뿐-아니라-감정적으로도-쓰임","text":"reach out — 손 내밀다, 연락하다 (비즈니스뿐 아니라 감정적으로도 쓰임)","level":3},{"id":"grow-apart--점점-멀어지다-drift-apart와-유사","text":"grow apart — 점점 멀어지다 (drift apart와 유사)","level":3},{"id":"3-문제-해결-구동사-20","text":"3. 문제 해결 구동사 20","level":2},{"id":"sort-out--해결하다-정리하다-영국식에서-매우-자주-쓰임","text":"sort out — 해결하다, 정리하다 (영국식에서 매우 자주 쓰임)","level":3},{"id":"deal-with--처리하다-다루다","text":"deal with — 처리하다, 다루다","level":3},{"id":"work-around--우회하다-피해서-해결하다","text":"work around — 우회하다, 피해서 해결하다","level":3},{"id":"figure-out--알아내다-해결하다","text":"figure out — 알아내다, 해결하다","level":3},{"id":"iron-out--문제주름을-해결하다-매끄럽게-하다","text":"iron out — (문제·주름을) 해결하다, 매끄럽게 하다","level":3},{"id":"look-into--조사하다-알아보다","text":"look into — 조사하다, 알아보다","level":3},{"id":"narrow-down--좁히다-선택지를-줄이다","text":"narrow down — 좁히다, 선택지를 줄이다","level":3},{"id":"pin-down--특정하다-정확히-짚어내다","text":"pin down — 특정하다, 정확히 짚어내다","level":3},{"id":"get-to-the-bottom-of--진상을-규명하다","text":"get to the bottom of — 진상을 규명하다","level":3},{"id":"root-out--뿌리-뽑다-완전히-제거하다","text":"root out — 뿌리 뽑다, 완전히 제거하다","level":3},{"id":"patch-up--임시방편으로-고치다-화해하다","text":"patch up — 임시방편으로 고치다; 화해하다","level":3},{"id":"get-around--우회하다-이동하다","text":"get around — 우회하다; 이동하다","level":3},{"id":"fall-back-on--의지하다-비상-수단으로-쓰다","text":"fall back on — 의지하다, 비상 수단으로 쓰다","level":3},{"id":"carry-out--수행하다-실행하다","text":"carry out — 수행하다, 실행하다","level":3},{"id":"set-up--설치하다-마련하다-설정하다","text":"set up — 설치하다; 마련하다; 설정하다","level":3},{"id":"break-down--고장-나다-무너지다-분석하다","text":"break down — 고장 나다; 무너지다; 분석하다","level":3},{"id":"run-out-of--바닥나다-다-쓰다","text":"run out of — 바닥나다, 다 쓰다","level":3},{"id":"come-across--우연히-발견하다-인상을-주다","text":"come across — 우연히 발견하다; 인상을 주다","level":3},{"id":"take-apart--분해하다-철저히-분석하다","text":"take apart — 분해하다; 철저히 분석하다","level":3},{"id":"build-on--기반으로-삼다-발전시키다","text":"build on — 기반으로 삼다, 발전시키다","level":3},{"id":"4-같은-구동사-다른-의미","text":"4. 같은 구동사, 다른 의미","level":2},{"id":"take-off","text":"take off","level":3},{"id":"come-up","text":"come up","level":3},{"id":"put-out","text":"put out","level":3},{"id":"give-up","text":"give up","level":3},{"id":"turn-up","text":"turn up","level":3},{"id":"5-구동사-자연스럽게-익히는-법","text":"5. 구동사 자연스럽게 익히는 법","level":2},{"id":"6-실전-회화--구동사만으로-대화하기","text":"6. 실전 회화 — 구동사만으로 대화하기","level":2},{"id":"구동사-60-빠른-참조표","text":"구동사 60 빠른 참조표","level":2},{"id":"직장비즈니스","text":"직장·비즈니스","level":3},{"id":"관계감정","text":"관계·감정","level":3},{"id":"문제-해결","text":"문제 해결","level":3},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5","$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-08-phrasal-verbs"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"pull off, follow up, fall for, sort out... 직장·관계·문제 해결 상황별로 원어민이 매일 쓰는 구동사 60개를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T11:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T11:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$La",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","phrasal-verbs",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","phrasal-verbs"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]]}]
+c:Tf13d,<h1 id="중급-영어-8강-구동사-심화-60--원어민이-매일-쓰는-것들" tabindex="-1" data-src-line="1">중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들 <a class="header-anchor" href="#중급-영어-8강-구동사-심화-60--원어민이-매일-쓰는-것들" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-8강-구동사-심화-60--원어민이-매일-쓰는-것들">중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-직장비즈니스-구동사-20">1. 직장·비즈니스 구동사 20 </a><ul><li><a href="#pull-off--해내다-성공적으로-완수하다">pull off — 해내다, 성공적으로 완수하다 </a></li><li><a href="#follow-up--후속-조치를-취하다-추가로-확인하다">follow up — 후속 조치를 취하다, 추가로 확인하다 </a></li><li><a href="#reach-out--연락하다-접촉하다">reach out — 연락하다, 접촉하다 </a></li><li><a href="#sign-off--승인하다-마무리하다-퇴근하다">sign off — 승인하다, 마무리하다, 퇴근하다 </a></li><li><a href="#hand-in--turn-in--제출하다">hand in / turn in — 제출하다 </a></li><li><a href="#take-on--맡다-담당하다-고용하다">take on — 맡다, 담당하다; 고용하다 </a></li><li><a href="#come-up-with--생각해내다-아이디어를-내다">come up with — 생각해내다, 아이디어를 내다 </a></li><li><a href="#put-forward--제안하다-제출하다">put forward — 제안하다, 제출하다 </a></li><li><a href="#back-up--뒷받침하다-백업하다">back up — 뒷받침하다; 백업하다 </a></li><li><a href="#draw-up--작성하다-초안을-만들다">draw up — 작성하다, 초안을 만들다 </a></li><li><a href="#wrap-up--마무리하다-끝내다">wrap up — 마무리하다, 끝내다 </a></li><li><a href="#touch-base--간단히-연락하다-확인하다">touch base — 간단히 연락하다, 확인하다 </a></li><li><a href="#phase-out--단계적으로-없애다">phase out — 단계적으로 없애다 </a></li><li><a href="#roll-out--출시하다-단계적으로-도입하다">roll out — 출시하다, 단계적으로 도입하다 </a></li><li><a href="#take-over--인수하다-대신-맡다">take over — 인수하다; 대신 맡다 </a></li><li><a href="#step-up--한-단계-올라가다-더-많이-하다">step up — 한 단계 올라가다; 더 많이 하다 </a></li><li><a href="#cut-back--줄이다-절감하다">cut back — 줄이다, 절감하다 </a></li><li><a href="#get-across--전달하다-이해시키다">get across — 전달하다, 이해시키다 </a></li><li><a href="#run-by--검토를-요청하다-알려주다">run by — 검토를 요청하다, 알려주다 </a></li><li><a href="#flag-up--주의를-환기시키다-지적하다">flag up — 주의를 환기시키다, 지적하다 </a></li></ul></li><li><a href="#2-관계감정-구동사-20">2. 관계·감정 구동사 20 </a><ul><li><a href="#fall-for--사랑에-빠지다-속다">fall for — 사랑에 빠지다; 속다 </a></li><li><a href="#grow-on--점점-마음에-들어지다">grow on — 점점 마음에 들어지다 </a></li><li><a href="#drift-apart--사이가-멀어지다">drift apart — 사이가 멀어지다 </a></li><li><a href="#open-up--마음을-열다-속마음을-털어놓다">open up — 마음을 열다, 속마음을 털어놓다 </a></li><li><a href="#fall-out--사이가-나빠지다-다투다">fall out — 사이가 나빠지다, 다투다 </a></li><li><a href="#make-up--화해하다-만들어내다">make up — 화해하다; 만들어내다 </a></li><li><a href="#put-up-with--참다-견디다--tolerate">put up with — 참다, 견디다 (= tolerate) </a></li><li><a href="#look-up-to--존경하다">look up to — 존경하다 </a></li><li><a href="#look-down-on--무시하다-깔보다">look down on — 무시하다, 깔보다 </a></li><li><a href="#bring-out--끌어내다-성격의-일면을-드러내다">bring out — 끌어내다; (성격의 일면을) 드러내다 </a></li><li><a href="#check-in--안부를-묻다-체크인하다">check in — 안부를 묻다; 체크인하다 </a></li><li><a href="#let-down--실망시키다">let down — 실망시키다 </a></li><li><a href="#stand-by--곁에-있어주다-지지하다">stand by — 곁에 있어주다; 지지하다 </a></li><li><a href="#pull-away--멀어지다-물러나다">pull away — 멀어지다, 물러나다 </a></li><li><a href="#move-on--앞으로-나아가다-극복하다">move on — 앞으로 나아가다, 극복하다 </a></li><li><a href="#warm-up-to--서서히-친해지다-마음을-열다">warm up to — 서서히 친해지다, 마음을 열다 </a></li><li><a href="#get-over--극복하다-회복하다">get over — 극복하다, 회복하다 </a></li><li><a href="#count-on--믿다-의지하다">count on — 믿다, 의지하다 </a></li><li><a href="#reach-out--손-내밀다-연락하다-비즈니스뿐-아니라-감정적으로도-쓰임">reach out — 손 내밀다, 연락하다 (비즈니스뿐 아니라 감정적으로도 쓰임) </a></li><li><a href="#grow-apart--점점-멀어지다-drift-apart와-유사">grow apart — 점점 멀어지다 (drift apart와 유사) </a></li></ul></li><li><a href="#3-문제-해결-구동사-20">3. 문제 해결 구동사 20 </a><ul><li><a href="#sort-out--해결하다-정리하다-영국식에서-매우-자주-쓰임">sort out — 해결하다, 정리하다 (영국식에서 매우 자주 쓰임) </a></li><li><a href="#deal-with--처리하다-다루다">deal with — 처리하다, 다루다 </a></li><li><a href="#work-around--우회하다-피해서-해결하다">work around — 우회하다, 피해서 해결하다 </a></li><li><a href="#figure-out--알아내다-해결하다">figure out — 알아내다, 해결하다 </a></li><li><a href="#iron-out--문제주름을-해결하다-매끄럽게-하다">iron out — (문제·주름을) 해결하다, 매끄럽게 하다 </a></li><li><a href="#look-into--조사하다-알아보다">look into — 조사하다, 알아보다 </a></li><li><a href="#narrow-down--좁히다-선택지를-줄이다">narrow down — 좁히다, 선택지를 줄이다 </a></li><li><a href="#pin-down--특정하다-정확히-짚어내다">pin down — 특정하다, 정확히 짚어내다 </a></li><li><a href="#get-to-the-bottom-of--진상을-규명하다">get to the bottom of — 진상을 규명하다 </a></li><li><a href="#root-out--뿌리-뽑다-완전히-제거하다">root out — 뿌리 뽑다, 완전히 제거하다 </a></li><li><a href="#patch-up--임시방편으로-고치다-화해하다">patch up — 임시방편으로 고치다; 화해하다 </a></li><li><a href="#get-around--우회하다-이동하다">get around — 우회하다; 이동하다 </a></li><li><a href="#fall-back-on--의지하다-비상-수단으로-쓰다">fall back on — 의지하다, 비상 수단으로 쓰다 </a></li><li><a href="#carry-out--수행하다-실행하다">carry out — 수행하다, 실행하다 </a></li><li><a href="#set-up--설치하다-마련하다-설정하다">set up — 설치하다; 마련하다; 설정하다 </a></li><li><a href="#break-down--고장-나다-무너지다-분석하다">break down — 고장 나다; 무너지다; 분석하다 </a></li><li><a href="#run-out-of--바닥나다-다-쓰다">run out of — 바닥나다, 다 쓰다 </a></li><li><a href="#come-across--우연히-발견하다-인상을-주다">come across — 우연히 발견하다; 인상을 주다 </a></li><li><a href="#take-apart--분해하다-철저히-분석하다">take apart — 분해하다; 철저히 분석하다 </a></li><li><a href="#build-on--기반으로-삼다-발전시키다">build on — 기반으로 삼다, 발전시키다 </a></li></ul></li><li><a href="#4-같은-구동사-다른-의미">4. 같은 구동사, 다른 의미 </a><ul><li><a href="#take-off">take off </a></li><li><a href="#come-up">come up </a></li><li><a href="#put-out">put out </a></li><li><a href="#give-up">give up </a></li><li><a href="#turn-up">turn up </a></li></ul></li><li><a href="#5-구동사-자연스럽게-익히는-법">5. 구동사 자연스럽게 익히는 법 </a></li><li><a href="#6-실전-회화--구동사만으로-대화하기">6. 실전 회화 — 구동사만으로 대화하기 </a></li><li><a href="#구동사-60-빠른-참조표">구동사 60 빠른 참조표 </a><ul><li><a href="#직장비즈니스">직장·비즈니스 </a></li><li><a href="#관계감정">관계·감정 </a></li><li><a href="#문제-해결">문제 해결 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>구동사(Phrasal Verb)는 영어 학습자가 가장 어려워하는 영역 중 하나입니다.<br>
+단어 하나하나의 뜻을 알아도, 합쳐지면 전혀 다른 의미가 되기 때문입니다.</p>
+<blockquote>
+<p>“Can you pull off this project?”<br>
+(이 프로젝트를 해낼 수 있어요?)</p>
+</blockquote>
+<p><code>pull + off</code>를 따로 해석하면 이 뜻이 나오지 않습니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>직장·비즈니스에서 필수 구동사 20개를 자유롭게 쓸 수 있습니다.</li>
+<li>관계·감정 표현에 쓰이는 구동사 20개를 익힐 수 있습니다.</li>
+<li>문제 해결 상황에서 쓰이는 구동사 20개를 활용할 수 있습니다.</li>
+<li>같은 구동사의 여러 의미 차이를 구분할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-직장비즈니스-구동사-20" tabindex="-1" data-src-line="23">1. 직장·비즈니스 구동사 20 <a class="header-anchor" href="#1-직장비즈니스-구동사-20" aria-hidden="true">#</a></h2>
+<h3 id="pull-off--해내다-성공적으로-완수하다" tabindex="-1" data-src-line="25">pull off — 해내다, 성공적으로 완수하다 <a class="header-anchor" href="#pull-off--해내다-성공적으로-완수하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She pulled off an incredible presentation.
+그녀는 놀라운 발표를 해냈습니다.
+
+Do you think we can pull this off?
+이걸 해낼 수 있을 것 같아요?
+</code></pre></div></code></pre>
+<h3 id="follow-up--후속-조치를-취하다-추가로-확인하다" tabindex="-1" data-src-line="35">follow up — 후속 조치를 취하다, 추가로 확인하다 <a class="header-anchor" href="#follow-up--후속-조치를-취하다-추가로-확인하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll follow up with an email.
+이메일로 후속 연락 드릴게요.
+
+Can you follow up on that lead?
+그 건 추가로 확인해줄 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="reach-out--연락하다-접촉하다" tabindex="-1" data-src-line="45">reach out — 연락하다, 접촉하다 <a class="header-anchor" href="#reach-out--연락하다-접촉하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Feel free to reach out if you have questions.
+질문 있으시면 편하게 연락 주세요.
+
+She reached out to several potential clients.
+그녀는 여러 잠재 고객에게 연락했습니다.
+</code></pre></div></code></pre>
+<h3 id="sign-off--승인하다-마무리하다-퇴근하다" tabindex="-1" data-src-line="55">sign off — 승인하다, 마무리하다, 퇴근하다 <a class="header-anchor" href="#sign-off--승인하다-마무리하다-퇴근하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The manager needs to sign off on this.
+매니저의 승인이 필요해요.
+
+I&#039;m signing off for the day.
+오늘 업무 마무리할게요.
+</code></pre></div></code></pre>
+<h3 id="hand-in--turn-in--제출하다" tabindex="-1" data-src-line="65">hand in / turn in — 제출하다 <a class="header-anchor" href="#hand-in--turn-in--제출하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Please hand in your report by Friday.
+금요일까지 보고서 제출해 주세요.
+
+She turned in her resignation.
+그녀는 사직서를 제출했습니다.
+</code></pre></div></code></pre>
+<h3 id="take-on--맡다-담당하다-고용하다" tabindex="-1" data-src-line="75">take on — 맡다, 담당하다; 고용하다 <a class="header-anchor" href="#take-on--맡다-담당하다-고용하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I can&#039;t take on any more projects right now.
+지금은 프로젝트를 더 맡을 수 없어요.
+
+We&#039;re taking on three new staff members.
+직원 세 명을 새로 고용하고 있어요.
+</code></pre></div></code></pre>
+<h3 id="come-up-with--생각해내다-아이디어를-내다" tabindex="-1" data-src-line="85">come up with — 생각해내다, 아이디어를 내다 <a class="header-anchor" href="#come-up-with--생각해내다-아이디어를-내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She came up with a brilliant solution.
+그녀가 훌륭한 해결책을 생각해냈어요.
+
+Can you come up with a better approach?
+더 나은 방법을 생각해낼 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="put-forward--제안하다-제출하다" tabindex="-1" data-src-line="95">put forward — 제안하다, 제출하다 <a class="header-anchor" href="#put-forward--제안하다-제출하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He put forward an interesting proposal.
+그는 흥미로운 제안을 했습니다.
+
+I&#039;d like to put forward a different idea.
+다른 아이디어를 제안하고 싶어요.
+</code></pre></div></code></pre>
+<h3 id="back-up--뒷받침하다-백업하다" tabindex="-1" data-src-line="105">back up — 뒷받침하다; 백업하다 <a class="header-anchor" href="#back-up--뒷받침하다-백업하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can you back that up with data?
+데이터로 뒷받침할 수 있어요?
+
+Make sure to back up your files.
+파일 백업 꼭 하세요.
+</code></pre></div></code></pre>
+<h3 id="draw-up--작성하다-초안을-만들다" tabindex="-1" data-src-line="115">draw up — 작성하다, 초안을 만들다 <a class="header-anchor" href="#draw-up--작성하다-초안을-만들다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll draw up a contract by Monday.
+월요일까지 계약서 작성할게요.
+
+She drew up a detailed plan.
+그녀는 상세한 계획을 작성했습니다.
+</code></pre></div></code></pre>
+<h3 id="wrap-up--마무리하다-끝내다" tabindex="-1" data-src-line="125">wrap up — 마무리하다, 끝내다 <a class="header-anchor" href="#wrap-up--마무리하다-끝내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let&#039;s wrap up the meeting.
+회의를 마무리합시다.
+
+Can we wrap this up in ten minutes?
+10분 안에 끝낼 수 있을까요?
+</code></pre></div></code></pre>
+<h3 id="touch-base--간단히-연락하다-확인하다" tabindex="-1" data-src-line="135">touch base — 간단히 연락하다, 확인하다 <a class="header-anchor" href="#touch-base--간단히-연락하다-확인하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I just wanted to touch base with you.
+잠깐 연락드리고 싶었어요.
+
+Let&#039;s touch base again next week.
+다음 주에 다시 연락해요.
+</code></pre></div></code></pre>
+<h3 id="phase-out--단계적으로-없애다" tabindex="-1" data-src-line="145">phase out — 단계적으로 없애다 <a class="header-anchor" href="#phase-out--단계적으로-없애다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">They&#039;re phasing out the old system.
+구 시스템을 단계적으로 없애고 있어요.
+</code></pre></div></code></pre>
+<h3 id="roll-out--출시하다-단계적으로-도입하다" tabindex="-1" data-src-line="152">roll out — 출시하다, 단계적으로 도입하다 <a class="header-anchor" href="#roll-out--출시하다-단계적으로-도입하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;ll roll out the new feature next month.
+다음 달에 새 기능을 출시할 거예요.
+</code></pre></div></code></pre>
+<h3 id="take-over--인수하다-대신-맡다" tabindex="-1" data-src-line="159">take over — 인수하다; 대신 맡다 <a class="header-anchor" href="#take-over--인수하다-대신-맡다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The company was taken over by a competitor.
+회사가 경쟁사에 인수됐습니다.
+
+Can you take over while I&#039;m away?
+제가 없는 동안 대신 맡아줄 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="step-up--한-단계-올라가다-더-많이-하다" tabindex="-1" data-src-line="169">step up — 한 단계 올라가다; 더 많이 하다 <a class="header-anchor" href="#step-up--한-단계-올라가다-더-많이-하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to step up our efforts.
+노력을 더 강화해야 해요.
+
+She really stepped up when we needed her.
+필요할 때 그녀가 정말 나서줬어요.
+</code></pre></div></code></pre>
+<h3 id="cut-back--줄이다-절감하다" tabindex="-1" data-src-line="179">cut back — 줄이다, 절감하다 <a class="header-anchor" href="#cut-back--줄이다-절감하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to cut back on expenses.
+비용을 줄여야 해요.
+
+He&#039;s cutting back on overtime.
+그는 초과근무를 줄이고 있어요.
+</code></pre></div></code></pre>
+<h3 id="get-across--전달하다-이해시키다" tabindex="-1" data-src-line="189">get across — 전달하다, 이해시키다 <a class="header-anchor" href="#get-across--전달하다-이해시키다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I couldn&#039;t get my point across.
+내 요점을 전달하지 못했어요.
+
+She got her message across clearly.
+그녀는 메시지를 명확히 전달했어요.
+</code></pre></div></code></pre>
+<h3 id="run-by--검토를-요청하다-알려주다" tabindex="-1" data-src-line="199">run by — 검토를 요청하다, 알려주다 <a class="header-anchor" href="#run-by--검토를-요청하다-알려주다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can I run this by you?
+이것 좀 검토해주실 수 있어요?
+
+Let me run it by the team first.
+먼저 팀에 알려볼게요.
+</code></pre></div></code></pre>
+<h3 id="flag-up--주의를-환기시키다-지적하다" tabindex="-1" data-src-line="209">flag up — 주의를 환기시키다, 지적하다 <a class="header-anchor" href="#flag-up--주의를-환기시키다-지적하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I wanted to flag up a potential issue.
+잠재적 문제를 지적하고 싶었어요.
+
+She flagged up several concerns.
+그녀는 여러 우려 사항을 지적했습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-관계감정-구동사-20" tabindex="-1" data-src-line="221">2. 관계·감정 구동사 20 <a class="header-anchor" href="#2-관계감정-구동사-20" aria-hidden="true">#</a></h2>
+<h3 id="fall-for--사랑에-빠지다-속다" tabindex="-1" data-src-line="223">fall for — 사랑에 빠지다; 속다 <a class="header-anchor" href="#fall-for--사랑에-빠지다-속다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He fell for her the moment they met.
+만나는 순간 그녀에게 반했어요.
+
+Don&#039;t fall for that trick.
+그 속임수에 넘어가지 마세요.
+</code></pre></div></code></pre>
+<h3 id="grow-on--점점-마음에-들어지다" tabindex="-1" data-src-line="233">grow on — 점점 마음에 들어지다 <a class="header-anchor" href="#grow-on--점점-마음에-들어지다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This song is really growing on me.
+이 노래가 점점 좋아지네요.
+
+He grew on me after a while.
+시간이 지나니 그가 점점 좋아졌어요.
+</code></pre></div></code></pre>
+<h3 id="drift-apart--사이가-멀어지다" tabindex="-1" data-src-line="243">drift apart — 사이가 멀어지다 <a class="header-anchor" href="#drift-apart--사이가-멀어지다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We drifted apart after college.
+대학 이후 우리는 사이가 멀어졌어요.
+
+Old friends sometimes drift apart.
+오래된 친구들은 가끔 멀어지죠.
+</code></pre></div></code></pre>
+<h3 id="open-up--마음을-열다-속마음을-털어놓다" tabindex="-1" data-src-line="253">open up — 마음을 열다, 속마음을 털어놓다 <a class="header-anchor" href="#open-up--마음을-열다-속마음을-털어놓다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She finally opened up about her feelings.
+그녀가 마침내 자신의 감정을 털어놓았어요.
+
+It takes time for him to open up.
+그가 마음을 여는 데는 시간이 걸려요.
+</code></pre></div></code></pre>
+<h3 id="fall-out--사이가-나빠지다-다투다" tabindex="-1" data-src-line="263">fall out — 사이가 나빠지다, 다투다 <a class="header-anchor" href="#fall-out--사이가-나빠지다-다투다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">They fell out over money.
+돈 문제로 사이가 나빠졌어요.
+
+Have you two fallen out?
+둘이 다퉜어요?
+</code></pre></div></code></pre>
+<h3 id="make-up--화해하다-만들어내다" tabindex="-1" data-src-line="273">make up — 화해하다; 만들어내다 <a class="header-anchor" href="#make-up--화해하다-만들어내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">They made up after the argument.
+다툼 후 화해했어요.
+
+Stop making things up.
+꾸며내는 것 좀 그만해요.
+</code></pre></div></code></pre>
+<h3 id="put-up-with--참다-견디다--tolerate" tabindex="-1" data-src-line="283">put up with — 참다, 견디다 (= tolerate) <a class="header-anchor" href="#put-up-with--참다-견디다--tolerate" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I can&#039;t put up with this anymore.
+이걸 더 이상 참을 수 없어요.
+
+She puts up with a lot.
+그녀는 많이 참아요.
+</code></pre></div></code></pre>
+<h3 id="look-up-to--존경하다" tabindex="-1" data-src-line="293">look up to — 존경하다 <a class="header-anchor" href="#look-up-to--존경하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ve always looked up to her.
+저는 항상 그녀를 존경해왔어요.
+
+He looks up to his older brother.
+그는 형을 존경해요.
+</code></pre></div></code></pre>
+<h3 id="look-down-on--무시하다-깔보다" tabindex="-1" data-src-line="303">look down on — 무시하다, 깔보다 <a class="header-anchor" href="#look-down-on--무시하다-깔보다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Don&#039;t look down on people.
+사람들을 무시하지 마세요.
+</code></pre></div></code></pre>
+<h3 id="bring-out--끌어내다-성격의-일면을-드러내다" tabindex="-1" data-src-line="310">bring out — 끌어내다; (성격의 일면을) 드러내다 <a class="header-anchor" href="#bring-out--끌어내다-성격의-일면을-드러내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She brings out the best in people.
+그녀는 사람들에게서 최선을 이끌어냅니다.
+
+Stress brings out the worst in him.
+스트레스는 그의 최악을 드러내요.
+</code></pre></div></code></pre>
+<h3 id="check-in--안부를-묻다-체크인하다" tabindex="-1" data-src-line="320">check in — 안부를 묻다; 체크인하다 <a class="header-anchor" href="#check-in--안부를-묻다-체크인하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I just wanted to check in and see how you&#039;re doing.
+그냥 어떻게 지내는지 안부 물어보고 싶었어요.
+</code></pre></div></code></pre>
+<h3 id="let-down--실망시키다" tabindex="-1" data-src-line="327">let down — 실망시키다 <a class="header-anchor" href="#let-down--실망시키다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I don&#039;t want to let you down.
+당신을 실망시키고 싶지 않아요.
+
+She felt let down by the decision.
+그녀는 그 결정에 실망했어요.
+</code></pre></div></code></pre>
+<h3 id="stand-by--곁에-있어주다-지지하다" tabindex="-1" data-src-line="337">stand by — 곁에 있어주다; 지지하다 <a class="header-anchor" href="#stand-by--곁에-있어주다-지지하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll stand by you no matter what.
+무슨 일이 있어도 당신 곁에 있을게요.
+
+She stood by her decision.
+그녀는 결정을 지지했어요.
+</code></pre></div></code></pre>
+<h3 id="pull-away--멀어지다-물러나다" tabindex="-1" data-src-line="347">pull away — 멀어지다, 물러나다 <a class="header-anchor" href="#pull-away--멀어지다-물러나다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s been pulling away lately.
+요즘 그가 점점 멀어지고 있어요.
+</code></pre></div></code></pre>
+<h3 id="move-on--앞으로-나아가다-극복하다" tabindex="-1" data-src-line="354">move on — 앞으로 나아가다, 극복하다 <a class="header-anchor" href="#move-on--앞으로-나아가다-극복하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s time to move on.
+이제 앞으로 나아갈 시간이에요.
+
+She&#039;s moved on from the breakup.
+그녀는 이별을 극복했어요.
+</code></pre></div></code></pre>
+<h3 id="warm-up-to--서서히-친해지다-마음을-열다" tabindex="-1" data-src-line="364">warm up to — 서서히 친해지다, 마음을 열다 <a class="header-anchor" href="#warm-up-to--서서히-친해지다-마음을-열다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She took a while to warm up to me.
+그녀가 나에게 마음을 여는 데 시간이 걸렸어요.
+</code></pre></div></code></pre>
+<h3 id="get-over--극복하다-회복하다" tabindex="-1" data-src-line="371">get over — 극복하다, 회복하다 <a class="header-anchor" href="#get-over--극복하다-회복하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It took months to get over the breakup.
+이별을 극복하는 데 몇 달이 걸렸어요.
+
+Get over it! (그냥 넘어가!)
+</code></pre></div></code></pre>
+<h3 id="count-on--믿다-의지하다" tabindex="-1" data-src-line="380">count on — 믿다, 의지하다 <a class="header-anchor" href="#count-on--믿다-의지하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You can always count on me.
+항상 나를 믿어도 돼요.
+
+I&#039;m counting on your support.
+당신의 지지를 믿어요.
+</code></pre></div></code></pre>
+<h3 id="reach-out--손-내밀다-연락하다-비즈니스뿐-아니라-감정적으로도-쓰임" tabindex="-1" data-src-line="390">reach out — 손 내밀다, 연락하다 (비즈니스뿐 아니라 감정적으로도 쓰임) <a class="header-anchor" href="#reach-out--손-내밀다-연락하다-비즈니스뿐-아니라-감정적으로도-쓰임" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Don&#039;t hesitate to reach out if you need help.
+도움 필요하면 주저하지 말고 연락해요.
+</code></pre></div></code></pre>
+<h3 id="grow-apart--점점-멀어지다-drift-apart와-유사" tabindex="-1" data-src-line="397">grow apart — 점점 멀어지다 (drift apart와 유사) <a class="header-anchor" href="#grow-apart--점점-멀어지다-drift-apart와-유사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We just grew apart over the years.
+세월이 흐르면서 우리는 그냥 멀어졌어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-문제-해결-구동사-20" tabindex="-1" data-src-line="406">3. 문제 해결 구동사 20 <a class="header-anchor" href="#3-문제-해결-구동사-20" aria-hidden="true">#</a></h2>
+<h3 id="sort-out--해결하다-정리하다-영국식에서-매우-자주-쓰임" tabindex="-1" data-src-line="408">sort out — 해결하다, 정리하다 (영국식에서 매우 자주 쓰임) <a class="header-anchor" href="#sort-out--해결하다-정리하다-영국식에서-매우-자주-쓰임" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let me sort that out for you.
+그것 해결해드릴게요.
+
+We need to sort this out before Friday.
+금요일 전에 이것을 해결해야 해요.
+</code></pre></div></code></pre>
+<h3 id="deal-with--처리하다-다루다" tabindex="-1" data-src-line="418">deal with — 처리하다, 다루다 <a class="header-anchor" href="#deal-with--처리하다-다루다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll deal with it.
+제가 처리할게요.
+
+How do you deal with stress?
+스트레스를 어떻게 처리해요?
+</code></pre></div></code></pre>
+<h3 id="work-around--우회하다-피해서-해결하다" tabindex="-1" data-src-line="428">work around — 우회하다, 피해서 해결하다 <a class="header-anchor" href="#work-around--우회하다-피해서-해결하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can we work around this limitation?
+이 제한을 우회할 수 있을까요?
+
+We&#039;ll have to work around the schedule conflict.
+일정 충돌을 우회해서 해결해야 해요.
+</code></pre></div></code></pre>
+<h3 id="figure-out--알아내다-해결하다" tabindex="-1" data-src-line="438">figure out — 알아내다, 해결하다 <a class="header-anchor" href="#figure-out--알아내다-해결하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I can&#039;t figure out what went wrong.
+뭐가 잘못됐는지 모르겠어요.
+
+We&#039;ll figure it out together.
+같이 알아봅시다.
+</code></pre></div></code></pre>
+<h3 id="iron-out--문제주름을-해결하다-매끄럽게-하다" tabindex="-1" data-src-line="448">iron out — (문제·주름을) 해결하다, 매끄럽게 하다 <a class="header-anchor" href="#iron-out--문제주름을-해결하다-매끄럽게-하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We still have a few issues to iron out.
+아직 해결해야 할 문제가 몇 가지 있어요.
+
+Let&#039;s iron out the details.
+세부 사항을 정리합시다.
+</code></pre></div></code></pre>
+<h3 id="look-into--조사하다-알아보다" tabindex="-1" data-src-line="458">look into — 조사하다, 알아보다 <a class="header-anchor" href="#look-into--조사하다-알아보다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll look into that for you.
+그것 알아볼게요.
+
+We&#039;re looking into the issue.
+문제를 조사하고 있어요.
+</code></pre></div></code></pre>
+<h3 id="narrow-down--좁히다-선택지를-줄이다" tabindex="-1" data-src-line="468">narrow down — 좁히다, 선택지를 줄이다 <a class="header-anchor" href="#narrow-down--좁히다-선택지를-줄이다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;ve narrowed it down to three options.
+세 가지 선택지로 좁혔어요.
+
+Can you narrow down the problem?
+문제를 더 좁혀줄 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="pin-down--특정하다-정확히-짚어내다" tabindex="-1" data-src-line="478">pin down — 특정하다, 정확히 짚어내다 <a class="header-anchor" href="#pin-down--특정하다-정확히-짚어내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We can&#039;t pin down the exact cause.
+정확한 원인을 특정하지 못하고 있어요.
+
+Can you pin down when it started?
+언제 시작됐는지 특정할 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="get-to-the-bottom-of--진상을-규명하다" tabindex="-1" data-src-line="488">get to the bottom of — 진상을 규명하다 <a class="header-anchor" href="#get-to-the-bottom-of--진상을-규명하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to get to the bottom of this.
+이것의 진상을 규명해야 해요.
+</code></pre></div></code></pre>
+<h3 id="root-out--뿌리-뽑다-완전히-제거하다" tabindex="-1" data-src-line="495">root out — 뿌리 뽑다, 완전히 제거하다 <a class="header-anchor" href="#root-out--뿌리-뽑다-완전히-제거하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to root out the problem.
+문제를 완전히 뿌리 뽑아야 해요.
+</code></pre></div></code></pre>
+<h3 id="patch-up--임시방편으로-고치다-화해하다" tabindex="-1" data-src-line="502">patch up — 임시방편으로 고치다; 화해하다 <a class="header-anchor" href="#patch-up--임시방편으로-고치다-화해하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;ve patched up the relationship.
+관계를 회복했어요.
+
+That&#039;s just a temporary patch-up.
+그건 임시방편에 불과해요.
+</code></pre></div></code></pre>
+<h3 id="get-around--우회하다-이동하다" tabindex="-1" data-src-line="512">get around — 우회하다; 이동하다 <a class="header-anchor" href="#get-around--우회하다-이동하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Is there a way to get around this rule?
+이 규칙을 우회할 방법이 있어요?
+</code></pre></div></code></pre>
+<h3 id="fall-back-on--의지하다-비상-수단으로-쓰다" tabindex="-1" data-src-line="519">fall back on — 의지하다, 비상 수단으로 쓰다 <a class="header-anchor" href="#fall-back-on--의지하다-비상-수단으로-쓰다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I always fall back on this strategy.
+항상 이 전략에 의지해요.
+
+It&#039;s good to have something to fall back on.
+비상 수단이 있는 게 좋아요.
+</code></pre></div></code></pre>
+<h3 id="carry-out--수행하다-실행하다" tabindex="-1" data-src-line="529">carry out — 수행하다, 실행하다 <a class="header-anchor" href="#carry-out--수행하다-실행하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">They carried out a thorough investigation.
+철저한 조사를 수행했습니다.
+
+Can you carry out these instructions?
+이 지시를 수행할 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="set-up--설치하다-마련하다-설정하다" tabindex="-1" data-src-line="539">set up — 설치하다; 마련하다; 설정하다 <a class="header-anchor" href="#set-up--설치하다-마련하다-설정하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let me set up a meeting.
+미팅을 잡을게요.
+
+She set up her own business.
+그녀는 자신의 사업을 차렸어요.
+</code></pre></div></code></pre>
+<h3 id="break-down--고장-나다-무너지다-분석하다" tabindex="-1" data-src-line="549">break down — 고장 나다; 무너지다; 분석하다 <a class="header-anchor" href="#break-down--고장-나다-무너지다-분석하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The car broke down on the highway.
+고속도로에서 차가 고장 났어요.
+
+She broke down and cried.
+그녀는 무너져서 울었어요.
+
+Break down the problem into smaller parts.
+문제를 더 작은 부분으로 분석하세요.
+</code></pre></div></code></pre>
+<h3 id="run-out-of--바닥나다-다-쓰다" tabindex="-1" data-src-line="562">run out of — 바닥나다, 다 쓰다 <a class="header-anchor" href="#run-out-of--바닥나다-다-쓰다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;ve run out of time.
+시간이 다 됐어요.
+
+We&#039;re running out of options.
+선택지가 다 떨어지고 있어요.
+</code></pre></div></code></pre>
+<h3 id="come-across--우연히-발견하다-인상을-주다" tabindex="-1" data-src-line="572">come across — 우연히 발견하다; 인상을 주다 <a class="header-anchor" href="#come-across--우연히-발견하다-인상을-주다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I came across this article yesterday.
+어제 우연히 이 기사를 발견했어요.
+
+She comes across as very confident.
+그녀는 매우 자신감 있는 인상을 줘요.
+</code></pre></div></code></pre>
+<h3 id="take-apart--분해하다-철저히-분석하다" tabindex="-1" data-src-line="582">take apart — 분해하다; 철저히 분석하다 <a class="header-anchor" href="#take-apart--분해하다-철저히-분석하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He took apart the argument piece by piece.
+그는 논거를 하나하나 분해했어요.
+</code></pre></div></code></pre>
+<h3 id="build-on--기반으로-삼다-발전시키다" tabindex="-1" data-src-line="589">build on — 기반으로 삼다, 발전시키다 <a class="header-anchor" href="#build-on--기반으로-삼다-발전시키다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let&#039;s build on what we&#039;ve already achieved.
+이미 이룬 것을 기반으로 발전시킵시다.
+
+She built on her previous experience.
+그녀는 이전 경험을 바탕으로 발전시켰어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-같은-구동사-다른-의미" tabindex="-1" data-src-line="601">4. 같은 구동사, 다른 의미 <a class="header-anchor" href="#4-같은-구동사-다른-의미" aria-hidden="true">#</a></h2>
+<p>구동사는 하나의 형태로 여러 가지 의미를 가질 수 있습니다.</p>
+<h3 id="take-off" tabindex="-1" data-src-line="605">take off <a class="header-anchor" href="#take-off" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The plane took off on time.        (이륙하다)
+Take off your shoes.               (벗다)
+Her career really took off.        (성공하다, 빠르게 성장하다)
+I&#039;m taking Friday off.             (휴가를 내다)
+</code></pre></div></code></pre>
+<h3 id="come-up" tabindex="-1" data-src-line="614">come up <a class="header-anchor" href="#come-up" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Something came up — I can&#039;t make it.  (갑자기 생기다)
+The topic came up in conversation.    (화제가 나오다)
+She came up with a plan.              (생각해내다 — come up with)
+The sun came up at 6.                 (해가 뜨다)
+</code></pre></div></code></pre>
+<h3 id="put-out" tabindex="-1" data-src-line="623">put out <a class="header-anchor" href="#put-out" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Put out the fire.                  (불을 끄다)
+She was put out by his comment.    (기분이 상하다, 짜증나다)
+He put out a new album.            (발표하다, 출시하다)
+Don&#039;t put yourself out.            (수고하지 마세요)
+</code></pre></div></code></pre>
+<h3 id="give-up" tabindex="-1" data-src-line="632">give up <a class="header-anchor" href="#give-up" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Never give up.                     (포기하다)
+Give up smoking.                   (끊다)
+I give up — what&#039;s the answer?     (모르겠다, 항복)
+She gave up her seat.              (양보하다)
+</code></pre></div></code></pre>
+<h3 id="turn-up" tabindex="-1" data-src-line="641">turn up <a class="header-anchor" href="#turn-up" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He turned up late again.           (나타나다)
+Turn up the volume.                (높이다)
+Something will turn up.            (생기다, 나타나다)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-구동사-자연스럽게-익히는-법" tabindex="-1" data-src-line="651">5. 구동사 자연스럽게 익히는 법 <a class="header-anchor" href="#5-구동사-자연스럽게-익히는-법" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. 동사 기준으로 묶어서 외우세요:
+   take → take on, take off, take over, take apart, take up
+
+2. 반대 의미 짝으로 외우세요:
+   fall out ↔ make up (사이가 나빠지다 ↔ 화해하다)
+   slow down ↔ speed up
+   break down ↔ build up
+
+3. 문장으로 외우세요. 단어만 외우면 잊어버리기 쉽습니다.
+
+4. 드라마·팟캐스트에서 들릴 때마다 메모하세요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-실전-회화--구동사만으로-대화하기" tabindex="-1" data-src-line="669">6. 실전 회화 — 구동사만으로 대화하기 <a class="header-anchor" href="#6-실전-회화--구동사만으로-대화하기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Amy:   Hey, have you managed to sort out
+       the issue with the client?
+       클라이언트와의 문제 해결했어요?
+
+Ben:   Not yet. I&#039;ve been looking into it,
+       but I can&#039;t figure out what went wrong.
+       아직요. 알아보고 있는데,
+       뭐가 잘못됐는지 모르겠어요.
+
+Amy:   Have you run it by the team?
+       팀에 알려봤어요?
+
+Ben:   Yeah, we&#039;re trying to narrow it down.
+       It might come down to the data migration.
+       네, 좁히려고 하고 있어요.
+       데이터 마이그레이션 문제일 수도 있어요.
+
+Amy:   Hmm. Well, whatever you come up with,
+       make sure you back it up with evidence
+       before you flag it up to management.
+       흠. 어쨌든 무엇을 생각해내든,
+       경영진에 보고하기 전에 증거로 뒷받침하세요.
+
+Ben:   Good point. I&#039;ll pull together the data
+       and run it by you first.
+       좋은 지적이에요. 데이터 모아서
+       먼저 검토해달라고 할게요.
+
+Amy:   Sounds good. I reckon we can wrap this up
+       by end of week if we stay on it.
+       좋아요. 계속 매달리면 이번 주 안에 마무리할 수 있을 것 같아요.
+
+Ben:   Bet. Let&#039;s sort it out.
+       알겠어요. 해결해봅시다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="구동사-60-빠른-참조표" tabindex="-1" data-src-line="710">구동사 60 빠른 참조표 <a class="header-anchor" href="#구동사-60-빠른-참조표" aria-hidden="true">#</a></h2>
+<h3 id="직장비즈니스" tabindex="-1" data-src-line="712">직장·비즈니스 <a class="header-anchor" href="#직장비즈니스" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">구동사</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pull off</td>
+<td>해내다</td>
+</tr>
+<tr>
+<td>follow up</td>
+<td>후속 조치하다</td>
+</tr>
+<tr>
+<td>reach out</td>
+<td>연락하다</td>
+</tr>
+<tr>
+<td>sign off</td>
+<td>승인하다, 마무리하다</td>
+</tr>
+<tr>
+<td>hand in / turn in</td>
+<td>제출하다</td>
+</tr>
+<tr>
+<td>take on</td>
+<td>맡다, 고용하다</td>
+</tr>
+<tr>
+<td>come up with</td>
+<td>생각해내다</td>
+</tr>
+<tr>
+<td>put forward</td>
+<td>제안하다</td>
+</tr>
+<tr>
+<td>back up</td>
+<td>뒷받침하다</td>
+</tr>
+<tr>
+<td>draw up</td>
+<td>작성하다</td>
+</tr>
+<tr>
+<td>wrap up</td>
+<td>마무리하다</td>
+</tr>
+<tr>
+<td>touch base</td>
+<td>간단히 연락하다</td>
+</tr>
+<tr>
+<td>phase out</td>
+<td>단계적으로 없애다</td>
+</tr>
+<tr>
+<td>roll out</td>
+<td>출시하다</td>
+</tr>
+<tr>
+<td>take over</td>
+<td>인수하다</td>
+</tr>
+<tr>
+<td>step up</td>
+<td>강화하다</td>
+</tr>
+<tr>
+<td>cut back</td>
+<td>줄이다</td>
+</tr>
+<tr>
+<td>get across</td>
+<td>전달하다</td>
+</tr>
+<tr>
+<td>run by</td>
+<td>검토 요청하다</td>
+</tr>
+<tr>
+<td>flag up</td>
+<td>지적하다</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="관계감정" tabindex="-1" data-src-line="736">관계·감정 <a class="header-anchor" href="#관계감정" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">구동사</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fall for</td>
+<td>사랑에 빠지다</td>
+</tr>
+<tr>
+<td>grow on</td>
+<td>점점 좋아지다</td>
+</tr>
+<tr>
+<td>drift apart</td>
+<td>멀어지다</td>
+</tr>
+<tr>
+<td>open up</td>
+<td>마음을 열다</td>
+</tr>
+<tr>
+<td>fall out</td>
+<td>사이가 나빠지다</td>
+</tr>
+<tr>
+<td>make up</td>
+<td>화해하다</td>
+</tr>
+<tr>
+<td>put up with</td>
+<td>참다</td>
+</tr>
+<tr>
+<td>look up to</td>
+<td>존경하다</td>
+</tr>
+<tr>
+<td>look down on</td>
+<td>무시하다</td>
+</tr>
+<tr>
+<td>bring out</td>
+<td>끌어내다</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="문제-해결" tabindex="-1" data-src-line="750">문제 해결 <a class="header-anchor" href="#문제-해결" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">구동사</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>sort out</td>
+<td>해결하다</td>
+</tr>
+<tr>
+<td>deal with</td>
+<td>처리하다</td>
+</tr>
+<tr>
+<td>work around</td>
+<td>우회하다</td>
+</tr>
+<tr>
+<td>figure out</td>
+<td>알아내다</td>
+</tr>
+<tr>
+<td>iron out</td>
+<td>매끄럽게 하다</td>
+</tr>
+<tr>
+<td>look into</td>
+<td>조사하다</td>
+</tr>
+<tr>
+<td>narrow down</td>
+<td>좁히다</td>
+</tr>
+<tr>
+<td>come across</td>
+<td>우연히 발견하다</td>
+</tr>
+<tr>
+<td>break down</td>
+<td>분석하다</td>
+</tr>
+<tr>
+<td>build on</td>
+<td>발전시키다</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="766">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>구동사 학습의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 동사 기준으로 묶어서:
+  take on / take off / take over / take apart
+  → 같은 take라도 전치사에 따라 완전히 다릅니다.
+
+② 반대 짝으로:
+  fall out ↔ make up
+  slow down ↔ speed up
+  break down ↔ build up
+
+③ 문장으로 외우기:
+  &quot;I&#039;ll look into that.&quot; 처럼 전체 문장으로 기억하면
+  실전에서 훨씬 빠르게 나옵니다.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>관용 표현 심화 50</strong> — 직장·일상·갈등·성공 상황별로<br>
+원어민처럼 자연스럽게 쓰는 이디엄의 세계를 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 2 — 슬랭과 구어체]</strong></p>
+<ul>
+<li>6강: 원어민 슬랭 50 — 미국 영어</li>
+<li>7강: 원어민 슬랭 50 — 영국 영어</li>
+<li><strong>8강</strong>: 구동사 심화 60 ← 현재 글</li>
+<li>9강: 관용 표현 심화 50</li>
+<li>10강: 영어 유머와 위트</li>
+</ul>
+</blockquote>
+4:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lb",null,{"content":"$c"}]}]}]
+5:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Ld",null,{"href":"/post/english/english-lesson-18-conditionals","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-07-british-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]}],["$","li","english-advanced/english-advanced-lesson-06-american-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-06-american-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어"}]}],["$","li","english-advanced/english-advanced-lesson-05-requests",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-05-requests","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 5강: 요청의 온도 — 반말부터 초격식까지"}]}]]}]]}]]}]
+6:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+7:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+9:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

@@ -1,0 +1,245 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-23-social-media\"},\"headline\":\"중급 영어 23강: 영어 소셜미디어·디지털 표현\",\"description\":\"인터넷 영어의 새 규칙, 플랫폼별 표현 차이, 댓글·리액션 표현, 디지털 약어, 이모지 문화 차이까지 디지털 영어를 완전 정복합니다.\",\"datePublished\":\"2026-05-06T22:00:00.000Z\",\"dateModified\":\"2026-05-06T22:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-23-social-media\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"social-media\",\"digital\",\"internet\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 23강: 영어 소셜미디어·디지털 표현","slugPath":"english-advanced/english-advanced-lesson-23-social-media","headings":[{"id":"중급-영어-23강-영어-소셜미디어디지털-표현","text":"중급 영어 23강: 영어 소셜미디어·디지털 표현","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-인터넷-영어의-새로운-규칙","text":"1. 인터넷 영어의 새로운 규칙","level":2},{"id":"마침표의-변화","text":"마침표의 변화","level":3},{"id":"대문자의-의미-변화","text":"대문자의 의미 변화","level":3},{"id":"강조-방법들","text":"강조 방법들","level":3},{"id":"2-플랫폼별-표현-차이","text":"2. 플랫폼별 표현 차이","level":2},{"id":"twitter--x--짧고-직접적-위트","text":"Twitter / X — 짧고 직접적, 위트","level":3},{"id":"instagram--감성적-해시태그","text":"Instagram — 감성적, 해시태그","level":3},{"id":"linkedin--전문적-스토리텔링","text":"LinkedIn — 전문적, 스토리텔링","level":3},{"id":"3-댓글리액션-표현","text":"3. 댓글·리액션 표현","level":2},{"id":"긍정-리액션","text":"긍정 리액션","level":3},{"id":"공감연대-표현","text":"공감·연대 표현","level":3},{"id":"놀람반응-표현","text":"놀람·반응 표현","level":3},{"id":"4-디지털-약어-완전-정리","text":"4. 디지털 약어 완전 정리","level":2},{"id":"가장-자주-쓰이는-약어","text":"가장 자주 쓰이는 약어","level":3},{"id":"감정반응-약어","text":"감정·반응 약어","level":3},{"id":"비즈니스-디지털-약어","text":"비즈니스 디지털 약어","level":3},{"id":"5-이모지-문화적-차이","text":"5. 이모지 문화적 차이","level":2},{"id":"6-실전--영어-sns-게시물-작성","text":"6. 실전 — 영어 SNS 게시물 작성","level":2},{"id":"인스타-캡션-예시","text":"인스타 캡션 예시","level":3},{"id":"링크드인-게시물-예시","text":"링크드인 게시물 예시","level":3},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-23-social-media"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 23강: 영어 소셜미디어·디지털 표현"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"인터넷 영어의 새 규칙, 플랫폼별 표현 차이, 댓글·리액션 표현, 디지털 약어, 이모지 문화 차이까지 디지털 영어를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T22:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-06T22:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 5월 7일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","social-media",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","social-media"]}],["$","span","digital",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","digital"]}],["$","span","internet",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","internet"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T483f,<h1 id="중급-영어-23강-영어-소셜미디어디지털-표현" tabindex="-1" data-src-line="1">중급 영어 23강: 영어 소셜미디어·디지털 표현 <a class="header-anchor" href="#중급-영어-23강-영어-소셜미디어디지털-표현" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-23강-영어-소셜미디어디지털-표현">중급 영어 23강: 영어 소셜미디어·디지털 표현 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-인터넷-영어의-새로운-규칙">1. 인터넷 영어의 새로운 규칙 </a><ul><li><a href="#마침표의-변화">마침표의 변화 </a></li><li><a href="#대문자의-의미-변화">대문자의 의미 변화 </a></li><li><a href="#강조-방법들">강조 방법들 </a></li></ul></li><li><a href="#2-플랫폼별-표현-차이">2. 플랫폼별 표현 차이 </a><ul><li><a href="#twitter--x--짧고-직접적-위트">Twitter / X — 짧고 직접적, 위트 </a></li><li><a href="#instagram--감성적-해시태그">Instagram — 감성적, 해시태그 </a></li><li><a href="#linkedin--전문적-스토리텔링">LinkedIn — 전문적, 스토리텔링 </a></li></ul></li><li><a href="#3-댓글리액션-표현">3. 댓글·리액션 표현 </a><ul><li><a href="#긍정-리액션">긍정 리액션 </a></li><li><a href="#공감연대-표현">공감·연대 표현 </a></li><li><a href="#놀람반응-표현">놀람·반응 표현 </a></li></ul></li><li><a href="#4-디지털-약어-완전-정리">4. 디지털 약어 완전 정리 </a><ul><li><a href="#가장-자주-쓰이는-약어">가장 자주 쓰이는 약어 </a></li><li><a href="#감정반응-약어">감정·반응 약어 </a></li><li><a href="#비즈니스-디지털-약어">비즈니스 디지털 약어 </a></li></ul></li><li><a href="#5-이모지-문화적-차이">5. 이모지 문화적 차이 </a></li><li><a href="#6-실전--영어-sns-게시물-작성">6. 실전 — 영어 SNS 게시물 작성 </a><ul><li><a href="#인스타-캡션-예시">인스타 캡션 예시 </a></li><li><a href="#링크드인-게시물-예시">링크드인 게시물 예시 </a></li></ul></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>인터넷은 영어를 완전히 바꿔놓았습니다.<br>
+마침표 하나가 차가운 분위기를 만들고, 대문자는 소리를 지르는 것처럼 들립니다.<br>
+이 새로운 디지털 영어의 규칙을 모르면 엉뚱한 오해가 생길 수 있습니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>인터넷 영어의 새로운 규칙을 이해할 수 있습니다.</li>
+<li>트위터·인스타·링크드인 플랫폼별 표현을 구분할 수 있습니다.</li>
+<li>댓글·리액션 표현을 자연스럽게 쓸 수 있습니다.</li>
+<li>주요 약어와 이모지 문화적 차이를 이해할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-인터넷-영어의-새로운-규칙" tabindex="-1" data-src-line="19">1. 인터넷 영어의 새로운 규칙 <a class="header-anchor" href="#1-인터넷-영어의-새로운-규칙" aria-hidden="true">#</a></h2>
+<h3 id="마침표의-변화" tabindex="-1" data-src-line="21">마침표의 변화 <a class="header-anchor" href="#마침표의-변화" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">전통: 문장 끝에 마침표는 당연함.
+
+인터넷 영어:
+&quot;Sounds good.&quot; → 딱딱하고 차갑게 들릴 수 있음
+&quot;Sounds good&quot;  → 자연스러움
+&quot;Sounds good!&quot; → 친근하고 긍정적
+
+&quot;ok.&quot;  → 기분이 안 좋거나 짜증난 것처럼 들릴 수 있음
+&quot;ok&quot;   → 중립
+&quot;ok!&quot;  → 좋아!
+</code></pre></div></code></pre>
+<h3 id="대문자의-의미-변화" tabindex="-1" data-src-line="36">대문자의 의미 변화 <a class="header-anchor" href="#대문자의-의미-변화" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">ALL CAPS = 소리 지르기, 강한 강조
+I CAN&#039;T BELIEVE THIS.     = 못 믿겠어!!!
+THIS IS SO GOOD.           = 이거 진짜 너무 좋아!!!
+
+CaPs mIxEd = 비꼬기, mocking
+&quot;Oh sure, THAT&#039;S a great idea&quot; = 빈정거림
+
+소문자 전체 = 캐주얼함, 때로는 우울함
+&quot;i don&#039;t know anymore&quot;  = 지친 느낌
+</code></pre></div></code></pre>
+<h3 id="강조-방법들" tabindex="-1" data-src-line="50">강조 방법들 <a class="header-anchor" href="#강조-방법들" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">반복: nooooo / yesssss / whyyy
+길게 늘이면 감정이 강조됩니다.
+
+!!! = 매우 흥분되거나 기쁨
+... = 망설임, 불확실함, 또는 어색함
+????? = 혼란, 믿을 수 없음
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-플랫폼별-표현-차이" tabindex="-1" data-src-line="63">2. 플랫폼별 표현 차이 <a class="header-anchor" href="#2-플랫폼별-표현-차이" aria-hidden="true">#</a></h2>
+<h3 id="twitter--x--짧고-직접적-위트" tabindex="-1" data-src-line="65">Twitter / X — 짧고 직접적, 위트 <a class="header-anchor" href="#twitter--x--짧고-직접적-위트" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">특징: 280자 제한 → 압축적 표현
+스레드로 긴 내용 전달
+리트윗·인용으로 의견 표현
+
+자주 쓰는 표현:
+Hot take: [의견]   — 논란적 의견 제시
+Unpopular opinion: — 소수 의견
+This. 👆           — 완전 공감 (위에 글 가리키며)
+Ratio&#039;d            — 좋아요보다 답글이 더 많음 (비판받음)
+I said what I said. — 내 말 취소 안 해.
+</code></pre></div></code></pre>
+<h3 id="instagram--감성적-해시태그" tabindex="-1" data-src-line="80">Instagram — 감성적, 해시태그 <a class="header-anchor" href="#instagram--감성적-해시태그" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">특징: 비주얼 중심, 캡션이 중요
+해시태그로 도달 범위 확장
+Stories = 일상적, 캐주얼
+
+자주 쓰는 표현:
+Link in bio.        — 프로필 링크 참조
+Tap for more.       — 더 보기
+DM for details.     — 자세한 건 DM으로
+Slide into DMs      — DM으로 연락하다 (특히 연애)
+Goals 🙌            — 목표, 원해!
+Vibes only ✨        — 좋은 분위기만
+</code></pre></div></code></pre>
+<h3 id="linkedin--전문적-스토리텔링" tabindex="-1" data-src-line="96">LinkedIn — 전문적, 스토리텔링 <a class="header-anchor" href="#linkedin--전문적-스토리텔링" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">특징: 커리어 중심, 긴 글 가능
+개인 성장·인사이트 공유
+
+자주 쓰는 표현:
+Excited to announce... — ...을 발표하게 되어 기쁩니다
+Humbled and honored... — 겸손하게 영광으로...
+Thoughts?             — 의견은요?
+Let&#039;s connect.         — 연결해요.
+Open to opportunities  — 기회를 찾고 있어요
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-댓글리액션-표현" tabindex="-1" data-src-line="112">3. 댓글·리액션 표현 <a class="header-anchor" href="#3-댓글리액션-표현" aria-hidden="true">#</a></h2>
+<h3 id="긍정-리액션" tabindex="-1" data-src-line="114">긍정 리액션 <a class="header-anchor" href="#긍정-리액션" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This is everything.          이게 다야. (= 완벽해)
+I can&#039;t even.                말이 안 나와. (너무 좋아서)
+This hit different.          다르게 다가왔어. (특별히 감동)
+Not me crying.               나 울고 있잖아. (감동)
+I needed this today.         오늘 이게 필요했어.
+Send this to everyone.       모두한테 보내줘.
+The way I screamed.          나 소리 질렀잖아.
+This is so real.             이거 완전 공감.
+Felt that.                   느껴졌어.
+</code></pre></div></code></pre>
+<h3 id="공감연대-표현" tabindex="-1" data-src-line="128">공감·연대 표현 <a class="header-anchor" href="#공감연대-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Same.                        나도.
+Big same.                    완전 나도.
+This is so me.               이거 완전 나야.
+We don&#039;t deserve you.        당신 같은 사람은 감당이 안 돼.
+You understood the assignment. 완벽히 해냈어.
+You ate and left no crumbs.  완벽하게 소화했어.
+</code></pre></div></code></pre>
+<h3 id="놀람반응-표현" tabindex="-1" data-src-line="139">놀람·반응 표현 <a class="header-anchor" href="#놀람반응-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Wait what?                   잠깐 뭐야?
+I&#039;m not okay.                나 멀쩡하지 않아. (충격·감동)
+My jaw dropped.              입이 떡 벌어졌어.
+Okay but why is this so good? 이게 왜 이렇게 좋지?
+I was not prepared.          준비가 안 됐었어.
+The plot twist!              반전이잖아!
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-디지털-약어-완전-정리" tabindex="-1" data-src-line="152">4. 디지털 약어 완전 정리 <a class="header-anchor" href="#4-디지털-약어-완전-정리" aria-hidden="true">#</a></h2>
+<h3 id="가장-자주-쓰이는-약어" tabindex="-1" data-src-line="154">가장 자주 쓰이는 약어 <a class="header-anchor" href="#가장-자주-쓰이는-약어" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">IMO / IMHO  — In My (Humble) Opinion (내 (겸손한) 의견으로는)
+TBH         — To Be Honest (솔직히)
+IDK         — I Don&#039;t Know (모르겠어)
+NGL         — Not Gonna Lie (거짓말 아니고)
+TBF         — To Be Fair (공정하게 말하자면)
+FWIW        — For What It&#039;s Worth (참고로)
+AFAIK       — As Far As I Know (내가 아는 한)
+FYI         — For Your Information (참고로)
+BTW         — By The Way (그나저나)
+ICYMI       — In Case You Missed It (놓쳤을 경우를 위해)
+</code></pre></div></code></pre>
+<h3 id="감정반응-약어" tabindex="-1" data-src-line="169">감정·반응 약어 <a class="header-anchor" href="#감정반응-약어" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">LOL   — Laughing Out Loud (크게 웃음 — 지금은 가벼운 반응에도 씀)
+LMAO  — Laughing My Ass Off (더 크게 웃음)
+ROFL  — Rolling On the Floor Laughing (바닥 구르며 웃음)
+OMG   — Oh My God (세상에)
+SMH   — Shaking My Head (고개 절레절레)
+IRL   — In Real Life (현실에서)
+AFK   — Away From Keyboard (자리 비움)
+TBT   — Throwback Thursday (과거 사진 공유)
+</code></pre></div></code></pre>
+<h3 id="비즈니스-디지털-약어" tabindex="-1" data-src-line="182">비즈니스 디지털 약어 <a class="header-anchor" href="#비즈니스-디지털-약어" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">EOD   — End of Day (오늘 중으로)
+EOM   — End of Message (메시지 끝 — 더 내용 없음)
+OOO   — Out of Office (자리 비움)
+ASAP  — As Soon As Possible (최대한 빨리)
+TL;DR — Too Long; Didn&#039;t Read (요약하자면)
+WFH   — Work From Home (재택근무)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-이모지-문화적-차이" tabindex="-1" data-src-line="195">5. 이모지 문화적 차이 <a class="header-anchor" href="#5-이모지-문화적-차이" aria-hidden="true">#</a></h2>
+<p>이모지는 문화와 세대에 따라 의미가 다를 수 있습니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">😂 — 원래 의미: 눈물 나게 웃김
+      Gen Z 해석: 오글거림, 아재 개그 후 씀 (비꼬기도 가능)
+
+💀 — 원래 의미: 죽음
+      인터넷 영어: 너무 웃겨서 죽겠어 (= &quot;I&#039;m dead&quot;)
+
+🙃 — 원래 의미: 뒤집힌 미소
+      실제 뉘앙스: 억지 미소, 사실 짜증남, 수동공격적
+
+❤️‍🔥 — 열정적 사랑, 강렬한 감정
+
+✨ — 긍정적 에너지, &quot;slay&quot;, 특별함 강조
+
+💅 — 자신감, &quot;그래서요?&quot;, 신경 안 써
+
+🫡 — 경례, &quot;알겠습니다&quot;, 존중
+
+🤌 — (이탈리아식) 완벽함, 최고야
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-실전--영어-sns-게시물-작성" tabindex="-1" data-src-line="222">6. 실전 — 영어 SNS 게시물 작성 <a class="header-anchor" href="#6-실전--영어-sns-게시물-작성" aria-hidden="true">#</a></h2>
+<h3 id="인스타-캡션-예시" tabindex="-1" data-src-line="224">인스타 캡션 예시 <a class="header-anchor" href="#인스타-캡션-예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【일상】
+Living for these little moments. ✨
+이런 작은 순간들이 너무 좋아.
+#grateful #goodvibes
+
+【음식】
+Okay but this pasta deserved its own photoshoot. 🍝
+이 파스타는 사진 찍어줄 자격이 있어.
+Not sharing. 🙅‍♀️
+공유 안 함.
+
+【여행】
+New city, new stories. 🌍
+새로운 도시, 새로운 이야기들.
+Collecting memories, not things.
+물건 말고 추억을 모으는 중.
+</code></pre></div></code></pre>
+<h3 id="링크드인-게시물-예시" tabindex="-1" data-src-line="245">링크드인 게시물 예시 <a class="header-anchor" href="#링크드인-게시물-예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Six months ago, I had no idea what I was doing.
+6개월 전, 나는 내가 뭘 하는지 몰랐다.
+
+Today, we launched our first product.
+오늘, 우리는 첫 번째 제품을 출시했다.
+
+Here&#039;s what I learned along the way:
+그 과정에서 배운 것들:
+
+1. Done is better than perfect.
+   완벽하게 하는 것보다 완성하는 게 낫다.
+2. Your network is your net worth.
+   인맥이 곧 자산이다.
+3. Fail fast, learn faster.
+   빠르게 실패하고, 더 빠르게 배워라.
+
+What&#039;s the best lesson you&#039;ve learned this year?
+올해 배운 가장 좋은 교훈이 뭐예요?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="270">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>디지털 영어의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 마침표 하나도 뉘앙스:
+  &quot;ok.&quot; ≠ &quot;ok&quot; ≠ &quot;ok!&quot;
+  → 디지털 공간에서는 구두점도 감정을 담습니다.
+
+② 플랫폼마다 다른 톤:
+  Twitter = 날카롭고 위트있게
+  Instagram = 감성적으로
+  LinkedIn = 전문적이고 스토리 중심으로
+
+③ 약어는 맥락으로:
+  TBH, NGL, IMO → 솔직한 의견 앞에
+  FYI, ICYMI, FWIW → 정보 공유할 때
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>문화 차이와 영어</strong> — 나라마다 다른 공손함, 금기 주제, 오해 없이 소통하는 법!</p>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-22-drama-movies","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 22강: 영어 드라마·영화로 배우는 구어체"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-25-review-roadmap",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-25-review-roadmap","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵"}]}],["$","li","english-advanced/english-advanced-lesson-24-culture",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

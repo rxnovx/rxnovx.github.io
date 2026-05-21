@@ -1,0 +1,349 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-12-presentations\"},\"headline\":\"중급 영어 12강: 비즈니스 프레젠테이션 영어\",\"description\":\"청중의 관심을 끄는 오프닝부터 데이터 설명·전환 표현·Q&A 대처법까지, 비즈니스 프레젠테이션 영어를 완전 정복합니다.\",\"datePublished\":\"2026-05-07T00:00:00.000Z\",\"dateModified\":\"2026-05-07T00:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-12-presentations\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"business\",\"presentation\",\"professional\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 12강: 비즈니스 프레젠테이션 영어","slugPath":"english-advanced/english-advanced-lesson-12-presentations","headings":[{"id":"중급-영어-12강-비즈니스-프레젠테이션-영어","text":"중급 영어 12강: 비즈니스 프레젠테이션 영어","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-프레젠테이션-구조","text":"1. 프레젠테이션 구조","level":2},{"id":"2-강력한-오프닝--hook","text":"2. 강력한 오프닝 — Hook","level":2},{"id":"질문으로-시작","text":"질문으로 시작","level":3},{"id":"놀라운-통계사실로-시작","text":"놀라운 통계·사실로 시작","level":3},{"id":"짧은-이야기로-시작","text":"짧은 이야기로 시작","level":3},{"id":"대담한-선언으로-시작","text":"대담한 선언으로 시작","level":3},{"id":"3-자기소개--주제-안내","text":"3. 자기소개 + 주제 안내","level":2},{"id":"4-구조-안내","text":"4. 구조 안내","level":2},{"id":"5-데이터차트-설명-표현","text":"5. 데이터·차트 설명 표현","level":2},{"id":"증가-표현","text":"증가 표현","level":3},{"id":"감소-표현","text":"감소 표현","level":3},{"id":"안정정체-표현","text":"안정·정체 표현","level":3},{"id":"차트-지칭-표현","text":"차트 지칭 표현","level":3},{"id":"6-전환-표현-transitions","text":"6. 전환 표현 (Transitions)","level":2},{"id":"다음-섹션으로","text":"다음 섹션으로","level":3},{"id":"앞서-언급한-내용-참조","text":"앞서 언급한 내용 참조","level":3},{"id":"강조요점-정리","text":"강조·요점 정리","level":3},{"id":"7-결론","text":"7. 결론","level":2},{"id":"8-qa-대처법","text":"8. Q&A 대처법","level":2},{"id":"질문을-명확히-이해할-때","text":"질문을 명확히 이해할 때","level":3},{"id":"모르거나-확인이-필요할-때","text":"모르거나 확인이 필요할 때","level":3},{"id":"논쟁적인-질문에-대응","text":"논쟁적인 질문에 대응","level":3},{"id":"qa-마무리","text":"Q&A 마무리","level":3},{"id":"9-실전-2분-프레젠테이션-스크립트","text":"9. 실전 2분 프레젠테이션 스크립트","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-12-presentations"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"청중의 관심을 끄는 오프닝부터 데이터 설명·전환 표현·Q&A 대처법까지, 비즈니스 프레젠테이션 영어를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-07T00:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-07T00:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 5월 7일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","business",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","business"]}],["$","span","presentation",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","presentation"]}],["$","span","professional",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","professional"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T55b5,<h1 id="중급-영어-12강-비즈니스-프레젠테이션-영어" tabindex="-1" data-src-line="1">중급 영어 12강: 비즈니스 프레젠테이션 영어 <a class="header-anchor" href="#중급-영어-12강-비즈니스-프레젠테이션-영어" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-12강-비즈니스-프레젠테이션-영어">중급 영어 12강: 비즈니스 프레젠테이션 영어 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-프레젠테이션-구조">1. 프레젠테이션 구조 </a></li><li><a href="#2-강력한-오프닝--hook">2. 강력한 오프닝 — Hook </a><ul><li><a href="#질문으로-시작">질문으로 시작 </a></li><li><a href="#놀라운-통계사실로-시작">놀라운 통계·사실로 시작 </a></li><li><a href="#짧은-이야기로-시작">짧은 이야기로 시작 </a></li><li><a href="#대담한-선언으로-시작">대담한 선언으로 시작 </a></li></ul></li><li><a href="#3-자기소개--주제-안내">3. 자기소개 + 주제 안내 </a></li><li><a href="#4-구조-안내">4. 구조 안내 </a></li><li><a href="#5-데이터차트-설명-표현">5. 데이터·차트 설명 표현 </a><ul><li><a href="#증가-표현">증가 표현 </a></li><li><a href="#감소-표현">감소 표현 </a></li><li><a href="#안정정체-표현">안정·정체 표현 </a></li><li><a href="#차트-지칭-표현">차트 지칭 표현 </a></li></ul></li><li><a href="#6-전환-표현-transitions">6. 전환 표현 (Transitions) </a><ul><li><a href="#다음-섹션으로">다음 섹션으로 </a></li><li><a href="#앞서-언급한-내용-참조">앞서 언급한 내용 참조 </a></li><li><a href="#강조요점-정리">강조·요점 정리 </a></li></ul></li><li><a href="#7-결론">7. 결론 </a></li><li><a href="#8-qa-대처법">8. Q&amp;A 대처법 </a><ul><li><a href="#질문을-명확히-이해할-때">질문을 명확히 이해할 때 </a></li><li><a href="#모르거나-확인이-필요할-때">모르거나 확인이 필요할 때 </a></li><li><a href="#논쟁적인-질문에-대응">논쟁적인 질문에 대응 </a></li><li><a href="#qa-마무리">Q&amp;A 마무리 </a></li></ul></li><li><a href="#9-실전-2분-프레젠테이션-스크립트">9. 실전 2분 프레젠테이션 스크립트 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>영어 프레젠테이션에서 가장 중요한 순간은 <strong>첫 30초</strong>입니다.<br>
+오프닝이 청중의 관심을 잡지 못하면 나머지 내용이 아무리 좋아도 효과가 떨어집니다.</p>
+<p>이 강에서는 프레젠테이션의 <strong>시작부터 끝까지</strong> 필요한 모든 표현을 정복합니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>청중의 관심을 끄는 강력한 오프닝 표현을 쓸 수 있습니다.</li>
+<li>데이터와 차트를 자연스럽게 설명하는 표현을 익힐 수 있습니다.</li>
+<li>슬라이드 간 자연스러운 전환 표현을 구사할 수 있습니다.</li>
+<li>Q&amp;A 세션에서 어떤 질문에도 자신 있게 대응할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-프레젠테이션-구조" tabindex="-1" data-src-line="20">1. 프레젠테이션 구조 <a class="header-anchor" href="#1-프레젠테이션-구조" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① Hook (관심 끌기)
+② 자기소개 + 주제 소개
+③ 목차 / 구조 안내
+④ 본론 (섹션별)
+⑤ 결론 + 핵심 메시지
+⑥ Q&amp;A
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-강력한-오프닝--hook" tabindex="-1" data-src-line="33">2. 강력한 오프닝 — Hook <a class="header-anchor" href="#2-강력한-오프닝--hook" aria-hidden="true">#</a></h2>
+<h3 id="질문으로-시작" tabindex="-1" data-src-line="35">질문으로 시작 <a class="header-anchor" href="#질문으로-시작" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">How many of you have experienced...?
+여러분 중 ...을 경험해본 분이 얼마나 되나요?
+
+What would you do if...?
+만약 ...라면 어떻게 하시겠어요?
+
+Have you ever wondered why...?
+왜 ...인지 궁금해본 적 있으신가요?
+</code></pre></div></code></pre>
+<h3 id="놀라운-통계사실로-시작" tabindex="-1" data-src-line="48">놀라운 통계·사실로 시작 <a class="header-anchor" href="#놀라운-통계사실로-시작" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Did you know that...?
+...라는 사실 알고 계셨나요?
+
+According to recent research, ...
+최근 연구에 따르면...
+
+Here&#039;s a surprising fact: ...
+놀라운 사실이 있어요:
+</code></pre></div></code></pre>
+<h3 id="짧은-이야기로-시작" tabindex="-1" data-src-line="61">짧은 이야기로 시작 <a class="header-anchor" href="#짧은-이야기로-시작" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let me start with a quick story.
+짧은 이야기로 시작하겠습니다.
+
+A few years ago, I was faced with...
+몇 년 전, 저는 ...에 직면했어요.
+
+Imagine you&#039;re in a situation where...
+당신이 ...한 상황에 있다고 상상해보세요.
+</code></pre></div></code></pre>
+<h3 id="대담한-선언으로-시작" tabindex="-1" data-src-line="74">대담한 선언으로 시작 <a class="header-anchor" href="#대담한-선언으로-시작" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Today, I&#039;m going to challenge the way
+you think about...
+오늘, 여러분이 ...에 대해 생각하는 방식을
+바꿔드리겠습니다.
+
+By the end of this presentation, you&#039;ll
+never look at [topic] the same way again.
+이 발표가 끝나면, 여러분은 [주제]를
+다시는 같은 시각으로 보지 않을 거예요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-자기소개--주제-안내" tabindex="-1" data-src-line="90">3. 자기소개 + 주제 안내 <a class="header-anchor" href="#3-자기소개--주제-안내" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">My name is [Name], and I&#039;m the [role] at [company].
+저는 [이름]이고, [회사]의 [직책]을 맡고 있습니다.
+
+Today, I&#039;ll be talking about...
+오늘 저는 ...에 대해 말씀드리겠습니다.
+
+The focus of my presentation today is...
+오늘 발표의 초점은 ...입니다.
+
+What I want to explore with you today is...
+오늘 여러분과 함께 살펴보고 싶은 것은...
+
+I&#039;m here to share some insights on...
+...에 대한 몇 가지 인사이트를 공유하러 왔습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-구조-안내" tabindex="-1" data-src-line="111">4. 구조 안내 <a class="header-anchor" href="#4-구조-안내" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ve divided my talk into three parts.
+발표를 세 파트로 나눴습니다.
+
+I&#039;ll cover three main areas: [A], [B], and [C].
+세 가지 주요 영역을 다루겠습니다: [A], [B], [C].
+
+This will take about [X] minutes.
+약 [X]분 정도 걸릴 거예요.
+
+Please feel free to ask questions at the end.
+마지막에 자유롭게 질문해 주세요.
+
+I&#039;ll pause for questions after each section.
+각 섹션 이후에 질문 시간을 갖겠습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-데이터차트-설명-표현" tabindex="-1" data-src-line="132">5. 데이터·차트 설명 표현 <a class="header-anchor" href="#5-데이터차트-설명-표현" aria-hidden="true">#</a></h2>
+<h3 id="증가-표현" tabindex="-1" data-src-line="134">증가 표현 <a class="header-anchor" href="#증가-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The figures show a sharp increase.
+수치가 급격한 증가를 보여줍니다.
+
+Sales have risen significantly.
+매출이 크게 올랐습니다.
+
+There&#039;s been a dramatic spike in...
+...에서 급격한 급등이 있었습니다.
+
+The numbers have doubled / tripled.
+수치가 두 배 / 세 배가 됐습니다.
+
+We&#039;ve seen a steady upward trend.
+꾸준한 상승 추세를 보여왔습니다.
+</code></pre></div></code></pre>
+<h3 id="감소-표현" tabindex="-1" data-src-line="153">감소 표현 <a class="header-anchor" href="#감소-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The figures show a sharp decline.
+수치가 급격한 감소를 보여줍니다.
+
+Costs have dropped considerably.
+비용이 상당히 줄었습니다.
+
+There&#039;s been a significant dip in...
+...에서 상당한 하락이 있었습니다.
+
+We&#039;ve seen a gradual downward trend.
+점진적인 하락 추세를 보여왔습니다.
+</code></pre></div></code></pre>
+<h3 id="안정정체-표현" tabindex="-1" data-src-line="169">안정·정체 표현 <a class="header-anchor" href="#안정정체-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The figures have plateaued.
+수치가 정체됐습니다.
+
+Numbers have remained relatively stable.
+수치가 비교적 안정적으로 유지됐습니다.
+
+There&#039;s been little change overall.
+전반적으로 큰 변화가 없었습니다.
+</code></pre></div></code></pre>
+<h3 id="차트-지칭-표현" tabindex="-1" data-src-line="182">차트 지칭 표현 <a class="header-anchor" href="#차트-지칭-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">As you can see from this graph...
+이 그래프에서 보시다시피...
+
+If you look at the chart on the right...
+오른쪽 차트를 보시면...
+
+This slide shows...
+이 슬라이드는 ...을 보여줍니다.
+
+The blue bar represents...
+파란 막대는 ...을 나타냅니다.
+
+The key takeaway from this data is...
+이 데이터의 핵심 메시지는...
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-전환-표현-transitions" tabindex="-1" data-src-line="203">6. 전환 표현 (Transitions) <a class="header-anchor" href="#6-전환-표현-transitions" aria-hidden="true">#</a></h2>
+<p>프레젠테이션의 흐름을 자연스럽게 만드는 표현들입니다.</p>
+<h3 id="다음-섹션으로" tabindex="-1" data-src-line="207">다음 섹션으로 <a class="header-anchor" href="#다음-섹션으로" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Moving on to...
+...으로 넘어가겠습니다.
+
+Let&#039;s turn now to...
+이제 ...으로 전환하겠습니다.
+
+This brings me to my next point.
+이것이 다음 포인트로 이어집니다.
+
+Now that we&#039;ve covered [A], let&#039;s look at [B].
+[A]를 다뤘으니, 이제 [B]를 살펴보겠습니다.
+</code></pre></div></code></pre>
+<h3 id="앞서-언급한-내용-참조" tabindex="-1" data-src-line="223">앞서 언급한 내용 참조 <a class="header-anchor" href="#앞서-언급한-내용-참조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">As I mentioned earlier...
+앞서 언급했듯이...
+
+Going back to what I said about...
+...에 대해 제가 말씀드린 것으로 돌아가면...
+
+This ties in with our earlier discussion of...
+이것은 앞서 논의한 ...과 연관됩니다.
+</code></pre></div></code></pre>
+<h3 id="강조요점-정리" tabindex="-1" data-src-line="236">강조·요점 정리 <a class="header-anchor" href="#강조요점-정리" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The key point here is...
+여기서 핵심은...
+
+What&#039;s particularly important is...
+특히 중요한 것은...
+
+I&#039;d like to draw your attention to...
+...에 주목해 주시면 좋겠어요.
+
+This is the crux of the issue.
+이것이 문제의 핵심입니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-결론" tabindex="-1" data-src-line="254">7. 결론 <a class="header-anchor" href="#7-결론" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">To sum up...
+요약하면...
+
+In conclusion...
+결론적으로...
+
+Let me leave you with this thought:
+이 생각을 마지막으로 남겨드리겠습니다:
+
+The three key takeaways are...
+세 가지 핵심 메시지는...
+
+What I hope you&#039;ll take away from this is...
+여러분이 이것에서 가져가셨으면 하는 것은...
+
+Thank you for your attention.
+집중해주셔서 감사합니다.
+
+I&#039;m happy to take any questions.
+질문이 있으시면 받겠습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-qa-대처법" tabindex="-1" data-src-line="281">8. Q&amp;A 대처법 <a class="header-anchor" href="#8-qa-대처법" aria-hidden="true">#</a></h2>
+<h3 id="질문을-명확히-이해할-때" tabindex="-1" data-src-line="283">질문을 명확히 이해할 때 <a class="header-anchor" href="#질문을-명확히-이해할-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s a great question.
+좋은 질문이에요.
+
+If I understand your question correctly, you&#039;re asking...
+질문을 제대로 이해했다면, ...을 물으시는 건가요?
+
+Could you clarify what you mean by...?
+...이 어떤 의미인지 명확히 해주실 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="모르거나-확인이-필요할-때" tabindex="-1" data-src-line="296">모르거나 확인이 필요할 때 <a class="header-anchor" href="#모르거나-확인이-필요할-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s a great point — I&#039;ll need to check
+the exact figures and get back to you.
+좋은 포인트예요 — 정확한 수치를 확인하고 알려드릴게요.
+
+I don&#039;t have that data on hand right now,
+but I can follow up with you after.
+지금 당장 그 데이터가 없는데,
+이후에 연락드릴게요.
+
+I&#039;ll defer to my colleague on that.
+그 부분은 동료에게 넘기겠습니다.
+</code></pre></div></code></pre>
+<h3 id="논쟁적인-질문에-대응" tabindex="-1" data-src-line="312">논쟁적인 질문에 대응 <a class="header-anchor" href="#논쟁적인-질문에-대응" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I appreciate you raising that.
+그것을 제기해 주셔서 감사해요.
+
+That&#039;s a fair challenge.
+공정한 문제 제기예요.
+
+I understand why you might think that,
+but let me explain our reasoning.
+그렇게 생각하실 수 있다는 걸 이해해요,
+하지만 저희 논리를 설명해 드릴게요.
+</code></pre></div></code></pre>
+<h3 id="qa-마무리" tabindex="-1" data-src-line="327">Q&amp;A 마무리 <a class="header-anchor" href="#qa-마무리" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;re just about out of time.
+시간이 거의 다 됐어요.
+
+I&#039;ll take one more question.
+질문 하나 더 받겠습니다.
+
+For those with additional questions,
+I&#039;ll be available after.
+추가 질문이 있으신 분은 이후에 시간이 있어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-실전-2분-프레젠테이션-스크립트" tabindex="-1" data-src-line="343">9. 실전 2분 프레젠테이션 스크립트 <a class="header-anchor" href="#9-실전-2분-프레젠테이션-스크립트" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">&quot;Good afternoon, everyone.
+
+I want to start with a question:
+How many of you have lost a client because
+of a slow response time?
+
+[잠시 멈춤]
+
+According to our data, 67% of clients
+switch providers within two months of a poor
+service experience.
+
+Today, I&#039;ll be sharing three strategies
+that have helped us cut our response time
+by 40% — and retain more clients as a result.
+
+I&#039;ve broken this into three parts:
+the problem, our solution, and the results.
+
+So let&#039;s dive in.
+
+[본론 발표]
+
+To wrap up, the three key takeaways are:
+first, speed matters more than perfection;
+second, automation is your best friend;
+and third, a small improvement in response time
+can have a large impact on retention.
+
+Thank you for your time.
+I&#039;m happy to answer any questions.&quot;
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="381">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>프레젠테이션 영어의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① Hook으로 시작하세요:
+  질문·통계·짧은 이야기 — 첫 30초가 전부입니다.
+
+② 전환 표현으로 흐름을 만드세요:
+  &quot;Moving on to...&quot; / &quot;This brings me to...&quot;
+  → 자연스러운 전환이 전문성을 보여줍니다.
+
+③ Q&amp;A를 두려워하지 마세요:
+  모를 때는 &quot;I&#039;ll get back to you on that.&quot;
+  → 솔직하게 인정하는 것이 오히려 신뢰를 줍니다.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>비즈니스 협상·설득 영어</strong> — 협상의 5단계와<br>
+압박 없이 설득하는 기술을 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 3 — 비즈니스 영어]</strong></p>
+<ul>
+<li>11강: 비즈니스 회의 영어</li>
+<li><strong>12강</strong>: 비즈니스 프레젠테이션 ← 현재 글</li>
+<li>13강: 협상·설득 영어</li>
+<li>14강: 전화·영상통화 영어</li>
+<li>15강: 비즈니스 글쓰기 심화</li>
+</ul>
+</blockquote>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-25-review-roadmap","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english/english-lesson-19-email-english","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 19강: 비즈니스·일상 이메일 영어 완전 정복"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-11-meetings",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-11-meetings","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 11강: 비즈니스 회의 영어 완전 정복"}]}],["$","li","english-advanced/english-advanced-lesson-13-negotiation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-13-negotiation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 13강: 비즈니스 협상·설득 영어"}]}],["$","li","english-advanced/english-advanced-lesson-14-phone-calls",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-14-phone-calls","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 14강: 비즈니스 전화·영상통화 영어"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

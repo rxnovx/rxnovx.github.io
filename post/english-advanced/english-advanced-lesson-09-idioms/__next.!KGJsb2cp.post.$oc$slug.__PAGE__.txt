@@ -1,0 +1,297 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+a:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+b:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+e:I[484,[],"OutletBoundary"]
+f:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-09-idioms\"},\"headline\":\"중급 영어 9강: 관용 표현 심화 50 — 상황별 완전 정복\",\"description\":\"get the ball rolling, bite the bullet, bury the hatchet... 직장·일상·갈등·성공 상황별 관용 표현 50가지를 완전 정복합니다.\",\"datePublished\":\"2026-05-06T12:00:00.000Z\",\"dateModified\":\"2026-05-06T12:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-09-idioms\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"idioms\",\"vocabulary\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 9강: 관용 표현 심화 50 — 상황별 완전 정복","slugPath":"english-advanced/english-advanced-lesson-09-idioms","headings":[{"id":"중급-영어-9강-관용-표현-심화-50--상황별-완전-정복","text":"중급 영어 9강: 관용 표현 심화 50 — 상황별 완전 정복","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-직장비즈니스-관용어-15","text":"1. 직장·비즈니스 관용어 15","level":2},{"id":"get-the-ball-rolling--시작하다","text":"get the ball rolling — 시작하다","level":3},{"id":"on-the-same-page--같은-이해를-공유하다","text":"on the same page — 같은 이해를 공유하다","level":3},{"id":"the-bottom-line--핵심-결론","text":"the bottom line — 핵심, 결론","level":3},{"id":"think-outside-the-box--창의적으로-생각하다","text":"think outside the box — 창의적으로 생각하다","level":3},{"id":"bite-the-bullet--고통스럽지만-참고-해내다","text":"bite the bullet — 고통스럽지만 참고 해내다","level":3},{"id":"hit-the-ground-running--시작부터-전속력으로-달리다","text":"hit the ground running — 시작부터 전속력으로 달리다","level":3},{"id":"up-in-the-air--아직-결정되지-않다-불확실하다","text":"up in the air — 아직 결정되지 않다, 불확실하다","level":3},{"id":"cut-corners--대충-하다-절차를-생략하다","text":"cut corners — 대충 하다, 절차를 생략하다","level":3},{"id":"go-back-to-the-drawing-board--처음부터-다시-시작하다","text":"go back to the drawing board — 처음부터 다시 시작하다","level":3},{"id":"raise-the-bar--기준을-높이다","text":"raise the bar — 기준을 높이다","level":3},{"id":"move-the-goalposts--도중에-목표를-바꾸다","text":"move the goalposts — 도중에 목표를 바꾸다","level":3},{"id":"a-ballpark-figure--대략적인-숫자","text":"a ballpark figure — 대략적인 숫자","level":3},{"id":"in-the-pipeline--진행-중-준비-중","text":"in the pipeline — 진행 중, 준비 중","level":3},{"id":"behind-closed-doors--비공개로","text":"behind closed doors — 비공개로","level":3},{"id":"touch-base--간단히-연락하다","text":"touch base — 간단히 연락하다","level":3},{"id":"2-일상감정-관용어-15","text":"2. 일상·감정 관용어 15","level":2},{"id":"under-the-weather--몸이-좋지-않다","text":"under the weather — 몸이 좋지 않다","level":3},{"id":"its-not-the-end-of-the-world--세상이-끝난-건-아니다","text":"it's not the end of the world — 세상이 끝난 건 아니다","level":3},{"id":"once-in-a-blue-moon--아주-드물게","text":"once in a blue moon — 아주 드물게","level":3},{"id":"on-the-fence--망설이다-결정을-못-내리다","text":"on the fence — 망설이다, 결정을 못 내리다","level":3},{"id":"cost-an-arm-and-a-leg--매우-비싸다","text":"cost an arm and a leg — 매우 비싸다","level":3},{"id":"hit-the-nail-on-the-head--정확히-핵심을-찌르다","text":"hit the nail on the head — 정확히 핵심을 찌르다","level":3},{"id":"let-the-cat-out-of-the-bag--비밀을-누설하다","text":"let the cat out of the bag — 비밀을 누설하다","level":3},{"id":"bite-off-more-than-you-can-chew--감당할-수-없을-만큼-욕심내다","text":"bite off more than you can chew — 감당할 수 없을 만큼 욕심내다","level":3},{"id":"add-fuel-to-the-fire--상황을-더-악화시키다","text":"add fuel to the fire — 상황을 더 악화시키다","level":3},{"id":"a-blessing-in-disguise--알고-보면-다행인-일","text":"a blessing in disguise — 알고 보면 다행인 일","level":3},{"id":"on-thin-ice--위태로운-상황에-처하다","text":"on thin ice — 위태로운 상황에 처하다","level":3},{"id":"break-the-ice--어색한-분위기를-깨다","text":"break the ice — 어색한 분위기를 깨다","level":3},{"id":"the-last-straw--인내의-한계-결정타","text":"the last straw — 인내의 한계, 결정타","level":3},{"id":"spill-the-beans--비밀을-폭로하다","text":"spill the beans — 비밀을 폭로하다","level":3},{"id":"turn-a-blind-eye--모른-척하다","text":"turn a blind eye — 모른 척하다","level":3},{"id":"3-갈등해결-관용어-10","text":"3. 갈등·해결 관용어 10","level":2},{"id":"meet-halfway--타협하다-서로-양보하다","text":"meet halfway — 타협하다, 서로 양보하다","level":3},{"id":"bury-the-hatchet--화해하다-싸움을-끝내다","text":"bury the hatchet — 화해하다, 싸움을 끝내다","level":3},{"id":"clear-the-air--오해를-풀다-갈등을-해소하다","text":"clear the air — 오해를 풀다, 갈등을 해소하다","level":3},{"id":"water-under-the-bridge--지난-일-다-지나간-일","text":"water under the bridge — 지난 일, 다 지나간 일","level":3},{"id":"give-someone-the-benefit-of-the-doubt--의심스럽더라도-믿어주다","text":"give someone the benefit of the doubt — 의심스럽더라도 믿어주다","level":3},{"id":"sweep-something-under-the-rug--문제를-덮어두다","text":"sweep something under the rug — 문제를 덮어두다","level":3},{"id":"make-a-mountain-out-of-a-molehill--사소한-것을-크게-부풀리다","text":"make a mountain out of a molehill — 사소한 것을 크게 부풀리다","level":3},{"id":"a-storm-in-a-teacup--과장된-소동-영국식","text":"a storm in a teacup — 과장된 소동 (영국식)","level":3},{"id":"pour-oil-on-troubled-waters--갈등을-진정시키다","text":"pour oil on troubled waters — 갈등을 진정시키다","level":3},{"id":"let-sleeping-dogs-lie--건드리지-않는-게-낫다-긁어-부스럼","text":"let sleeping dogs lie — 건드리지 않는 게 낫다, 긁어 부스럼","level":3},{"id":"4-성공실패-관용어-10","text":"4. 성공·실패 관용어 10","level":2},{"id":"go-the-extra-mile--기대-이상으로-노력하다","text":"go the extra mile — 기대 이상으로 노력하다","level":3},{"id":"miss-the-boat--기회를-놓치다","text":"miss the boat — 기회를 놓치다","level":3},{"id":"on-the-right-track--올바른-방향으로-가고-있다","text":"on the right track — 올바른 방향으로 가고 있다","level":3},{"id":"a-shot-in-the-dark--될지-안-될지-모르는-시도","text":"a shot in the dark — 될지 안 될지 모르는 시도","level":3},{"id":"back-to-square-one--처음으로-돌아가다","text":"back to square one — 처음으로 돌아가다","level":3},{"id":"strike-while-the-iron-is-hot--기회가-있을-때-행동하다","text":"strike while the iron is hot — 기회가 있을 때 행동하다","level":3},{"id":"burn-your-bridges--뒤를-돌아볼-수-없게-만들다","text":"burn your bridges — 뒤를 돌아볼 수 없게 만들다","level":3},{"id":"the-tip-of-the-iceberg--빙산의-일각","text":"the tip of the iceberg — 빙산의 일각","level":3},{"id":"bite-the-dust--실패하다-망하다","text":"bite the dust — 실패하다, 망하다","level":3},{"id":"light-at-the-end-of-the-tunnel--어려운-상황-끝의-희망","text":"light at the end of the tunnel — 어려운 상황 끝의 희망","level":3},{"id":"5-실전-회화","text":"5. 실전 회화","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5","$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-09-idioms"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 9강: 관용 표현 심화 50 — 상황별 완전 정복"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"get the ball rolling, bite the bullet, bury the hatchet... 직장·일상·갈등·성공 상황별 관용 표현 50가지를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T12:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T12:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$La",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","idioms",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","idioms"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]]}]
+c:Taa43,<h1 id="중급-영어-9강-관용-표현-심화-50--상황별-완전-정복" tabindex="-1" data-src-line="1">중급 영어 9강: 관용 표현 심화 50 — 상황별 완전 정복 <a class="header-anchor" href="#중급-영어-9강-관용-표현-심화-50--상황별-완전-정복" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-9강-관용-표현-심화-50--상황별-완전-정복">중급 영어 9강: 관용 표현 심화 50 — 상황별 완전 정복 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-직장비즈니스-관용어-15">1. 직장·비즈니스 관용어 15 </a><ul><li><a href="#get-the-ball-rolling--시작하다">get the ball rolling — 시작하다 </a></li><li><a href="#on-the-same-page--같은-이해를-공유하다">on the same page — 같은 이해를 공유하다 </a></li><li><a href="#the-bottom-line--핵심-결론">the bottom line — 핵심, 결론 </a></li><li><a href="#think-outside-the-box--창의적으로-생각하다">think outside the box — 창의적으로 생각하다 </a></li><li><a href="#bite-the-bullet--고통스럽지만-참고-해내다">bite the bullet — 고통스럽지만 참고 해내다 </a></li><li><a href="#hit-the-ground-running--시작부터-전속력으로-달리다">hit the ground running — 시작부터 전속력으로 달리다 </a></li><li><a href="#up-in-the-air--아직-결정되지-않다-불확실하다">up in the air — 아직 결정되지 않다, 불확실하다 </a></li><li><a href="#cut-corners--대충-하다-절차를-생략하다">cut corners — 대충 하다, 절차를 생략하다 </a></li><li><a href="#go-back-to-the-drawing-board--처음부터-다시-시작하다">go back to the drawing board — 처음부터 다시 시작하다 </a></li><li><a href="#raise-the-bar--기준을-높이다">raise the bar — 기준을 높이다 </a></li><li><a href="#move-the-goalposts--도중에-목표를-바꾸다">move the goalposts — 도중에 목표를 바꾸다 </a></li><li><a href="#a-ballpark-figure--대략적인-숫자">a ballpark figure — 대략적인 숫자 </a></li><li><a href="#in-the-pipeline--진행-중-준비-중">in the pipeline — 진행 중, 준비 중 </a></li><li><a href="#behind-closed-doors--비공개로">behind closed doors — 비공개로 </a></li><li><a href="#touch-base--간단히-연락하다">touch base — 간단히 연락하다 </a></li></ul></li><li><a href="#2-일상감정-관용어-15">2. 일상·감정 관용어 15 </a><ul><li><a href="#under-the-weather--몸이-좋지-않다">under the weather — 몸이 좋지 않다 </a></li><li><a href="#its-not-the-end-of-the-world--세상이-끝난-건-아니다">it’s not the end of the world — 세상이 끝난 건 아니다 </a></li><li><a href="#once-in-a-blue-moon--아주-드물게">once in a blue moon — 아주 드물게 </a></li><li><a href="#on-the-fence--망설이다-결정을-못-내리다">on the fence — 망설이다, 결정을 못 내리다 </a></li><li><a href="#cost-an-arm-and-a-leg--매우-비싸다">cost an arm and a leg — 매우 비싸다 </a></li><li><a href="#hit-the-nail-on-the-head--정확히-핵심을-찌르다">hit the nail on the head — 정확히 핵심을 찌르다 </a></li><li><a href="#let-the-cat-out-of-the-bag--비밀을-누설하다">let the cat out of the bag — 비밀을 누설하다 </a></li><li><a href="#bite-off-more-than-you-can-chew--감당할-수-없을-만큼-욕심내다">bite off more than you can chew — 감당할 수 없을 만큼 욕심내다 </a></li><li><a href="#add-fuel-to-the-fire--상황을-더-악화시키다">add fuel to the fire — 상황을 더 악화시키다 </a></li><li><a href="#a-blessing-in-disguise--알고-보면-다행인-일">a blessing in disguise — 알고 보면 다행인 일 </a></li><li><a href="#on-thin-ice--위태로운-상황에-처하다">on thin ice — 위태로운 상황에 처하다 </a></li><li><a href="#break-the-ice--어색한-분위기를-깨다">break the ice — 어색한 분위기를 깨다 </a></li><li><a href="#the-last-straw--인내의-한계-결정타">the last straw — 인내의 한계, 결정타 </a></li><li><a href="#spill-the-beans--비밀을-폭로하다">spill the beans — 비밀을 폭로하다 </a></li><li><a href="#turn-a-blind-eye--모른-척하다">turn a blind eye — 모른 척하다 </a></li></ul></li><li><a href="#3-갈등해결-관용어-10">3. 갈등·해결 관용어 10 </a><ul><li><a href="#meet-halfway--타협하다-서로-양보하다">meet halfway — 타협하다, 서로 양보하다 </a></li><li><a href="#bury-the-hatchet--화해하다-싸움을-끝내다">bury the hatchet — 화해하다, 싸움을 끝내다 </a></li><li><a href="#clear-the-air--오해를-풀다-갈등을-해소하다">clear the air — 오해를 풀다, 갈등을 해소하다 </a></li><li><a href="#water-under-the-bridge--지난-일-다-지나간-일">water under the bridge — 지난 일, 다 지나간 일 </a></li><li><a href="#give-someone-the-benefit-of-the-doubt--의심스럽더라도-믿어주다">give someone the benefit of the doubt — 의심스럽더라도 믿어주다 </a></li><li><a href="#sweep-something-under-the-rug--문제를-덮어두다">sweep something under the rug — 문제를 덮어두다 </a></li><li><a href="#make-a-mountain-out-of-a-molehill--사소한-것을-크게-부풀리다">make a mountain out of a molehill — 사소한 것을 크게 부풀리다 </a></li><li><a href="#a-storm-in-a-teacup--과장된-소동-영국식">a storm in a teacup — 과장된 소동 (영국식) </a></li><li><a href="#pour-oil-on-troubled-waters--갈등을-진정시키다">pour oil on troubled waters — 갈등을 진정시키다 </a></li><li><a href="#let-sleeping-dogs-lie--건드리지-않는-게-낫다-긁어-부스럼">let sleeping dogs lie — 건드리지 않는 게 낫다, 긁어 부스럼 </a></li></ul></li><li><a href="#4-성공실패-관용어-10">4. 성공·실패 관용어 10 </a><ul><li><a href="#go-the-extra-mile--기대-이상으로-노력하다">go the extra mile — 기대 이상으로 노력하다 </a></li><li><a href="#miss-the-boat--기회를-놓치다">miss the boat — 기회를 놓치다 </a></li><li><a href="#on-the-right-track--올바른-방향으로-가고-있다">on the right track — 올바른 방향으로 가고 있다 </a></li><li><a href="#a-shot-in-the-dark--될지-안-될지-모르는-시도">a shot in the dark — 될지 안 될지 모르는 시도 </a></li><li><a href="#back-to-square-one--처음으로-돌아가다">back to square one — 처음으로 돌아가다 </a></li><li><a href="#strike-while-the-iron-is-hot--기회가-있을-때-행동하다">strike while the iron is hot — 기회가 있을 때 행동하다 </a></li><li><a href="#burn-your-bridges--뒤를-돌아볼-수-없게-만들다">burn your bridges — 뒤를 돌아볼 수 없게 만들다 </a></li><li><a href="#the-tip-of-the-iceberg--빙산의-일각">the tip of the iceberg — 빙산의 일각 </a></li><li><a href="#bite-the-dust--실패하다-망하다">bite the dust — 실패하다, 망하다 </a></li><li><a href="#light-at-the-end-of-the-tunnel--어려운-상황-끝의-희망">light at the end of the tunnel — 어려운 상황 끝의 희망 </a></li></ul></li><li><a href="#5-실전-회화">5. 실전 회화 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>관용 표현(Idiom)은 단어를 하나하나 해석하면 전혀 이해가 되지 않습니다.</p>
+<blockquote>
+<p>“Let’s get the ball rolling.”<br>
+(공을 굴리자? → 일을 시작하자!)</p>
+</blockquote>
+<blockquote>
+<p>“She’s under the weather.”<br>
+(날씨 아래? → 몸이 좋지 않다!)</p>
+</blockquote>
+<p>원어민이 자연스럽게 쓰는 관용 표현을 익히면, 영어가 단번에 한 차원 높아집니다.</p>
+<hr>
+<h2 id="1-직장비즈니스-관용어-15" tabindex="-1" data-src-line="19">1. 직장·비즈니스 관용어 15 <a class="header-anchor" href="#1-직장비즈니스-관용어-15" aria-hidden="true">#</a></h2>
+<h3 id="get-the-ball-rolling--시작하다" tabindex="-1" data-src-line="21">get the ball rolling — 시작하다 <a class="header-anchor" href="#get-the-ball-rolling--시작하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let&#039;s get the ball rolling on this project.
+이 프로젝트를 시작해봅시다.
+</code></pre></div></code></pre>
+<h3 id="on-the-same-page--같은-이해를-공유하다" tabindex="-1" data-src-line="28">on the same page — 같은 이해를 공유하다 <a class="header-anchor" href="#on-the-same-page--같은-이해를-공유하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are we all on the same page?
+우리 모두 같은 이해를 하고 있죠?
+
+I want to make sure we&#039;re on the same page before we proceed.
+진행 전에 같은 이해를 공유하고 싶어요.
+</code></pre></div></code></pre>
+<h3 id="the-bottom-line--핵심-결론" tabindex="-1" data-src-line="38">the bottom line — 핵심, 결론 <a class="header-anchor" href="#the-bottom-line--핵심-결론" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The bottom line is we need more funding.
+핵심은 더 많은 자금이 필요하다는 거예요.
+</code></pre></div></code></pre>
+<h3 id="think-outside-the-box--창의적으로-생각하다" tabindex="-1" data-src-line="45">think outside the box — 창의적으로 생각하다 <a class="header-anchor" href="#think-outside-the-box--창의적으로-생각하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to think outside the box here.
+여기서 창의적으로 생각해야 해요.
+</code></pre></div></code></pre>
+<h3 id="bite-the-bullet--고통스럽지만-참고-해내다" tabindex="-1" data-src-line="52">bite the bullet — 고통스럽지만 참고 해내다 <a class="header-anchor" href="#bite-the-bullet--고통스럽지만-참고-해내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;ll just have to bite the bullet and work the weekend.
+그냥 참고 주말에 일해야 할 것 같아요.
+</code></pre></div></code></pre>
+<h3 id="hit-the-ground-running--시작부터-전속력으로-달리다" tabindex="-1" data-src-line="59">hit the ground running — 시작부터 전속력으로 달리다 <a class="header-anchor" href="#hit-the-ground-running--시작부터-전속력으로-달리다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She hit the ground running in her new role.
+그녀는 새 역할에서 시작부터 빠르게 달렸어요.
+</code></pre></div></code></pre>
+<h3 id="up-in-the-air--아직-결정되지-않다-불확실하다" tabindex="-1" data-src-line="66">up in the air — 아직 결정되지 않다, 불확실하다 <a class="header-anchor" href="#up-in-the-air--아직-결정되지-않다-불확실하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The timeline is still up in the air.
+일정이 아직 결정되지 않았어요.
+</code></pre></div></code></pre>
+<h3 id="cut-corners--대충-하다-절차를-생략하다" tabindex="-1" data-src-line="73">cut corners — 대충 하다, 절차를 생략하다 <a class="header-anchor" href="#cut-corners--대충-하다-절차를-생략하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Don&#039;t cut corners on quality.
+품질에서 대충 하지 마세요.
+</code></pre></div></code></pre>
+<h3 id="go-back-to-the-drawing-board--처음부터-다시-시작하다" tabindex="-1" data-src-line="80">go back to the drawing board — 처음부터 다시 시작하다 <a class="header-anchor" href="#go-back-to-the-drawing-board--처음부터-다시-시작하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The proposal was rejected — we have to go back to the drawing board.
+제안이 거부됐어요 — 처음부터 다시 시작해야 해요.
+</code></pre></div></code></pre>
+<h3 id="raise-the-bar--기준을-높이다" tabindex="-1" data-src-line="87">raise the bar — 기준을 높이다 <a class="header-anchor" href="#raise-the-bar--기준을-높이다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This project really raises the bar.
+이 프로젝트가 기준을 정말 높여요.
+</code></pre></div></code></pre>
+<h3 id="move-the-goalposts--도중에-목표를-바꾸다" tabindex="-1" data-src-line="94">move the goalposts — 도중에 목표를 바꾸다 <a class="header-anchor" href="#move-the-goalposts--도중에-목표를-바꾸다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">They keep moving the goalposts.
+계속 목표를 바꾸네요.
+</code></pre></div></code></pre>
+<h3 id="a-ballpark-figure--대략적인-숫자" tabindex="-1" data-src-line="101">a ballpark figure — 대략적인 숫자 <a class="header-anchor" href="#a-ballpark-figure--대략적인-숫자" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can you give me a ballpark figure?
+대략적인 숫자를 알려줄 수 있어요?
+</code></pre></div></code></pre>
+<h3 id="in-the-pipeline--진행-중-준비-중" tabindex="-1" data-src-line="108">in the pipeline — 진행 중, 준비 중 <a class="header-anchor" href="#in-the-pipeline--진행-중-준비-중" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Several new products are in the pipeline.
+여러 신제품이 준비 중이에요.
+</code></pre></div></code></pre>
+<h3 id="behind-closed-doors--비공개로" tabindex="-1" data-src-line="115">behind closed doors — 비공개로 <a class="header-anchor" href="#behind-closed-doors--비공개로" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The decision was made behind closed doors.
+결정이 비공개로 이루어졌어요.
+</code></pre></div></code></pre>
+<h3 id="touch-base--간단히-연락하다" tabindex="-1" data-src-line="122">touch base — 간단히 연락하다 <a class="header-anchor" href="#touch-base--간단히-연락하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll touch base with you next week.
+다음 주에 연락드릴게요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-일상감정-관용어-15" tabindex="-1" data-src-line="131">2. 일상·감정 관용어 15 <a class="header-anchor" href="#2-일상감정-관용어-15" aria-hidden="true">#</a></h2>
+<h3 id="under-the-weather--몸이-좋지-않다" tabindex="-1" data-src-line="133">under the weather — 몸이 좋지 않다 <a class="header-anchor" href="#under-the-weather--몸이-좋지-않다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m feeling a bit under the weather today.
+오늘 몸이 좀 좋지 않아요.
+</code></pre></div></code></pre>
+<h3 id="its-not-the-end-of-the-world--세상이-끝난-건-아니다" tabindex="-1" data-src-line="140">it’s not the end of the world — 세상이 끝난 건 아니다 <a class="header-anchor" href="#its-not-the-end-of-the-world--세상이-끝난-건-아니다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You didn&#039;t get the job, but it&#039;s not the end of the world.
+취업은 못 했지만, 세상이 끝난 건 아니에요.
+</code></pre></div></code></pre>
+<h3 id="once-in-a-blue-moon--아주-드물게" tabindex="-1" data-src-line="147">once in a blue moon — 아주 드물게 <a class="header-anchor" href="#once-in-a-blue-moon--아주-드물게" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We only see each other once in a blue moon.
+우리는 아주 드물게 만나요.
+</code></pre></div></code></pre>
+<h3 id="on-the-fence--망설이다-결정을-못-내리다" tabindex="-1" data-src-line="154">on the fence — 망설이다, 결정을 못 내리다 <a class="header-anchor" href="#on-the-fence--망설이다-결정을-못-내리다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m still on the fence about whether to go.
+갈지 말지 아직 망설이고 있어요.
+</code></pre></div></code></pre>
+<h3 id="cost-an-arm-and-a-leg--매우-비싸다" tabindex="-1" data-src-line="161">cost an arm and a leg — 매우 비싸다 <a class="header-anchor" href="#cost-an-arm-and-a-leg--매우-비싸다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That car cost an arm and a leg.
+그 차 엄청 비쌌어요.
+</code></pre></div></code></pre>
+<h3 id="hit-the-nail-on-the-head--정확히-핵심을-찌르다" tabindex="-1" data-src-line="168">hit the nail on the head — 정확히 핵심을 찌르다 <a class="header-anchor" href="#hit-the-nail-on-the-head--정확히-핵심을-찌르다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You&#039;ve hit the nail on the head.
+정확히 핵심을 짚었어요.
+</code></pre></div></code></pre>
+<h3 id="let-the-cat-out-of-the-bag--비밀을-누설하다" tabindex="-1" data-src-line="175">let the cat out of the bag — 비밀을 누설하다 <a class="header-anchor" href="#let-the-cat-out-of-the-bag--비밀을-누설하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Who let the cat out of the bag?
+누가 비밀을 누설했어요?
+</code></pre></div></code></pre>
+<h3 id="bite-off-more-than-you-can-chew--감당할-수-없을-만큼-욕심내다" tabindex="-1" data-src-line="182">bite off more than you can chew — 감당할 수 없을 만큼 욕심내다 <a class="header-anchor" href="#bite-off-more-than-you-can-chew--감당할-수-없을-만큼-욕심내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I think I&#039;ve bitten off more than I can chew.
+너무 많은 걸 감당하려 한 것 같아요.
+</code></pre></div></code></pre>
+<h3 id="add-fuel-to-the-fire--상황을-더-악화시키다" tabindex="-1" data-src-line="189">add fuel to the fire — 상황을 더 악화시키다 <a class="header-anchor" href="#add-fuel-to-the-fire--상황을-더-악화시키다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Your comment just added fuel to the fire.
+당신의 말이 상황을 더 악화시켰어요.
+</code></pre></div></code></pre>
+<h3 id="a-blessing-in-disguise--알고-보면-다행인-일" tabindex="-1" data-src-line="196">a blessing in disguise — 알고 보면 다행인 일 <a class="header-anchor" href="#a-blessing-in-disguise--알고-보면-다행인-일" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Losing that job was a blessing in disguise.
+그 직업을 잃은 게 알고 보면 다행이었어요.
+</code></pre></div></code></pre>
+<h3 id="on-thin-ice--위태로운-상황에-처하다" tabindex="-1" data-src-line="203">on thin ice — 위태로운 상황에 처하다 <a class="header-anchor" href="#on-thin-ice--위태로운-상황에-처하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You&#039;re on thin ice with the manager right now.
+지금 매니저와 위태로운 상황이에요.
+</code></pre></div></code></pre>
+<h3 id="break-the-ice--어색한-분위기를-깨다" tabindex="-1" data-src-line="210">break the ice — 어색한 분위기를 깨다 <a class="header-anchor" href="#break-the-ice--어색한-분위기를-깨다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He told a joke to break the ice.
+그는 어색한 분위기를 깨기 위해 농담을 했어요.
+</code></pre></div></code></pre>
+<h3 id="the-last-straw--인내의-한계-결정타" tabindex="-1" data-src-line="217">the last straw — 인내의 한계, 결정타 <a class="header-anchor" href="#the-last-straw--인내의-한계-결정타" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That was the last straw — I quit.
+그게 결정타였어요 — 그만뒀어요.
+</code></pre></div></code></pre>
+<h3 id="spill-the-beans--비밀을-폭로하다" tabindex="-1" data-src-line="224">spill the beans — 비밀을 폭로하다 <a class="header-anchor" href="#spill-the-beans--비밀을-폭로하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Come on, spill the beans!
+어서 털어놔요!
+</code></pre></div></code></pre>
+<h3 id="turn-a-blind-eye--모른-척하다" tabindex="-1" data-src-line="231">turn a blind eye — 모른 척하다 <a class="header-anchor" href="#turn-a-blind-eye--모른-척하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Management turned a blind eye to the problem.
+경영진이 문제를 모른 척했어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-갈등해결-관용어-10" tabindex="-1" data-src-line="240">3. 갈등·해결 관용어 10 <a class="header-anchor" href="#3-갈등해결-관용어-10" aria-hidden="true">#</a></h2>
+<h3 id="meet-halfway--타협하다-서로-양보하다" tabindex="-1" data-src-line="242">meet halfway — 타협하다, 서로 양보하다 <a class="header-anchor" href="#meet-halfway--타협하다-서로-양보하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Can we meet halfway on this?
+이 부분에서 타협할 수 있을까요?
+</code></pre></div></code></pre>
+<h3 id="bury-the-hatchet--화해하다-싸움을-끝내다" tabindex="-1" data-src-line="249">bury the hatchet — 화해하다, 싸움을 끝내다 <a class="header-anchor" href="#bury-the-hatchet--화해하다-싸움을-끝내다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s time to bury the hatchet.
+이제 화해할 때예요.
+</code></pre></div></code></pre>
+<h3 id="clear-the-air--오해를-풀다-갈등을-해소하다" tabindex="-1" data-src-line="256">clear the air — 오해를 풀다, 갈등을 해소하다 <a class="header-anchor" href="#clear-the-air--오해를-풀다-갈등을-해소하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We need to sit down and clear the air.
+앉아서 오해를 풀어야 해요.
+</code></pre></div></code></pre>
+<h3 id="water-under-the-bridge--지난-일-다-지나간-일" tabindex="-1" data-src-line="263">water under the bridge — 지난 일, 다 지나간 일 <a class="header-anchor" href="#water-under-the-bridge--지난-일-다-지나간-일" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s all water under the bridge now.
+그건 이제 다 지나간 일이에요.
+</code></pre></div></code></pre>
+<h3 id="give-someone-the-benefit-of-the-doubt--의심스럽더라도-믿어주다" tabindex="-1" data-src-line="270">give someone the benefit of the doubt — 의심스럽더라도 믿어주다 <a class="header-anchor" href="#give-someone-the-benefit-of-the-doubt--의심스럽더라도-믿어주다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Let&#039;s give him the benefit of the doubt.
+일단 그를 믿어봅시다.
+</code></pre></div></code></pre>
+<h3 id="sweep-something-under-the-rug--문제를-덮어두다" tabindex="-1" data-src-line="277">sweep something under the rug — 문제를 덮어두다 <a class="header-anchor" href="#sweep-something-under-the-rug--문제를-덮어두다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We can&#039;t keep sweeping this under the rug.
+계속 이 문제를 덮어둘 수는 없어요.
+</code></pre></div></code></pre>
+<h3 id="make-a-mountain-out-of-a-molehill--사소한-것을-크게-부풀리다" tabindex="-1" data-src-line="284">make a mountain out of a molehill — 사소한 것을 크게 부풀리다 <a class="header-anchor" href="#make-a-mountain-out-of-a-molehill--사소한-것을-크게-부풀리다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You&#039;re making a mountain out of a molehill.
+사소한 일을 너무 크게 만들고 있어요.
+</code></pre></div></code></pre>
+<h3 id="a-storm-in-a-teacup--과장된-소동-영국식" tabindex="-1" data-src-line="291">a storm in a teacup — 과장된 소동 (영국식) <a class="header-anchor" href="#a-storm-in-a-teacup--과장된-소동-영국식" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It was just a storm in a teacup.
+그냥 과장된 소동이었어요.
+</code></pre></div></code></pre>
+<h3 id="pour-oil-on-troubled-waters--갈등을-진정시키다" tabindex="-1" data-src-line="298">pour oil on troubled waters — 갈등을 진정시키다 <a class="header-anchor" href="#pour-oil-on-troubled-waters--갈등을-진정시키다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She stepped in to pour oil on troubled waters.
+그녀가 갈등을 진정시키기 위해 나섰어요.
+</code></pre></div></code></pre>
+<h3 id="let-sleeping-dogs-lie--건드리지-않는-게-낫다-긁어-부스럼" tabindex="-1" data-src-line="305">let sleeping dogs lie — 건드리지 않는 게 낫다, 긁어 부스럼 <a class="header-anchor" href="#let-sleeping-dogs-lie--건드리지-않는-게-낫다-긁어-부스럼" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Just let sleeping dogs lie.
+그냥 건드리지 않는 게 나아요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-성공실패-관용어-10" tabindex="-1" data-src-line="314">4. 성공·실패 관용어 10 <a class="header-anchor" href="#4-성공실패-관용어-10" aria-hidden="true">#</a></h2>
+<h3 id="go-the-extra-mile--기대-이상으로-노력하다" tabindex="-1" data-src-line="316">go the extra mile — 기대 이상으로 노력하다 <a class="header-anchor" href="#go-the-extra-mile--기대-이상으로-노력하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She always goes the extra mile for her clients.
+그녀는 항상 고객을 위해 기대 이상으로 노력해요.
+</code></pre></div></code></pre>
+<h3 id="miss-the-boat--기회를-놓치다" tabindex="-1" data-src-line="323">miss the boat — 기회를 놓치다 <a class="header-anchor" href="#miss-the-boat--기회를-놓치다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">If we don&#039;t act now, we&#039;ll miss the boat.
+지금 행동하지 않으면 기회를 놓칠 거예요.
+</code></pre></div></code></pre>
+<h3 id="on-the-right-track--올바른-방향으로-가고-있다" tabindex="-1" data-src-line="330">on the right track — 올바른 방향으로 가고 있다 <a class="header-anchor" href="#on-the-right-track--올바른-방향으로-가고-있다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;re on the right track.
+우리는 올바른 방향으로 가고 있어요.
+</code></pre></div></code></pre>
+<h3 id="a-shot-in-the-dark--될지-안-될지-모르는-시도" tabindex="-1" data-src-line="337">a shot in the dark — 될지 안 될지 모르는 시도 <a class="header-anchor" href="#a-shot-in-the-dark--될지-안-될지-모르는-시도" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It was a shot in the dark, but it worked.
+될지 안 될지 몰랐는데, 됐어요.
+</code></pre></div></code></pre>
+<h3 id="back-to-square-one--처음으로-돌아가다" tabindex="-1" data-src-line="344">back to square one — 처음으로 돌아가다 <a class="header-anchor" href="#back-to-square-one--처음으로-돌아가다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The plan fell through — we&#039;re back to square one.
+계획이 무너졌어요 — 처음으로 돌아갔어요.
+</code></pre></div></code></pre>
+<h3 id="strike-while-the-iron-is-hot--기회가-있을-때-행동하다" tabindex="-1" data-src-line="351">strike while the iron is hot — 기회가 있을 때 행동하다 <a class="header-anchor" href="#strike-while-the-iron-is-hot--기회가-있을-때-행동하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You got the offer — strike while the iron is hot.
+제안을 받았으니 — 기회가 있을 때 행동하세요.
+</code></pre></div></code></pre>
+<h3 id="burn-your-bridges--뒤를-돌아볼-수-없게-만들다" tabindex="-1" data-src-line="358">burn your bridges — 뒤를 돌아볼 수 없게 만들다 <a class="header-anchor" href="#burn-your-bridges--뒤를-돌아볼-수-없게-만들다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Don&#039;t burn your bridges with your old employer.
+전 직장과의 관계를 완전히 끊지 마세요.
+</code></pre></div></code></pre>
+<h3 id="the-tip-of-the-iceberg--빙산의-일각" tabindex="-1" data-src-line="365">the tip of the iceberg — 빙산의 일각 <a class="header-anchor" href="#the-tip-of-the-iceberg--빙산의-일각" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This is just the tip of the iceberg.
+이건 그냥 빙산의 일각이에요.
+</code></pre></div></code></pre>
+<h3 id="bite-the-dust--실패하다-망하다" tabindex="-1" data-src-line="372">bite the dust — 실패하다, 망하다 <a class="header-anchor" href="#bite-the-dust--실패하다-망하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Another startup bites the dust.
+또 다른 스타트업이 망했어요.
+</code></pre></div></code></pre>
+<h3 id="light-at-the-end-of-the-tunnel--어려운-상황-끝의-희망" tabindex="-1" data-src-line="379">light at the end of the tunnel — 어려운 상황 끝의 희망 <a class="header-anchor" href="#light-at-the-end-of-the-tunnel--어려운-상황-끝의-희망" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I can finally see light at the end of the tunnel.
+이제 드디어 터널 끝의 빛이 보여요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-실전-회화" tabindex="-1" data-src-line="388">5. 실전 회화 <a class="header-anchor" href="#5-실전-회화" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Anna:  I think we&#039;ve bitten off more than we can chew
+       with this launch timeline.
+       이번 출시 일정으로 너무 많은 걸 감당하려 한 것 같아요.
+
+Mike:  I know. Everything is still up in the air
+       and we haven&#039;t even hit the ground running yet.
+       알아요. 모든 게 아직 불확실하고 시작부터 속도도 못 내고 있어요.
+
+Anna:  We need to bite the bullet and push the date back.
+       Going back to the drawing board now is better
+       than missing the boat entirely.
+       참고 날짜를 미뤄야 해요.
+       지금 처음부터 다시 시작하는 게 완전히 기회를 놓치는 것보다는 나아요.
+
+Mike:  You&#039;ve hit the nail on the head.
+       And the last thing we want is to cut corners
+       just to meet a deadline.
+       정확히 핵심을 짚었어요.
+       마감을 맞추기 위해 대충 하는 건 절대로 안 되죠.
+
+Anna:  Let&#039;s get on the same page with the team,
+       then touch base with the client.
+       팀과 같은 이해를 공유하고, 클라이언트에게 연락해요.
+
+Mike:  And this time, let&#039;s make sure
+       they can&#039;t move the goalposts on us.
+       이번엔 그들이 중간에 목표를 바꾸지 못하도록 합시다.
+
+Anna:  There&#039;s light at the end of the tunnel — I can feel it.
+       터널 끝의 빛이 보여요 — 느껴져요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="425">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 상황에 맞게 선택하세요:
+  비즈니스 → get the ball rolling, on the same page
+  감정 → under the weather, blessing in disguise
+  갈등 → bury the hatchet, clear the air
+  성공 → go the extra mile, strike while the iron is hot
+
+② 직역하지 마세요:
+  &quot;bite the bullet&quot; ≠ 총알을 깨물다
+  &quot;bite the bullet&quot; = 참고 해내다
+
+③ 한두 개씩 자연스럽게:
+  관용어를 너무 많이 쓰면 오히려 부자연스러워요.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>영어 유머와 위트</strong> — 말장난, 아이러니, 영어권 유머 코드를 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<ul>
+<li>9강: 관용 표현 심화 50 ← 현재 글</li>
+<li>10강: 영어 유머와 위트</li>
+</ul>
+</blockquote>
+4:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lb",null,{"content":"$c"}]}]}]
+5:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Ld",null,{"href":"/post/english/english-lesson-18-conditionals","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 18강: 가정법 완전 정복 — If + 현재 · 과거 · 과거완료"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-10-humor","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 10강: 영어 유머와 위트 — 농담하고 웃기는 법"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-08-phrasal-verbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]}],["$","li","english-advanced/english-advanced-lesson-07-british-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]}],["$","li","english-advanced/english-advanced-lesson-06-american-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Ld",null,{"href":"/post/english-advanced/english-advanced-lesson-06-american-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어"}]}]]}]]}]]}]
+6:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+7:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+9:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
+10:null

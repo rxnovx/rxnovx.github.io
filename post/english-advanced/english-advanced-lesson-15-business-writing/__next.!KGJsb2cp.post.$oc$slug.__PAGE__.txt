@@ -1,0 +1,296 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-15-business-writing\"},\"headline\":\"중급 영어 15강: 비즈니스 글쓰기 심화 — 보고서·제안서·요약\",\"description\":\"설득형·분석형 이메일, Executive Summary, 제안서 구조와 표현, 능동태 vs 수동태 전략까지 비즈니스 글쓰기를 완전 정복합니다.\",\"datePublished\":\"1970-01-01T00:00:00.000Z\",\"dateModified\":\"1970-01-01T00:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-15-business-writing\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"business\",\"writing\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 15강: 비즈니스 글쓰기 심화 — 보고서·제안서·요약","slugPath":"english-advanced/english-advanced-lesson-15-business-writing","headings":[{"id":"중급-영어-15강-비즈니스-글쓰기-심화--보고서제안서요약","text":"중급 영어 15강: 비즈니스 글쓰기 심화 — 보고서·제안서·요약","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-비즈니스-이메일-심화--설득형","text":"1. 비즈니스 이메일 심화 — 설득형","level":2},{"id":"구조","text":"구조","level":3},{"id":"설득형-이메일-표현","text":"설득형 이메일 표현","level":3},{"id":"2-보고서-작성--핵심-섹션별-표현","text":"2. 보고서 작성 — 핵심 섹션별 표현","level":2},{"id":"executive-summary-핵심-요약","text":"Executive Summary (핵심 요약)","level":3},{"id":"key-findings-주요-발견","text":"Key Findings (주요 발견)","level":3},{"id":"recommendations-권고사항","text":"Recommendations (권고사항)","level":3},{"id":"3-제안서-구조와-표현","text":"3. 제안서 구조와 표현","level":2},{"id":"제안서-핵심-표현","text":"제안서 핵심 표현","level":3},{"id":"4-능동태-vs-수동태-전략","text":"4. 능동태 vs 수동태 전략","level":2},{"id":"능동태--명확하고-강력함","text":"능동태 — 명확하고 강력함","level":3},{"id":"수동태--객관적이고-격식체","text":"수동태 — 객관적이고 격식체","level":3},{"id":"언제-어떤-것을","text":"언제 어떤 것을?","level":3},{"id":"5-데이터-기반-글쓰기-언어","text":"5. 데이터 기반 글쓰기 언어","level":2},{"id":"6-실전-한-페이지-비즈니스-제안서-샘플","text":"6. 실전: 한 페이지 비즈니스 제안서 샘플","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-15-business-writing"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 15강: 비즈니스 글쓰기 심화 — 보고서·제안서·요약"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"설득형·분석형 이메일, Executive Summary, 제안서 구조와 표현, 능동태 vs 수동태 전략까지 비즈니스 글쓰기를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"1970-01-01T00:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","1970년 1월 1일"]}],["$","time",null,{"dateTime":"1970-01-01T00:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","1970년 1월 1일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","business",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","business"]}],["$","span","writing",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","writing"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T41fb,<h1 id="중급-영어-15강-비즈니스-글쓰기-심화--보고서제안서요약" tabindex="-1" data-src-line="1">중급 영어 15강: 비즈니스 글쓰기 심화 — 보고서·제안서·요약 <a class="header-anchor" href="#중급-영어-15강-비즈니스-글쓰기-심화--보고서제안서요약" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-15강-비즈니스-글쓰기-심화--보고서제안서요약">중급 영어 15강: 비즈니스 글쓰기 심화 — 보고서·제안서·요약 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-비즈니스-이메일-심화--설득형">1. 비즈니스 이메일 심화 — 설득형 </a><ul><li><a href="#구조">구조 </a></li><li><a href="#설득형-이메일-표현">설득형 이메일 표현 </a></li></ul></li><li><a href="#2-보고서-작성--핵심-섹션별-표현">2. 보고서 작성 — 핵심 섹션별 표현 </a><ul><li><a href="#executive-summary-핵심-요약">Executive Summary (핵심 요약) </a></li><li><a href="#key-findings-주요-발견">Key Findings (주요 발견) </a></li><li><a href="#recommendations-권고사항">Recommendations (권고사항) </a></li></ul></li><li><a href="#3-제안서-구조와-표현">3. 제안서 구조와 표현 </a><ul><li><a href="#제안서-핵심-표현">제안서 핵심 표현 </a></li></ul></li><li><a href="#4-능동태-vs-수동태-전략">4. 능동태 vs 수동태 전략 </a><ul><li><a href="#능동태--명확하고-강력함">능동태 — 명확하고 강력함 </a></li><li><a href="#수동태--객관적이고-격식체">수동태 — 객관적이고 격식체 </a></li><li><a href="#언제-어떤-것을">언제 어떤 것을? </a></li></ul></li><li><a href="#5-데이터-기반-글쓰기-언어">5. 데이터 기반 글쓰기 언어 </a></li><li><a href="#6-실전-한-페이지-비즈니스-제안서-샘플">6. 실전: 한 페이지 비즈니스 제안서 샘플 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>비즈니스 글쓰기는 말하기와 다릅니다.<br>
+글은 남고, 읽히고, 판단받습니다.<br>
+명확하고 설득력 있는 비즈니스 영어 글쓰기는 커리어를 바꿀 수 있습니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>설득형·분석형 이메일을 구조적으로 쓸 수 있습니다.</li>
+<li>보고서의 핵심 섹션(Executive Summary, Findings, Recommendations)을 작성할 수 있습니다.</li>
+<li>제안서 구조와 표현을 익힐 수 있습니다.</li>
+<li>능동태·수동태를 전략적으로 선택할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-비즈니스-이메일-심화--설득형" tabindex="-1" data-src-line="19">1. 비즈니스 이메일 심화 — 설득형 <a class="header-anchor" href="#1-비즈니스-이메일-심화--설득형" aria-hidden="true">#</a></h2>
+<h3 id="구조" tabindex="-1" data-src-line="21">구조 <a class="header-anchor" href="#구조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. 목적 명확히 (첫 문장)
+2. 배경·근거
+3. 핵심 요청 또는 주장
+4. 이점·근거
+5. 명확한 행동 요청 (CTA)
+6. 마무리
+</code></pre></div></code></pre>
+<h3 id="설득형-이메일-표현" tabindex="-1" data-src-line="32">설득형 이메일 표현 <a class="header-anchor" href="#설득형-이메일-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【목적 제시】
+I&#039;m writing to propose...
+...을 제안드리기 위해 연락드립니다.
+
+I&#039;d like to bring to your attention...
+...에 대해 주목해주시기를 바랍니다.
+
+I believe there&#039;s an opportunity we should explore.
+저희가 탐색해야 할 기회가 있다고 생각합니다.
+
+【근거 제시】
+Based on our analysis, ...
+저희 분석에 따르면, ...
+
+The data suggests that...
+데이터에 따르면...
+
+As evidenced by..., we can see that...
+...에서 알 수 있듯이,...
+
+【요청】
+I&#039;d appreciate your feedback on this by...
+...까지 피드백 주시면 감사하겠습니다.
+
+Would you be available to discuss this further?
+이 부분을 더 논의할 시간이 있으신가요?
+
+I&#039;d welcome the opportunity to present this in person.
+직접 발표드릴 기회를 주시면 감사하겠습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-보고서-작성--핵심-섹션별-표현" tabindex="-1" data-src-line="68">2. 보고서 작성 — 핵심 섹션별 표현 <a class="header-anchor" href="#2-보고서-작성--핵심-섹션별-표현" aria-hidden="true">#</a></h2>
+<h3 id="executive-summary-핵심-요약" tabindex="-1" data-src-line="70">Executive Summary (핵심 요약) <a class="header-anchor" href="#executive-summary-핵심-요약" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This report examines...
+이 보고서는 ...을 검토합니다.
+
+The purpose of this report is to...
+이 보고서의 목적은 ...입니다.
+
+Key findings include...
+주요 발견 사항은 다음과 같습니다...
+
+This report recommends that...
+이 보고서는 ...을 권고합니다.
+
+In summary, the evidence strongly supports...
+요약하면, 증거는 ...을 강하게 지지합니다.
+</code></pre></div></code></pre>
+<h3 id="key-findings-주요-발견" tabindex="-1" data-src-line="89">Key Findings (주요 발견) <a class="header-anchor" href="#key-findings-주요-발견" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The analysis reveals that...
+분석 결과...이 드러났습니다.
+
+It was found that...
+...인 것으로 밝혀졌습니다.
+
+Notably, ...
+특히, ...
+
+The data indicates a significant increase/decrease in...
+데이터는 ...에서 상당한 증가/감소를 나타냅니다.
+
+This is consistent with the hypothesis that...
+이것은 ...라는 가설과 일치합니다.
+</code></pre></div></code></pre>
+<h3 id="recommendations-권고사항" tabindex="-1" data-src-line="108">Recommendations (권고사항) <a class="header-anchor" href="#recommendations-권고사항" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It is recommended that...
+...을 권고합니다.
+
+We strongly advise...
+...을 강하게 권고합니다.
+
+The following steps should be taken...
+다음 단계를 취해야 합니다...
+
+Priority should be given to...
+...에 우선순위를 두어야 합니다.
+
+Implementation should begin by...
+...까지 시행을 시작해야 합니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-제안서-구조와-표현" tabindex="-1" data-src-line="129">3. 제안서 구조와 표현 <a class="header-anchor" href="#3-제안서-구조와-표현" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. Executive Summary
+2. Problem Statement (문제 정의)
+3. Proposed Solution (제안 솔루션)
+4. Methodology (방법론)
+5. Timeline (일정)
+6. Budget (예산)
+7. About Us (소개)
+8. Call to Action (행동 요청)
+</code></pre></div></code></pre>
+<h3 id="제안서-핵심-표현" tabindex="-1" data-src-line="142">제안서 핵심 표현 <a class="header-anchor" href="#제안서-핵심-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【문제 정의】
+Currently, [company/industry] faces...
+현재, [회사/업계]는 ...에 직면해 있습니다.
+
+This challenge results in...
+이 문제는 ...을 초래합니다.
+
+Without addressing this, [consequence].
+이것을 해결하지 않으면, [결과].
+
+【솔루션 제시】
+We propose a solution that...
+저희는 ...하는 솔루션을 제안합니다.
+
+Our approach involves...
+저희 접근 방식은 ...을 포함합니다.
+
+This solution will deliver...
+이 솔루션은 ...을 제공합니다.
+
+【차별점 강조】
+What sets us apart is...
+저희의 차별점은 ...입니다.
+
+Unlike existing solutions, our approach...
+기존 솔루션과 달리, 저희 방식은...
+
+Our track record demonstrates...
+저희 실적이 입증하듯...
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-능동태-vs-수동태-전략" tabindex="-1" data-src-line="178">4. 능동태 vs 수동태 전략 <a class="header-anchor" href="#4-능동태-vs-수동태-전략" aria-hidden="true">#</a></h2>
+<p>비즈니스 글쓰기에서 능동태와 수동태는 각각 다른 효과를 냅니다.</p>
+<h3 id="능동태--명확하고-강력함" tabindex="-1" data-src-line="182">능동태 — 명확하고 강력함 <a class="header-anchor" href="#능동태--명확하고-강력함" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ We analyzed the data and found three key issues.
+   (저희가 데이터를 분석해 세 가지 핵심 문제를 발견했습니다.)
+
+✅ The team delivered the project on time.
+   (팀이 제때 프로젝트를 납품했습니다.)
+
+→ 책임 소재가 명확, 직접적, 읽기 쉬움
+</code></pre></div></code></pre>
+<h3 id="수동태--객관적이고-격식체" tabindex="-1" data-src-line="194">수동태 — 객관적이고 격식체 <a class="header-anchor" href="#수동태--객관적이고-격식체" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">✅ The data was analyzed and three key issues were identified.
+   (데이터가 분석됐고 세 가지 핵심 문제가 확인됐습니다.)
+
+✅ It is recommended that the project be reviewed.
+   (프로젝트 검토가 권고됩니다.)
+
+→ 책임 소재를 흐리거나, 객관성 강조, 공식 보고서에 적합
+</code></pre></div></code></pre>
+<h3 id="언제-어떤-것을" tabindex="-1" data-src-line="206">언제 어떤 것을? <a class="header-anchor" href="#언제-어떤-것을" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">능동태 사용:
+- 이메일 (특히 설득형)
+- 행동 요청
+- 명확한 의사 전달이 필요할 때
+
+수동태 사용:
+- 공식 보고서
+- 나쁜 소식을 부드럽게 전달할 때
+- 책임 소재보다 결과에 집중할 때
+- &quot;Mistakes were made.&quot; (= 누가 실수했는지 안 말하고)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-데이터-기반-글쓰기-언어" tabindex="-1" data-src-line="223">5. 데이터 기반 글쓰기 언어 <a class="header-anchor" href="#5-데이터-기반-글쓰기-언어" aria-hidden="true">#</a></h2>
+<p>차트·그래프를 설명하거나 수치를 인용할 때:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【증가】
+...increased by 20% / rose sharply / surged / climbed
+...jumped from X to Y / grew significantly
+
+【감소】
+...decreased by 15% / fell / dropped / declined
+...plummeted / dipped / contracted
+
+【유지·안정】
+...remained stable / held steady / plateaued
+...leveled off / showed little change
+
+【비교】
+Compared to last year, ...
+전년 대비, ...
+
+X outperformed Y by a significant margin.
+X가 Y를 상당히 앞질렀습니다.
+
+The results were broadly in line with expectations.
+결과는 대체로 기대에 부합했습니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-실전-한-페이지-비즈니스-제안서-샘플" tabindex="-1" data-src-line="253">6. 실전: 한 페이지 비즈니스 제안서 샘플 <a class="header-anchor" href="#6-실전-한-페이지-비즈니스-제안서-샘플" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">PROPOSAL: Digital Marketing Optimization
+제안서: 디지털 마케팅 최적화
+
+EXECUTIVE SUMMARY
+Our analysis identifies a significant opportunity
+to improve customer acquisition costs by 30%
+through targeted digital advertising optimization.
+This proposal outlines a three-month engagement
+with projected ROI of 4:1.
+
+핵심 요약
+저희 분석은 타겟 디지털 광고 최적화를 통해
+고객 획득 비용을 30% 개선할 수 있는 중요한 기회를
+확인했습니다. 이 제안서는 4:1의 예상 ROI를 목표로
+하는 3개월 계약을 개략적으로 설명합니다.
+
+PROBLEM STATEMENT
+Currently, your cost per acquisition stands at $85,
+which is 40% above the industry average of $52.
+This limits growth potential and reduces margin.
+
+문제 정의
+현재 귀사의 획득당 비용은 $85로, 업계 평균인 $52보다
+40% 높습니다. 이는 성장 가능성을 제한하고
+마진을 줄입니다.
+
+PROPOSED SOLUTION
+We will audit your current campaigns, restructure
+targeting parameters, and implement A/B testing
+across all major channels.
+
+제안 솔루션
+저희는 현재 캠페인을 감사하고, 타겟팅 매개변수를
+재구성하며, 모든 주요 채널에서 A/B 테스트를 시행할 것입니다.
+
+NEXT STEPS
+We&#039;d welcome the opportunity to discuss this proposal
+in detail. Please reach out to arrange a meeting
+at your earliest convenience.
+
+다음 단계
+이 제안서를 자세히 논의할 기회를 갖고 싶습니다.
+편하신 시간에 미팅 주선을 위해 연락 주시기 바랍니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="303">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>비즈니스 글쓰기의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 구조를 먼저:
+  목적 → 근거 → 요청 → 행동
+  → 읽는 사람이 다음에 무엇을 해야 할지 명확해야 합니다.
+
+② 능동태 기본, 수동태 전략적으로:
+  이메일·요청 → 능동태
+  보고서·권고 → 수동태도 적절
+
+③ 수치와 근거로 설득:
+  &quot;We should do this&quot; → 약함
+  &quot;Data shows a 30% improvement opportunity&quot; → 강함
+</code></pre></div></code></pre>
+<p>Part 3 완료! 다음 강에서는 <strong>스토리텔링 영어</strong> — 경험을 생생하게 전달하는 기술!</p>
+<hr>
+<blockquote>
+<p><strong>[Part 3 — 비즈니스 영어]</strong> 완료<br>
+<strong>[Part 4 — 일상 심화]</strong></p>
+<ul>
+<li><strong>15강</strong>: 비즈니스 글쓰기 심화 ← 현재 글</li>
+<li>16강: 스토리텔링 영어</li>
+</ul>
+</blockquote>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/japanese/japanese-lesson-08-giving-receiving","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"일본어 8강: 수수 표현 완전 정복 — あげます · もらいます · くれます"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-14-phone-calls","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 14강: 비즈니스 전화·영상통화 영어"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-11-meetings",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-11-meetings","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 11강: 비즈니스 회의 영어 완전 정복"}]}],["$","li","english-advanced/english-advanced-lesson-13-negotiation",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-13-negotiation","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 13강: 비즈니스 협상·설득 영어"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

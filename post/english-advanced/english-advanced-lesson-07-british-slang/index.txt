@@ -1,0 +1,830 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-c11cec732cf2eb2f.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/65a17ec2a8589358.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"ASSEgGrCfNQXYJ8AxNYxM","c":["","post","english-advanced","english-advanced-lesson-07-british-slang",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english-advanced/english-advanced-lesson-07-british-slang","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65a17ec2a8589358.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
+9:["$","$L7",null,{"href":"/privacy-policy","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Privacy"}]
+a:["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}],["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]]}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+13:["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-07-british-slang\"},\"headline\":\"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어\",\"description\":\"cheeky, dodgy, gutted, knackered... 영국 원어민이 매일 쓰는 슬랭 50가지와 미국 vs 영국 표현 차이 30가지를 완전 정복합니다.\",\"datePublished\":\"2026-05-06T10:00:00.000Z\",\"dateModified\":\"2026-05-06T10:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-07-british-slang\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"slang\",\"british-english\",\"vocabulary\",\"intermediate\"]}"}}],["$","$L1c",null,{"title":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어","slugPath":"english-advanced/english-advanced-lesson-07-british-slang","headings":[{"id":"중급-영어-7강-원어민-일상-슬랭-50--영국-영어","text":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-감정상태-슬랭","text":"1. 감정·상태 슬랭","level":2},{"id":"brilliant--훌륭하다-최고다-미국-awesome-great","text":"brilliant — 훌륭하다, 최고다 (미국: awesome, great)","level":3},{"id":"gutted--매우-실망하다-속이-뻥-뚫리다","text":"gutted — 매우 실망하다, 속이 뻥 뚫리다","level":3},{"id":"knackered--완전히-지쳤다-녹초가-되다","text":"knackered — 완전히 지쳤다, 녹초가 되다","level":3},{"id":"chuffed--매우-기쁘다-뿌듯하다","text":"chuffed — 매우 기쁘다, 뿌듯하다","level":3},{"id":"miffed--약간-기분이-상하다","text":"miffed — 약간 기분이 상하다","level":3},{"id":"gobsmacked--너무-놀라서-입을-다물지-못하다","text":"gobsmacked — 너무 놀라서 입을 다물지 못하다","level":3},{"id":"over-the-moon--너무-기쁘다--ecstatic","text":"over the moon — 너무 기쁘다 (= ecstatic)","level":3},{"id":"2-외모상태-묘사-슬랭","text":"2. 외모·상태 묘사 슬랭","level":2},{"id":"dodgy--수상하다-의심스럽다-별로다","text":"dodgy — 수상하다, 의심스럽다, 별로다","level":3},{"id":"sketchy--dodgy와-비슷-미국에서도-쓰임","text":"sketchy — dodgy와 비슷, 미국에서도 쓰임","level":3},{"id":"fit--매력적이다-외모--미국-영어의-hot에-해당","text":"fit — 매력적이다 (외모) — 미국 영어의 \"hot\"에 해당","level":3},{"id":"proper--진짜로-제대로-완전히-강조-부사로-쓰임","text":"proper — 진짜로, 제대로, 완전히 (강조 부사로 쓰임)","level":3},{"id":"well--매우-정말-강조-부사--미국의-really와-유사","text":"well — 매우, 정말 (강조 부사 — 미국의 really와 유사)","level":3},{"id":"3-사람-호칭-슬랭","text":"3. 사람 호칭 슬랭","level":2},{"id":"mate--친구-동료-가장-흔한-영국식-호칭","text":"mate — 친구, 동료 (가장 흔한 영국식 호칭)","level":3},{"id":"bloke--남자-사람--guy","text":"bloke — 남자, 사람 (= guy)","level":3},{"id":"lad--젊은-남자-친구--guy-dude","text":"lad — 젊은 남자, 친구 (= guy, dude)","level":3},{"id":"lass--젊은-여자-특히-북잉글랜드스코틀랜드","text":"lass — 젊은 여자 (특히 북잉글랜드·스코틀랜드)","level":3},{"id":"love--luv--친근한-호칭-성별-무관-특히-북잉글랜드","text":"love / luv — 친근한 호칭 (성별 무관, 특히 북잉글랜드)","level":3},{"id":"4-긍정동의-감탄사","text":"4. 긍정·동의 감탄사","level":2},{"id":"cheers--고마워-건배-잘가-다목적-표현","text":"cheers — 고마워, 건배, 잘가 (다목적 표현!)","level":3},{"id":"ta--고마워-thanks의-아주-비격식-버전","text":"ta — 고마워 (thanks의 아주 비격식 버전)","level":3},{"id":"sorted--해결됐다-준비됐다-알겠다","text":"sorted — 해결됐다, 준비됐다, 알겠다","level":3},{"id":"spot-on--정확히-맞다-완벽하다","text":"spot on — 정확히 맞다, 완벽하다","level":3},{"id":"bang-on--spot-on과-같은-의미","text":"bang on — spot on과 같은 의미","level":3},{"id":"5-부정불만-감탄사","text":"5. 부정·불만 감탄사","level":2},{"id":"bloody-hell--이런-맙소사-놀람불만-표현","text":"bloody hell — 이런, 맙소사 (놀람·불만 표현)","level":3},{"id":"rubbish--말도-안-되다-형편없다--nonsense--garbage","text":"rubbish — 말도 안 되다, 형편없다 (= nonsense / garbage)","level":3},{"id":"bollocks--말도-안-되다-rubbish보다-강한-표현-주의","text":"bollocks — 말도 안 되다 (rubbish보다 강한 표현, 주의)","level":3},{"id":"naff--촌스럽다-별로다","text":"naff — 촌스럽다, 별로다","level":3},{"id":"6-일상-표현-슬랭","text":"6. 일상 표현 슬랭","level":2},{"id":"cheeky--뻔뻔하다-건방지다-애정-어린-뉘앙스도-있음","text":"cheeky — 뻔뻔하다, 건방지다 (애정 어린 뉘앙스도 있음)","level":3},{"id":"fancy--원하다-좋아하다--want-like","text":"fancy — 원하다, 좋아하다 (= want, like)","level":3},{"id":"reckon--생각하다-추측하다--think","text":"reckon — 생각하다, 추측하다 (= think)","level":3},{"id":"innit--isnt-it의-축약--right-isnt-that-so","text":"innit — isn't it의 축약 (= right?, isn't that so?)","level":3},{"id":"ages--오랜-시간--a-long-time","text":"ages — 오랜 시간 (= a long time)","level":3},{"id":"cheeky-nandos--예상치-못한-외출즐거움의-비격식-표현","text":"cheeky Nando's — 예상치 못한 외출·즐거움의 비격식 표현","level":3},{"id":"7-런던-코크니-슬랭-맛보기","text":"7. 런던 코크니 슬랭 맛보기","level":2},{"id":"8-미국-영어-vs-영국-영어-표현-차이-30가지","text":"8. 미국 영어 vs 영국 영어 표현 차이 30가지","level":2},{"id":"9-영국식-유머과소평가-표현-understatement","text":"9. 영국식 유머·과소평가 표현 (Understatement)","level":2},{"id":"10-실전-회화--영국-드라마-스타일","text":"10. 실전 회화 — 영국 드라마 스타일","level":2},{"id":"슬랭-50-빠른-참조표","text":"슬랭 50 빠른 참조표","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L1d","$L1e","$L1f","$L20","$L21"]}]
+22:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+23:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+1d:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-07-british-slang"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"cheeky, dodgy, gutted, knackered... 영국 원어민이 매일 쓰는 슬랭 50가지와 미국 vs 영국 표현 차이 30가지를 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T10:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T10:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$L22",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","slang",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","slang"]}],["$","span","british-english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","british-english"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]]}],["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]]}]
+24:Ta0f5,<h1 id="중급-영어-7강-원어민-일상-슬랭-50--영국-영어" tabindex="-1" data-src-line="1">중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어 <a class="header-anchor" href="#중급-영어-7강-원어민-일상-슬랭-50--영국-영어" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-7강-원어민-일상-슬랭-50--영국-영어">중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-감정상태-슬랭">1. 감정·상태 슬랭 </a><ul><li><a href="#brilliant--훌륭하다-최고다-미국-awesome-great">brilliant — 훌륭하다, 최고다 (미국: awesome, great) </a></li><li><a href="#gutted--매우-실망하다-속이-뻥-뚫리다">gutted — 매우 실망하다, 속이 뻥 뚫리다 </a></li><li><a href="#knackered--완전히-지쳤다-녹초가-되다">knackered — 완전히 지쳤다, 녹초가 되다 </a></li><li><a href="#chuffed--매우-기쁘다-뿌듯하다">chuffed — 매우 기쁘다, 뿌듯하다 </a></li><li><a href="#miffed--약간-기분이-상하다">miffed — 약간 기분이 상하다 </a></li><li><a href="#gobsmacked--너무-놀라서-입을-다물지-못하다">gobsmacked — 너무 놀라서 입을 다물지 못하다 </a></li><li><a href="#over-the-moon--너무-기쁘다--ecstatic">over the moon — 너무 기쁘다 (= ecstatic) </a></li></ul></li><li><a href="#2-외모상태-묘사-슬랭">2. 외모·상태 묘사 슬랭 </a><ul><li><a href="#dodgy--수상하다-의심스럽다-별로다">dodgy — 수상하다, 의심스럽다, 별로다 </a></li><li><a href="#sketchy--dodgy와-비슷-미국에서도-쓰임">sketchy — dodgy와 비슷, 미국에서도 쓰임 </a></li><li><a href="#fit--매력적이다-외모--미국-영어의-hot에-해당">fit — 매력적이다 (외모) — 미국 영어의 &quot;hot&quot;에 해당 </a></li><li><a href="#proper--진짜로-제대로-완전히-강조-부사로-쓰임">proper — 진짜로, 제대로, 완전히 (강조 부사로 쓰임) </a></li><li><a href="#well--매우-정말-강조-부사--미국의-really와-유사">well — 매우, 정말 (강조 부사 — 미국의 really와 유사) </a></li></ul></li><li><a href="#3-사람-호칭-슬랭">3. 사람 호칭 슬랭 </a><ul><li><a href="#mate--친구-동료-가장-흔한-영국식-호칭">mate — 친구, 동료 (가장 흔한 영국식 호칭) </a></li><li><a href="#bloke--남자-사람--guy">bloke — 남자, 사람 (= guy) </a></li><li><a href="#lad--젊은-남자-친구--guy-dude">lad — 젊은 남자, 친구 (= guy, dude) </a></li><li><a href="#lass--젊은-여자-특히-북잉글랜드스코틀랜드">lass — 젊은 여자 (특히 북잉글랜드·스코틀랜드) </a></li><li><a href="#love--luv--친근한-호칭-성별-무관-특히-북잉글랜드">love / luv — 친근한 호칭 (성별 무관, 특히 북잉글랜드) </a></li></ul></li><li><a href="#4-긍정동의-감탄사">4. 긍정·동의 감탄사 </a><ul><li><a href="#cheers--고마워-건배-잘가-다목적-표현">cheers — 고마워, 건배, 잘가 (다목적 표현!) </a></li><li><a href="#ta--고마워-thanks의-아주-비격식-버전">ta — 고마워 (thanks의 아주 비격식 버전) </a></li><li><a href="#sorted--해결됐다-준비됐다-알겠다">sorted — 해결됐다, 준비됐다, 알겠다 </a></li><li><a href="#spot-on--정확히-맞다-완벽하다">spot on — 정확히 맞다, 완벽하다 </a></li><li><a href="#bang-on--spot-on과-같은-의미">bang on — spot on과 같은 의미 </a></li></ul></li><li><a href="#5-부정불만-감탄사">5. 부정·불만 감탄사 </a><ul><li><a href="#bloody-hell--이런-맙소사-놀람불만-표현">bloody hell — 이런, 맙소사 (놀람·불만 표현) </a></li><li><a href="#rubbish--말도-안-되다-형편없다--nonsense--garbage">rubbish — 말도 안 되다, 형편없다 (= nonsense / garbage) </a></li><li><a href="#bollocks--말도-안-되다-rubbish보다-강한-표현-주의">bollocks — 말도 안 되다 (rubbish보다 강한 표현, 주의) </a></li><li><a href="#naff--촌스럽다-별로다">naff — 촌스럽다, 별로다 </a></li></ul></li><li><a href="#6-일상-표현-슬랭">6. 일상 표현 슬랭 </a><ul><li><a href="#cheeky--뻔뻔하다-건방지다-애정-어린-뉘앙스도-있음">cheeky — 뻔뻔하다, 건방지다 (애정 어린 뉘앙스도 있음) </a></li><li><a href="#fancy--원하다-좋아하다--want-like">fancy — 원하다, 좋아하다 (= want, like) </a></li><li><a href="#reckon--생각하다-추측하다--think">reckon — 생각하다, 추측하다 (= think) </a></li><li><a href="#innit--isnt-it의-축약--right-isnt-that-so">innit — isn’t it의 축약 (= right?, isn’t that so?) </a></li><li><a href="#ages--오랜-시간--a-long-time">ages — 오랜 시간 (= a long time) </a></li><li><a href="#cheeky-nandos--예상치-못한-외출즐거움의-비격식-표현">cheeky Nando’s — 예상치 못한 외출·즐거움의 비격식 표현 </a></li></ul></li><li><a href="#7-런던-코크니-슬랭-맛보기">7. 런던 코크니 슬랭 맛보기 </a></li><li><a href="#8-미국-영어-vs-영국-영어-표현-차이-30가지">8. 미국 영어 vs 영국 영어 표현 차이 30가지 </a></li><li><a href="#9-영국식-유머과소평가-표현-understatement">9. 영국식 유머·과소평가 표현 (Understatement) </a></li><li><a href="#10-실전-회화--영국-드라마-스타일">10. 실전 회화 — 영국 드라마 스타일 </a></li><li><a href="#슬랭-50-빠른-참조표">슬랭 50 빠른 참조표 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>영국 드라마를 보다가 이런 표현에 막힌 적 있으신가요?</p>
+<blockquote>
+<p>“That was absolutely brilliant, mate.”<br>
+“I’m absolutely knackered.”<br>
+“Don’t be so cheeky!”<br>
+“That’s well dodgy, innit?”</p>
+</blockquote>
+<p>영국 영어는 미국 영어와 같은 언어이지만, 슬랭과 표현 방식에서 <strong>완전히 다른 세계</strong>입니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>영국 일상 슬랭 50가지를 이해하고 쓸 수 있습니다.</li>
+<li>영국식 감탄사와 호칭 표현을 자연스럽게 쓸 수 있습니다.</li>
+<li>미국 vs 영국 표현 차이 30가지를 구분할 수 있습니다.</li>
+<li>영국 드라마·영화 표현을 훨씬 잘 이해할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-감정상태-슬랭" tabindex="-1" data-src-line="24">1. 감정·상태 슬랭 <a class="header-anchor" href="#1-감정상태-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="brilliant--훌륭하다-최고다-미국-awesome-great" tabindex="-1" data-src-line="26">brilliant — 훌륭하다, 최고다 (미국: awesome, great) <a class="header-anchor" href="#brilliant--훌륭하다-최고다-미국-awesome-great" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s brilliant!
+그거 훌륭한데!
+
+She&#039;s a brilliant teacher.
+그녀는 정말 훌륭한 선생님이에요.
+</code></pre></div></code></pre>
+<h3 id="gutted--매우-실망하다-속이-뻥-뚫리다" tabindex="-1" data-src-line="36">gutted — 매우 실망하다, 속이 뻥 뚫리다 <a class="header-anchor" href="#gutted--매우-실망하다-속이-뻥-뚫리다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was absolutely gutted when we lost.
+우리가 졌을 때 정말 속상했어요.
+
+She&#039;s gutted she didn&#039;t get the job.
+취업 못 해서 너무 실망했어요.
+</code></pre></div></code></pre>
+<h3 id="knackered--완전히-지쳤다-녹초가-되다" tabindex="-1" data-src-line="46">knackered — 완전히 지쳤다, 녹초가 되다 <a class="header-anchor" href="#knackered--완전히-지쳤다-녹초가-되다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m absolutely knackered.
+완전히 녹초가 됐어요.
+
+The kids knackered me out.
+아이들 때문에 완전 지쳤어요.
+</code></pre></div></code></pre>
+<h3 id="chuffed--매우-기쁘다-뿌듯하다" tabindex="-1" data-src-line="56">chuffed — 매우 기쁘다, 뿌듯하다 <a class="header-anchor" href="#chuffed--매우-기쁘다-뿌듯하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m chuffed to bits!
+너무너무 기뻐요!
+
+He was well chuffed with the result.
+그는 결과에 정말 뿌듯해했어요.
+</code></pre></div></code></pre>
+<h3 id="miffed--약간-기분이-상하다" tabindex="-1" data-src-line="66">miffed — 약간 기분이 상하다 <a class="header-anchor" href="#miffed--약간-기분이-상하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was a bit miffed that nobody told me.
+아무도 알려주지 않아서 좀 기분이 상했어요.
+</code></pre></div></code></pre>
+<h3 id="gobsmacked--너무-놀라서-입을-다물지-못하다" tabindex="-1" data-src-line="73">gobsmacked — 너무 놀라서 입을 다물지 못하다 <a class="header-anchor" href="#gobsmacked--너무-놀라서-입을-다물지-못하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I was absolutely gobsmacked.
+완전히 할 말을 잃었어요.
+(gob = 영국 속어로 &#039;입&#039;)
+</code></pre></div></code></pre>
+<h3 id="over-the-moon--너무-기쁘다--ecstatic" tabindex="-1" data-src-line="81">over the moon — 너무 기쁘다 (= ecstatic) <a class="header-anchor" href="#over-the-moon--너무-기쁘다--ecstatic" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She was over the moon when she heard the news.
+그 소식을 듣고 너무나 기뻐했어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-외모상태-묘사-슬랭" tabindex="-1" data-src-line="90">2. 외모·상태 묘사 슬랭 <a class="header-anchor" href="#2-외모상태-묘사-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="dodgy--수상하다-의심스럽다-별로다" tabindex="-1" data-src-line="92">dodgy — 수상하다, 의심스럽다, 별로다 <a class="header-anchor" href="#dodgy--수상하다-의심스럽다-별로다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That looks a bit dodgy to me.
+나한테는 좀 수상해 보여요.
+
+I had a dodgy kebab last night.
+어젯밤에 별로인 케밥을 먹었어요.
+
+He&#039;s a dodgy bloke.
+그 사람 좀 수상해요.
+</code></pre></div></code></pre>
+<h3 id="sketchy--dodgy와-비슷-미국에서도-쓰임" tabindex="-1" data-src-line="105">sketchy — dodgy와 비슷, 미국에서도 쓰임 <a class="header-anchor" href="#sketchy--dodgy와-비슷-미국에서도-쓰임" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That area is a bit sketchy at night.
+그 지역은 밤에 좀 위험해요.
+</code></pre></div></code></pre>
+<h3 id="fit--매력적이다-외모--미국-영어의-hot에-해당" tabindex="-1" data-src-line="112">fit — 매력적이다 (외모) — 미국 영어의 &quot;hot&quot;에 해당 <a class="header-anchor" href="#fit--매력적이다-외모--미국-영어의-hot에-해당" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s well fit.
+그 사람 정말 매력 있어.
+(주의: 미국에서 fit = 건강한, 영국에서 fit = 매력적)
+</code></pre></div></code></pre>
+<h3 id="proper--진짜로-제대로-완전히-강조-부사로-쓰임" tabindex="-1" data-src-line="120">proper — 진짜로, 제대로, 완전히 (강조 부사로 쓰임) <a class="header-anchor" href="#proper--진짜로-제대로-완전히-강조-부사로-쓰임" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s proper good.
+그거 진짜 좋다.
+
+She&#039;s a proper laugh.
+그녀는 진짜 재미있는 사람이야.
+
+I proper messed up.
+제대로 망쳤어.
+</code></pre></div></code></pre>
+<h3 id="well--매우-정말-강조-부사--미국의-really와-유사" tabindex="-1" data-src-line="133">well — 매우, 정말 (강조 부사 — 미국의 really와 유사) <a class="header-anchor" href="#well--매우-정말-강조-부사--미국의-really와-유사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s well good.
+그거 정말 좋다.
+
+She&#039;s well clever.
+그녀 진짜 똑똑해.
+
+I&#039;m well annoyed.
+나 진짜 짜증나.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-사람-호칭-슬랭" tabindex="-1" data-src-line="148">3. 사람 호칭 슬랭 <a class="header-anchor" href="#3-사람-호칭-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="mate--친구-동료-가장-흔한-영국식-호칭" tabindex="-1" data-src-line="150">mate — 친구, 동료 (가장 흔한 영국식 호칭) <a class="header-anchor" href="#mate--친구-동료-가장-흔한-영국식-호칭" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Alright, mate?
+잘 지내요?
+
+Cheers, mate!
+고마워요, 친구!
+
+I told my mates about it.
+친구들한테 얘기했어요.
+</code></pre></div></code></pre>
+<h3 id="bloke--남자-사람--guy" tabindex="-1" data-src-line="163">bloke — 남자, 사람 (= guy) <a class="header-anchor" href="#bloke--남자-사람--guy" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s a really nice bloke.
+그 사람 정말 좋은 사람이에요.
+
+Some bloke was asking about you.
+어떤 남자가 당신에 대해 물어봤어요.
+</code></pre></div></code></pre>
+<h3 id="lad--젊은-남자-친구--guy-dude" tabindex="-1" data-src-line="173">lad — 젊은 남자, 친구 (= guy, dude) <a class="header-anchor" href="#lad--젊은-남자-친구--guy-dude" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s one of the lads.
+그는 우리 무리 중 한 명이에요.
+
+Lads, we need to talk.
+야, 우리 얘기 좀 해야 해.
+</code></pre></div></code></pre>
+<h3 id="lass--젊은-여자-특히-북잉글랜드스코틀랜드" tabindex="-1" data-src-line="183">lass — 젊은 여자 (특히 북잉글랜드·스코틀랜드) <a class="header-anchor" href="#lass--젊은-여자-특히-북잉글랜드스코틀랜드" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She&#039;s a lovely lass.
+그녀는 사랑스러운 아가씨예요.
+</code></pre></div></code></pre>
+<h3 id="love--luv--친근한-호칭-성별-무관-특히-북잉글랜드" tabindex="-1" data-src-line="190">love / luv — 친근한 호칭 (성별 무관, 특히 북잉글랜드) <a class="header-anchor" href="#love--luv--친근한-호칭-성별-무관-특히-북잉글랜드" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">What can I get you, love?
+뭐 드릴까요? (카페·상점 등에서 친근하게)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-긍정동의-감탄사" tabindex="-1" data-src-line="199">4. 긍정·동의 감탄사 <a class="header-anchor" href="#4-긍정동의-감탄사" aria-hidden="true">#</a></h2>
+<h3 id="cheers--고마워-건배-잘가-다목적-표현" tabindex="-1" data-src-line="201">cheers — 고마워, 건배, 잘가 (다목적 표현!) <a class="header-anchor" href="#cheers--고마워-건배-잘가-다목적-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Cheers for the help!
+도와줘서 고마워!
+
+Cheers! (건배할 때)
+건배!
+
+Cheers, see you later.
+고마워, 나중에 봐.
+</code></pre></div></code></pre>
+<h3 id="ta--고마워-thanks의-아주-비격식-버전" tabindex="-1" data-src-line="214">ta — 고마워 (thanks의 아주 비격식 버전) <a class="header-anchor" href="#ta--고마워-thanks의-아주-비격식-버전" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Ta very much!
+정말 고마워!
+</code></pre></div></code></pre>
+<h3 id="sorted--해결됐다-준비됐다-알겠다" tabindex="-1" data-src-line="221">sorted — 해결됐다, 준비됐다, 알겠다 <a class="header-anchor" href="#sorted--해결됐다-준비됐다-알겠다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Don&#039;t worry, it&#039;s all sorted.
+걱정 마, 다 해결됐어.
+
+Are we sorted for tonight?
+오늘 밤 준비 다 됐어?
+
+Sorted! (= Got it! / Done!)
+됐어! / 해결!
+</code></pre></div></code></pre>
+<h3 id="spot-on--정확히-맞다-완벽하다" tabindex="-1" data-src-line="234">spot on — 정확히 맞다, 완벽하다 <a class="header-anchor" href="#spot-on--정확히-맞다-완벽하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Your analysis was spot on.
+분석이 정확했어요.
+
+That&#039;s spot on!
+딱 맞아!
+</code></pre></div></code></pre>
+<h3 id="bang-on--spot-on과-같은-의미" tabindex="-1" data-src-line="244">bang on — spot on과 같은 의미 <a class="header-anchor" href="#bang-on--spot-on과-같은-의미" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s bang on.
+그거 정확해.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-부정불만-감탄사" tabindex="-1" data-src-line="253">5. 부정·불만 감탄사 <a class="header-anchor" href="#5-부정불만-감탄사" aria-hidden="true">#</a></h2>
+<h3 id="bloody-hell--이런-맙소사-놀람불만-표현" tabindex="-1" data-src-line="255">bloody hell — 이런, 맙소사 (놀람·불만 표현) <a class="header-anchor" href="#bloody-hell--이런-맙소사-놀람불만-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Bloody hell, that was close!
+맙소사, 아슬아슬했다!
+
+Bloody hell, it&#039;s cold out there.
+이런, 밖이 너무 춥네.
+</code></pre></div></code></pre>
+<h3 id="rubbish--말도-안-되다-형편없다--nonsense--garbage" tabindex="-1" data-src-line="265">rubbish — 말도 안 되다, 형편없다 (= nonsense / garbage) <a class="header-anchor" href="#rubbish--말도-안-되다-형편없다--nonsense--garbage" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s absolute rubbish!
+그건 완전 말도 안 되는 소리야!
+
+The movie was rubbish.
+그 영화 형편없었어.
+
+Don&#039;t talk rubbish.
+말도 안 되는 소리 하지 마.
+</code></pre></div></code></pre>
+<h3 id="bollocks--말도-안-되다-rubbish보다-강한-표현-주의" tabindex="-1" data-src-line="278">bollocks — 말도 안 되다 (rubbish보다 강한 표현, 주의) <a class="header-anchor" href="#bollocks--말도-안-되다-rubbish보다-강한-표현-주의" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s complete bollocks.
+그건 완전 헛소리야.
+(비격식, 강한 표현 — 상황 가려 사용)
+</code></pre></div></code></pre>
+<h3 id="naff--촌스럽다-별로다" tabindex="-1" data-src-line="286">naff — 촌스럽다, 별로다 <a class="header-anchor" href="#naff--촌스럽다-별로다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s a bit naff, isn&#039;t it?
+그거 좀 촌스럽지 않아요?
+
+What a naff idea.
+정말 별로인 아이디어야.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-일상-표현-슬랭" tabindex="-1" data-src-line="298">6. 일상 표현 슬랭 <a class="header-anchor" href="#6-일상-표현-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="cheeky--뻔뻔하다-건방지다-애정-어린-뉘앙스도-있음" tabindex="-1" data-src-line="300">cheeky — 뻔뻔하다, 건방지다 (애정 어린 뉘앙스도 있음) <a class="header-anchor" href="#cheeky--뻔뻔하다-건방지다-애정-어린-뉘앙스도-있음" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You cheeky thing!
+이 뻔뻔한 녀석!
+
+A cheeky little smile.
+능글맞은 미소.
+
+That was a bit cheeky of you.
+그건 좀 뻔뻔했어요.
+
+I&#039;ll have a cheeky biscuit.
+(몰래) 비스킷 하나만 먹을게요.
+</code></pre></div></code></pre>
+<h3 id="fancy--원하다-좋아하다--want-like" tabindex="-1" data-src-line="316">fancy — 원하다, 좋아하다 (= want, like) <a class="header-anchor" href="#fancy--원하다-좋아하다--want-like" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Do you fancy a cup of tea?
+차 한 잔 마실래요?
+
+I fancy going out tonight.
+오늘 밤 나가고 싶어요.
+
+She fancies him.
+그녀는 그를 좋아해요.
+</code></pre></div></code></pre>
+<h3 id="reckon--생각하다-추측하다--think" tabindex="-1" data-src-line="329">reckon — 생각하다, 추측하다 (= think) <a class="header-anchor" href="#reckon--생각하다-추측하다--think" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I reckon it&#039;ll rain later.
+나중에 비 올 것 같아.
+
+What do you reckon?
+어떻게 생각해요?
+</code></pre></div></code></pre>
+<h3 id="innit--isnt-it의-축약--right-isnt-that-so" tabindex="-1" data-src-line="339">innit — isn’t it의 축약 (= right?, isn’t that so?) <a class="header-anchor" href="#innit--isnt-it의-축약--right-isnt-that-so" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s well good, innit?
+그거 진짜 좋지?
+
+It&#039;s cold today, innit?
+오늘 춥지?
+</code></pre></div></code></pre>
+<h3 id="ages--오랜-시간--a-long-time" tabindex="-1" data-src-line="349">ages — 오랜 시간 (= a long time) <a class="header-anchor" href="#ages--오랜-시간--a-long-time" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I haven&#039;t seen you in ages!
+정말 오래간만이에요!
+
+That took ages.
+그거 엄청 오래 걸렸어요.
+</code></pre></div></code></pre>
+<h3 id="cheeky-nandos--예상치-못한-외출즐거움의-비격식-표현" tabindex="-1" data-src-line="359">cheeky Nando’s — 예상치 못한 외출·즐거움의 비격식 표현 <a class="header-anchor" href="#cheeky-nandos--예상치-못한-외출즐거움의-비격식-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Fancy a cheeky Nando&#039;s?
+나도 모르게 Nando&#039;s(영국 식당) 한번 갈래?
+(= 즉흥적인 외출 제안)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-런던-코크니-슬랭-맛보기" tabindex="-1" data-src-line="369">7. 런던 코크니 슬랭 맛보기 <a class="header-anchor" href="#7-런던-코크니-슬랭-맛보기" aria-hidden="true">#</a></h2>
+<p>코크니(Cockney)는 런던 이스트엔드의 방언으로, 단어를 운율로 치환하는 특이한 슬랭 시스템입니다.</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">plates (of meat) = feet (발)
+&quot;My plates are killing me.&quot; → 발이 너무 아파.
+
+apples (and pears) = stairs (계단)
+&quot;I&#039;m going up the apples.&quot; → 계단 올라갈게.
+
+dog (and bone) = phone (전화)
+&quot;He&#039;s on the dog.&quot; → 전화 중이에요.
+
+bread (and honey) = money (돈)
+&quot;I need more bread.&quot; → 돈이 더 필요해.
+
+butcher&#039;s (hook) = look (보다)
+&quot;Have a butcher&#039;s at this.&quot; → 이거 한번 봐봐.
+
+mate → 줄여서 쓰이지 않고 그대로 mate
+</code></pre></div></code></pre>
+<hr>
+<h2 id="8-미국-영어-vs-영국-영어-표현-차이-30가지" tabindex="-1" data-src-line="394">8. 미국 영어 vs 영국 영어 표현 차이 30가지 <a class="header-anchor" href="#8-미국-영어-vs-영국-영어-표현-차이-30가지" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">미국 영어</th>
+<th scope="col">영국 영어</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>apartment</td>
+<td>flat</td>
+<td>아파트</td>
+</tr>
+<tr>
+<td>elevator</td>
+<td>lift</td>
+<td>엘리베이터</td>
+</tr>
+<tr>
+<td>subway</td>
+<td>underground / tube</td>
+<td>지하철</td>
+</tr>
+<tr>
+<td>trash / garbage</td>
+<td>rubbish / bin</td>
+<td>쓰레기</td>
+</tr>
+<tr>
+<td>cookie</td>
+<td>biscuit</td>
+<td>쿠키</td>
+</tr>
+<tr>
+<td>chips</td>
+<td>crisps</td>
+<td>감자칩</td>
+</tr>
+<tr>
+<td>french fries</td>
+<td>chips</td>
+<td>감자튀김</td>
+</tr>
+<tr>
+<td>candy</td>
+<td>sweets</td>
+<td>사탕</td>
+</tr>
+<tr>
+<td>gas (station)</td>
+<td>petrol (station)</td>
+<td>주유소</td>
+</tr>
+<tr>
+<td>truck</td>
+<td>lorry</td>
+<td>트럭</td>
+</tr>
+<tr>
+<td>pants</td>
+<td>trousers</td>
+<td>바지</td>
+</tr>
+<tr>
+<td>underwear / underpants</td>
+<td>pants</td>
+<td>속옷</td>
+</tr>
+<tr>
+<td>sweater</td>
+<td>jumper</td>
+<td>스웨터</td>
+</tr>
+<tr>
+<td>sneakers</td>
+<td>trainers</td>
+<td>운동화</td>
+</tr>
+<tr>
+<td>vacation</td>
+<td>holiday</td>
+<td>휴가</td>
+</tr>
+<tr>
+<td>soccer</td>
+<td>football</td>
+<td>축구</td>
+</tr>
+<tr>
+<td>math</td>
+<td>maths</td>
+<td>수학</td>
+</tr>
+<tr>
+<td>cell phone</td>
+<td>mobile (phone)</td>
+<td>휴대폰</td>
+</tr>
+<tr>
+<td>gotten</td>
+<td>got</td>
+<td>~가 됐다 (과거분사)</td>
+</tr>
+<tr>
+<td>I could care less</td>
+<td>I couldn’t care less</td>
+<td>신경 안 써</td>
+</tr>
+<tr>
+<td>in the hospital</td>
+<td>in hospital</td>
+<td>입원 중</td>
+</tr>
+<tr>
+<td>on the weekend</td>
+<td>at the weekend</td>
+<td>주말에</td>
+</tr>
+<tr>
+<td>take out</td>
+<td>takeaway</td>
+<td>포장 음식</td>
+</tr>
+<tr>
+<td>check (식당)</td>
+<td>bill</td>
+<td>계산서</td>
+</tr>
+<tr>
+<td>fall</td>
+<td>autumn</td>
+<td>가을</td>
+</tr>
+<tr>
+<td>eraser</td>
+<td>rubber</td>
+<td>지우개</td>
+</tr>
+<tr>
+<td>band-aid</td>
+<td>plaster</td>
+<td>반창고</td>
+</tr>
+<tr>
+<td>drugstore</td>
+<td>chemist</td>
+<td>약국</td>
+</tr>
+<tr>
+<td>movie theater</td>
+<td>cinema</td>
+<td>영화관</td>
+</tr>
+<tr>
+<td>freeway / highway</td>
+<td>motorway</td>
+<td>고속도로</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="9-영국식-유머과소평가-표현-understatement" tabindex="-1" data-src-line="431">9. 영국식 유머·과소평가 표현 (Understatement) <a class="header-anchor" href="#9-영국식-유머과소평가-표현-understatement" aria-hidden="true">#</a></h2>
+<p>영국인들은 감정을 극도로 <strong>절제</strong>해서 표현하는 것으로 유명합니다. (5강에서도 언급)</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">상황: 집이 불에 탔다.
+영국식 반응: &quot;This is slightly inconvenient.&quot;
+            (이게 약간 불편하네요.)
+한국어 직역: 약간 불편하긴 한데...
+
+상황: 심하게 다쳤다.
+영국식: &quot;It&#039;s just a scratch.&quot;
+        (그냥 긁힌 거예요.)
+
+상황: 발표가 완전히 망했다.
+영국식: &quot;It didn&#039;t go entirely to plan.&quot;
+        (계획대로 완전히 진행되진 않았어요.)
+
+상황: 매우 화났다.
+영국식: &quot;I&#039;m not best pleased.&quot;
+        (그다지 기쁘진 않네요.)
+
+상황: 최악의 음식.
+영국식: &quot;It&#039;s not quite to my taste.&quot;
+        (제 취향은 아니에요.)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="10-실전-회화--영국-드라마-스타일" tabindex="-1" data-src-line="460">10. 실전 회화 — 영국 드라마 스타일 <a class="header-anchor" href="#10-실전-회화--영국-드라마-스타일" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Tom:   Alright, mate? You look absolutely knackered.
+       어때요? 완전 지쳐 보이는데요.
+
+Sam:   Tell me about it. I&#039;ve been up since five.
+       말도 마요. 다섯 시부터 깨어 있었어요.
+       
+       Had a proper nightmare of a commute.
+       출근길이 정말 끔찍했어요.
+
+Tom:   That&#039;s well rough. Fancy a coffee?
+       그거 진짜 힘들었겠다. 커피 한 잔 할래요?
+
+Sam:   Cheers, mate. I reckon I need it.
+       고마워요. 진짜 필요한 것 같아요.
+       
+       Did you see the match last night, by the way?
+       그나저나 어젯밤 경기 봤어요?
+
+Tom:   Bloody hell, yes! I was absolutely gobsmacked.
+       맙소사, 봤죠! 정말 할 말을 잃었어요.
+       
+       That last-minute goal was brilliant.
+       막판 골 정말 훌륭했어요.
+
+Sam:   Gutted we didn&#039;t win though.
+       그래도 이기지 못해서 너무 속상해요.
+
+Tom:   I know, I know. Still — spot on performance overall.
+       알아요, 알아요. 그래도 전체적으로 정말 훌륭한 경기였어요.
+
+Sam:   You&#039;re right. Sorted — two coffees it is.
+       맞아요. 그래요 — 커피 두 잔 하죠.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="슬랭-50-빠른-참조표" tabindex="-1" data-src-line="499">슬랭 50 빠른 참조표 <a class="header-anchor" href="#슬랭-50-빠른-참조표" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">#</th>
+<th scope="col">슬랭</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>brilliant</td>
+<td>훌륭하다</td>
+</tr>
+<tr>
+<td>2</td>
+<td>gutted</td>
+<td>매우 실망하다</td>
+</tr>
+<tr>
+<td>3</td>
+<td>knackered</td>
+<td>완전히 지치다</td>
+</tr>
+<tr>
+<td>4</td>
+<td>chuffed</td>
+<td>매우 기쁘다</td>
+</tr>
+<tr>
+<td>5</td>
+<td>miffed</td>
+<td>기분 상하다</td>
+</tr>
+<tr>
+<td>6</td>
+<td>gobsmacked</td>
+<td>할 말을 잃다</td>
+</tr>
+<tr>
+<td>7</td>
+<td>over the moon</td>
+<td>너무 기쁘다</td>
+</tr>
+<tr>
+<td>8</td>
+<td>dodgy</td>
+<td>수상하다</td>
+</tr>
+<tr>
+<td>9</td>
+<td>fit</td>
+<td>매력적이다</td>
+</tr>
+<tr>
+<td>10</td>
+<td>proper</td>
+<td>진짜로, 제대로</td>
+</tr>
+<tr>
+<td>11</td>
+<td>well</td>
+<td>매우, 정말</td>
+</tr>
+<tr>
+<td>12</td>
+<td>mate</td>
+<td>친구</td>
+</tr>
+<tr>
+<td>13</td>
+<td>bloke</td>
+<td>남자, 사람</td>
+</tr>
+<tr>
+<td>14</td>
+<td>lad</td>
+<td>젊은 남자</td>
+</tr>
+<tr>
+<td>15</td>
+<td>lass</td>
+<td>젊은 여자</td>
+</tr>
+<tr>
+<td>16</td>
+<td>cheers</td>
+<td>고마워, 건배</td>
+</tr>
+<tr>
+<td>17</td>
+<td>ta</td>
+<td>고마워</td>
+</tr>
+<tr>
+<td>18</td>
+<td>sorted</td>
+<td>해결됐다</td>
+</tr>
+<tr>
+<td>19</td>
+<td>spot on</td>
+<td>정확하다</td>
+</tr>
+<tr>
+<td>20</td>
+<td>bang on</td>
+<td>정확하다</td>
+</tr>
+<tr>
+<td>21</td>
+<td>bloody hell</td>
+<td>맙소사</td>
+</tr>
+<tr>
+<td>22</td>
+<td>rubbish</td>
+<td>말도 안 되다</td>
+</tr>
+<tr>
+<td>23</td>
+<td>bollocks</td>
+<td>헛소리</td>
+</tr>
+<tr>
+<td>24</td>
+<td>naff</td>
+<td>촌스럽다</td>
+</tr>
+<tr>
+<td>25</td>
+<td>cheeky</td>
+<td>뻔뻔하다, 능글맞다</td>
+</tr>
+<tr>
+<td>26</td>
+<td>fancy</td>
+<td>원하다, 좋아하다</td>
+</tr>
+<tr>
+<td>27</td>
+<td>reckon</td>
+<td>생각하다</td>
+</tr>
+<tr>
+<td>28</td>
+<td>innit</td>
+<td>그렇지?</td>
+</tr>
+<tr>
+<td>29</td>
+<td>ages</td>
+<td>오랜 시간</td>
+</tr>
+<tr>
+<td>30</td>
+<td>lovely</td>
+<td>좋다, 감사해요</td>
+</tr>
+<tr>
+<td>31</td>
+<td>quite</td>
+<td>꽤, 상당히</td>
+</tr>
+<tr>
+<td>32</td>
+<td>rather</td>
+<td>꽤, 다소</td>
+</tr>
+<tr>
+<td>33</td>
+<td>brilliant</td>
+<td>훌륭하다</td>
+</tr>
+<tr>
+<td>34</td>
+<td>brill</td>
+<td>brilliant의 줄임</td>
+</tr>
+<tr>
+<td>35</td>
+<td>ace</td>
+<td>최고다 (북잉글랜드)</td>
+</tr>
+<tr>
+<td>36</td>
+<td>cracking</td>
+<td>훌륭한</td>
+</tr>
+<tr>
+<td>37</td>
+<td>chap</td>
+<td>남자, 사람 (격식체)</td>
+</tr>
+<tr>
+<td>38</td>
+<td>quid</td>
+<td>1파운드</td>
+</tr>
+<tr>
+<td>39</td>
+<td>fiver</td>
+<td>5파운드</td>
+</tr>
+<tr>
+<td>40</td>
+<td>tenner</td>
+<td>10파운드</td>
+</tr>
+<tr>
+<td>41</td>
+<td>bog</td>
+<td>화장실 (비격식)</td>
+</tr>
+<tr>
+<td>42</td>
+<td>doddle</td>
+<td>쉬운 일</td>
+</tr>
+<tr>
+<td>43</td>
+<td>skint</td>
+<td>돈이 없다</td>
+</tr>
+<tr>
+<td>44</td>
+<td>posh</td>
+<td>고급스럽다, 부유하다</td>
+</tr>
+<tr>
+<td>45</td>
+<td>taking the mickey</td>
+<td>놀리다</td>
+</tr>
+<tr>
+<td>46</td>
+<td>faff</td>
+<td>뭔가를 헤매다, 시간 낭비하다</td>
+</tr>
+<tr>
+<td>47</td>
+<td>miffed</td>
+<td>약간 화가 나다</td>
+</tr>
+<tr>
+<td>48</td>
+<td>cheeky Nando’s</td>
+<td>즉흥 외출</td>
+</tr>
+<tr>
+<td>49</td>
+<td>banter</td>
+<td>장난스러운 놀림, 재치 있는 대화</td>
+</tr>
+<tr>
+<td>50</td>
+<td>wind someone up</td>
+<td>누군가를 놀리다</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="556">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>영국 영어의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 절제 표현을 기억하세요:
+  영국인은 감정을 극도로 절제합니다.
+  &quot;slightly inconvenient&quot; = 완전히 엉망이에요.
+
+② 다목적 단어를 활용하세요:
+  cheers = 고마워 / 건배 / 잘가
+  sorted = 해결됐어 / 알겠어 / 준비됐어
+  brilliant = 좋아 / 훌륭해 / 알겠어
+
+③ mate / bloke / fancy를 자연스럽게:
+  mate (호칭), bloke (남자), fancy (원하다)
+  — 이 세 개만 자연스럽게 써도 훨씬 영국스러워집니다.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>구동사 심화 60</strong> — 원어민이 매일 쓰는 구동사를<br>
+직장·관계·문제 해결 상황별로 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 2 — 슬랭과 구어체]</strong></p>
+<ul>
+<li>6강: 원어민 슬랭 50 — 미국 영어</li>
+<li><strong>7강</strong>: 원어민 슬랭 50 — 영국 영어 ← 현재 글</li>
+<li>8강: 구동사 심화 60</li>
+<li>9강: 관용 표현 심화 50</li>
+<li>10강: 영어 유머와 위트</li>
+</ul>
+</blockquote>
+1e:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L23",null,{"content":"$24"}]}]}]
+1f:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-06-american-slang","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-06-american-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-06-american-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어"}]}],["$","li","english-advanced/english-advanced-lesson-08-phrasal-verbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]}],["$","li","english-advanced/english-advanced-lesson-05-requests",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-05-requests","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 5강: 요청의 온도 — 반말부터 초격식까지"}]}]]}]]}]]}]
+20:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+21:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+25:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"cheeky, dodgy, gutted, knackered... 영국 원어민이 매일 쓰는 슬랭 50가지와 미국 vs 영국 표현 차이 30가지를 완전 정복합니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-07-british-slang/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}],["$","meta","11",{"property":"og:description","content":"cheeky, dodgy, gutted, knackered... 영국 원어민이 매일 쓰는 슬랭 50가지와 미국 vs 영국 표현 차이 30가지를 완전 정복합니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-07-british-slang/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-06T10:00:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-06T10:00:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"advanced"}],["$","meta","23",{"property":"article:tag","content":"slang"}],["$","meta","24",{"property":"article:tag","content":"british-english"}],["$","meta","25",{"property":"article:tag","content":"vocabulary"}],["$","meta","26",{"property":"article:tag","content":"intermediate"}],["$","meta","27",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","28",{"name":"twitter:title","content":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}],["$","meta","29",{"name":"twitter:description","content":"cheeky, dodgy, gutted, knackered... 영국 원어민이 매일 쓰는 슬랭 50가지와 미국 vs 영국 표현 차이 30가지를 완전 정복합니다."}],["$","meta","30",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","31",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L25","32",{}]]
+16:null

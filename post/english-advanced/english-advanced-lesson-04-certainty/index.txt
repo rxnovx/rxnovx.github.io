@@ -1,0 +1,522 @@
+1:"$Sreact.fragment"
+2:I[7883,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+3:I[4007,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","177","static/chunks/app/layout-953a5f74bdea973d.js"],"default"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[5670,["500","static/chunks/500-b84d19d842172eba.js","410","static/chunks/410-e3a46e3af0ef2acc.js","939","static/chunks/app/(blog)/layout-c11cec732cf2eb2f.js"],"default"]
+7:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+12:I[7123,[],""]
+:HL["/_next/static/css/65a17ec2a8589358.css","style"]
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"P":null,"b":"ASSEgGrCfNQXYJ8AxNYxM","c":["","post","english-advanced","english-advanced-lesson-04-certainty",""],"q":"","i":false,"f":[[["",{"children":["(blog)",{"children":["post",{"children":[["slug","english-advanced/english-advanced-lesson-04-certainty","oc"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/65a17ec2a8589358.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"children":["$","$L3",null,{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","div",null,{"className":"animate-fade-in","children":["$","$L5",null,{}]}],"templateStyles":[],"templateScripts":[],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","div",null,{"className":"w-full h-[100dvh] bg-[var(--background)] text-[var(--foreground)]","children":["$","div",null,{"className":"flex flex-col h-full","children":[["$","$L6",null,{}],["$","main",null,{"className":"px-3 py-8 sm:px-6 lg:px-8 flex-1 w-full","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:style","children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:1:props:style","children":404}],["$","div",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:style","children":["$","h2",null,{"style":"$0:f:0:1:0:props:children:1:props:children:props:children:props:notFound:0:1:props:children:props:children:2:props:children:props:style","children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-[var(--border)] bg-[var(--surface)]","children":["$","div",null,{"className":"mx-auto max-w-5xl px-4 py-8 sm:px-6 lg:px-8","children":[["$","div",null,{"className":"flex flex-col gap-6 sm:flex-row sm:items-start sm:justify-between","children":[["$","div",null,{"className":"flex items-start gap-3","children":[["$","div",null,{"className":"mt-1 flex h-9 w-9 items-center justify-center rounded-md border border-[var(--border)] bg-[var(--surface)] text-sm font-semibold text-[var(--foreground)]","children":"Rx"}],["$","div",null,{"className":"flex flex-col gap-1","children":[["$","span",null,{"className":"text-sm font-semibold text-[var(--foreground)]","children":"RxNovx Blog"}],["$","p",null,{"className":"max-w-xs text-xs leading-relaxed text-[var(--text-muted)]","children":"Why it works?"}]]}]]}],["$","div",null,{"className":"flex flex-1 justify-start sm:justify-center","children":["$","div",null,{"className":"grid grid-cols-2 gap-x-8 gap-y-2 text-sm","children":[["$","$L7",null,{"href":"/posts","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Posts"}],["$","$L7",null,{"href":"/tags","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Tags"}],["$","$L7",null,{"href":"/about","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"About"}],"$L8","$L9"]}]}],"$La"]}],"$Lb","$Lc"]}]}]]}]}]]}],{"children":["$Ld",{"children":["$Le",{"children":["$Lf",{},null,false,false]},null,false,false]},null,false,false]},null,false,false]},["$L10",[],[]],false,false],"$L11",false]],"m":"$undefined","G":["$12",[]],"S":true}
+14:I[484,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:I[1009,["209","static/chunks/app/loading-54a1ffd95f44f222.js"],"default"]
+18:I[484,[],"ViewportBoundary"]
+1a:I[484,[],"MetadataBoundary"]
+8:["$","$L7",null,{"href":"/contact","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Contact"}]
+9:["$","$L7",null,{"href":"/privacy-policy","className":"text-[var(--text-muted)] transition hover:text-[var(--foreground)]","children":"Privacy"}]
+a:["$","div",null,{"className":"flex flex-col gap-3 text-xs text-[var(--text-muted)]","children":[["$","div",null,{"className":"flex items-center gap-2","children":["$","span",null,{"className":"text-[0.7rem] uppercase tracking-wide text-[var(--text-muted)]","children":"Follow"}]}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","$L7",null,{"href":"https://github.com/rxnovx","target":"_blank","rel":"noreferrer","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"🐙"}],["$","span",null,{"children":"GitHub"}]]}],["$","$L7",null,{"href":"mailto:rxnovx@gmail.com","className":"inline-flex items-center gap-1 rounded-md border border-[var(--border)] px-2.5 py-1 transition hover:bg-[var(--background)] hover:text-[var(--foreground)]","children":[["$","span",null,{"className":"text-sm","children":"✉️"}],["$","span",null,{"children":"Contact"}]]}]]}],["$","p",null,{"className":"max-w-xs leading-relaxed","children":"Built with Next.js & Tailwind. Theming via custom CSS variables."}]]}]
+b:["$","div",null,{"className":"mt-6 border-t border-[var(--border)]"}]
+c:["$","div",null,{"className":"mt-4 flex flex-col gap-2 text-[0.75rem] text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between","children":[["$","p",null,{"children":["© ",2026," ","RxNovx",". All rights reserved."]}],["$","div",null,{"className":"flex flex-wrap gap-3","children":["$","span",null,{"className":"inline-flex items-center gap-1","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-full bg-[var(--accent)]"}],["$","span",null,{"children":"Writing slowly, learning constantly."}]]}]}]]}]
+d:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+e:["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+f:["$","$1","c",{"children":["$L13",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}]
+10:["$","$L17","l",{}]
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$@19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$@1b"}]}]}],null]}]
+1c:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+13:["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-04-certainty\"},\"headline\":\"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지\",\"description\":\"maybe와 definitely만 알고 있다면? 추측·가능성·확신을 섬세하게 표현하는 조동사와 헤징 표현을 완전히 정복합니다.\",\"datePublished\":\"2026-05-06T07:00:00.000Z\",\"dateModified\":\"2026-05-06T07:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-04-certainty\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"certainty\",\"modals\",\"hedging\",\"vocabulary\",\"intermediate\"]}"}}],["$","$L1c",null,{"title":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지","slugPath":"english-advanced/english-advanced-lesson-04-certainty","headings":[{"id":"중급-영어-4강-확실성의-정도--maybe부터-absolutely까지","text":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-확실성-스펙트럼--부사-중심","text":"1. 확실성 스펙트럼 — 부사 중심","level":2},{"id":"각-단계별-의미와-예문","text":"각 단계별 의미와 예문","level":3},{"id":"확실성-부사-비교표","text":"확실성 부사 비교표","level":3},{"id":"2-확실성-스펙트럼--조동사-중심","text":"2. 확실성 스펙트럼 — 조동사 중심","level":2},{"id":"현재미래의-가능성","text":"현재·미래의 가능성","level":3},{"id":"must--논리적-확신","text":"must — 논리적 확신","level":3},{"id":"should--예상되는-결과","text":"should — 예상되는 결과","level":3},{"id":"may--might--가능성","text":"may / might — 가능성","level":3},{"id":"could--가능성-중-하나","text":"could — 가능성 중 하나","level":3},{"id":"cant--couldnt--불가능한-추론","text":"can't / couldn't — 불가능한 추론","level":3},{"id":"조동사-확실성-비교표","text":"조동사 확실성 비교표","level":3},{"id":"3-헤징hedging--부드럽게-말하는-기술","text":"3. 헤징(Hedging) — 부드럽게 말하는 기술","level":2},{"id":"헤징-표현-모음","text":"헤징 표현 모음","level":3},{"id":"4-i-think--i-believe--i-feel--i-suppose--i-assume의-차이","text":"4. \"I think / I believe / I feel / I suppose / I assume\"의 차이","level":2},{"id":"i-think--가장-일반적","text":"I think — 가장 일반적","level":3},{"id":"i-believe--좀-더-확신-있고-개인적","text":"I believe — 좀 더 확신 있고 개인적","level":3},{"id":"i-feel--직관감정-기반","text":"I feel — 직관·감정 기반","level":3},{"id":"i-suppose--확신-없는-동의-또는-추측","text":"I suppose — 확신 없는 동의 또는 추측","level":3},{"id":"i-assume--확인-없이-당연히-그렇다고-가정","text":"I assume — 확인 없이 당연히 그렇다고 가정","level":3},{"id":"i-reckon--영국식-비격식체","text":"I reckon — 영국식 비격식체","level":3},{"id":"비교표","text":"비교표","level":3},{"id":"5-불확실한-상황에서-유용한-표현들","text":"5. 불확실한 상황에서 유용한 표현들","level":2},{"id":"모를-때-솔직하게","text":"모를 때 솔직하게","level":3},{"id":"정보를-확인하거나-유보할-때","text":"정보를 확인하거나 유보할 때","level":3},{"id":"6-실수하면-어색해지는-top-5","text":"6. 실수하면 어색해지는 TOP 5","level":2},{"id":"7-실전-회화--불확실한-상황에서-자연스럽게-말하기","text":"7. 실전 회화 — 불확실한 상황에서 자연스럽게 말하기","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-04-certainty"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"maybe와 definitely만 알고 있다면? 추측·가능성·확신을 섬세하게 표현하는 조동사와 헤징 표현을 완전히 정복합니다."}],"$L1d","$L1e"]}],"$L1f","$L20","$L21","$L22"]}]
+23:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+24:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+1d:["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T07:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T07:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$L23",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","certainty",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","certainty"]}],["$","span","modals",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","modals"]}],["$","span","hedging",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","hedging"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]]}]
+1e:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+25:T74d6,<h1 id="중급-영어-4강-확실성의-정도--maybe부터-absolutely까지" tabindex="-1" data-src-line="1">중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지 <a class="header-anchor" href="#중급-영어-4강-확실성의-정도--maybe부터-absolutely까지" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-4강-확실성의-정도--maybe부터-absolutely까지">중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-확실성-스펙트럼--부사-중심">1. 확실성 스펙트럼 — 부사 중심 </a><ul><li><a href="#각-단계별-의미와-예문">각 단계별 의미와 예문 </a></li><li><a href="#확실성-부사-비교표">확실성 부사 비교표 </a></li></ul></li><li><a href="#2-확실성-스펙트럼--조동사-중심">2. 확실성 스펙트럼 — 조동사 중심 </a><ul><li><a href="#현재미래의-가능성">현재·미래의 가능성 </a></li><li><a href="#must--논리적-확신">must — 논리적 확신 </a></li><li><a href="#should--예상되는-결과">should — 예상되는 결과 </a></li><li><a href="#may--might--가능성">may / might — 가능성 </a></li><li><a href="#could--가능성-중-하나">could — 가능성 중 하나 </a></li><li><a href="#cant--couldnt--불가능한-추론">can’t / couldn’t — 불가능한 추론 </a></li><li><a href="#조동사-확실성-비교표">조동사 확실성 비교표 </a></li></ul></li><li><a href="#3-헤징hedging--부드럽게-말하는-기술">3. 헤징(Hedging) — 부드럽게 말하는 기술 </a><ul><li><a href="#헤징-표현-모음">헤징 표현 모음 </a></li></ul></li><li><a href="#4-i-think--i-believe--i-feel--i-suppose--i-assume의-차이">4. &quot;I think / I believe / I feel / I suppose / I assume&quot;의 차이 </a><ul><li><a href="#i-think--가장-일반적">I think — 가장 일반적 </a></li><li><a href="#i-believe--좀-더-확신-있고-개인적">I believe — 좀 더 확신 있고 개인적 </a></li><li><a href="#i-feel--직관감정-기반">I feel — 직관·감정 기반 </a></li><li><a href="#i-suppose--확신-없는-동의-또는-추측">I suppose — 확신 없는 동의 또는 추측 </a></li><li><a href="#i-assume--확인-없이-당연히-그렇다고-가정">I assume — 확인 없이 당연히 그렇다고 가정 </a></li><li><a href="#i-reckon--영국식-비격식체">I reckon — 영국식 비격식체 </a></li><li><a href="#비교표">비교표 </a></li></ul></li><li><a href="#5-불확실한-상황에서-유용한-표현들">5. 불확실한 상황에서 유용한 표현들 </a><ul><li><a href="#모를-때-솔직하게">모를 때 솔직하게 </a></li><li><a href="#정보를-확인하거나-유보할-때">정보를 확인하거나 유보할 때 </a></li></ul></li><li><a href="#6-실수하면-어색해지는-top-5">6. 실수하면 어색해지는 TOP 5 </a></li><li><a href="#7-실전-회화--불확실한-상황에서-자연스럽게-말하기">7. 실전 회화 — 불확실한 상황에서 자연스럽게 말하기 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>&quot;내일 비가 올 것 같아&quot;를 영어로 표현할 때, 어느 정도 확신이 있느냐에 따라 전혀 다른 표현을 씁니다.</p>
+<ul>
+<li>거의 확실하다 → It will definitely rain.</li>
+<li>아마 그럴 것 같다 → It’ll probably rain.</li>
+<li>그럴 수도 있다 → It might rain.</li>
+<li>잘 모르겠다 → I’m not sure, but it could rain.</li>
+</ul>
+<p>이 차이를 정확히 구사하면 여러분의 영어가 훨씬 <strong>정밀하고 자연스럽게</strong> 들립니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>확실성 스펙트럼을 부사와 조동사로 정확히 표현할 수 있습니다.</li>
+<li>must / should / may / might / could의 차이를 완벽히 구분할 수 있습니다.</li>
+<li>헤징(Hedging) 표현으로 부드럽고 전문적으로 말할 수 있습니다.</li>
+<li>&quot;I think / I believe / I suppose&quot;의 미묘한 차이를 구분할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-확실성-스펙트럼--부사-중심" tabindex="-1" data-src-line="24">1. 확실성 스펙트럼 — 부사 중심 <a class="header-anchor" href="#1-확실성-스펙트럼--부사-중심" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">definitely → certainly → probably → likely → possibly → maybe → unlikely → definitely not
+(확실히)    (분명히)    (아마)     (아마도)  (어쩌면)   (아마)  (아닐듯)    (절대 아니다)
+</code></pre></div></code></pre>
+<h3 id="각-단계별-의미와-예문" tabindex="-1" data-src-line="31">각 단계별 의미와 예문 <a class="header-anchor" href="#각-단계별-의미와-예문" aria-hidden="true">#</a></h3>
+<p><strong>definitely / certainly</strong> — 거의 100% 확신</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll definitely be there.
+분명히 갈 거예요.
+
+She&#039;s certainly qualified for the role.
+그녀는 분명히 그 역할에 자격이 있어요.
+
+That&#039;s definitely the right answer.
+그게 분명히 맞는 답이에요.
+</code></pre></div></code></pre>
+<p><strong>probably</strong> — 70~90% 확률</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;ll probably take about an hour.
+아마 한 시간 정도 걸릴 거예요.
+
+She&#039;s probably already left.
+그녀는 아마 이미 떠났을 거예요.
+
+This is probably the best option.
+이게 아마 최선의 선택일 거예요.
+</code></pre></div></code></pre>
+<p><strong>likely</strong> — probably와 비슷하지만 약간 더 격식체</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s likely that prices will rise.
+가격이 오를 가능성이 높아요.
+
+They&#039;re likely to accept the offer.
+그들이 제안을 받아들일 가능성이 높아요.
+</code></pre></div></code></pre>
+<p><strong>possibly / maybe / perhaps</strong> — 50% 이하, 불확실</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Could you possibly help me with this?
+혹시 이것 좀 도와주실 수 있으신가요?
+(possibly = 공손한 요청에도 자주 쓰임)
+
+Maybe we should try a different approach.
+어쩌면 다른 방법을 시도해야 할 것 같아요.
+
+Perhaps there&#039;s another way.
+아마 다른 방법이 있을 거예요.
+(perhaps = possibly보다 약간 격식체)
+</code></pre></div></code></pre>
+<p><strong>unlikely</strong> — 가능성이 낮음</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s unlikely to rain today.
+오늘은 비가 올 것 같지 않아요.
+
+That&#039;s highly unlikely.
+그건 가능성이 매우 낮아요.
+</code></pre></div></code></pre>
+<h3 id="확실성-부사-비교표" tabindex="-1" data-src-line="94">확실성 부사 비교표 <a class="header-anchor" href="#확실성-부사-비교표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">부사</th>
+<th scope="col">확률</th>
+<th scope="col">뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>definitely</td>
+<td>~100%</td>
+<td>확신, 단호함</td>
+</tr>
+<tr>
+<td>certainly</td>
+<td>~95%</td>
+<td>확신, 격식체</td>
+</tr>
+<tr>
+<td>probably</td>
+<td>~75%</td>
+<td>일반적 추측</td>
+</tr>
+<tr>
+<td>likely</td>
+<td>~70%</td>
+<td>격식체 추측</td>
+</tr>
+<tr>
+<td>possibly</td>
+<td>~40%</td>
+<td>불확실, 공손한 요청</td>
+</tr>
+<tr>
+<td>maybe</td>
+<td>~40%</td>
+<td>비격식체</td>
+</tr>
+<tr>
+<td>perhaps</td>
+<td>~35%</td>
+<td>격식체 maybe</td>
+</tr>
+<tr>
+<td>unlikely</td>
+<td>~20%</td>
+<td>가능성 낮음</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="2-확실성-스펙트럼--조동사-중심" tabindex="-1" data-src-line="109">2. 확실성 스펙트럼 — 조동사 중심 <a class="header-anchor" href="#2-확실성-스펙트럼--조동사-중심" aria-hidden="true">#</a></h2>
+<p>조동사는 문장 안에서 확실성을 표현하는 가장 세련된 방법입니다.</p>
+<h3 id="현재미래의-가능성" tabindex="-1" data-src-line="113">현재·미래의 가능성 <a class="header-anchor" href="#현재미래의-가능성" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">must   → 거의 확실한 추론 (~임이 틀림없다)
+should → 예상되는 결과 (~일 것이다)
+will   → 확신 (~일 것이다)
+would  → 조건부 예상 (~일 것 같다)
+may    → 가능성 있음 (~일 수도 있다)
+might  → 낮은 가능성 (~일 수도 있다, may보다 불확실)
+could  → 가능성 중 하나 (~일 수도 있다)
+can&#039;t  → 불가능한 추론 (~일 리 없다)
+</code></pre></div></code></pre>
+<h3 id="must--논리적-확신" tabindex="-1" data-src-line="126">must — 논리적 확신 <a class="header-anchor" href="#must--논리적-확신" aria-hidden="true">#</a></h3>
+<p>증거를 바탕으로 한 강한 추론:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">You must be tired after such a long flight.
+그렇게 긴 비행 후에 피곤하실 것 같아요.
+
+She must know the answer — she&#039;s an expert.
+그녀는 답을 알고 있을 것 같아요 — 전문가니까요.
+
+That must have been really difficult.
+정말 어려우셨겠어요.
+</code></pre></div></code></pre>
+<h3 id="should--예상되는-결과" tabindex="-1" data-src-line="141">should — 예상되는 결과 <a class="header-anchor" href="#should--예상되는-결과" aria-hidden="true">#</a></h3>
+<p>논리적으로 그렇게 될 것이라고 기대할 때:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The package should arrive by Friday.
+택배가 금요일까지는 올 거예요.
+
+That should work.
+그게 될 거예요.
+
+She should be there by now.
+그녀는 지금쯤 거기 있을 거예요.
+</code></pre></div></code></pre>
+<h3 id="may--might--가능성" tabindex="-1" data-src-line="156">may / might — 가능성 <a class="header-anchor" href="#may--might--가능성" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It may rain this afternoon.
+오늘 오후에 비가 올 수도 있어요.
+
+I might be a bit late.
+좀 늦을 수도 있어요.
+
+This might not be the best approach.
+이게 최선의 방법이 아닐 수도 있어요.
+</code></pre></div></code></pre>
+<p><strong>may vs might 차이:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">may   → 가능성이 약간 더 높음 (40~50%)
+might → 가능성이 약간 더 낮음 (30~40%)
+
+I may go to the party.     (갈 수도 있어요 — 그럴 것 같음)
+I might go to the party.   (갈 수도 있어요 — 잘 모르겠음)
+</code></pre></div></code></pre>
+<h3 id="could--가능성-중-하나" tabindex="-1" data-src-line="179">could — 가능성 중 하나 <a class="header-anchor" href="#could--가능성-중-하나" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This could be a problem.
+이게 문제가 될 수 있어요.
+
+There could be another explanation.
+다른 설명이 있을 수도 있어요.
+
+Could be. (= Maybe. 비격식)
+그럴 수도 있죠.
+</code></pre></div></code></pre>
+<h3 id="cant--couldnt--불가능한-추론" tabindex="-1" data-src-line="192">can’t / couldn’t — 불가능한 추론 <a class="header-anchor" href="#cant--couldnt--불가능한-추론" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That can&#039;t be right.
+그게 맞을 리 없어요.
+
+She can&#039;t have finished already.
+그녀가 벌써 끝냈을 리 없어요.
+
+It couldn&#039;t be worse.
+더 나쁠 수는 없겠죠.
+</code></pre></div></code></pre>
+<h3 id="조동사-확실성-비교표" tabindex="-1" data-src-line="205">조동사 확실성 비교표 <a class="header-anchor" href="#조동사-확실성-비교표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">조동사</th>
+<th scope="col">확률</th>
+<th scope="col">예문</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>must</td>
+<td>~90%</td>
+<td>She must be home.</td>
+</tr>
+<tr>
+<td>should</td>
+<td>~75%</td>
+<td>It should work.</td>
+</tr>
+<tr>
+<td>will</td>
+<td>~90%+</td>
+<td>I’ll be there.</td>
+</tr>
+<tr>
+<td>may</td>
+<td>~50%</td>
+<td>I may come.</td>
+</tr>
+<tr>
+<td>might</td>
+<td>~35%</td>
+<td>I might come.</td>
+</tr>
+<tr>
+<td>could</td>
+<td>~30%</td>
+<td>It could work.</td>
+</tr>
+<tr>
+<td>can’t</td>
+<td>~0%</td>
+<td>That can’t be right.</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="3-헤징hedging--부드럽게-말하는-기술" tabindex="-1" data-src-line="219">3. 헤징(Hedging) — 부드럽게 말하는 기술 <a class="header-anchor" href="#3-헤징hedging--부드럽게-말하는-기술" aria-hidden="true">#</a></h2>
+<p>**헤징(Hedging)**이란 단정적으로 말하지 않고, 자신의 확신 정도를 표현하면서<br>
+말을 부드럽게 하는 기술입니다.</p>
+<p>학문적 글쓰기, 비즈니스, 외교적 표현에서 특히 중요합니다.</p>
+<h3 id="헤징-표현-모음" tabindex="-1" data-src-line="226">헤징 표현 모음 <a class="header-anchor" href="#헤징-표현-모음" aria-hidden="true">#</a></h3>
+<p><strong>생각·의견 한정:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I think / I believe / I feel / I suppose / I assume
+It seems / It appears / It looks like
+As far as I know / As far as I can tell
+In my experience / From what I&#039;ve seen
+</code></pre></div></code></pre>
+<p><strong>가능성 한정:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">It&#039;s possible that...
+There&#039;s a chance that...
+It could be that...
+It may well be that...
+</code></pre></div></code></pre>
+<p><strong>정보 출처 한정:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">According to...
+Based on...
+From what I understand...
+If I&#039;m not mistaken...
+Correct me if I&#039;m wrong, but...
+</code></pre></div></code></pre>
+<p><strong>수량·범위 한정:</strong></p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">roughly / approximately / around / about
+more or less / in the region of
+somewhere between X and Y
+up to / at least / at most
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-i-think--i-believe--i-feel--i-suppose--i-assume의-차이" tabindex="-1" data-src-line="263">4. &quot;I think / I believe / I feel / I suppose / I assume&quot;의 차이 <a class="header-anchor" href="#4-i-think--i-believe--i-feel--i-suppose--i-assume의-차이" aria-hidden="true">#</a></h2>
+<p>모두 &quot;~라고 생각한다&quot;지만 뉘앙스가 다릅니다.</p>
+<h3 id="i-think--가장-일반적" tabindex="-1" data-src-line="267">I think — 가장 일반적 <a class="header-anchor" href="#i-think--가장-일반적" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I think this is the right direction.
+이게 맞는 방향인 것 같아요.
+(일상적, 중립적 의견)
+</code></pre></div></code></pre>
+<h3 id="i-believe--좀-더-확신-있고-개인적" tabindex="-1" data-src-line="275">I believe — 좀 더 확신 있고 개인적 <a class="header-anchor" href="#i-believe--좀-더-확신-있고-개인적" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I believe honesty is the best policy.
+저는 정직이 최선의 방법이라고 믿어요.
+(신념·가치관에 가까움)
+
+I believe we can do this.
+우리가 할 수 있다고 믿어요.
+(격려·동기부여에 자주 쓰임)
+</code></pre></div></code></pre>
+<h3 id="i-feel--직관감정-기반" tabindex="-1" data-src-line="287">I feel — 직관·감정 기반 <a class="header-anchor" href="#i-feel--직관감정-기반" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I feel like something is off.
+뭔가 이상한 것 같은 느낌이 들어요.
+
+I feel that we&#039;re missing something.
+뭔가 놓치고 있는 것 같아요.
+(논리보다 직관에 기반)
+</code></pre></div></code></pre>
+<h3 id="i-suppose--확신-없는-동의-또는-추측" tabindex="-1" data-src-line="298">I suppose — 확신 없는 동의 또는 추측 <a class="header-anchor" href="#i-suppose--확신-없는-동의-또는-추측" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I suppose that makes sense.
+그게 말이 되는 것 같긴 하네요.
+(확신 없이, 마지못해 동의하는 뉘앙스 가능)
+
+I suppose it depends on the situation.
+상황에 따라 다른 것 같아요.
+</code></pre></div></code></pre>
+<h3 id="i-assume--확인-없이-당연히-그렇다고-가정" tabindex="-1" data-src-line="309">I assume — 확인 없이 당연히 그렇다고 가정 <a class="header-anchor" href="#i-assume--확인-없이-당연히-그렇다고-가정" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I assume you&#039;ve already read the report.
+보고서를 이미 읽으셨을 것으로 생각해요.
+
+I was assuming we&#039;d meet at the usual place.
+보통 장소에서 만날 거라고 생각했어요.
+</code></pre></div></code></pre>
+<h3 id="i-reckon--영국식-비격식체" tabindex="-1" data-src-line="319">I reckon — 영국식 비격식체 <a class="header-anchor" href="#i-reckon--영국식-비격식체" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I reckon it&#039;ll take about two hours.
+한 두 시간 걸릴 것 같아요. (영국 비격식체)
+</code></pre></div></code></pre>
+<h3 id="비교표" tabindex="-1" data-src-line="326">비교표 <a class="header-anchor" href="#비교표" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">표현</th>
+<th scope="col">기반</th>
+<th scope="col">확신도</th>
+<th scope="col">뉘앙스</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I think</td>
+<td>논리</td>
+<td>중간</td>
+<td>가장 일반적</td>
+</tr>
+<tr>
+<td>I believe</td>
+<td>신념</td>
+<td>높음</td>
+<td>개인적 확신</td>
+</tr>
+<tr>
+<td>I feel</td>
+<td>직관·감정</td>
+<td>낮~중</td>
+<td>주관적</td>
+</tr>
+<tr>
+<td>I suppose</td>
+<td>마지못해</td>
+<td>낮음</td>
+<td>소극적 동의</td>
+</tr>
+<tr>
+<td>I assume</td>
+<td>가정</td>
+<td>-</td>
+<td>확인 안 함</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="5-불확실한-상황에서-유용한-표현들" tabindex="-1" data-src-line="338">5. 불확실한 상황에서 유용한 표현들 <a class="header-anchor" href="#5-불확실한-상황에서-유용한-표현들" aria-hidden="true">#</a></h2>
+<h3 id="모를-때-솔직하게" tabindex="-1" data-src-line="340">모를 때 솔직하게 <a class="header-anchor" href="#모를-때-솔직하게" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m not entirely sure, but...
+완전히 확신하진 않지만...
+
+I&#039;m not 100% certain, but I think...
+100% 확실하진 않지만, ...인 것 같아요.
+
+I could be wrong, but...
+제가 틀릴 수도 있는데...
+
+Don&#039;t quote me on this, but...
+확실하지 않으니 그대로 전달하지는 마세요, 하지만...
+
+Off the top of my head, I&#039;d say...
+바로 생각나는 건... (즉흥적 답변)
+
+If I had to guess, I&#039;d say...
+추측해야 한다면...라고 할 것 같아요.
+</code></pre></div></code></pre>
+<h3 id="정보를-확인하거나-유보할-때" tabindex="-1" data-src-line="362">정보를 확인하거나 유보할 때 <a class="header-anchor" href="#정보를-확인하거나-유보할-때" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;ll need to double-check that.
+다시 확인이 필요해요.
+
+I&#039;d have to look into that further.
+더 알아봐야 할 것 같아요.
+
+That&#039;s not something I can say with certainty.
+확실하게 말하기 어려운 부분이에요.
+
+I&#039;ll get back to you on that.
+그 부분은 나중에 알려드릴게요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-실수하면-어색해지는-top-5" tabindex="-1" data-src-line="380">6. 실수하면 어색해지는 TOP 5 <a class="header-anchor" href="#6-실수하면-어색해지는-top-5" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ Maybe it will definitely rain.
+✅ It will definitely rain.
+   또는 Maybe it will rain.
+   (maybe + definitely 동시 사용 불가)
+
+❌ She must be maybe tired.
+✅ She might be tired.
+   (조동사 중복 사용 불가)
+
+❌ I&#039;m not sure if he can&#039;t come.
+✅ I&#039;m not sure if he can come.
+   (부정 이중 구조 혼동)
+
+❌ It&#039;s possibly might work.
+✅ It might work.
+   또는 It could possibly work.
+
+❌ I think I believe he&#039;s right.
+✅ I think he&#039;s right.
+   또는 I believe he&#039;s right.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-실전-회화--불확실한-상황에서-자연스럽게-말하기" tabindex="-1" data-src-line="407">7. 실전 회화 — 불확실한 상황에서 자연스럽게 말하기 <a class="header-anchor" href="#7-실전-회화--불확실한-상황에서-자연스럽게-말하기" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Jung:  Do you think the project will be finished on time?
+       프로젝트가 제때 끝날 것 같아요?
+
+Amy:   Honestly? I&#039;m not entirely sure.
+       솔직히? 완전히 확신하진 못하겠어요.
+       
+       It should be doable if everything goes to plan,
+       but there might be some delays on the design side.
+       모든 게 계획대로 된다면 가능할 것 같은데,
+       디자인 쪽에서 지연이 생길 수도 있어요.
+
+Jung:  What do you think the chances are?
+       가능성이 어느 정도라고 생각해요?
+
+Amy:   I&#039;d say probably 60-40 in our favor.
+       아마 우리 쪽 유리하게 60대 40 정도 될 것 같아요.
+       
+       The development is almost certainly on track,
+       but I assume there&#039;ll be a few revisions
+       after client review.
+       개발은 거의 확실히 진행 중인데,
+       클라이언트 리뷰 후에 수정이 몇 가지 있을 거라고
+       봐야 할 것 같아요.
+
+Jung:  That sounds about right.
+       If I had to guess, I&#039;d say
+       we might need an extra week.
+       맞는 것 같아요.
+       추측하자면 일주일 정도 더 필요할 수도 있겠어요.
+
+Amy:   I was thinking the same thing.
+       저도 같은 생각이었어요.
+       I suppose we should flag that to the manager
+       sooner rather than later.
+       빨리 매니저한테 알려두는 게 좋을 것 같아요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="449">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>확실성 표현의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 부사로 강도 조절:
+  definitely → probably → possibly → maybe → unlikely
+
+② 조동사로 세밀하게:
+  must (확신) → should (예상) → may (가능) → might (불확실) → can&#039;t (불가능)
+
+③ 헤징으로 전문적으로:
+  &quot;I think...&quot; / &quot;It seems...&quot; / &quot;As far as I know...&quot; /
+  &quot;If I&#039;m not mistaken...&quot; / &quot;I could be wrong, but...&quot;
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>요청의 온도</strong> — 반말부터 초격식까지,<br>
+상황에 맞게 정중도를 조절하는 요청 표현의 6단계를 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 1 — 뉘앙스와 어감]</strong></p>
+<ul>
+<li>1강: say · tell · speak · talk</li>
+<li>2강: 감정 표현의 온도</li>
+<li>3강: 동의와 반론의 뉘앙스</li>
+<li><strong>4강</strong>: 확실성의 정도 ← 현재 글</li>
+<li>5강: 요청의 온도</li>
+</ul>
+</blockquote>
+1f:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$L24",null,{"content":"$25"}]}]}]
+20:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-03-agree-disagree","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 3강: 동의와 반론의 뉘앙스 — agree부터 strongly disagree까지"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-05-requests","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 5강: 요청의 온도 — 반말부터 초격식까지"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-08-phrasal-verbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]}],["$","li","english-advanced/english-advanced-lesson-07-british-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]}],["$","li","english-advanced/english-advanced-lesson-06-american-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L7",null,{"href":"/post/english-advanced/english-advanced-lesson-06-american-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어"}]}]]}]]}]]}]
+21:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+22:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+26:I[6869,[],"IconMark"]
+1b:[["$","title","0",{"children":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지 | RxNovx Blog"}],["$","meta","1",{"name":"description","content":"maybe와 definitely만 알고 있다면? 추측·가능성·확신을 섬세하게 표현하는 조동사와 헤징 표현을 완전히 정복합니다."}],["$","meta","2",{"name":"application-name","content":"RxNovx"}],["$","meta","3",{"name":"author","content":"RxNovx"}],["$","meta","4",{"name":"creator","content":"RxNovx"}],["$","meta","5",{"name":"publisher","content":"RxNovx Blog"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"google-adsense-account","content":"ca-pub-2484034147523438"}],["$","link","8",{"rel":"canonical","href":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-04-certainty/"}],["$","meta","9",{"name":"google-site-verification","content":"cQsWKJ33AalGnaKstifQyFWrqtNduJPTC37ZYUfyoWY"}],["$","meta","10",{"property":"og:title","content":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지"}],["$","meta","11",{"property":"og:description","content":"maybe와 definitely만 알고 있다면? 추측·가능성·확신을 섬세하게 표현하는 조동사와 헤징 표현을 완전히 정복합니다."}],["$","meta","12",{"property":"og:url","content":"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-04-certainty/"}],["$","meta","13",{"property":"og:site_name","content":"RxNovx Blog"}],["$","meta","14",{"property":"og:image","content":"https://rxnovx.github.io/og.webp"}],["$","meta","15",{"property":"og:image:width","content":"1200"}],["$","meta","16",{"property":"og:image:height","content":"630"}],["$","meta","17",{"property":"og:image:alt","content":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지"}],["$","meta","18",{"property":"og:type","content":"article"}],["$","meta","19",{"property":"article:published_time","content":"2026-05-06T07:00:00.000Z"}],["$","meta","20",{"property":"article:modified_time","content":"2026-05-06T07:00:00.000Z"}],["$","meta","21",{"property":"article:tag","content":"english"}],["$","meta","22",{"property":"article:tag","content":"advanced"}],["$","meta","23",{"property":"article:tag","content":"certainty"}],["$","meta","24",{"property":"article:tag","content":"modals"}],["$","meta","25",{"property":"article:tag","content":"hedging"}],["$","meta","26",{"property":"article:tag","content":"vocabulary"}],["$","meta","27",{"property":"article:tag","content":"intermediate"}],["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","29",{"name":"twitter:title","content":"중급 영어 4강: 확실성의 정도 — maybe부터 absolutely까지"}],["$","meta","30",{"name":"twitter:description","content":"maybe와 definitely만 알고 있다면? 추측·가능성·확신을 섬세하게 표현하는 조동사와 헤징 표현을 완전히 정복합니다."}],["$","meta","31",{"name":"twitter:image","content":"https://rxnovx.github.io/og.webp"}],["$","link","32",{"rel":"icon","href":"/favicon.ico?f4bc9d5227ff0655","type":"image/x-icon","sizes":"1024x1024"}],["$","$L26","33",{}]]
+16:null

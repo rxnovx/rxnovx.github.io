@@ -1,0 +1,275 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-25-review-roadmap\"},\"headline\":\"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵\",\"description\":\"Part 1~5 핵심 표현 전체 복습, 나만의 영어 스타일 만들기, C1 레벨을 향한 다음 단계 가이드, 추천 학습 자료까지 — 시리즈의 완성.\",\"datePublished\":\"2026-05-07T00:00:00.000Z\",\"dateModified\":\"2026-05-07T00:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-25-review-roadmap\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"review\",\"roadmap\",\"B2\",\"C1\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵","slugPath":"english-advanced/english-advanced-lesson-25-review-roadmap","headings":[{"id":"중급-영어-25강-심화-시리즈-총복습--b2-이후-로드맵","text":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"part-1-복습--뉘앙스와-어감","text":"Part 1 복습 — 뉘앙스와 어감","level":2},{"id":"핵심-정리","text":"핵심 정리","level":3},{"id":"part-2-복습--슬랭과-구어체","text":"Part 2 복습 — 슬랭과 구어체","level":2},{"id":"핵심-정리-1","text":"핵심 정리","level":3},{"id":"part-3-복습--비즈니스-영어","text":"Part 3 복습 — 비즈니스 영어","level":2},{"id":"핵심-정리-2","text":"핵심 정리","level":3},{"id":"part-4-복습--일상-심화","text":"Part 4 복습 — 일상 심화","level":2},{"id":"핵심-정리-3","text":"핵심 정리","level":3},{"id":"part-5-복습--미디어문화","text":"Part 5 복습 — 미디어·문화","level":2},{"id":"핵심-정리-4","text":"핵심 정리","level":3},{"id":"나만의-영어-스타일-만들기","text":"나만의 영어 스타일 만들기","level":2},{"id":"스타일-체크리스트","text":"스타일 체크리스트","level":3},{"id":"나만의-스타일-찾기","text":"나만의 스타일 찾기","level":3},{"id":"c1-레벨을-향한-로드맵","text":"C1 레벨을 향한 로드맵","level":2},{"id":"b2와-c1의-차이","text":"B2와 C1의 차이","level":3},{"id":"c1을-향한-3가지-집중-영역","text":"C1을 향한 3가지 집중 영역","level":3},{"id":"추천-학습-자료","text":"추천 학습 자료","level":2},{"id":"읽기","text":"읽기","level":3},{"id":"듣기말하기","text":"듣기·말하기","level":3},{"id":"앱","text":"앱","level":3},{"id":"마지막-메시지","text":"마지막 메시지","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-25-review-roadmap"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"Part 1~5 핵심 표현 전체 복습, 나만의 영어 스타일 만들기, C1 레벨을 향한 다음 단계 가이드, 추천 학습 자료까지 — 시리즈의 완성."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-07T00:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],["$","time",null,{"dateTime":"2026-05-07T00:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 5월 7일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","review",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","review"]}],["$","span","roadmap",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","roadmap"]}],["$","span","B2",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","B2"]}],["$","span","C1",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","C1"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T4c40,<h1 id="중급-영어-25강-심화-시리즈-총복습--b2-이후-로드맵" tabindex="-1" data-src-line="1">중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵 <a class="header-anchor" href="#중급-영어-25강-심화-시리즈-총복습--b2-이후-로드맵" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-25강-심화-시리즈-총복습--b2-이후-로드맵">중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#part-1-복습--뉘앙스와-어감">Part 1 복습 — 뉘앙스와 어감 </a><ul><li><a href="#핵심-정리">핵심 정리 </a></li></ul></li><li><a href="#part-2-복습--슬랭과-구어체">Part 2 복습 — 슬랭과 구어체 </a><ul><li><a href="#핵심-정리-1">핵심 정리 </a></li></ul></li><li><a href="#part-3-복습--비즈니스-영어">Part 3 복습 — 비즈니스 영어 </a><ul><li><a href="#핵심-정리-2">핵심 정리 </a></li></ul></li><li><a href="#part-4-복습--일상-심화">Part 4 복습 — 일상 심화 </a><ul><li><a href="#핵심-정리-3">핵심 정리 </a></li></ul></li><li><a href="#part-5-복습--미디어문화">Part 5 복습 — 미디어·문화 </a><ul><li><a href="#핵심-정리-4">핵심 정리 </a></li></ul></li><li><a href="#나만의-영어-스타일-만들기">나만의 영어 스타일 만들기 </a><ul><li><a href="#스타일-체크리스트">스타일 체크리스트 </a></li><li><a href="#나만의-스타일-찾기">나만의 스타일 찾기 </a></li></ul></li><li><a href="#c1-레벨을-향한-로드맵">C1 레벨을 향한 로드맵 </a><ul><li><a href="#b2와-c1의-차이">B2와 C1의 차이 </a></li><li><a href="#c1을-향한-3가지-집중-영역">C1을 향한 3가지 집중 영역 </a></li></ul></li><li><a href="#추천-학습-자료">추천 학습 자료 </a><ul><li><a href="#읽기">읽기 </a></li><li><a href="#듣기말하기">듣기·말하기 </a></li><li><a href="#앱">앱 </a></li></ul></li><li><a href="#마지막-메시지">마지막 메시지 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>25강까지 왔습니다. 정말 대단합니다.</p>
+<p>이 강에서는 전체 시리즈의 핵심 포인트를 빠르게 복습하고,<br>
+B2를 넘어 C1으로 가기 위한 실질적인 로드맵을 제시합니다.</p>
+<p>영어는 목적지가 아닙니다. 계속 성장하는 여정입니다.</p>
+<hr>
+<h2 id="part-1-복습--뉘앙스와-어감" tabindex="-1" data-src-line="16">Part 1 복습 — 뉘앙스와 어감 <a class="header-anchor" href="#part-1-복습--뉘앙스와-어감" aria-hidden="true">#</a></h2>
+<h3 id="핵심-정리" tabindex="-1" data-src-line="18">핵심 정리 <a class="header-anchor" href="#핵심-정리" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【1강: 말하기 동사】
+say + 내용 / tell + 사람 + 내용
+speak (격식, 언어능력) / talk (비격식, 쌍방향)
+mention (가볍게) / discuss (깊이)
+❌ discussed about / ❌ mentioned about
+
+【2강: 감정 표현】
+기쁨: content → pleased → happy → delighted → thrilled → ecstatic
+슬픔: down → sad → upset → heartbroken → devastated
+분노: annoyed → frustrated → angry → furious → livid
+-ing = 감정 유발 / -ed = 감정을 느끼는 사람
+
+【3강: 동의·반론】
+완전 동의: &quot;I couldn&#039;t agree more.&quot;
+부분 동의: &quot;I see your point, but...&quot;
+부드러운 반론: &quot;I&#039;d push back a little on that.&quot;
+강한 반론: &quot;I strongly disagree.&quot;
+
+【4강: 확실성】
+must(~임이 틀림없다) → should(예상) → may(가능) → might(불확실) → can&#039;t(불가능)
+definitely → probably → possibly → maybe → unlikely
+
+【5강: 요청】
+Can you? → Could you? → Would you mind ~ing?
+→ I was wondering if you could...
+→ Would it be possible to...?
+</code></pre></div></code></pre>
+<hr>
+<h2 id="part-2-복습--슬랭과-구어체" tabindex="-1" data-src-line="51">Part 2 복습 — 슬랭과 구어체 <a class="header-anchor" href="#part-2-복습--슬랭과-구어체" aria-hidden="true">#</a></h2>
+<h3 id="핵심-정리-1" tabindex="-1" data-src-line="53">핵심 정리 <a class="header-anchor" href="#핵심-정리-1" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【6강: 미국 슬랭】
+fire / lit / slay / bussin / GOAT (긍정)
+bet / no cap / facts / fr (동의·확인)
+sus / cringe / L / canceled (부정)
+lowkey / highkey / vibe / ghosting (감정·관계)
+
+【7강: 영국 슬랭】
+brilliant / gutted / knackered / chuffed (감정)
+dodgy / fit / proper / well (묘사)
+cheers / sorted / spot on / mate (일상)
+영국식 understatement: &quot;Quite good&quot; = 아주 좋아
+
+【8강: 구동사】
+직장: pull off / follow up / come up with / wrap up
+관계: fall for / drift apart / open up / get over
+문제 해결: sort out / figure out / narrow down / break down
+
+【9강: 관용어】
+시작: get the ball rolling
+비즈니스: on the same page / bite the bullet / cut corners
+갈등: bury the hatchet / clear the air / meet halfway
+성공·실패: go the extra mile / miss the boat / back to square one
+
+【10강: 유머】
+Pun 구조: Setup → Punchline (반전)
+아이러니 = 상황 반전 / 사르카즘 = 의도적 비꼬기
+자기 비하 유머 (영국식), 건조한 유머 (dry humor)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="part-3-복습--비즈니스-영어" tabindex="-1" data-src-line="87">Part 3 복습 — 비즈니스 영어 <a class="header-anchor" href="#part-3-복습--비즈니스-영어" aria-hidden="true">#</a></h2>
+<h3 id="핵심-정리-2" tabindex="-1" data-src-line="89">핵심 정리 <a class="header-anchor" href="#핵심-정리-2" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【11강: 회의】
+시작: &quot;Let&#039;s kick things off.&quot; / &quot;Shall we get started?&quot;
+발언권: &quot;Can I just add...&quot; / &quot;I&#039;d like to build on that.&quot;
+확인: &quot;Just to clarify...&quot; / &quot;If I understand correctly...&quot;
+마무리: &quot;Let&#039;s wrap up.&quot; / &quot;Action items: ...&quot;
+
+【12강: 프레젠테이션】
+Hook → 본론 → 결론 구조
+전환: &quot;Moving on to...&quot; / &quot;Turning now to...&quot;
+데이터: spike / plateau / steady decline
+Q&amp;A: &quot;That&#039;s a great question.&quot; / &quot;Let me come back to that.&quot;
+
+【13강: 협상】
+입장 제시: &quot;Our starting point is...&quot;
+양보: &quot;We&#039;d be willing to...&quot; / &quot;We could consider...&quot;
+타협: &quot;Could we meet halfway?&quot; / &quot;What if we split the difference?&quot;
+결렬: &quot;I&#039;d like to leave the door open.&quot;
+
+【14강: 전화·영상통화】
+전화 걸기: &quot;This is [이름] calling from [회사].&quot;
+영상통화: &quot;You&#039;re on mute.&quot; / &quot;You&#039;re breaking up.&quot;
+메시지: &quot;Could I take your name and number?&quot;
+마무리: &quot;I&#039;ll follow up by email.&quot;
+
+【15강: 비즈니스 글쓰기】
+구조: 목적 → 근거 → 요청 → 행동
+능동태 = 직접적 / 수동태 = 격식·객관적
+데이터 언어: surge / plateau / decline / outperform
+</code></pre></div></code></pre>
+<hr>
+<h2 id="part-4-복습--일상-심화" tabindex="-1" data-src-line="124">Part 4 복습 — 일상 심화 <a class="header-anchor" href="#part-4-복습--일상-심화" aria-hidden="true">#</a></h2>
+<h3 id="핵심-정리-3" tabindex="-1" data-src-line="126">핵심 정리 <a class="header-anchor" href="#핵심-정리-3" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【16강: 스토리텔링】
+시작: &quot;You&#039;re not going to believe this...&quot;
+긴장감: &quot;And then, out of nowhere...&quot;
+극적 현재: 과거 이야기를 현재 시제로 → 생동감
+클라이맥스: &quot;Turns out...&quot; / &quot;That&#039;s when I realized...&quot;
+
+【17강: 사과·감사·칭찬】
+사과 깊이: Oops → Sorry → I apologize → I sincerely apologize
+감사 + 이유: &quot;Thank you for believing in me.&quot;
+칭찬 수락: &quot;That&#039;s so kind of you to say. Thank you!&quot;
+
+【18강: 조언】
+강도: Have you thought about? → You might want to → You really should → You must
+공감 먼저: &quot;That sounds really tough. Have you considered...?&quot;
+거절: &quot;I&#039;m not looking for advice right now — I just needed to vent.&quot;
+
+【19강: 컴플레인】
+정중: &quot;I&#039;m afraid there seems to be a problem with...&quot;
+강하게: &quot;This is completely unacceptable.&quot;
+받는 입장: &quot;I completely understand your frustration. Let me look into this.&quot;
+
+【20강: 소셜 영어】
+시작: &quot;How do you know [host]?&quot; / FORD (Family, Occupation, Recreation, Dreams)
+이어가기: &quot;How did you get into that?&quot; / &quot;What do you enjoy most?&quot;
+마무리: &quot;I don&#039;t want to monopolize your evening...&quot;
+</code></pre></div></code></pre>
+<hr>
+<h2 id="part-5-복습--미디어문화" tabindex="-1" data-src-line="158">Part 5 복습 — 미디어·문화 <a class="header-anchor" href="#part-5-복습--미디어문화" aria-hidden="true">#</a></h2>
+<h3 id="핵심-정리-4" tabindex="-1" data-src-line="160">핵심 정리 <a class="header-anchor" href="#핵심-정리-4" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">【21강: 뉴스·미디어】
+헤드라인: 현재형=과거, to부정사=미래, 관사 생략
+편향 신호: &quot;claims&quot; vs &quot;says&quot;, &quot;regime&quot; vs &quot;government&quot;
+BBC(격식·절제) / CNN(드라마틱) / NPR(스토리·분석)
+
+【22강: 드라마·영화】
+섀도잉 5단계: 듣기 → 스크립트 → 소리 내어 읽기 → 오버랩 → 스크립트 없이
+연음: gonna / wanna / gotta / lemme / dunno
+자막 없이 4단계 접근법
+
+【23강: 소셜미디어】
+마침표 = 차갑게 들릴 수 있음 / ALL CAPS = 소리 지르기
+플랫폼: Twitter(짧고 위트) / Instagram(감성) / LinkedIn(전문)
+약어: TBH / NGL / IMO / FYI / ICYMI / TL;DR
+
+【24강: 문화 차이】
+직접적: 미국, 호주 / 간접적: 영국, 캐나다
+영국 understatement: &quot;That&#039;s quite interesting&quot; = &quot;별로야&quot;
+금기: 수입·나이·정치·종교 (처음 만날 때)
+칭찬: 영어권에서는 거부하지 않고 받아들이기
+</code></pre></div></code></pre>
+<hr>
+<h2 id="나만의-영어-스타일-만들기" tabindex="-1" data-src-line="187">나만의 영어 스타일 만들기 <a class="header-anchor" href="#나만의-영어-스타일-만들기" aria-hidden="true">#</a></h2>
+<p>B2 레벨에 도달했다면, 이제 단순히 &quot;맞는 영어&quot;가 아닌<br>
+<strong>나다운 영어</strong>를 만들 차례입니다.</p>
+<h3 id="스타일-체크리스트" tabindex="-1" data-src-line="192">스타일 체크리스트 <a class="header-anchor" href="#스타일-체크리스트" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">□ 나는 격식체와 비격식체를 상황에 맞게 전환할 수 있다.
+□ 나는 감정을 정확한 강도로 표현할 수 있다.
+□ 나는 유머를 한두 개씩 자연스럽게 넣을 수 있다.
+□ 나는 조언을 강요하지 않고 제안으로 표현할 수 있다.
+□ 나는 반론을 상대방을 존중하며 표현할 수 있다.
+□ 나는 침묵이 불편하지 않게 대화를 이어갈 수 있다.
+</code></pre></div></code></pre>
+<h3 id="나만의-스타일-찾기" tabindex="-1" data-src-line="203">나만의 스타일 찾기 <a class="header-anchor" href="#나만의-스타일-찾기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">내가 자주 쓰고 싶은 표현 3가지를 정하세요:
+예: &quot;That said...&quot; / &quot;I&#039;d push back on that.&quot; / &quot;Turns out...&quot;
+
+이 표현들을 일주일 동안 의식적으로 써보세요.
+→ 한 달 후에 자연스럽게 나오기 시작합니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="c1-레벨을-향한-로드맵" tabindex="-1" data-src-line="215">C1 레벨을 향한 로드맵 <a class="header-anchor" href="#c1-레벨을-향한-로드맵" aria-hidden="true">#</a></h2>
+<h3 id="b2와-c1의-차이" tabindex="-1" data-src-line="217">B2와 C1의 차이 <a class="header-anchor" href="#b2와-c1의-차이" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">B2 (중상급):
+- 복잡한 주제를 이해하고 논의할 수 있다.
+- 유창하게 소통하지만 가끔 찾아야 하는 표현이 있다.
+- 뉘앙스와 함축적 의미를 어느 정도 파악한다.
+
+C1 (고급):
+- 즉흥적으로, 유창하게, 자연스럽게 표현한다.
+- 사회적·직업적·학문적 상황에서 효과적으로 활용한다.
+- 미묘한 뉘앙스, 아이러니, 유머를 완전히 이해한다.
+- 복잡한 아이디어를 명확하고 구조적으로 표현한다.
+</code></pre></div></code></pre>
+<h3 id="c1을-향한-3가지-집중-영역" tabindex="-1" data-src-line="232">C1을 향한 3가지 집중 영역 <a class="header-anchor" href="#c1을-향한-3가지-집중-영역" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. 어휘의 정밀도 높이기
+   &quot;happy&quot; → &quot;content / pleased / delighted / elated / ecstatic&quot;
+   정확한 단어를 고르는 연습을 매일 하세요.
+
+2. 말하기 유창성
+   섀도잉 매일 15분 → 사고와 발화 사이의 딜레이 줄이기
+   말하는 속도보다 자연스러운 흐름이 중요합니다.
+
+3. 읽기의 깊이
+   영어 원서 · 영어 기사 매일 읽기
+   모르는 단어를 찾지 말고 맥락으로 추론하는 연습
+</code></pre></div></code></pre>
+<hr>
+<h2 id="추천-학습-자료" tabindex="-1" data-src-line="250">추천 학습 자료 <a class="header-anchor" href="#추천-학습-자료" aria-hidden="true">#</a></h2>
+<h3 id="읽기" tabindex="-1" data-src-line="252">읽기 <a class="header-anchor" href="#읽기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">뉴스:
+- The Guardian (영국식 영어, 다양한 주제)
+- NPR (미국식, 이야기체)
+- BBC News (격식체, 국제적 시각)
+
+원서 (B2 → C1 수준):
+- &quot;The Hitchhiker&#039;s Guide to the Galaxy&quot; (가볍고 위트 있음)
+- &quot;Educated&quot; by Tara Westover (회고록, 아름다운 문체)
+- &quot;Atomic Habits&quot; (비즈니스·자기계발)
+</code></pre></div></code></pre>
+<h3 id="듣기말하기" tabindex="-1" data-src-line="266">듣기·말하기 <a class="header-anchor" href="#듣기말하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">팟캐스트:
+- This American Life (스토리텔링 영어)
+- TED Talks (다양한 주제, 명확한 발음)
+- The Daily (뉴스 영어)
+- Conan O&#039;Brien Needs a Friend (유머·구어체)
+
+유튜브:
+- Kurzgesagt (복잡한 개념을 쉬운 영어로)
+- TED-Ed (교육적, 명확한 발음)
+</code></pre></div></code></pre>
+<h3 id="앱" tabindex="-1" data-src-line="280">앱 <a class="header-anchor" href="#앱" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">- Anki: 나만의 단어장 플래시카드
+- HelloTalk: 원어민과 언어 교환
+- Speechling: 발음 교정
+- Elsa Speak: AI 발음 코치
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마지막-메시지" tabindex="-1" data-src-line="291">마지막 메시지 <a class="header-anchor" href="#마지막-메시지" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">이 시리즈를 통해 여러분은:
+
+✅ 뉘앙스를 구분하는 눈을 얻었습니다.
+✅ 슬랭과 구어체로 생동감 있게 말할 수 있게 됐습니다.
+✅ 비즈니스 영어로 전문적으로 소통할 수 있습니다.
+✅ 일상에서 더 자연스럽고 풍부하게 표현할 수 있습니다.
+✅ 미디어와 문화 차이를 이해하는 시각을 가졌습니다.
+
+B2는 끝이 아닙니다.
+이제 영어가 도구가 됐습니다.
+그 도구로 무엇을 만들지는 여러분의 몫입니다.
+
+Keep going. You&#039;ve got this.
+계속 하세요. 할 수 있어요.
+</code></pre></div></code></pre>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 완결</strong></p>
+<p>Part 1 (1~5강): 뉘앙스와 어감 ✅<br>
+Part 2 (6~10강): 슬랭과 구어체 ✅<br>
+Part 3 (11~15강): 비즈니스 영어 ✅<br>
+Part 4 (16~20강): 일상 심화 ✅<br>
+Part 5 (21~25강): 미디어·문화 ✅</p>
+<p><strong>총 25강 완료 🎉</strong></p>
+</blockquote>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english/english-lesson-20-pronunciation-native-expressions-review",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english/english-lesson-20-pronunciation-native-expressions-review","className":"text-sm font-medium hover:text-[var(--primary)]","children":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습"}]}],["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-24-culture",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

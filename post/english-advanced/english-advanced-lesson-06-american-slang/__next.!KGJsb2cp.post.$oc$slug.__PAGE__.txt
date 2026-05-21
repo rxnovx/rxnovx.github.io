@@ -1,0 +1,699 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+a:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+c:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-06-american-slang\"},\"headline\":\"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어\",\"description\":\"교과서에서 절대 안 가르쳐주는 미국 원어민 일상 슬랭 50가지. Gen Z부터 Millennial까지 세대별 슬랭과 SNS 표현을 완전 정복합니다.\",\"datePublished\":\"2026-05-06T09:00:00.000Z\",\"dateModified\":\"2026-05-06T09:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-06-american-slang\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"slang\",\"american-english\",\"genz\",\"vocabulary\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어","slugPath":"english-advanced/english-advanced-lesson-06-american-slang","headings":[{"id":"중급-영어-6강-원어민-일상-슬랭-50--미국-영어","text":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-긍정칭찬-슬랭","text":"1. 긍정·칭찬 슬랭","level":2},{"id":"fire---정말-멋지다-최고다","text":"fire 🔥 — 정말 멋지다, 최고다","level":3},{"id":"lit--신나다-흥이-넘치다-fire와-유사","text":"lit — 신나다, 흥이 넘치다 (fire와 유사)","level":3},{"id":"slay--완벽히-해내다-압도하다","text":"slay — 완벽히 해내다, 압도하다","level":3},{"id":"bussin--음식이-진짜-맛있다","text":"bussin — (음식이) 진짜 맛있다","level":3},{"id":"goated--goat--역대-최고-greatest-of-all-time","text":"goated / GOAT — 역대 최고 (Greatest Of All Time)","level":3},{"id":"mid--평범하다-그냥-그렇다-칭찬의-반대","text":"mid — 평범하다, 그냥 그렇다 (칭찬의 반대)","level":3},{"id":"2-동의반응-슬랭","text":"2. 동의·반응 슬랭","level":2},{"id":"bet--알겠어-오케이-확실해","text":"bet — 알겠어, 오케이, 확실해","level":3},{"id":"no-cap--진짜로-거짓말-아냐--for-real","text":"no cap — 진짜로, 거짓말 아냐 (= for real)","level":3},{"id":"facts--완전-공감-맞아--thats-true--i-agree","text":"facts — 완전 공감, 맞아 (= That's true / I agree)","level":3},{"id":"fr--for-real--진짜로-심각하게","text":"fr / for real — 진짜로, 심각하게","level":3},{"id":"say-less--더-말-안-해도-알겠어-바로-할게","text":"say less — 더 말 안 해도 알겠어, 바로 할게","level":3},{"id":"im-dead--너무-웃겨서-죽겠다-과장-표현","text":"I'm dead — 너무 웃겨서 죽겠다 (과장 표현)","level":3},{"id":"3-부정비판-슬랭","text":"3. 부정·비판 슬랭","level":2},{"id":"sus--수상하다-의심스럽다-suspicious의-줄임","text":"sus — 수상하다, 의심스럽다 (suspicious의 줄임)","level":3},{"id":"cringe--민망하다-오글거리다","text":"cringe — 민망하다, 오글거리다","level":3},{"id":"l--take-an-l--지다-실패하다-lose의-약자","text":"L / take an L — 지다, 실패하다 (lose의 약자)","level":3},{"id":"clapped--별로다-매력-없다-주로-외모에-쓰임-주의해서-사용","text":"clapped — 별로다, 매력 없다 (주로 외모에 쓰임, 주의해서 사용)","level":3},{"id":"canceled--사회적으로-매장되다","text":"canceled — 사회적으로 매장되다","level":3},{"id":"4-감정상태-슬랭","text":"4. 감정·상태 슬랭","level":2},{"id":"lowkey--은근히-살짝-약간","text":"lowkey — 은근히, 살짝, 약간","level":3},{"id":"highkey--완전히-노골적으로-lowkey의-반대","text":"highkey — 완전히, 노골적으로 (lowkey의 반대)","level":3},{"id":"vibe--분위기-느낌--즐기다","text":"vibe — 분위기, 느낌 / 즐기다","level":3},{"id":"vibing--편하게-즐기는-중","text":"vibing — 편하게 즐기는 중","level":3},{"id":"dead-ass--deadass--진지하게-진짜로","text":"dead ass / deadass — 진지하게, 진짜로","level":3},{"id":"salty--삐져있다-억울해하다","text":"salty — 삐져있다, 억울해하다","level":3},{"id":"extra--오버하다-지나치다","text":"extra — 오버하다, 지나치다","level":3},{"id":"5-관계소셜-슬랭","text":"5. 관계·소셜 슬랭","level":2},{"id":"ghosting--연락을-갑자기-끊다","text":"ghosting — 연락을 갑자기 끊다","level":3},{"id":"stan--열렬히-좋아하다-팬","text":"stan — 열렬히 좋아하다, 팬","level":3},{"id":"ship--두-사람을-엮다-커플을-응원하다","text":"ship — 두 사람을 엮다, 커플을 응원하다","level":3},{"id":"bestie--베스트-프렌드-친근한-호칭으로도-쓰임","text":"bestie — 베스트 프렌드 (친근한 호칭으로도 쓰임)","level":3},{"id":"situationship--연인도-아닌-애매한-관계","text":"situationship — 연인도 아닌 애매한 관계","level":3},{"id":"rizz--매력-이성을-끌어당기는-능력","text":"rizz — 매력, 이성을 끌어당기는 능력","level":3},{"id":"6-인터넷sns-슬랭","text":"6. 인터넷·SNS 슬랭","level":2},{"id":"flex--자랑하다-과시하다","text":"flex — 자랑하다, 과시하다","level":3},{"id":"glow-up--외모나-삶이-확-좋아지다","text":"glow up — 외모나 삶이 확 좋아지다","level":3},{"id":"its-giving--느낌이다-분위기다","text":"it's giving... — ~느낌이다, ~분위기다","level":3},{"id":"understood-the-assignment--제대로-해냈다-완벽히-역할을-수행했다","text":"understood the assignment — 제대로 해냈다, 완벽히 역할을 수행했다","level":3},{"id":"main-character--자신이-주인공인-것처럼-행동하는-사람","text":"main character — 자신이 주인공인 것처럼 행동하는 사람","level":3},{"id":"rent-free--머릿속에서-떠나지-않다","text":"rent free — 머릿속에서 떠나지 않다","level":3},{"id":"7-세대별-슬랭-비교","text":"7. 세대별 슬랭 비교","level":2},{"id":"8-슬랭을-자연스럽게-쓰는-법","text":"8. 슬랭을 자연스럽게 쓰는 법","level":2},{"id":"과하면-오히려-어색하다","text":"과하면 오히려 어색하다","level":3},{"id":"슬랭-사용-팁","text":"슬랭 사용 팁","level":3},{"id":"9-실전-회화--슬랭을-자연스럽게-쓰는-법","text":"9. 실전 회화 — 슬랭을 자연스럽게 쓰는 법","level":2},{"id":"슬랭-50-빠른-참조표","text":"슬랭 50 빠른 참조표","level":2},{"id":"마무리","text":"마무리","level":2}]}],"$L3","$L4","$L5","$L6","$L7"]}],["$L8"],"$L9"]}],"loading":null,"isPartial":false}
+3:["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-06-american-slang"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"교과서에서 절대 안 가르쳐주는 미국 원어민 일상 슬랭 50가지. Gen Z부터 Millennial까지 세대별 슬랭과 SNS 표현을 완전 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T09:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 6일"]}],["$","time",null,{"dateTime":"2026-05-06T09:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 6일"]}],["$","$La",null,{}],["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","slang",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","slang"]}],["$","span","american-english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","american-english"]}],["$","span","genz",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","genz"]}],["$","span","vocabulary",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","vocabulary"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]]}],"$Lb"]}]
+d:Ta11e,<h1 id="중급-영어-6강-원어민-일상-슬랭-50--미국-영어" tabindex="-1" data-src-line="1">중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어 <a class="header-anchor" href="#중급-영어-6강-원어민-일상-슬랭-50--미국-영어" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-6강-원어민-일상-슬랭-50--미국-영어">중급 영어 6강: 원어민 일상 슬랭 50 — 미국 영어 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-긍정칭찬-슬랭">1. 긍정·칭찬 슬랭 </a><ul><li><a href="#fire---정말-멋지다-최고다">fire 🔥 — 정말 멋지다, 최고다 </a></li><li><a href="#lit--신나다-흥이-넘치다-fire와-유사">lit — 신나다, 흥이 넘치다 (fire와 유사) </a></li><li><a href="#slay--완벽히-해내다-압도하다">slay — 완벽히 해내다, 압도하다 </a></li><li><a href="#bussin--음식이-진짜-맛있다">bussin — (음식이) 진짜 맛있다 </a></li><li><a href="#goated--goat--역대-최고-greatest-of-all-time">goated / GOAT — 역대 최고 (Greatest Of All Time) </a></li><li><a href="#mid--평범하다-그냥-그렇다-칭찬의-반대">mid — 평범하다, 그냥 그렇다 (칭찬의 반대) </a></li></ul></li><li><a href="#2-동의반응-슬랭">2. 동의·반응 슬랭 </a><ul><li><a href="#bet--알겠어-오케이-확실해">bet — 알겠어, 오케이, 확실해 </a></li><li><a href="#no-cap--진짜로-거짓말-아냐--for-real">no cap — 진짜로, 거짓말 아냐 (= for real) </a></li><li><a href="#facts--완전-공감-맞아--thats-true--i-agree">facts — 완전 공감, 맞아 (= That’s true / I agree) </a></li><li><a href="#fr--for-real--진짜로-심각하게">fr / for real — 진짜로, 심각하게 </a></li><li><a href="#say-less--더-말-안-해도-알겠어-바로-할게">say less — 더 말 안 해도 알겠어, 바로 할게 </a></li><li><a href="#im-dead--너무-웃겨서-죽겠다-과장-표현">I’m dead — 너무 웃겨서 죽겠다 (과장 표현) </a></li></ul></li><li><a href="#3-부정비판-슬랭">3. 부정·비판 슬랭 </a><ul><li><a href="#sus--수상하다-의심스럽다-suspicious의-줄임">sus — 수상하다, 의심스럽다 (suspicious의 줄임) </a></li><li><a href="#cringe--민망하다-오글거리다">cringe — 민망하다, 오글거리다 </a></li><li><a href="#l--take-an-l--지다-실패하다-lose의-약자">L / take an L — 지다, 실패하다 (lose의 약자) </a></li><li><a href="#clapped--별로다-매력-없다-주로-외모에-쓰임-주의해서-사용">clapped — 별로다, 매력 없다 (주로 외모에 쓰임, 주의해서 사용) </a></li><li><a href="#canceled--사회적으로-매장되다">canceled — 사회적으로 매장되다 </a></li></ul></li><li><a href="#4-감정상태-슬랭">4. 감정·상태 슬랭 </a><ul><li><a href="#lowkey--은근히-살짝-약간">lowkey — 은근히, 살짝, 약간 </a></li><li><a href="#highkey--완전히-노골적으로-lowkey의-반대">highkey — 완전히, 노골적으로 (lowkey의 반대) </a></li><li><a href="#vibe--분위기-느낌--즐기다">vibe — 분위기, 느낌 / 즐기다 </a></li><li><a href="#vibing--편하게-즐기는-중">vibing — 편하게 즐기는 중 </a></li><li><a href="#dead-ass--deadass--진지하게-진짜로">dead ass / deadass — 진지하게, 진짜로 </a></li><li><a href="#salty--삐져있다-억울해하다">salty — 삐져있다, 억울해하다 </a></li><li><a href="#extra--오버하다-지나치다">extra — 오버하다, 지나치다 </a></li></ul></li><li><a href="#5-관계소셜-슬랭">5. 관계·소셜 슬랭 </a><ul><li><a href="#ghosting--연락을-갑자기-끊다">ghosting — 연락을 갑자기 끊다 </a></li><li><a href="#stan--열렬히-좋아하다-팬">stan — 열렬히 좋아하다, 팬 </a></li><li><a href="#ship--두-사람을-엮다-커플을-응원하다">ship — 두 사람을 엮다, 커플을 응원하다 </a></li><li><a href="#bestie--베스트-프렌드-친근한-호칭으로도-쓰임">bestie — 베스트 프렌드 (친근한 호칭으로도 쓰임) </a></li><li><a href="#situationship--연인도-아닌-애매한-관계">situationship — 연인도 아닌 애매한 관계 </a></li><li><a href="#rizz--매력-이성을-끌어당기는-능력">rizz — 매력, 이성을 끌어당기는 능력 </a></li></ul></li><li><a href="#6-인터넷sns-슬랭">6. 인터넷·SNS 슬랭 </a><ul><li><a href="#flex--자랑하다-과시하다">flex — 자랑하다, 과시하다 </a></li><li><a href="#glow-up--외모나-삶이-확-좋아지다">glow up — 외모나 삶이 확 좋아지다 </a></li><li><a href="#its-giving--느낌이다-분위기다">it’s giving… — ~느낌이다, ~분위기다 </a></li><li><a href="#understood-the-assignment--제대로-해냈다-완벽히-역할을-수행했다">understood the assignment — 제대로 해냈다, 완벽히 역할을 수행했다 </a></li><li><a href="#main-character--자신이-주인공인-것처럼-행동하는-사람">main character — 자신이 주인공인 것처럼 행동하는 사람 </a></li><li><a href="#rent-free--머릿속에서-떠나지-않다">rent free — 머릿속에서 떠나지 않다 </a></li></ul></li><li><a href="#7-세대별-슬랭-비교">7. 세대별 슬랭 비교 </a></li><li><a href="#8-슬랭을-자연스럽게-쓰는-법">8. 슬랭을 자연스럽게 쓰는 법 </a><ul><li><a href="#과하면-오히려-어색하다">과하면 오히려 어색하다 </a></li><li><a href="#슬랭-사용-팁">슬랭 사용 팁 </a></li></ul></li><li><a href="#9-실전-회화--슬랭을-자연스럽게-쓰는-법">9. 실전 회화 — 슬랭을 자연스럽게 쓰는 법 </a></li><li><a href="#슬랭-50-빠른-참조표">슬랭 50 빠른 참조표 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>미국 드라마나 유튜브를 보다가 이런 표현에 막힌 적 있으신가요?</p>
+<blockquote>
+<p>“That was lowkey fire, no cap.”<br>
+“She really said that? It’s giving main character energy, bestie.”<br>
+“That’s kinda sus, ngl.”</p>
+</blockquote>
+<p>교과서에 없는 이 표현들이 지금 미국 원어민들이 매일 쓰는 진짜 영어입니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>미국 슬랭 50가지를 상황에 맞게 쓸 수 있습니다.</li>
+<li>Gen Z / Millennial 세대별 슬랭 차이를 구분할 수 있습니다.</li>
+<li>슬랭을 자연스럽게, 과하지 않게 활용할 수 있습니다.</li>
+</ul>
+</blockquote>
+<p>⚠️ <strong>주의</strong>: 슬랭은 상황을 가립니다. 친구·비격식 대화에서 쓰고, 비즈니스·공식 자리에서는 피하세요.</p>
+<hr>
+<h2 id="1-긍정칭찬-슬랭" tabindex="-1" data-src-line="24">1. 긍정·칭찬 슬랭 <a class="header-anchor" href="#1-긍정칭찬-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="fire---정말-멋지다-최고다" tabindex="-1" data-src-line="26">fire 🔥 — 정말 멋지다, 최고다 <a class="header-anchor" href="#fire---정말-멋지다-최고다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That song is fire!
+저 노래 완전 최고야!
+
+Your outfit is fire today.
+오늘 옷 진짜 멋지다.
+</code></pre></div></code></pre>
+<h3 id="lit--신나다-흥이-넘치다-fire와-유사" tabindex="-1" data-src-line="36">lit — 신나다, 흥이 넘치다 (fire와 유사) <a class="header-anchor" href="#lit--신나다-흥이-넘치다-fire와-유사" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The party was so lit last night.
+어젯밤 파티 완전 신났어.
+
+This place is lit!
+여기 완전 핫하다!
+</code></pre></div></code></pre>
+<h3 id="slay--완벽히-해내다-압도하다" tabindex="-1" data-src-line="46">slay — 완벽히 해내다, 압도하다 <a class="header-anchor" href="#slay--완벽히-해내다-압도하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She absolutely slayed that presentation.
+그녀 발표 완전 압도적이었어.
+
+You&#039;re slaying today!
+오늘 완전 멋지다!
+
+Slay! (감탄사로)
+대박! / 완벽해!
+</code></pre></div></code></pre>
+<h3 id="bussin--음식이-진짜-맛있다" tabindex="-1" data-src-line="59">bussin — (음식이) 진짜 맛있다 <a class="header-anchor" href="#bussin--음식이-진짜-맛있다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This ramen is bussin.
+이 라면 진짜 맛있어.
+
+Your cooking is bussin, no cap!
+요리 진짜 맛있어, 거짓말 아냐!
+</code></pre></div></code></pre>
+<h3 id="goated--goat--역대-최고-greatest-of-all-time" tabindex="-1" data-src-line="69">goated / GOAT — 역대 최고 (Greatest Of All Time) <a class="header-anchor" href="#goated--goat--역대-최고-greatest-of-all-time" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s the GOAT.
+그는 역대 최고야.
+
+That movie is goated.
+그 영화 완전 명작이야.
+</code></pre></div></code></pre>
+<h3 id="mid--평범하다-그냥-그렇다-칭찬의-반대" tabindex="-1" data-src-line="79">mid — 평범하다, 그냥 그렇다 (칭찬의 반대) <a class="header-anchor" href="#mid--평범하다-그냥-그렇다-칭찬의-반대" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The food was kinda mid.
+음식이 그냥 그랬어.
+
+That movie was mid, honestly.
+솔직히 그 영화 그냥 그랬어.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="2-동의반응-슬랭" tabindex="-1" data-src-line="91">2. 동의·반응 슬랭 <a class="header-anchor" href="#2-동의반응-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="bet--알겠어-오케이-확실해" tabindex="-1" data-src-line="93">bet — 알겠어, 오케이, 확실해 <a class="header-anchor" href="#bet--알겠어-오케이-확실해" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: See you at 7?
+   7시에 봐?
+B: Bet.
+   알겠어. / 오케이.
+
+That&#039;s a bet. (= That&#039;s a deal.)
+그거 합의야.
+</code></pre></div></code></pre>
+<h3 id="no-cap--진짜로-거짓말-아냐--for-real" tabindex="-1" data-src-line="105">no cap — 진짜로, 거짓말 아냐 (= for real) <a class="header-anchor" href="#no-cap--진짜로-거짓말-아냐--for-real" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That was the best meal I&#039;ve ever had, no cap.
+내 인생 최고의 식사였어, 진짜로.
+
+No cap, she&#039;s the best singer I&#039;ve heard.
+진짜로, 내가 들어본 최고의 가수야.
+</code></pre></div></code></pre>
+<h3 id="facts--완전-공감-맞아--thats-true--i-agree" tabindex="-1" data-src-line="115">facts — 완전 공감, 맞아 (= That’s true / I agree) <a class="header-anchor" href="#facts--완전-공감-맞아--thats-true--i-agree" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: This traffic is so bad.
+   교통이 너무 막히네.
+B: Facts.
+   완전 공감.
+</code></pre></div></code></pre>
+<h3 id="fr--for-real--진짜로-심각하게" tabindex="-1" data-src-line="124">fr / for real — 진짜로, 심각하게 <a class="header-anchor" href="#fr--for-real--진짜로-심각하게" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Are you fr right now?
+진짜야?
+
+I need a vacation, fr.
+진짜 휴가가 필요해.
+</code></pre></div></code></pre>
+<h3 id="say-less--더-말-안-해도-알겠어-바로-할게" tabindex="-1" data-src-line="134">say less — 더 말 안 해도 알겠어, 바로 할게 <a class="header-anchor" href="#say-less--더-말-안-해도-알겠어-바로-할게" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">A: Can you help me move this weekend?
+   이번 주말에 이사 도와줄 수 있어?
+B: Say less. I&#039;ll be there.
+   더 말 안 해도 돼. 갈게.
+</code></pre></div></code></pre>
+<h3 id="im-dead--너무-웃겨서-죽겠다-과장-표현" tabindex="-1" data-src-line="143">I’m dead — 너무 웃겨서 죽겠다 (과장 표현) <a class="header-anchor" href="#im-dead--너무-웃겨서-죽겠다-과장-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That meme sent me, I&#039;m dead 💀
+그 밈 보고 죽겠어, 너무 웃겨.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-부정비판-슬랭" tabindex="-1" data-src-line="152">3. 부정·비판 슬랭 <a class="header-anchor" href="#3-부정비판-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="sus--수상하다-의심스럽다-suspicious의-줄임" tabindex="-1" data-src-line="154">sus — 수상하다, 의심스럽다 (suspicious의 줄임) <a class="header-anchor" href="#sus--수상하다-의심스럽다-suspicious의-줄임" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That&#039;s kinda sus.
+그거 좀 수상한데.
+
+He&#039;s acting sus lately.
+요즘 걔 좀 수상하게 굴더라.
+</code></pre></div></code></pre>
+<h3 id="cringe--민망하다-오글거리다" tabindex="-1" data-src-line="164">cringe — 민망하다, 오글거리다 <a class="header-anchor" href="#cringe--민망하다-오글거리다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That commercial was so cringe.
+그 광고 완전 민망했어.
+
+Stop, you&#039;re being cringe.
+그만해, 오글거려.
+</code></pre></div></code></pre>
+<h3 id="l--take-an-l--지다-실패하다-lose의-약자" tabindex="-1" data-src-line="174">L / take an L — 지다, 실패하다 (lose의 약자) <a class="header-anchor" href="#l--take-an-l--지다-실패하다-lose의-약자" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He took a big L today.
+오늘 걔 완전 망했어.
+
+That&#039;s an L for sure.
+그건 완전 실패야.
+(반대: W = win, 성공)
+</code></pre></div></code></pre>
+<h3 id="clapped--별로다-매력-없다-주로-외모에-쓰임-주의해서-사용" tabindex="-1" data-src-line="185">clapped — 별로다, 매력 없다 (주로 외모에 쓰임, 주의해서 사용) <a class="header-anchor" href="#clapped--별로다-매력-없다-주로-외모에-쓰임-주의해서-사용" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The design update looks clapped, ngl.
+솔직히 그 디자인 업데이트 별로야.
+</code></pre></div></code></pre>
+<h3 id="canceled--사회적으로-매장되다" tabindex="-1" data-src-line="192">canceled — 사회적으로 매장되다 <a class="header-anchor" href="#canceled--사회적으로-매장되다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He got canceled after those comments.
+그 발언 이후에 그는 매장됐어.
+
+Cancel culture is complicated.
+캔슬 컬처는 복잡한 문제야.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-감정상태-슬랭" tabindex="-1" data-src-line="204">4. 감정·상태 슬랭 <a class="header-anchor" href="#4-감정상태-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="lowkey--은근히-살짝-약간" tabindex="-1" data-src-line="206">lowkey — 은근히, 살짝, 약간 <a class="header-anchor" href="#lowkey--은근히-살짝-약간" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m lowkey obsessed with this show.
+은근히 이 드라마에 빠졌어.
+
+That was lowkey impressive.
+그거 은근히 인상적이었어.
+</code></pre></div></code></pre>
+<h3 id="highkey--완전히-노골적으로-lowkey의-반대" tabindex="-1" data-src-line="216">highkey — 완전히, 노골적으로 (lowkey의 반대) <a class="header-anchor" href="#highkey--완전히-노골적으로-lowkey의-반대" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I&#039;m highkey stressed right now.
+지금 완전히 스트레스받고 있어.
+
+She highkey likes him.
+걔 완전히 노골적으로 그 사람 좋아해.
+</code></pre></div></code></pre>
+<h3 id="vibe--분위기-느낌--즐기다" tabindex="-1" data-src-line="226">vibe — 분위기, 느낌 / 즐기다 <a class="header-anchor" href="#vibe--분위기-느낌--즐기다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This place has such a good vibe.
+이 곳 분위기 진짜 좋다.
+
+I&#039;m just here to vibe.
+그냥 분위기 즐기러 왔어.
+
+We vibe really well.
+우리 정말 잘 맞아.
+</code></pre></div></code></pre>
+<h3 id="vibing--편하게-즐기는-중" tabindex="-1" data-src-line="239">vibing — 편하게 즐기는 중 <a class="header-anchor" href="#vibing--편하게-즐기는-중" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Just vibing at home.
+그냥 집에서 편하게 있어.
+
+We were just vibing.
+그냥 놀고 있었어.
+</code></pre></div></code></pre>
+<h3 id="dead-ass--deadass--진지하게-진짜로" tabindex="-1" data-src-line="249">dead ass / deadass — 진지하게, 진짜로 <a class="header-anchor" href="#dead-ass--deadass--진지하게-진짜로" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Deadass, that was the best pizza ever.
+진짜로, 역대 최고의 피자였어.
+
+Are you deadass right now?
+지금 진지하게 하는 말이야?
+</code></pre></div></code></pre>
+<h3 id="salty--삐져있다-억울해하다" tabindex="-1" data-src-line="259">salty — 삐져있다, 억울해하다 <a class="header-anchor" href="#salty--삐져있다-억울해하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Why are you so salty about it?
+왜 그걸로 그렇게 삐져있어?
+
+She&#039;s still salty about not being invited.
+초대받지 못한 거 아직도 억울해하고 있어.
+</code></pre></div></code></pre>
+<h3 id="extra--오버하다-지나치다" tabindex="-1" data-src-line="269">extra — 오버하다, 지나치다 <a class="header-anchor" href="#extra--오버하다-지나치다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Stop being so extra.
+오버하지 마.
+
+She&#039;s so extra, but I love her.
+걔 완전 오버하는데, 그래도 좋아.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-관계소셜-슬랭" tabindex="-1" data-src-line="281">5. 관계·소셜 슬랭 <a class="header-anchor" href="#5-관계소셜-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="ghosting--연락을-갑자기-끊다" tabindex="-1" data-src-line="283">ghosting — 연락을 갑자기 끊다 <a class="header-anchor" href="#ghosting--연락을-갑자기-끊다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He ghosted me after the second date.
+두 번째 데이트 후에 그가 갑자기 연락을 끊었어.
+
+I&#039;ve been ghosted so many times.
+연락 끊기는 걸 너무 많이 당했어.
+</code></pre></div></code></pre>
+<h3 id="stan--열렬히-좋아하다-팬" tabindex="-1" data-src-line="293">stan — 열렬히 좋아하다, 팬 <a class="header-anchor" href="#stan--열렬히-좋아하다-팬" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I stan this artist so hard.
+이 아티스트 완전 빠져있어.
+
+The stans are going crazy.
+팬들이 난리 났어.
+</code></pre></div></code></pre>
+<h3 id="ship--두-사람을-엮다-커플을-응원하다" tabindex="-1" data-src-line="303">ship — 두 사람을 엮다, 커플을 응원하다 <a class="header-anchor" href="#ship--두-사람을-엮다-커플을-응원하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">I ship them so hard.
+나 두 사람 완전 엮고 싶어.
+
+Are you shipping them?
+너 걔네 엮는 거야?
+</code></pre></div></code></pre>
+<h3 id="bestie--베스트-프렌드-친근한-호칭으로도-쓰임" tabindex="-1" data-src-line="313">bestie — 베스트 프렌드 (친근한 호칭으로도 쓰임) <a class="header-anchor" href="#bestie--베스트-프렌드-친근한-호칭으로도-쓰임" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Hey bestie, what&#039;s up?
+야 친구, 어때?
+
+She&#039;s my bestie.
+걔 내 절친이야.
+</code></pre></div></code></pre>
+<h3 id="situationship--연인도-아닌-애매한-관계" tabindex="-1" data-src-line="323">situationship — 연인도 아닌 애매한 관계 <a class="header-anchor" href="#situationship--연인도-아닌-애매한-관계" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">We&#039;re in a situationship — not quite dating but not just friends.
+우리 situationship이야 — 사귀는 것도 아니고 그냥 친구도 아니고.
+</code></pre></div></code></pre>
+<h3 id="rizz--매력-이성을-끌어당기는-능력" tabindex="-1" data-src-line="330">rizz — 매력, 이성을 끌어당기는 능력 <a class="header-anchor" href="#rizz--매력-이성을-끌어당기는-능력" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s got serious rizz.
+그 사람 매력 진짜 넘쳐.
+
+Unspoken rizz = 말하지 않아도 풍기는 매력.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-인터넷sns-슬랭" tabindex="-1" data-src-line="341">6. 인터넷·SNS 슬랭 <a class="header-anchor" href="#6-인터넷sns-슬랭" aria-hidden="true">#</a></h2>
+<h3 id="flex--자랑하다-과시하다" tabindex="-1" data-src-line="343">flex — 자랑하다, 과시하다 <a class="header-anchor" href="#flex--자랑하다-과시하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">He&#039;s always flexing his new car.
+걔 항상 새 차 자랑하더라.
+
+Humble flex = 겸손한 척하며 자랑.
+</code></pre></div></code></pre>
+<h3 id="glow-up--외모나-삶이-확-좋아지다" tabindex="-1" data-src-line="352">glow up — 외모나 삶이 확 좋아지다 <a class="header-anchor" href="#glow-up--외모나-삶이-확-좋아지다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She had such a glow up since high school.
+걔 고등학교 때랑 비교하면 완전 달라졌어.
+
+That company had a serious glow up.
+그 회사 엄청 성장했더라.
+</code></pre></div></code></pre>
+<h3 id="its-giving--느낌이다-분위기다" tabindex="-1" data-src-line="362">it’s giving… — ~느낌이다, ~분위기다 <a class="header-anchor" href="#its-giving--느낌이다-분위기다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">This outfit is giving main character energy.
+이 옷 완전 주인공 에너지야.
+
+The room was giving haunted house vibes.
+그 방 귀신의 집 분위기였어.
+</code></pre></div></code></pre>
+<h3 id="understood-the-assignment--제대로-해냈다-완벽히-역할을-수행했다" tabindex="-1" data-src-line="372">understood the assignment — 제대로 해냈다, 완벽히 역할을 수행했다 <a class="header-anchor" href="#understood-the-assignment--제대로-해냈다-완벽히-역할을-수행했다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She really understood the assignment tonight.
+오늘 밤 걔 완전히 제 역할 다 했어.
+</code></pre></div></code></pre>
+<h3 id="main-character--자신이-주인공인-것처럼-행동하는-사람" tabindex="-1" data-src-line="379">main character — 자신이 주인공인 것처럼 행동하는 사람 <a class="header-anchor" href="#main-character--자신이-주인공인-것처럼-행동하는-사람" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">She&#039;s so main character — walks into every room like she owns it.
+걔 완전 주인공 마인드야 — 어디든 자기 집처럼 들어가.
+</code></pre></div></code></pre>
+<h3 id="rent-free--머릿속에서-떠나지-않다" tabindex="-1" data-src-line="386">rent free — 머릿속에서 떠나지 않다 <a class="header-anchor" href="#rent-free--머릿속에서-떠나지-않다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">That song lives rent free in my head.
+그 노래가 머릿속에서 안 떠나.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="7-세대별-슬랭-비교" tabindex="-1" data-src-line="395">7. 세대별 슬랭 비교 <a class="header-anchor" href="#7-세대별-슬랭-비교" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">슬랭</th>
+<th scope="col">Gen Z 사용</th>
+<th scope="col">Millennial 사용</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>fire</td>
+<td>✅ 매우 활발</td>
+<td>✅</td>
+<td>최고</td>
+</tr>
+<tr>
+<td>lit</td>
+<td>△ 줄어드는 중</td>
+<td>✅ 여전히 사용</td>
+<td>신난다</td>
+</tr>
+<tr>
+<td>slay</td>
+<td>✅ 매우 활발</td>
+<td>△</td>
+<td>완벽해</td>
+</tr>
+<tr>
+<td>bet</td>
+<td>✅</td>
+<td>△ 잘 모름</td>
+<td>알겠어</td>
+</tr>
+<tr>
+<td>no cap</td>
+<td>✅</td>
+<td>△</td>
+<td>진짜로</td>
+</tr>
+<tr>
+<td>rizz</td>
+<td>✅ 최근 유행</td>
+<td>❌</td>
+<td>매력</td>
+</tr>
+<tr>
+<td>bussin</td>
+<td>✅</td>
+<td>△</td>
+<td>맛있다</td>
+</tr>
+<tr>
+<td>ghosting</td>
+<td>✅</td>
+<td>✅</td>
+<td>연락 끊기</td>
+</tr>
+<tr>
+<td>flex</td>
+<td>✅</td>
+<td>✅</td>
+<td>자랑</td>
+</tr>
+<tr>
+<td>GOAT</td>
+<td>✅</td>
+<td>✅</td>
+<td>역대 최고</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="8-슬랭을-자연스럽게-쓰는-법" tabindex="-1" data-src-line="412">8. 슬랭을 자연스럽게 쓰는 법 <a class="header-anchor" href="#8-슬랭을-자연스럽게-쓰는-법" aria-hidden="true">#</a></h2>
+<h3 id="과하면-오히려-어색하다" tabindex="-1" data-src-line="414">과하면 오히려 어색하다 <a class="header-anchor" href="#과하면-오히려-어색하다" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">❌ 과한 사용:
+&quot;Bestie, that was literally so fire and bussin, no cap,
+I&#039;m deadass obsessed, it&#039;s giving slay energy, fr fr.&quot;
+
+✅ 자연스러운 사용:
+&quot;That was honestly so good — lowkey obsessed with it.&quot;
+</code></pre></div></code></pre>
+<h3 id="슬랭-사용-팁" tabindex="-1" data-src-line="425">슬랭 사용 팁 <a class="header-anchor" href="#슬랭-사용-팁" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">1. 한두 개씩 자연스럽게 넣으세요.
+2. 확실히 아는 표현만 쓰세요.
+3. 상대방이 먼저 쓰면 그때 따라 쓰는 게 안전합니다.
+4. 비즈니스·공식 상황에서는 절대 쓰지 마세요.
+5. 지역·세대에 따라 통하는 슬랭이 다를 수 있어요.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="9-실전-회화--슬랭을-자연스럽게-쓰는-법" tabindex="-1" data-src-line="437">9. 실전 회화 — 슬랭을 자연스럽게 쓰는 법 <a class="header-anchor" href="#9-실전-회화--슬랭을-자연스럽게-쓰는-법" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Jake:  Did you watch the game last night?
+       어젯밤 경기 봤어?
+
+Mia:   Fr, I did. That last-minute goal was fire.
+       진짜, 봤어. 막판 골 완전 멋졌어.
+
+Jake:  No cap, I was literally losing my mind.
+       진짜로, 나 완전 미칠 뻔했잖아.
+
+Mia:   The goat showed up when it mattered most.
+       역대 최고가 중요할 때 딱 나타났지.
+
+Jake:  Facts. Hey, are you coming to the watch party
+       next week?
+       완전 공감. 야, 다음 주 관람 파티 와?
+
+Mia:   Bet. What time?
+       알겠어. 몇 시에?
+
+Jake:  Around 7. It&#039;s gonna be so lit.
+       7시쯤. 완전 신날 거야.
+
+Mia:   Say less. I&#039;ll bring snacks — my cooking is bussin.
+       더 말 안 해도 돼. 간식 가져올게 — 내 요리 진짜 맛있잖아.
+
+Jake:  Lowkey hyped for it already.
+       은근히 벌써부터 기대된다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="슬랭-50-빠른-참조표" tabindex="-1" data-src-line="471">슬랭 50 빠른 참조표 <a class="header-anchor" href="#슬랭-50-빠른-참조표" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">#</th>
+<th scope="col">슬랭</th>
+<th scope="col">의미</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>fire</td>
+<td>최고다</td>
+</tr>
+<tr>
+<td>2</td>
+<td>lit</td>
+<td>신난다</td>
+</tr>
+<tr>
+<td>3</td>
+<td>slay</td>
+<td>압도하다</td>
+</tr>
+<tr>
+<td>4</td>
+<td>bussin</td>
+<td>맛있다</td>
+</tr>
+<tr>
+<td>5</td>
+<td>GOAT / goated</td>
+<td>역대 최고</td>
+</tr>
+<tr>
+<td>6</td>
+<td>mid</td>
+<td>그냥 그렇다</td>
+</tr>
+<tr>
+<td>7</td>
+<td>bet</td>
+<td>알겠어</td>
+</tr>
+<tr>
+<td>8</td>
+<td>no cap</td>
+<td>진짜로</td>
+</tr>
+<tr>
+<td>9</td>
+<td>facts</td>
+<td>공감</td>
+</tr>
+<tr>
+<td>10</td>
+<td>fr / for real</td>
+<td>진짜로</td>
+</tr>
+<tr>
+<td>11</td>
+<td>say less</td>
+<td>더 말 안 해도 돼</td>
+</tr>
+<tr>
+<td>12</td>
+<td>I’m dead</td>
+<td>너무 웃겨</td>
+</tr>
+<tr>
+<td>13</td>
+<td>sus</td>
+<td>수상하다</td>
+</tr>
+<tr>
+<td>14</td>
+<td>cringe</td>
+<td>민망하다</td>
+</tr>
+<tr>
+<td>15</td>
+<td>L / take an L</td>
+<td>지다, 실패하다</td>
+</tr>
+<tr>
+<td>16</td>
+<td>canceled</td>
+<td>매장되다</td>
+</tr>
+<tr>
+<td>17</td>
+<td>lowkey</td>
+<td>은근히</td>
+</tr>
+<tr>
+<td>18</td>
+<td>highkey</td>
+<td>완전히</td>
+</tr>
+<tr>
+<td>19</td>
+<td>vibe</td>
+<td>분위기</td>
+</tr>
+<tr>
+<td>20</td>
+<td>vibing</td>
+<td>즐기는 중</td>
+</tr>
+<tr>
+<td>21</td>
+<td>deadass</td>
+<td>진짜로</td>
+</tr>
+<tr>
+<td>22</td>
+<td>salty</td>
+<td>삐져있다</td>
+</tr>
+<tr>
+<td>23</td>
+<td>extra</td>
+<td>오버하다</td>
+</tr>
+<tr>
+<td>24</td>
+<td>ghosting</td>
+<td>연락 끊기</td>
+</tr>
+<tr>
+<td>25</td>
+<td>stan</td>
+<td>팬, 열렬히 좋아하다</td>
+</tr>
+<tr>
+<td>26</td>
+<td>ship</td>
+<td>엮다</td>
+</tr>
+<tr>
+<td>27</td>
+<td>bestie</td>
+<td>절친</td>
+</tr>
+<tr>
+<td>28</td>
+<td>situationship</td>
+<td>애매한 관계</td>
+</tr>
+<tr>
+<td>29</td>
+<td>rizz</td>
+<td>매력</td>
+</tr>
+<tr>
+<td>30</td>
+<td>flex</td>
+<td>자랑하다</td>
+</tr>
+<tr>
+<td>31</td>
+<td>glow up</td>
+<td>확 좋아지다</td>
+</tr>
+<tr>
+<td>32</td>
+<td>it’s giving</td>
+<td>~느낌이다</td>
+</tr>
+<tr>
+<td>33</td>
+<td>understood the assignment</td>
+<td>제대로 해냈다</td>
+</tr>
+<tr>
+<td>34</td>
+<td>main character</td>
+<td>주인공 에너지</td>
+</tr>
+<tr>
+<td>35</td>
+<td>rent free</td>
+<td>머릿속에서 못 떠남</td>
+</tr>
+<tr>
+<td>36</td>
+<td>slaps</td>
+<td>음악이 최고다</td>
+</tr>
+<tr>
+<td>37</td>
+<td>hits different</td>
+<td>색다르게 다가오다</td>
+</tr>
+<tr>
+<td>38</td>
+<td>understood</td>
+<td>알겠어 (고개 끄덕)</td>
+</tr>
+<tr>
+<td>39</td>
+<td>periodt</td>
+<td>끝, 마침표 (강조)</td>
+</tr>
+<tr>
+<td>40</td>
+<td>bestie behavior</td>
+<td>친구다운 행동</td>
+</tr>
+<tr>
+<td>41</td>
+<td>NPC</td>
+<td>반응 없는 사람</td>
+</tr>
+<tr>
+<td>42</td>
+<td>era</td>
+<td>시기, 단계 (in my villain era)</td>
+</tr>
+<tr>
+<td>43</td>
+<td>based</td>
+<td>자기 자신을 당당히 표현하는</td>
+</tr>
+<tr>
+<td>44</td>
+<td>ate (and left no crumbs)</td>
+<td>완벽히 해냈다</td>
+</tr>
+<tr>
+<td>45</td>
+<td>delulu</td>
+<td>망상에 빠진 (delusional)</td>
+</tr>
+<tr>
+<td>46</td>
+<td>cheugy</td>
+<td>구식의, 트렌드 지난</td>
+</tr>
+<tr>
+<td>47</td>
+<td>W</td>
+<td>승리, 잘 했다</td>
+</tr>
+<tr>
+<td>48</td>
+<td>cap / capping</td>
+<td>거짓말</td>
+</tr>
+<tr>
+<td>49</td>
+<td>pressed</td>
+<td>화나있다</td>
+</tr>
+<tr>
+<td>50</td>
+<td>lowkey W</td>
+<td>은근한 승리</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="마무리" tabindex="-1" data-src-line="528">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>미국 슬랭 활용의 핵심:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 맥락을 파악하세요:
+  친구 대화·SNS → 자유롭게
+  직장·공식 상황 → 절대 사용 금지
+
+② 한두 개씩 자연스럽게:
+  슬랭 남발 = 어색함
+  적재적소 = 원어민스러움
+
+③ 상대방 세대를 고려하세요:
+  Gen Z 슬랭을 어른들에게 쓰면 어색할 수 있어요.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>원어민 일상 슬랭 50 — 영국 영어</strong>,<br>
+British English 특유의 표현과 미국 vs 영국 차이 30가지를 완전히 파고듭니다!</p>
+<hr>
+<blockquote>
+<p>📚 <strong>중급 영어 시리즈 목차</strong></p>
+<p><strong>[Part 2 — 슬랭과 구어체]</strong></p>
+<ul>
+<li><strong>6강</strong>: 원어민 슬랭 50 — 미국 영어 ← 현재 글</li>
+<li>7강: 원어민 슬랭 50 — 영국 영어</li>
+<li>8강: 구동사 심화 60</li>
+<li>9강: 관용 표현 심화 50</li>
+<li>10강: 영어 유머와 위트</li>
+</ul>
+</blockquote>
+4:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Lc",null,{"content":"$d"}]}]}]
+5:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$Le",null,{"href":"/post/english/english-lesson-17-relative-pronouns","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 17강: 관계대명사 완전 정복 — who · which · that · whose · whom"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-07-british-slang",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-07-british-slang","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 7강: 원어민 일상 슬랭 50 — 영국 영어"}]}],["$","li","english-advanced/english-advanced-lesson-08-phrasal-verbs",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-08-phrasal-verbs","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 8강: 구동사 심화 60 — 원어민이 매일 쓰는 것들"}]}],["$","li","english-advanced/english-advanced-lesson-05-requests",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$Le",null,{"href":"/post/english-advanced/english-advanced-lesson-05-requests","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 5강: 요청의 온도 — 반말부터 초격식까지"}]}]]}]]}]]}]
+6:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+7:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+8:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+9:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+b:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+11:null

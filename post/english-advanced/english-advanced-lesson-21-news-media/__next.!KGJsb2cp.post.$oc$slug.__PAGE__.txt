@@ -1,0 +1,308 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"ASSEgGrCfNQXYJ8AxNYxM","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-21-news-media\"},\"headline\":\"중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략\",\"description\":\"뉴스 영어 헤드라인 문법, 정치·경제 뉴스 핵심 표현, 미디어 리터러시, BBC·CNN·NPR 스타일 차이까지 영어 뉴스를 정복합니다.\",\"datePublished\":\"2026-05-06T20:00:00.000Z\",\"dateModified\":\"2026-05-06T20:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-21-news-media\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"english\",\"advanced\",\"news\",\"media\",\"reading\",\"intermediate\"]}"}}],["$","$L2",null,{"title":"중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략","slugPath":"english-advanced/english-advanced-lesson-21-news-media","headings":[{"id":"중급-영어-21강-영어-뉴스미디어-읽기듣기-전략","text":"중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략","level":1},{"id":"들어가기-앞서","text":"들어가기 앞서","level":2},{"id":"1-뉴스-헤드라인의-독특한-문법","text":"1. 뉴스 헤드라인의 독특한 문법","level":2},{"id":"현재-시제로-과거-사건-표현","text":"현재 시제로 과거 사건 표현","level":3},{"id":"to부정사로-미래-표현","text":"to부정사로 미래 표현","level":3},{"id":"관사be동사-생략","text":"관사·be동사 생략","level":3},{"id":"콜론으로-출처-표시","text":"콜론으로 출처 표시","level":3},{"id":"헤드라인-주요-단어--짧고-강한-단어-선호","text":"헤드라인 주요 단어 — 짧고 강한 단어 선호","level":3},{"id":"2-정치경제-뉴스-핵심-표현","text":"2. 정치·경제 뉴스 핵심 표현","level":2},{"id":"정치-표현","text":"정치 표현","level":3},{"id":"경제-표현","text":"경제 표현","level":3},{"id":"뉴스에서-자주-쓰는-동사-구조","text":"뉴스에서 자주 쓰는 동사 구조","level":3},{"id":"3-미디어-리터러시--주관적-vs-객관적-표현","text":"3. 미디어 리터러시 — 주관적 vs 객관적 표현","level":2},{"id":"객관적-표현-팩트-기반","text":"객관적 표현 (팩트 기반)","level":3},{"id":"주관적--의견-포함-표현","text":"주관적 / 의견 포함 표현","level":3},{"id":"편향성-신호-단어","text":"편향성 신호 단어","level":3},{"id":"4-bbc--cnn--npr-스타일-차이","text":"4. BBC · CNN · NPR 스타일 차이","level":2},{"id":"bbc-스타일-예시","text":"BBC 스타일 예시","level":3},{"id":"cnn-스타일-예시","text":"CNN 스타일 예시","level":3},{"id":"npr-스타일-예시","text":"NPR 스타일 예시","level":3},{"id":"5-뉴스-기사-요약하는-법","text":"5. 뉴스 기사 요약하는 법","level":2},{"id":"5w1h-구조로-파악하기","text":"5W1H 구조로 파악하기","level":3},{"id":"요약-표현","text":"요약 표현","level":3},{"id":"6-실전-뉴스-기사-분석-연습","text":"6. 실전: 뉴스 기사 분석 연습","level":2},{"id":"마무리","text":"마무리","level":2}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"english-advanced › english-advanced-lesson-21-news-media"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"뉴스 영어 헤드라인 문법, 정치·경제 뉴스 핵심 표현, 미디어 리터러시, BBC·CNN·NPR 스타일 차이까지 영어 뉴스를 정복합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-05-06T20:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 5월 7일"]}],"$L3","$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","time",null,{"dateTime":"2026-05-06T20:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"수정일 ","2026년 5월 7일"]}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","english",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","english"]}],["$","span","advanced",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","advanced"]}],["$","span","news",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","news"]}],["$","span","media",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","media"]}],["$","span","reading",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","reading"]}],["$","span","intermediate",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","intermediate"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T4ae8,<h1 id="중급-영어-21강-영어-뉴스미디어-읽기듣기-전략" tabindex="-1" data-src-line="1">중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략 <a class="header-anchor" href="#중급-영어-21강-영어-뉴스미디어-읽기듣기-전략" aria-hidden="true">#</a></h1>
+<nav class="md-toc"><ul><li><a href="#중급-영어-21강-영어-뉴스미디어-읽기듣기-전략">중급 영어 21강: 영어 뉴스·미디어 읽기·듣기 전략 </a><ul><li><a href="#들어가기-앞서">들어가기 앞서 </a></li><li><a href="#1-뉴스-헤드라인의-독특한-문법">1. 뉴스 헤드라인의 독특한 문법 </a><ul><li><a href="#현재-시제로-과거-사건-표현">현재 시제로 과거 사건 표현 </a></li><li><a href="#to부정사로-미래-표현">to부정사로 미래 표현 </a></li><li><a href="#관사be동사-생략">관사·be동사 생략 </a></li><li><a href="#콜론으로-출처-표시">콜론으로 출처 표시 </a></li><li><a href="#헤드라인-주요-단어--짧고-강한-단어-선호">헤드라인 주요 단어 — 짧고 강한 단어 선호 </a></li></ul></li><li><a href="#2-정치경제-뉴스-핵심-표현">2. 정치·경제 뉴스 핵심 표현 </a><ul><li><a href="#정치-표현">정치 표현 </a></li><li><a href="#경제-표현">경제 표현 </a></li><li><a href="#뉴스에서-자주-쓰는-동사-구조">뉴스에서 자주 쓰는 동사 구조 </a></li></ul></li><li><a href="#3-미디어-리터러시--주관적-vs-객관적-표현">3. 미디어 리터러시 — 주관적 vs 객관적 표현 </a><ul><li><a href="#객관적-표현-팩트-기반">객관적 표현 (팩트 기반) </a></li><li><a href="#주관적--의견-포함-표현">주관적 / 의견 포함 표현 </a></li><li><a href="#편향성-신호-단어">편향성 신호 단어 </a></li></ul></li><li><a href="#4-bbc--cnn--npr-스타일-차이">4. BBC · CNN · NPR 스타일 차이 </a><ul><li><a href="#bbc-스타일-예시">BBC 스타일 예시 </a></li><li><a href="#cnn-스타일-예시">CNN 스타일 예시 </a></li><li><a href="#npr-스타일-예시">NPR 스타일 예시 </a></li></ul></li><li><a href="#5-뉴스-기사-요약하는-법">5. 뉴스 기사 요약하는 법 </a><ul><li><a href="#5w1h-구조로-파악하기">5W1H 구조로 파악하기 </a></li><li><a href="#요약-표현">요약 표현 </a></li></ul></li><li><a href="#6-실전-뉴스-기사-분석-연습">6. 실전: 뉴스 기사 분석 연습 </a></li><li><a href="#마무리">마무리 </a></li></ul></li></ul></nav><h2 id="들어가기-앞서" tabindex="-1" data-src-line="5">들어가기 앞서 <a class="header-anchor" href="#들어가기-앞서" aria-hidden="true">#</a></h2>
+<p>영어 뉴스를 읽다 보면 일상 영어와는 전혀 다른 표현들이 가득합니다.<br>
+헤드라인의 독특한 문법, 정치·경제 전문 용어, 언론사마다 다른 톤과 스타일.<br>
+이것들을 알면 영어 미디어가 훨씬 쉽고 빠르게 읽힙니다.</p>
+<blockquote>
+<p>이 글을 읽고 나면:</p>
+<ul>
+<li>뉴스 헤드라인의 독특한 문법 규칙을 이해할 수 있습니다.</li>
+<li>정치·경제 뉴스의 핵심 표현을 파악할 수 있습니다.</li>
+<li>주관적·객관적 표현을 구분하는 미디어 리터러시를 갖출 수 있습니다.</li>
+<li>BBC·CNN·NPR의 스타일 차이를 이해할 수 있습니다.</li>
+</ul>
+</blockquote>
+<hr>
+<h2 id="1-뉴스-헤드라인의-독특한-문법" tabindex="-1" data-src-line="19">1. 뉴스 헤드라인의 독특한 문법 <a class="header-anchor" href="#1-뉴스-헤드라인의-독특한-문법" aria-hidden="true">#</a></h2>
+<p>헤드라인은 공간을 아끼기 위해 일반 영어와 다른 규칙을 씁니다.</p>
+<h3 id="현재-시제로-과거-사건-표현" tabindex="-1" data-src-line="23">현재 시제로 과거 사건 표현 <a class="header-anchor" href="#현재-시제로-과거-사건-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">일반 영어: The president signed the bill yesterday.
+헤드라인:  President Signs Landmark Bill
+           (과거 사건이지만 현재 시제로)
+</code></pre></div></code></pre>
+<h3 id="to부정사로-미래-표현" tabindex="-1" data-src-line="31">to부정사로 미래 표현 <a class="header-anchor" href="#to부정사로-미래-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">일반 영어: The company will announce layoffs next week.
+헤드라인:  Tech Giant to Announce Major Layoffs
+           (will → to부정사)
+</code></pre></div></code></pre>
+<h3 id="관사be동사-생략" tabindex="-1" data-src-line="39">관사·be동사 생략 <a class="header-anchor" href="#관사be동사-생략" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">일반 영어: A new study finds that coffee is good for health.
+헤드라인:  New Study Finds Coffee Beneficial for Health
+           (a, is 생략)
+</code></pre></div></code></pre>
+<h3 id="콜론으로-출처-표시" tabindex="-1" data-src-line="47">콜론으로 출처 표시 <a class="header-anchor" href="#콜론으로-출처-표시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Biden: &#039;We will not back down&#039;
+바이든: &quot;우리는 물러서지 않겠다&quot;
+
+IMF: Global Growth Slowing
+IMF: 전 세계 성장세 둔화
+</code></pre></div></code></pre>
+<h3 id="헤드라인-주요-단어--짧고-강한-단어-선호" tabindex="-1" data-src-line="57">헤드라인 주요 단어 — 짧고 강한 단어 선호 <a class="header-anchor" href="#헤드라인-주요-단어--짧고-강한-단어-선호" aria-hidden="true">#</a></h3>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col">일반 단어</th>
+<th scope="col">헤드라인 단어</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>increase</td>
+<td>rise, soar, surge, jump</td>
+</tr>
+<tr>
+<td>decrease</td>
+<td>fall, drop, plunge, slide</td>
+</tr>
+<tr>
+<td>say</td>
+<td>vow, warn, urge, slam, blast</td>
+</tr>
+<tr>
+<td>investigate</td>
+<td>probe</td>
+</tr>
+<tr>
+<td>agreement</td>
+<td>deal, pact</td>
+</tr>
+<tr>
+<td>problem</td>
+<td>crisis, woe</td>
+</tr>
+<tr>
+<td>support</td>
+<td>back, boost</td>
+</tr>
+<tr>
+<td>oppose</td>
+<td>hit, slam</td>
+</tr>
+</tbody>
+</table>
+</div><hr>
+<h2 id="2-정치경제-뉴스-핵심-표현" tabindex="-1" data-src-line="72">2. 정치·경제 뉴스 핵심 표현 <a class="header-anchor" href="#2-정치경제-뉴스-핵심-표현" aria-hidden="true">#</a></h2>
+<h3 id="정치-표현" tabindex="-1" data-src-line="74">정치 표현 <a class="header-anchor" href="#정치-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">bipartisan — 양당의, 초당적
+legislation — 법률, 입법
+veto — 거부권
+incumbent — 현직의
+sanction — 제재
+bilateral — 양자의
+diplomatic ties — 외교 관계
+coalition — 연립, 연합
+grassroots — 풀뿌리 (시민 주도)
+lame-duck — 레임덕 (임기 말 권력 약화)
+</code></pre></div></code></pre>
+<h3 id="경제-표현" tabindex="-1" data-src-line="89">경제 표현 <a class="header-anchor" href="#경제-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">GDP (Gross Domestic Product) — 국내총생산
+inflation — 인플레이션
+recession — 경기 침체
+interest rate hike — 금리 인상
+fiscal policy — 재정 정책
+monetary policy — 통화 정책
+trade deficit / surplus — 무역 적자 / 흑자
+bear market / bull market — 약세장 / 강세장
+stimulus package — 경기 부양책
+supply chain — 공급망
+</code></pre></div></code></pre>
+<h3 id="뉴스에서-자주-쓰는-동사-구조" tabindex="-1" data-src-line="104">뉴스에서 자주 쓰는 동사 구조 <a class="header-anchor" href="#뉴스에서-자주-쓰는-동사-구조" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">[주체] + calls for / urges / demands + [요구 내용]
+→ 누군가 무언가를 촉구할 때
+
+Officials urged lawmakers to act quickly.
+관리들이 입법자들에게 빠른 행동을 촉구했다.
+
+[주체] + faces / grapples with + [문제]
+→ 누군가 문제에 직면할 때
+
+The economy faces mounting pressure.
+경제가 증가하는 압박에 직면했다.
+
+[주체] + vows to / pledges to + [약속]
+→ 강하게 약속할 때
+
+The minister vowed to tackle corruption.
+장관이 부패를 척결하겠다고 다짐했다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-미디어-리터러시--주관적-vs-객관적-표현" tabindex="-1" data-src-line="128">3. 미디어 리터러시 — 주관적 vs 객관적 표현 <a class="header-anchor" href="#3-미디어-리터러시--주관적-vs-객관적-표현" aria-hidden="true">#</a></h2>
+<h3 id="객관적-표현-팩트-기반" tabindex="-1" data-src-line="130">객관적 표현 (팩트 기반) <a class="header-anchor" href="#객관적-표현-팩트-기반" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The report shows that...
+보고서에 따르면...
+
+According to official data, ...
+공식 데이터에 따르면...
+
+[Name] stated that...
+[이름]은 ...라고 말했습니다.
+
+The study found...
+연구 결과...
+</code></pre></div></code></pre>
+<h3 id="주관적--의견-포함-표현" tabindex="-1" data-src-line="146">주관적 / 의견 포함 표현 <a class="header-anchor" href="#주관적--의견-포함-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Critics say... / Supporters argue...
+비평가들은 ...라고 말한다 / 지지자들은 ...라고 주장한다.
+
+It remains unclear whether...
+...인지는 여전히 불분명하다.
+
+Some analysts believe...
+일부 분석가들은 ...라고 생각한다.
+
+The move has been described as...
+이 움직임은 ...로 묘사되어 왔다.
+</code></pre></div></code></pre>
+<h3 id="편향성-신호-단어" tabindex="-1" data-src-line="162">편향성 신호 단어 <a class="header-anchor" href="#편향성-신호-단어" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">&#039;loaded&#039; 언어 (감정적 편향 가능):
+regime (체제 — 부정적 뉘앙스) vs government (정부)
+militant (전투원 — 부정적) vs fighter (전사 — 중립적)
+claims (주장한다 — 의심) vs says (말한다 — 중립)
+admits (인정한다 — 약점 함의) vs confirms (확인한다 — 중립)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="4-bbc--cnn--npr-스타일-차이" tabindex="-1" data-src-line="174">4. BBC · CNN · NPR 스타일 차이 <a class="header-anchor" href="#4-bbc--cnn--npr-스타일-차이" aria-hidden="true">#</a></h2>
+<div class="table-scroll" tabindex="0" role="region" aria-label="Scrollable table"><table>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">BBC</th>
+<th scope="col">CNN</th>
+<th scope="col">NPR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>톤</td>
+<td>격식적, 절제된</td>
+<td>드라마틱, 즉각적</td>
+<td>대화체, 심층적</td>
+</tr>
+<tr>
+<td>문장</td>
+<td>길고 복잡</td>
+<td>짧고 직접적</td>
+<td>중간, 이야기체</td>
+</tr>
+<tr>
+<td>관점</td>
+<td>중립 강조</td>
+<td>논평 많음</td>
+<td>분석적</td>
+</tr>
+<tr>
+<td>특징</td>
+<td>국제적 시각</td>
+<td>미국 중심</td>
+<td>공영 방송 깊이</td>
+</tr>
+<tr>
+<td>어휘</td>
+<td>영국식 철자·표현</td>
+<td>미국식</td>
+<td>미국식</td>
+</tr>
+</tbody>
+</table>
+</div><h3 id="bbc-스타일-예시" tabindex="-1" data-src-line="184">BBC 스타일 예시 <a class="header-anchor" href="#bbc-스타일-예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The government has confirmed that measures will be
+introduced to address the growing economic disparity.
+정부는 증가하는 경제적 불평등을 해소하기 위한
+조치를 도입할 것이라고 확인했습니다.
+</code></pre></div></code></pre>
+<h3 id="cnn-스타일-예시" tabindex="-1" data-src-line="193">CNN 스타일 예시 <a class="header-anchor" href="#cnn-스타일-예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">BREAKING: Officials say new measures are coming —
+but critics are already pushing back.
+속보: 관리들은 새로운 조치가 나올 것이라고 말하지만
+비평가들은 이미 반발하고 있습니다.
+</code></pre></div></code></pre>
+<h3 id="npr-스타일-예시" tabindex="-1" data-src-line="202">NPR 스타일 예시 <a class="header-anchor" href="#npr-스타일-예시" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">For years, residents of this neighborhood have watched
+the gap between rich and poor grow wider.
+Now, the government says it has a plan.
+수년간, 이 동네 주민들은 빈부 격차가 커지는 것을 지켜봤습니다.
+이제 정부가 계획이 있다고 말합니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-뉴스-기사-요약하는-법" tabindex="-1" data-src-line="214">5. 뉴스 기사 요약하는 법 <a class="header-anchor" href="#5-뉴스-기사-요약하는-법" aria-hidden="true">#</a></h2>
+<h3 id="5w1h-구조로-파악하기" tabindex="-1" data-src-line="216">5W1H 구조로 파악하기 <a class="header-anchor" href="#5w1h-구조로-파악하기" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Who   — 누가?
+What  — 무엇을?
+When  — 언제?
+Where — 어디서?
+Why   — 왜?
+How   — 어떻게?
+</code></pre></div></code></pre>
+<h3 id="요약-표현" tabindex="-1" data-src-line="227">요약 표현 <a class="header-anchor" href="#요약-표현" aria-hidden="true">#</a></h3>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">The article reports that...
+이 기사는 ...를 보도합니다.
+
+The main point is that...
+주요 요점은 ...입니다.
+
+According to the piece, ...
+이 글에 따르면, ...
+
+The author argues / suggests that...
+저자는 ...라고 주장/제안합니다.
+
+The key takeaway is...
+핵심 시사점은...입니다.
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-실전-뉴스-기사-분석-연습" tabindex="-1" data-src-line="248">6. 실전: 뉴스 기사 분석 연습 <a class="header-anchor" href="#6-실전-뉴스-기사-분석-연습" aria-hidden="true">#</a></h2>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">헤드라인: Central Bank Raises Rates Amid Inflation Fears
+
+분석:
+- Raises (현재 시제 → 이미 일어난 일)
+- Rates (= interest rates, 관사 생략)
+- Amid (= in the middle of, 뉴스 전치사)
+- Fears (= concerns, 강한 단어 선호)
+
+의미: 중앙은행이 인플레이션 우려 속에 금리를 인상했다.
+
+5W1H:
+Who: Central Bank
+What: Raises interest rates
+When: (기사 내에서 확인)
+Where: (기사 내에서 확인)
+Why: Inflation fears
+How: Rate hike (금리 인상)
+</code></pre></div></code></pre>
+<hr>
+<h2 id="마무리" tabindex="-1" data-src-line="272">마무리 <a class="header-anchor" href="#마무리" aria-hidden="true">#</a></h2>
+<p>뉴스 영어의 핵심 세 가지:</p>
+<pre><code><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">① 헤드라인 문법 규칙:
+  현재형 = 과거 사건
+  to부정사 = 미래 계획
+  관사·be동사 = 생략
+
+② 편향성 신호를 읽으세요:
+  &quot;claims&quot; (의심) vs &quot;says&quot; (중립)
+  &quot;regime&quot; (부정적) vs &quot;government&quot; (중립)
+
+③ 출처를 다양하게:
+  BBC + CNN + NPR을 비교하면
+  같은 사건도 다르게 보입니다.
+</code></pre></div></code></pre>
+<p>다음 강에서는 <strong>영어 드라마·영화로 배우는 구어체</strong> — 섀도잉 완전 가이드!</p>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-20-social","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 20강: 소셜 영어 — 파티·모임·네트워킹"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-22-drama-movies","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"중급 영어 22강: 영어 드라마·영화로 배우는 구어체"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","english-advanced/english-advanced-lesson-12-presentations",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-12-presentations","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 12강: 비즈니스 프레젠테이션 영어"}]}],["$","li","english-advanced/english-advanced-lesson-25-review-roadmap",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-25-review-roadmap","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 25강: 심화 시리즈 총복습 + B2 이후 로드맵"}]}],["$","li","english-advanced/english-advanced-lesson-24-culture",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/english-advanced/english-advanced-lesson-24-culture","className":"text-sm font-medium hover:text-[var(--primary)]","children":"중급 영어 24강: 문화 차이와 영어 — 오해 없이 소통하기"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null
