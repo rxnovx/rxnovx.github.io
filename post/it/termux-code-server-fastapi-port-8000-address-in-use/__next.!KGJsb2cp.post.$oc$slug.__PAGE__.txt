@@ -1,0 +1,167 @@
+1:"$Sreact.fragment"
+2:I[3957,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+d:I[1205,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+e:I[7971,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],"default"]
+10:I[8500,["500","static/chunks/500-b84d19d842172eba.js","121","static/chunks/app/(blog)/post/%5B%5B...slug%5D%5D/page-832998dcd897d0da.js"],""]
+11:I[484,[],"OutletBoundary"]
+12:"$Sreact.suspense"
+:HL["/_next/static/css/b581b0ddd08f3771.css","style"]
+0:{"buildId":"CWr-cMH8phWVgMkpIg-mZ","rsc":["$","$1","c",{"children":[["$","div",null,{"id":"post-page-root","className":"mx-auto w-full max-w-6xl xl:pr-72","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://rxnovx.github.io/post/it/termux-code-server-fastapi-port-8000-address-in-use\"},\"headline\":\"Termux에서 FastAPI 8000번 포트가 계속 사용 중일 때 해결하기\",\"description\":\"Termux와 Code-server 환경에서 FastAPI/Uvicorn 서버를 실행하다가 비정상 종료된 뒤 8000번 포트가 계속 점유되는 문제의 원인과 해결 과정을 정리합니다.\",\"datePublished\":\"2026-06-21T15:00:00.000Z\",\"dateModified\":\"2026-06-21T15:00:00.000Z\",\"url\":\"https://rxnovx.github.io/post/it/termux-code-server-fastapi-port-8000-address-in-use\",\"author\":{\"@type\":\"Person\",\"name\":\"RxNovx\"},\"publisher\":{\"@type\":\"Organization\",\"name\":\"RxNovx Blog\"},\"keywords\":[\"termux\",\"fastapi\",\"uvicorn\",\"code-server\",\"python\",\"android\",\"port\",\"address-in-use\"]}"}}],["$","$L2",null,{"title":"Termux에서 FastAPI 8000번 포트가 계속 사용 중일 때 해결하기","slugPath":"it/termux-code-server-fastapi-port-8000-address-in-use","headings":[{"id":"상황","text":"상황","level":2},{"id":"원인","text":"원인","level":2},{"id":"확인된-단서","text":"확인된 단서","level":2},{"id":"lsof로-보이지-않는-경우","text":"lsof로 보이지 않는 경우","level":2},{"id":"1-이전-터미널에-붙어-있던-프로세스-찾기","text":"1. 이전 터미널에 붙어 있던 프로세스 찾기","level":2},{"id":"2-해당-pid-종료하기","text":"2. 해당 PID 종료하기","level":2},{"id":"3-프로젝트-venv의-python-프로세스-전체-종료하기","text":"3. 프로젝트 venv의 Python 프로세스 전체 종료하기","level":2},{"id":"4-code-server-관련-프로세스까지-확인하기","text":"4. Code-server 관련 프로세스까지 확인하기","level":2},{"id":"5-다시-8000번으로-실행하기","text":"5. 다시 8000번으로 실행하기","level":2},{"id":"6-8001번은-되는데-8000번만-안-되는-경우","text":"6. 8001번은 되는데 8000번만 안 되는 경우","level":2},{"id":"7-마지막-수단-termux-강제-종료","text":"7. 마지막 수단: Termux 강제 종료","level":2},{"id":"정리","text":"정리","level":2},{"id":"1-이전-터미널-프로세스-확인","text":"1. 이전 터미널 프로세스 확인","level":1},{"id":"2-의심-pid-종료","text":"2. 의심 PID 종료","level":1},{"id":"3-프로젝트-venv-python-전체-종료","text":"3. 프로젝트 venv Python 전체 종료","level":1},{"id":"4-다시-실행","text":"4. 다시 실행","level":1}]}],["$","header",null,{"className":"relative overflow-hidden mx-auto w-full max-w-[74ch]","children":[false,["$","div",null,{"className":"relative flex flex-wrap items-center justify-between gap-3","children":[["$","div",null,{"className":"inline-flex items-center gap-2 rounded-[var(--radius-pill)] border border-[var(--border)] bg-[var(--background)]/60 px-3 py-1 text-[11px] font-semibold tracking-[0.08em] text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}],"POST"]}],["$","p",null,{"className":"text-[11px] tracking-wide text-[var(--text-muted)]/90","children":"it › termux-code-server-fastapi-port-8000-address-in-use"}]]}],["$","h1",null,{"className":"relative mt-4 max-w-3xl text-2xl font-bold leading-[1.24] tracking-tight text-[var(--foreground)] sm:text-3xl md:text-4xl","children":"Termux에서 FastAPI 8000번 포트가 계속 사용 중일 때 해결하기"}],["$","p",null,{"className":"relative mt-3 max-w-3xl text-[0.98rem] leading-7 text-[var(--text-muted)]","children":"Termux와 Code-server 환경에서 FastAPI/Uvicorn 서버를 실행하다가 비정상 종료된 뒤 8000번 포트가 계속 점유되는 문제의 원인과 해결 과정을 정리합니다."}],["$","div",null,{"className":"relative mt-6 flex flex-wrap items-center gap-2","children":[["$","time",null,{"dateTime":"2026-06-21T15:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":[["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--text-muted)]"}],"게시일 ","2026년 6월 22일"]}],["$","time",null,{"dateTime":"2026-06-21T15:00:00.000Z","className":"inline-flex items-center gap-2 rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)]","children":["$L3","수정일 ","2026년 6월 22일"]}],"$L4","$L5"]}],"$L6"]}],"$L7","$L8","$L9","$La"]}],["$Lb"],"$Lc"]}],"loading":null,"isPartial":false}
+3:["$","span",null,{"className":"h-1.5 w-1.5 rounded-[var(--radius-pill)] bg-[var(--accent)]"}]
+4:["$","$Ld",null,{}]
+5:["$","div",null,{"className":"flex flex-wrap gap-2","children":[["$","span","termux",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","termux"]}],["$","span","fastapi",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","fastapi"]}],["$","span","uvicorn",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","uvicorn"]}],["$","span","code-server",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","code-server"]}],["$","span","python",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","python"]}],["$","span","android",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","android"]}],["$","span","port",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","port"]}],["$","span","address-in-use",{"className":"rounded-sm border border-[var(--border)] bg-[var(--surface)] px-3 py-1 text-xs text-[var(--text-muted)] transition hover:border-[var(--primary)] hover:text-[var(--foreground)]","children":["#","address-in-use"]}]]}]
+6:["$","div",null,{"className":"relative mt-6 h-px w-full bg-[var(--border)]/70"}]
+f:T4178,<h2 id="상황" tabindex="-1" data-src-line="1">상황 <a class="header-anchor" href="#상황" aria-hidden="true">#</a></h2>
+<p>Termux 환경에서 FastAPI 또는 Uvicorn 서버를 실행하고 있었다.</p>
+<p>예를 들면 다음과 같은 방식이다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">python main.py
+</code></pre></div></code></pre>
+<p>또는 <code>main.py</code> 내부에서 다음처럼 8000번 포트를 사용하고 있었다.</p>
+<pre><code class="language-python"><div class="code-block"><div class="code-header"><span class="code-title">python</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-python"><code class="hljs language-python">uvicorn.run(
+    <span class="hljs-string">&quot;main:app&quot;</span>,
+    host=<span class="hljs-string">&quot;0.0.0.0&quot;</span>,
+    port=<span class="hljs-number">8000</span>,
+    reload=<span class="hljs-literal">False</span>,
+)
+</code></pre></div></code></pre>
+<p>그런데 서버를 정상적으로 <code>Ctrl + C</code>로 종료한 것이 아니라, <strong>Code-server 자체를 중간에 꺼버렸다.</strong></p>
+<p>그 이후 다시 서버를 실행하면 다음과 같은 오류가 발생한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ERROR:    [Errno 98] Address already <span class="hljs-keyword">in</span> use
+</code></pre></div></code></pre>
+<p>즉, 8000번 포트가 이미 사용 중이라고 나온다.</p>
+<hr>
+<h2 id="원인" tabindex="-1" data-src-line="34">원인 <a class="header-anchor" href="#원인" aria-hidden="true">#</a></h2>
+<p>이 경우 핵심은 다음과 같다.</p>
+<p><strong>Code-server 터미널 안에서 실행 중이던 Python/Uvicorn 서버 프로세스가 완전히 종료되지 않고 남아 있을 가능성이 높다.</strong></p>
+<p>흐름으로 보면 이렇다.</p>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Code-server 터미널에서 python main.py 실행
+        ↓
+FastAPI/Uvicorn 서버가 8000번 포트를 점유
+        ↓
+Ctrl + C로 정상 종료하지 않고 Code-server를 종료
+        ↓
+터미널 화면은 사라졌지만 자식 프로세스가 남을 수 있음
+        ↓
+8000번 포트가 계속 점유됨
+        ↓
+다시 python main.py 실행 시 Address already in use 발생
+</code></pre></div></code></pre>
+<p>즉, <strong>포트가 혼자 살아있는 것이 아니라, 8000번을 잡고 있는 프로세스가 어딘가에 남아 있는 상태</strong>다.</p>
+<hr>
+<h2 id="확인된-단서" tabindex="-1" data-src-line="60">확인된 단서 <a class="header-anchor" href="#확인된-단서" aria-hidden="true">#</a></h2>
+<p>프로세스 조회 결과에 이런 항목이 있었다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">u0_a438  26040 ... pts/0 ... /data/data/com.termux/files/home/workspace/my-llm-project/back/venv/bin/python ...
+</code></pre></div></code></pre>
+<p>여기서 중요한 부분은 <code>pts/0</code>이다.</p>
+<p>현재 새로 사용하는 터미널은 <code>pts/1</code>인데, 이전 Code-server 터미널이 <code>pts/0</code>였을 가능성이 있다.</p>
+<p>즉, 이전 터미널에 연결되어 있던 프로세스가 남아 있을 수 있다.</p>
+<hr>
+<h2 id="lsof로-보이지-않는-경우" tabindex="-1" data-src-line="76">lsof로 보이지 않는 경우 <a class="header-anchor" href="#lsof로-보이지-않는-경우" aria-hidden="true">#</a></h2>
+<p>보통 포트 점유 프로세스를 찾을 때는 다음 명령을 사용한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">lsof -nP -iTCP:8000
+</code></pre></div></code></pre>
+<p>하지만 Termux나 Android 환경에서는 이 명령으로 아무것도 나오지 않을 수 있다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">(venv) ➜  app git:(main) ✗ lsof -nP -iTCP:8000
+(venv) ➜  app git:(main) ✗
+</code></pre></div></code></pre>
+<p>그런데 다시 서버를 실행하면 여전히 다음 오류가 발생한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ERROR:    [Errno 98] Address already <span class="hljs-keyword">in</span> use
+</code></pre></div></code></pre>
+<p>이 경우 <code>lsof</code>에 안 보인다고 해서 포트가 비어 있다고 단정하면 안 된다.</p>
+<p>Termux 환경에서는 Android 권한이나 프로세스 소유자 문제 때문에 포트를 잡고 있는 프로세스가 제대로 표시되지 않을 수 있다.</p>
+<hr>
+<h2 id="1-이전-터미널에-붙어-있던-프로세스-찾기" tabindex="-1" data-src-line="103">1. 이전 터미널에 붙어 있던 프로세스 찾기 <a class="header-anchor" href="#1-이전-터미널에-붙어-있던-프로세스-찾기" aria-hidden="true">#</a></h2>
+<p>먼저 <code>pts/0</code>에 붙어 있는 프로세스를 확인한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ps -A -o pid,ppid,<span class="hljs-built_in">tty</span>,<span class="hljs-built_in">stat</span>,args | grep <span class="hljs-string">&#x27;pts/0&#x27;</span>
+</code></pre></div></code></pre>
+<p>만약 위 명령이 Termux에서 잘 안 되면 간단하게 확인한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ps -A | grep <span class="hljs-string">&#x27;pts/0&#x27;</span>
+</code></pre></div></code></pre>
+<p>여기서 나온 PID가 이전 Code-server 터미널에서 남은 프로세스일 수 있다.</p>
+<hr>
+<h2 id="2-해당-pid-종료하기" tabindex="-1" data-src-line="121">2. 해당 PID 종료하기 <a class="header-anchor" href="#2-해당-pid-종료하기" aria-hidden="true">#</a></h2>
+<p>예를 들어 PID가 <code>26040</code>이라면 다음처럼 종료한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">kill</span> 26040
+</code></pre></div></code></pre>
+<p>안 죽으면 강제 종료한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">kill</span> -9 26040
+</code></pre></div></code></pre>
+<p>여러 개가 나오면 한 번에 종료할 수도 있다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">kill</span> -9 PID1 PID2 PID3
+</code></pre></div></code></pre>
+<hr>
+<h2 id="3-프로젝트-venv의-python-프로세스-전체-종료하기" tabindex="-1" data-src-line="143">3. 프로젝트 venv의 Python 프로세스 전체 종료하기 <a class="header-anchor" href="#3-프로젝트-venv의-python-프로세스-전체-종료하기" aria-hidden="true">#</a></h2>
+<p>만약 어떤 프로세스가 정확히 서버인지 애매하다면, 현재 프로젝트의 가상환경 Python 프로세스를 전부 종료할 수 있다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">pkill -9 -f <span class="hljs-string">&quot;/data/data/com.termux/files/home/workspace/my-llm-project/back/venv/bin/python&quot;</span>
+</code></pre></div></code></pre>
+<p>이 명령은 현재 프로젝트의 <code>venv/bin/python</code>으로 실행 중인 프로세스를 종료한다.</p>
+<p>주의할 점은 Code-server의 Python 확장 기능, 예를 들어 Jedi language server 같은 프로세스도 같이 죽을 수 있다는 것이다.</p>
+<p>하지만 보통 큰 문제는 아니다. Code-server나 Python 파일을 다시 열면 다시 실행될 수 있다.</p>
+<hr>
+<h2 id="4-code-server-관련-프로세스까지-확인하기" tabindex="-1" data-src-line="159">4. Code-server 관련 프로세스까지 확인하기 <a class="header-anchor" href="#4-code-server-관련-프로세스까지-확인하기" aria-hidden="true">#</a></h2>
+<p>Code-server, Node, Python, Uvicorn, 이전 터미널과 관련된 프로세스를 넓게 확인하려면 다음 명령을 사용한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ps -A -o pid,ppid,<span class="hljs-built_in">tty</span>,<span class="hljs-built_in">stat</span>,args | grep -E <span class="hljs-string">&#x27;code-server|node|python|uvicorn|pts/0&#x27;</span>
+</code></pre></div></code></pre>
+<p>여기서 의심되는 PID를 찾아 종료한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-built_in">kill</span> -9 PID
+</code></pre></div></code></pre>
+<hr>
+<h2 id="5-다시-8000번으로-실행하기" tabindex="-1" data-src-line="175">5. 다시 8000번으로 실행하기 <a class="header-anchor" href="#5-다시-8000번으로-실행하기" aria-hidden="true">#</a></h2>
+<p>프로세스를 정리한 뒤 다시 실행한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">python main.py
+</code></pre></div></code></pre>
+<p>정상이라면 더 이상 다음 오류가 나오지 않아야 한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">ERROR:    [Errno 98] Address already <span class="hljs-keyword">in</span> use
+</code></pre></div></code></pre>
+<hr>
+<h2 id="6-8001번은-되는데-8000번만-안-되는-경우" tabindex="-1" data-src-line="191">6. 8001번은 되는데 8000번만 안 되는 경우 <a class="header-anchor" href="#6-8001번은-되는데-8000번만-안-되는-경우" aria-hidden="true">#</a></h2>
+<p>8001번 포트로 실행하면 정상 동작하는데 8000번만 실패한다면, 코드 문제보다는 8000번 포트 점유 문제일 가능성이 높다.</p>
+<p>예를 들어 다음 명령은 정상 실행된다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">BACKEND_HOST=127.0.0.1 BACKEND_PORT=8001 BACKEND_RELOAD=<span class="hljs-literal">false</span> python main.py
+</code></pre></div></code></pre>
+<p>하지만 8000번에서는 실패한다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash">BACKEND_HOST=127.0.0.1 BACKEND_PORT=8000 BACKEND_RELOAD=<span class="hljs-literal">false</span> python main.py
+</code></pre></div></code></pre>
+<p>이 경우 8001번으로 우회할 수도 있지만, 기존 프론트엔드나 API 호출 주소가 8000번을 바라보고 있다면 근본적으로 8000번 점유 프로세스를 정리해야 한다.</p>
+<hr>
+<h2 id="7-마지막-수단-termux-강제-종료" tabindex="-1" data-src-line="211">7. 마지막 수단: Termux 강제 종료 <a class="header-anchor" href="#7-마지막-수단-termux-강제-종료" aria-hidden="true">#</a></h2>
+<p>그래도 8000번 포트가 계속 잡혀 있다면 Android 설정에서 Termux 앱을 강제 종료한다.</p>
+<p>경로는 보통 다음과 같다.</p>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Android 설정
+→ 앱
+→ Termux
+→ 강제 종료
+</code></pre></div></code></pre>
+<p>이 방법은 Termux UID로 떠 있는 남은 프로세스를 한 번에 정리하기 때문에, 고아 프로세스가 원인일 때 가장 확실하다.</p>
+<hr>
+<h2 id="정리" tabindex="-1" data-src-line="228">정리 <a class="header-anchor" href="#정리" aria-hidden="true">#</a></h2>
+<p>이번 문제는 코드 자체의 문제라기보다는 실행 환경 문제에 가깝다.</p>
+<p>특히 다음 조건이 겹치면 자주 발생할 수 있다.</p>
+<pre><code class="language-text"><div class="code-block"><div class="code-header"><span class="code-title">plain</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-plain"><code class="hljs language-plain">Termux
++ Code-server
++ Code-server 내장 터미널
++ FastAPI/Uvicorn 서버
++ 8000번 포트
++ 정상 종료가 아닌 Code-server 강제 종료
+</code></pre></div></code></pre>
+<p>해결 순서는 다음과 같다.</p>
+<pre><code class="language-bash"><div class="code-block"><div class="code-header"><span class="code-title">bash</span><button type="button" class="copy-button" aria-label="Copy code block">Copy</button></div><pre class="language-bash"><code class="hljs language-bash"><span class="hljs-comment"># 1. 이전 터미널 프로세스 확인</span>
+ps -A -o pid,ppid,<span class="hljs-built_in">tty</span>,<span class="hljs-built_in">stat</span>,args | grep <span class="hljs-string">&#x27;pts/0&#x27;</span>
+
+<span class="hljs-comment"># 2. 의심 PID 종료</span>
+<span class="hljs-built_in">kill</span> -9 PID
+
+<span class="hljs-comment"># 3. 프로젝트 venv Python 전체 종료</span>
+pkill -9 -f <span class="hljs-string">&quot;/data/data/com.termux/files/home/workspace/my-llm-project/back/venv/bin/python&quot;</span>
+
+<span class="hljs-comment"># 4. 다시 실행</span>
+python main.py
+</code></pre></div></code></pre>
+<p>그래도 안 되면 Termux 앱 자체를 강제 종료하는 것이 가장 확실하다.</p>
+7:["$","article",null,{"className":"mt-10","children":["$","div",null,{"className":"mx-auto w-full max-w-[74ch]","children":["$","$Le",null,{"content":"$f"}]}]}]
+8:["$","section",null,{"className":"post-nav-section mx-auto mt-14 w-full max-w-[74ch] space-y-6 border-t border-[var(--border)]/70 pt-8","children":[["$","div",null,{"className":"grid gap-3 sm:grid-cols-2","children":[["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"이전 글"}],["$","$L10",null,{"href":"/post/english/english-lesson-20-pronunciation-native-expressions-review","className":"font-medium text-[var(--foreground)] hover:text-[var(--primary)]","children":"영어 20강: 발음 교정 · 원어민 표현 · 시리즈 완결 총복습"}]]}],["$","div",null,{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":[["$","p",null,{"className":"mb-2 text-xs text-[var(--text-muted)]","children":"다음 글"}],["$","p",null,{"className":"text-sm text-[var(--text-muted)]","children":"없음"}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"mb-3 text-base font-semibold tracking-tight","children":"관련 글"}],["$","ul",null,{"className":"grid gap-3 sm:grid-cols-3","children":[["$","li","it/termux-fastapi-pydantic-install-summary",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/it/termux-fastapi-pydantic-install-summary","className":"text-sm font-medium hover:text-[var(--primary)]","children":"Termux에서 FastAPI 설치 실패 해결하기 (Pydantic-core/Rust 오류)"}]}],["$","li","termux/deploy-nextjs-project-on-android",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/termux/deploy-nextjs-project-on-android","className":"text-sm font-medium hover:text-[var(--primary)]","children":"안드로이드 태블릿에서 github page에 Next.js 프로젝트 배포하기"}]}],["$","li","termux/run-nextjs-on-android",{"className":"rounded-[var(--radius-md)] border border-[var(--border)]/80 bg-[var(--surface)] p-4","children":["$","$L10",null,{"href":"/post/termux/run-nextjs-on-android","className":"text-sm font-medium hover:text-[var(--primary)]","children":"안드로이드 태블릿에서 Next.js 프로젝트 실행하기"}]}]]}]]}]]}]
+9:["$","script",null,{"dangerouslySetInnerHTML":{"__html":"\n            window.addEventListener(\"load\", () => {\n              const isPrint = new URLSearchParams(window.location.search).get(\"print\") === \"1\";\n              if (!isPrint) return;\n              const root = document.getElementById(\"post-page-root\");\n              root?.classList.add(\"print-mode\");\n              setTimeout(() => window.print(), 250);\n            });\n          "}}]
+a:["$","style",null,{"children":"\n        @media print {\n          header, nav, footer, aside, [aria-label=\"맨 위로 이동\"], .post-nav-section { display: none !important; }\n          .print-mode, .print-mode article, .print-mode [data-post-content] { max-width: 100% !important; width: 100% !important; }\n          .print-mode pre, .print-mode blockquote, .print-mode table, .print-mode img, .print-mode .code-block { break-inside: avoid; page-break-inside: avoid; }\n          .print-mode pre { white-space: pre-wrap; overflow-wrap: anywhere; }\n          .print-mode .table-scroll { overflow: visible !important; }\n          .print-mode img { max-width: 100% !important; height: auto !important; }\n        }\n      "}]
+b:["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b581b0ddd08f3771.css","precedence":"next"}]
+c:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

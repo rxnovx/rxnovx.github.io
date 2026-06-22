@@ -67,6 +67,7 @@
 <url><loc>https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-24-culture/</loc><lastmod>2026-05-06T23:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/english-advanced/english-advanced-lesson-25-review-roadmap/</loc><lastmod>2026-05-07T00:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/it/linux-kernel-7-0-announced-major-technical-shift/</loc><lastmod>2026-02-09T04:21:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/post/it/termux-code-server-fastapi-port-8000-address-in-use/</loc><lastmod>2026-06-21T15:00:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/it/termux-fastapi-pydantic-install-summary/</loc><lastmod>2026-04-13T15:00:13.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/japanese/japanese-lesson-01-hiragana-katakana/</loc><lastmod>2026-04-25T11:32:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/post/japanese/japanese-lesson-02-pronunciation/</loc><lastmod>2026-04-26T12:51:00.000Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -128,6 +129,7 @@
 <url><loc>https://rxnovx.github.io/privacy-policy/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/a-an-the/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/address-in-use/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/adjectives/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/advanced/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/adverbs/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -341,6 +343,7 @@
 <url><loc>https://rxnovx.github.io/tags/physical/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/plurals/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/politeness/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/port/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/potential-form/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/prepositions/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/present-continuous/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -455,6 +458,7 @@
 <url><loc>https://rxnovx.github.io/tags/troubleshooting/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/user/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/user-management/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/tags/uvicorn/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/verb/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/verb-conjugation/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/vi/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -505,7 +509,7 @@
 <url><loc>https://rxnovx.github.io/tags/rocky-linux/page/2/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/vocabulary/page/2/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
 <url><loc>https://rxnovx.github.io/tags/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/robots.txt/</loc><lastmod>2026-05-21T00:06:52.334Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/sitemap.xml/</loc><lastmod>2026-05-21T00:06:52.334Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://rxnovx.github.io/static/privacy/bt-shutter-remote-privacy-policy-admob/</loc><lastmod>2026-05-21T00:06:52.334Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/robots.txt/</loc><lastmod>2026-06-22T04:50:56.161Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/sitemap.xml/</loc><lastmod>2026-06-22T04:50:56.161Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://rxnovx.github.io/static/privacy/bt-shutter-remote-privacy-policy-admob/</loc><lastmod>2026-06-22T04:50:56.161Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
 </urlset>
